@@ -1,0 +1,1517 @@
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 1
+
+
+   1              		.cpu cortex-m0
+   2              		.fpu softvfp
+   3              		.eabi_attribute 20, 1
+   4              		.eabi_attribute 21, 1
+   5              		.eabi_attribute 23, 3
+   6              		.eabi_attribute 24, 1
+   7              		.eabi_attribute 25, 1
+   8              		.eabi_attribute 26, 1
+   9              		.eabi_attribute 30, 4
+  10              		.eabi_attribute 34, 0
+  11              		.eabi_attribute 18, 4
+  12              		.code	16
+  13              		.file	"UART_PM.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.797e49ea,"",%progbits
+  17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006\005\036\000\000\300\0005"
+  17      60606061 
+  17      80004606 
+  17      051E0000 
+  17      C00035
+  18              		.text
+  19              		.section	.gnu.lto_.jmpfuncs.797e49ea,"",%progbits
+  20 0000 789C6366 		.ascii	"x\234cf\300\016\270\2404\023\234\000\000\001z\000\022"
+  20      C00EB8A0 
+  20      34139C00 
+  20      00017A00 
+  20      12
+  21              		.text
+  22              		.section	.gnu.lto_.inline.797e49ea,"",%progbits
+  23 0000 789C6366 		.ascii	"x\234cf\300\016\214\2404\023\003\003'7#\003\023\327"
+  23      C00E8CA0 
+  23      34130303 
+  23      27372303 
+  23      13D7
+  24 0012 043F06B6 		.ascii	"\004?\006\266\005\362L 1F.\260\004;'P\234\355\203\036"
+  24      05F24C20 
+  24      31462EB0 
+  24      043B2750 
+  24      9CED831E 
+  25 0026 AA380300 		.ascii	"\2528\003\000s4\004\024"
+  25      73340414 
+  26              		.text
+  27              		.section	.gnu.lto_.pureconst.797e49ea,"",%progbits
+  28 0000 789C6366 		.ascii	"x\234cf```e\200\000&\006)&\011\000\000\371\000?"
+  28      60606065 
+  28      80002606 
+  28      29260900 
+  28      00F9003F 
+  29              		.text
+  30              		.section	.gnu.lto_UART_Sleep.797e49ea,"",%progbits
+  31 0000 789C6551 		.ascii	"x\234eQ\317KTQ\024>\337\271w\336\214ND\270\022\0037"
+  31      CF4B5451 
+  31      143EDFB9 
+  31      77DE8C4E 
+  31      44B81203 
+  32 0015 FD7093B6 		.ascii	"\375p\223\266\250\177 \\\010\201 Y\273\001\011\233\255"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 2
+
+
+  32      A87F205C 
+  32      08812059 
+  32      BB01099B 
+  32      AD
+  33 0026 82E472F0 		.ascii	"\202\344r\360\276\346E\021Q:\030\214d\355\252\2511-"
+  33      BEE64511 
+  33      513A188C 
+  33      64EDAAA9 
+  33      312D
+  34 0038 A528DD3C 		.ascii	"\245(\335<ZD\024\026!\026\211\250\201A\355R!y\210\351"
+  34      5A441416 
+  34      211689A8 
+  34      8141ED52 
+  34      217988E9 
+  35 004c 39EFB990 		.ascii	"9\357\271\220z\360\356}\347\273\337\371\316\367\276"
+  35      7AF0EE7D 
+  35      E7BBDFF9 
+  35      CEF7BE
+  36 005b 6BE8FFE7 		.ascii	"k\350\377\347\224\274\233 :&;R\004\036\374H\344g\230"
+  36      94BC9B20 
+  36      3A263B52 
+  36      041EFC48 
+  36      E46798
+  37 006e CD7423B9 		.ascii	"\315t#\271Z\373\345$\271\003\0066\201-\240\037\004\032"
+  37      5AFBE524 
+  37      B9030636 
+  37      812DA01F 
+  37      041A
+  38 0080 60633180 		.ascii	"`c1\200_\274\306\030\014\253\345l\323\003\347\334\357"
+  38      5FBCC618 
+  38      0CABE56C 
+  38      D303E7DC 
+  38      EF
+  39 0091 D254FDD5 		.ascii	"\322T\375\325\372\210\21168\321\307#4\221p\326\202\355"
+  39      FA888936 
+  39      38D1C723 
+  39      349170D6 
+  39      82ED
+  40 00a3 AF592F10 		.ascii	"\257Y/\020\316\241\344\014\025x2\227&\352B\267\2633"
+  40      CEA1E40C 
+  40      15783297 
+  40      26EA42B7 
+  40      B333
+  41 00b5 353BF4EE 		.ascii	"5;\364\3568\327\030\212\030V\026N\311b<Y,\321\252\360"
+  41      38D7188A 
+  41      1856164E 
+  41      C9623C59 
+  41      2CD1AAF0 
+  42 00c9 75EC0F66 		.ascii	"u\354\017f\335\315\002\336\374\271\361\266\362\022\252"
+  42      DDCD02DE 
+  42      FCB9F1B6 
+  42      F212AA
+  43 00d8 B1C946E4 		.ascii	"\261\311F\344_\255\177(\231\237\034q\312\271Qgu\342"
+  43      5FAD7F28 
+  43      999F1C71 
+  43      CAB95167 
+  43      75E2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 3
+
+
+  44 00ea F2EAA7CF 		.ascii	"\362\352\247\317\231\030\"-W\356\274\336\302=\334\365"
+  44      9918222D 
+  44      57EEBCDE 
+  44      C23DDCF5 
+  45 00fa 0344ECE1 		.ascii	"\003D\354\3411\032\360\004\015\342\243*(-\340\312\322"
+  45      311AF004 
+  45      0DE2A32A 
+  45      282DE0CA 
+  45      D2
+  46 010b B5459B08 		.ascii	"\265E\233\010Z\321\024\244XN'uJ\240\375\202b\007c\322"
+  46      5AD114A4 
+  46      584E2775 
+  46      4AA0FD82 
+  46      620763D2 
+  47 011f AB4D7B14 		.ascii	"\253M{\024ei]\372~T\001a\337\237\2735\316\205-w\335"
+  47      65695DFA 
+  47      7E540161 
+  47      DF9FBB35 
+  47      CE852D77 
+  48 0134 65224E6F 		.ascii	"e\"No\353/\357\327H\307e\305\017FcSNY\031<E\001\343"
+  48      EB2FEFD7 
+  48      48C765C5 
+  48      0F466353 
+  48      4E59193C 
+  49 014b EA4ACEFE 		.ascii	"\352J\316\376\216\335\236\364\232\253\222Xx\"\342\032"
+  49      8EDD9EF4 
+  49      9AAB9258 
+  49      7822E21A 
+  50 015b 4C08713D 		.ascii	"L\010q=N\025\317\320,#i\036\301\267bu\370\360\236\005"
+  50      4E15CFD0 
+  50      2C23691E 
+  50      C1B76275 
+  50      F8F09E05 
+  51 016f E9F11FCE 		.ascii	"\351\361\037\316\334L\253\274\244\206\347*D\032\233"
+  51      DC4CABBC 
+  51      A486E72A 
+  51      441A9B
+  52 017e A1E946B3 		.ascii	"\241\351F\263\210b8\362\376\240\222\351_\177\265\033"
+  52      886238F2 
+  52      FEA092E9 
+  52      5F7FB51B 
+  53 018e 2C778149 		.ascii	",w\201I\024$\361l\334c\343\250\227\340\207/\316\306"
+  53      1424F16C 
+  53      DC63E3A8 
+  53      97E0872F 
+  53      CEC6
+  54 01a0 3DA41701 		.ascii	"=\244\027\001E\305\304\221\226\\[\276'\337w\361r\376"
+  54      45C5C491 
+  54      965C5BBE 
+  54      27DF77F1 
+  54      72FE
+  55 01b2 5257676F 		.ascii	"RWgo\177_w>\327\321\331\333z:w\341\314\271\363]\035"
+  55      7F5F773E 
+  55      D7D1D9DB 
+  55      7A3A77E1 
+  55      CCB9F35D 
+  56 01c7 ED2DDDB4 		.ascii	"\355-\335\264\013\374K\2767"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 4
+
+
+  56      0BFC4BBE 
+  56      37
+  57              		.text
+  58              		.section	.gnu.lto_UART_Wakeup.797e49ea,"",%progbits
+  59 0000 789C654F 		.ascii	"x\234eO\277KBQ\024>\347\334\347S2\"\232\244\301%\302"
+  59      BF4B4251 
+  59      143EE7DC 
+  59      E7533222 
+  59      9AA4C125 
+  60 0015 21D4A1FE 		.ascii	"!\324\241\376\201hh\210B\2626A\302\336\252 5\212\367"
+  60      81686888 
+  60      42B23641 
+  60      C2DEAA20 
+  60      358AF7
+  61 0028 E50B1CA2 		.ascii	"\345\013\034\242\242)\350\307VY\232QA\203-\357/0BR\212"
+  61      A229E8C7 
+  61      56599A51 
+  61      41832DEF 
+  61      2F304252 
+  62 003d 7E2C06B5 		.ascii	"~,\006\265\245\016\361\010\263{\237CP\027.\347\336\357"
+  62      A50EF108 
+  62      B37B9F43 
+  62      50172EE7 
+  62      DEEF
+  63 004f 7CDFF9BE 		.ascii	"|\337\371\276\303\340\377\031\025w\012\001\206EE\007"
+  63      C3E0FF19 
+  63      15770A01 
+  63      86454507 
+  64 005f 206D9601 		.ascii	" m\226\001t\027\021+y\201\367(\325 \360^\206J\027V\020"
+  64      7417112B 
+  64      7981F728 
+  64      D520F05E 
+  64      864A1756 
+  65 0074 E50310D2 		.ascii	"\345\003\020\322\304\024L\343;5\0107\315\374\266\333"
+  65      C4144CE3 
+  65      3B350837 
+  65      CDFCB6DB 
+  66 0084 77C039FF 		.ascii	"w\3009\377h\326<\253\036\213\000Z\324\235\217G\350\003"
+  66      68D63CAB 
+  66      1E8B005A 
+  66      D49D8F47 
+  66      E803
+  67 0096 C16918ED 		.ascii	"\301i\030\355\232[5\004\247\277\333\303\034\252\302"
+  67      9A5B3504 
+  67      A7BFDBC3 
+  67      1CAAC2
+  68 00a5 17CE064C 		.ascii	"\027\316\006L\336\351\\\326\267\262A\346``\221\000\353"
+  68      DEE95CD6 
+  68      B7B241E6 
+  68      60609100 
+  68      EB
+  69 00b6 82207D5E 		.ascii	"\202 }^\211de\017\270ru^\2558\245\346\223\230\030\267"
+  69      8964650F 
+  69      B872755E 
+  69      AD38A5E6 
+  69      939818B7 
+  70 00ca 5F592F52 		.ascii	"_Y/R\352\213g\271\313\"j\313\201\002}\251\337\334\272"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 5
+
+
+  70      EA8B67B9 
+  70      CB226ACB 
+  70      81027DA9 
+  70      DFDCBA
+  71 00dd DE4820F6 		.ascii	"\336H \3667\247\033\273\270\207;:\227,\206\307\230\302"
+  71      37A71BBB 
+  71      B8873B3A 
+  71      972C86C7 
+  71      98C2
+  72 00ef 131CB47B 		.ascii	"\023\034\264{\337\205\215\013\325?b\221\202y\301i\332"
+  72      DF858D0B 
+  72      D53F6291 
+  72      8279C169 
+  72      DA
+  73 0100 71B1807E 		.ascii	"q\261\200~\270C\343>\023\377\265\322\017\257\327\234"
+  73      B843E33E 
+  73      13FFB5D2 
+  73      0FAFD79C 
+  74 0110 72A80886 		.ascii	"r\250\010\206\247R\0162\031\203\222\227=b\306|*\367"
+  74      A7520E32 
+  74      19839297 
+  74      3D62C67C 
+  74      2AF7
+  75 0122 4932FC4D 		.ascii	"I2\374M\345h\331\212\"\246\304R\252\255Q\354m\236Q7"
+  75      E568D98A 
+  75      22A6C452 
+  75      AAAD51EC 
+  75      6D9E5137 
+  76 0136 AD195B03 		.ascii	"\255\031[\003rW\224\250\360\037\012D&\265\270\226\\"
+  76      725794A8 
+  76      F01F0A44 
+  76      26B5B896 
+  76      5C
+  77 0147 58D216A3 		.ascii	"X\322\026\243\341\304r2\246EB\341\304\304Xd~|v.\032"
+  77      E1C47232 
+  77      A64542E1 
+  77      C4C45864 
+  77      7E7C762E 
+  78 015c 9A0EC4E0 		.ascii	"\232\016\304\340\007\256\312\202z"
+  78      07AECA82 
+  78      7A
+  79              		.text
+  80              		.section	.gnu.lto_.symbol_nodes.797e49ea,"",%progbits
+  81 0000 789C4DC8 		.ascii	"x\234M\310A\015\2000\024\004\321\351\376\222 \250V\320"
+  81      410D8030 
+  81      1404D1E9 
+  81      FE9220A8 
+  81      56D0
+  82 0012 B3958002 		.ascii	"\263\225\200\002\002\036\212\015TT\010M\340\320\235"
+  82      021E8A0D 
+  82      5454084D 
+  82      E0D09D
+  83 0021 D3DB0036 		.ascii	"\323\333\0006\376)\031\366\007l\216se\201KFr\232\357"
+  83      FE2919F6 
+  83      076C8E73 
+  83      65814B46 
+  83      729AEF
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 6
+
+
+  84 0034 14D6676A 		.ascii	"\024\326gj\035\314\216\2111\352w\011ez+\274f\334\024"
+  84      1DCC8E89 
+  84      31EA7709 
+  84      657A2BBC 
+  84      66DC14
+  85 0047 48       		.ascii	"H"
+  86              		.text
+  87              		.section	.gnu.lto_.refs.797e49ea,"",%progbits
+  88 0000 789C6366 		.ascii	"x\234cf``\340f\200\000F\006FFVF& \311\000\000\001\201"
+  88      6060E066 
+  88      80004606 
+  88      46465646 
+  88      2620C900 
+  89 0017 001C     		.ascii	"\000\034"
+  90              		.text
+  91              		.section	.gnu.lto_.decls.797e49ea,"",%progbits
+  92 0000 789C8D94 		.ascii	"x\234\215\224}LSW\024\300\337y\227\226\362\350\200\214"
+  92      7D4C5357 
+  92      14C0DF79 
+  92      9796F2E8 
+  92      808C
+  93 0012 044DFF2A 		.ascii	"\004M\377*\2224\333B0\321\305\370\337T\\\\b\266\020"
+  93      9234DB42 
+  93      30D1C5F8 
+  93      DF545C5C 
+  93      62B610
+  94 0025 816CC948 		.ascii	"\201l\311H\010\262\227\315H(a%\213\331\037\273@\220"
+  94      08B297CD 
+  94      48286125 
+  94      8BD91FBB 
+  94      4090
+  95 0037 66210C18 		.ascii	"f!\014\030(\272\205\025\001\005\204R@a|h\213\016\304"
+  95      28BA8515 
+  95      01058452 
+  95      40617C68 
+  95      8B0EC4
+  96 004a 319DCA47 		.ascii	"1\235\312G\347\346\034l\222\241\213\261D\263\310\310"
+  96      E7E61C6C 
+  96      92A18BB1 
+  96      44B3C8C8 
+  97 005a ECCE3DEF 		.ascii	"\354\316=\357\225\326\371\021or\332{\336;\347w\316="
+  97      95D6F911 
+  97      6F72DA7B 
+  97      DE3BE777 
+  97      CE3D
+  98 006c E7BCCB24 		.ascii	"\347\274\313$I\272\205\022\3045c\220\244y\3343\224\014"
+  98      49BA8512 
+  98      C4356390 
+  98      A479DC33 
+  98      940C
+  99 007e 29BCA250 		.ascii	")\274\242P\272P\334(\036\224>\024@\031\223\036_\302"
+  99      BA50DC28 
+  99      1E943E14 
+  99      4019931E 
+  99      5FC2
+ 100 0090 C6ACFB26 		.ascii	"\306\254\373&\243L\240L\242$\241\314\242\314\240\314"
+ 100      A34CA04C 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 7
+
+
+ 100      A224A1CC 
+ 100      A2CCA0CC 
+ 101 00a0 A19C4119 		.ascii	"\241\234A\031D\361\243t\350\254a\024Ygx\236\301\027"
+ 101      44F1A374 
+ 101      E8AC6114 
+ 101      5967789E 
+ 101      C117
+ 102 00b2 F1A3757E 		.ascii	"\361\243u~\322\013\260\334\317\311uY\206\251\337\037"
+ 102      D20BB0DC 
+ 102      CFC97559 
+ 102      86A9DF1F 
+ 103 00c2 DE372FC9 		.ascii	"\3367/\311\020\247$\010\365\250\177\361\001C\325\254"
+ 103      10A72408 
+ 103      F5A87FF1 
+ 103      0143D5AC 
+ 104 00d2 C8421D58 		.ascii	"\310B\035X\371\273\307\270\256\201\213U\316\023d\310"
+ 104      F9BBC7B8 
+ 104      AE818B55 
+ 104      CE1364C8 
+ 105 00e2 48821360 		.ascii	"H\202\023`\201v\260 \261\003\326\341\357\373Q\032\351"
+ 105      8176B020 
+ 105      B103D6E1 
+ 105      EFFB511A 
+ 105      E9
+ 106 00f3 D19FADE3 		.ascii	"\321\237\255\343\012\223A\354[\032\027f\224\324N\364"
+ 106      0A9341EC 
+ 106      5B1A1766 
+ 106      94D44EF4 
+ 107 0103 7272DF12 		.ascii	"rr\337\022\204\303-\237\274S\021km\342.O\240\253\357"
+ 107      84C32D9F 
+ 107      BC53116B 
+ 107      6DE22E4F 
+ 107      A0ABEF
+ 108 0116 203BC25D 		.ascii	" ;\302]\245\374Q0\010\004\203N`p\022R\205\255\330\223"
+ 108      A5FC5130 
+ 108      0804834E 
+ 108      60701252 
+ 108      85ADD893 
+ 109 012a 13748115 		.ascii	"\023t\201\025\035\027\273O\334\216c[\211~\314?\3501"
+ 109      1D17BB4F 
+ 109      DC8E635B 
+ 109      897ECC3F 
+ 109      E831
+ 110 013c 11C4E56D 		.ascii	"\021\304\345m3\266s_0\370\006\371wG\370w\207\374\335"
+ 110      33B6735F 
+ 110      30F806F9 
+ 110      7747F877 
+ 110      87FCDD
+ 111 014f E47FBCAE 		.ascii	"\344\177\274\256\364\366Kl'\371\317\256N\017\307\241"
+ 111      F4F64B6C 
+ 111      27F9CFAE 
+ 111      4E0FC7A1 
+ 112 015f FF3CF734 		.ascii	"\377<\3674\375\361\311\021\336\034\231CO\004\243'\304"
+ 112      FDF1C911 
+ 112      DE1C9943 
+ 112      4F04A327 
+ 112      C4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 8
+
+
+ 113 0170 F010A377 		.ascii	"\360\020\243wi\341.cvbLt^;k \206\353\327\226\203\326"
+ 113      69E12E63 
+ 113      76624C74 
+ 113      5E3B6B20 
+ 113      86EBD796 
+ 114 0186 88247A23 		.ascii	"\210$z#\000\275!@\037\001:K\333\032\200}J\2009oe\245"
+ 114      00BD2140 
+ 114      1F013A4B 
+ 114      DB1A807D 
+ 114      4A80396F 
+ 115 019c 89550329 		.ascii	"\211U\003)\245\307G\252\242\261\354I\012U\251z\352\350"
+ 115      A5C747AA 
+ 115      A2B1EC49 
+ 115      0A55A97A 
+ 115      EAE8
+ 116 01ae 18233528 		.ascii	"\030#5(^\313\327\257\327\2570PlN\316\313x\240\216\263"
+ 116      5ECBD7AF 
+ 116      D7AF3050 
+ 116      6C4ECECB 
+ 116      78A08EB3 
+ 117 01c2 F512A45A 		.ascii	"\365\022\244Z\340U\213\004\337\202\015\315( \234\306"
+ 117      E0558B04 
+ 117      DF820DCD 
+ 117      28209CC6 
+ 118 01d2 CE0C6067 		.ascii	"\316\014`gZ\261\356\201\256\012\367\356r\276\015\006"
+ 118      5AB1EE81 
+ 118      AE0AF7EE 
+ 118      72BE0D06 
+ 119 01e2 4181536B 		.ascii	"A\201Sk)Q\004\275\027^\367t\243\211\015P\006\254\372"
+ 119      295104BD 
+ 119      175EF774 
+ 119      A3890D50 
+ 119      06ACFA
+ 120 01f5 7EE9783C 		.ascii	"~\351x<lH\264\2710F\240\351\374\275\367\226\313x\325"
+ 120      6C48B4B9 
+ 120      3046A0E9 
+ 120      FCBDF796 
+ 120      CB78D5
+ 121 0208 7A721F42 		.ascii	"zr\037B\367\021H\014\205|E\364\3765\374\221j\305\\\004"
+ 121      F711480C 
+ 121      857C45F4 
+ 121      FE35FC91 
+ 121      6AC55C04 
+ 122 021c CA304A28 		.ascii	"\3120J(\037\211\0141\026\214bb\303\260\201\202\211\204"
+ 122      1F890C31 
+ 122      168C6262 
+ 122      C3B08182 
+ 122      8984
+ 123 022e E6475B8C 		.ascii	"\346G[\214\034\304k)T\236P&\362\364\227m\355\012$\332"
+ 123      1CC46B29 
+ 123      549E5026 
+ 123      F2F4976D 
+ 123      ED0A24DA 
+ 124 0242 9EE4C159 		.ascii	"\236\344\301Y\304<\023\351\3157\301\031|\331\037>\237"
+ 124      C43C13E9 
+ 124      CD37C119 
+ 124      7CD91F3E 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 9
+
+
+ 124      9F
+ 125 0253 E0870E78 		.ascii	"\340\207\016x\347\206\277>\236\235\323J\\_\273z3v\313"
+ 125      E786BF3E 
+ 125      9E9DD34A 
+ 125      5C5FBB7A 
+ 125      3376CB
+ 126 0266 29EE7469 		.ascii	")\356ti>\010\022\005\243i\255\012\316\306\2454s\227"
+ 126      3E081205 
+ 126      A369AD0A 
+ 126      CEC6A534 
+ 126      7397
+ 127 0278 2BD035BC 		.ascii	"+\3205\274\000\207\261\251\234\213v\222\241W\203\257"
+ 127      0087B1A9 
+ 127      9C8B7692 
+ 127      A15783AF 
+ 128 0288 1DD02B7A 		.ascii	"\035\320+z\012>\330\"\301\030\244\240\373\220\373\301"
+ 128      0A3ED822 
+ 128      C118A4A0 
+ 128      FB90FBC1 
+ 129 0298 A558FA84 		.ascii	"\245X\372\204\254\2026\\7\331h\244O(J\024\266\356\237"
+ 129      AC82365C 
+ 129      37D968A4 
+ 129      4F284A14 
+ 129      B6EE9F
+ 130 02ab 7B5764B0 		.ascii	"{Wd\260X\224F\374\026\036\342\005\363Y\220\301\004("
+ 130      589446FC 
+ 130      161EE205 
+ 130      F35990C1 
+ 130      0428
+ 131 02bd 92D07DCE 		.ascii	"\222\320}\316\332c;\235\377\212{'\370E4=v\212\032\324"
+ 131      DA633B9D 
+ 131      FF8A7B27 
+ 131      F845343D 
+ 131      768A1AD4 
+ 132 02d1 94F398B7 		.ascii	"\224\363\230\267$8\207\015=O\237\232x#\3018\352\337"
+ 132      2438870D 
+ 132      3D4F9F9A 
+ 132      7823C138 
+ 132      EADF
+ 133 02e3 A12E548C 		.ascii	"\241.T\214t\370\320\324\327\321\3542\235/\252\271\342"
+ 133      74F8D0D4 
+ 133      D7D1EC32 
+ 133      9D2FAAB9 
+ 133      E2
+ 134 02f4 D02F2688 		.ascii	"\320/&\210\261\330,\2254%e5\011\341*~\217\225\233\204"
+ 134      B1D82C95 
+ 134      34256535 
+ 134      09E12A7E 
+ 134      8F959B84 
+ 135 0308 18445C44 		.ascii	"\030D\\D\304\024\"\032\271\211\236\264\3227\272M\354"
+ 135      C414221A 
+ 135      B9899EB4 
+ 135      D237BA4D 
+ 135      EC
+ 136 0319 E1823EAD 		.ascii	"\341\202>\255\332\022\371i6\342\007\3039\353\006\376"
+ 136      DA12F969 
+ 136      36E207C3 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 10
+
+
+ 136      39EB06FE 
+ 137 0329 32B099C7 		.ascii	"2\260\231\307'6Y\233\330\337\276Zi\215!U\034%^<Z\370"
+ 137      2736599B 
+ 137      D8DFBE5A 
+ 137      698D2155 
+ 137      1C255E3C 
+ 138 033f C93F1ACD 		.ascii	"\311?\032\315~&s\371n}Y0\026l\2126\232\343\332h^\305"
+ 138      7E2673F9 
+ 138      6E7D5930 
+ 138      166C8A36 
+ 138      9AE3DA68 
+ 139 0355 D9FA31DC 		.ascii	"\331\3721\334\272d}4i\312\377W\001\270\202'H\326\347"
+ 139      BA647D34 
+ 139      69CAFF57 
+ 139      01B88227 
+ 139      48D6E7
+ 140 0368 FC123EBC 		.ascii	"\374\022>\274\254\265n\250\341\352\005Eq\212\333\351"
+ 140      ACB56EA8 
+ 140      E1EA0545 
+ 140      718ADBE9 
+ 141 0378 C53C645F 		.ascii	"\305<d_\177\315\252Y\317d\276\252\277U\346<\012f0\223"
+ 141      7FCDAA59 
+ 141      CF64BEAA 
+ 141      BF55E63C 
+ 141      0A663093 
+ 142 038c 1FC2995C 		.ascii	"\037\302\231\\\203p*O\202\247\237\236\312\342\255oV"
+ 142      83702A4F 
+ 142      82A79F9E 
+ 142      CAE2AD6F 
+ 142      56
+ 143 039d 8DE6CFD7 		.ascii	"\215\346\317\327\222'h\270\203\263`\246\233\000\377"
+ 143      922768B8 
+ 143      83B360A6 
+ 143      9B00FF
+ 144 03ac D178FE66 		.ascii	"\321x\376fy\207!\322XLZ\330xN7\236#\343\033\027G\374"
+ 144      798721D2 
+ 144      584C5AD8 
+ 144      784E379E 
+ 144      23E31B17 
+ 145 03c2 4AA4B1B8 		.ascii	"J\244\261\270f\302\306~0\207\022\307\255\244do\337\223"
+ 145      66C2C67E 
+ 145      308712C7 
+ 145      ADA4646F 
+ 145      DF93
+ 146 03d4 959B59A0 		.ascii	"\225\233Y\240\252E\306]\357d[\323\245\224\264\234]j"
+ 146      AA45C65D 
+ 146      EF645BD3 
+ 146      A594B49C 
+ 146      5D6A
+ 147 03e6 A15A9CE7 		.ascii	"\241Z\234\347P?\310\315\264\227\024\347\2539\031\231"
+ 147      503FC8CD 
+ 147      B49714E7 
+ 147      AB391999 
+ 148 03f6 F6F4D773 		.ascii	"\366\364\327s\3104\343\355\264|)\226\266\357\346\355"
+ 148      C834E3ED 
+ 148      B47C2996 
+ 148      B6EFE6ED 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 11
+
+
+ 149 0406 574B8A62 		.ascii	"WK\212b4\202\303^d}\256g\332G\272\333\233\205y{\013"
+ 149      3482C35E 
+ 149      647DAE67 
+ 149      DA47BADB 
+ 149      9B85797B 
+ 150 041b D49769BF 		.ascii	"\324\227i\277c{\372\356\354\214\334\314\254=\331\351"
+ 150      637BFAEE 
+ 150      EC8CDCCC 
+ 150      AC3DD9E9 
+ 151 042b 5986927D 		.ascii	"Y\206\222}\205\216\255\311Ogl\314?\3408P\244~,0*\021"
+ 151      858EADC9 
+ 151      4F676CCC 
+ 151      3FE03850 
+ 151      A47E2C30 
+ 152 0441 321D68A4 		.ascii	"2\035h\244!\367\346\345\357/)2\344\356\260\333\013\014"
+ 152      21F7E6E5 
+ 152      EF2F2932 
+ 152      E4EEB0DB 
+ 152      0B0C
+ 153 0453 C5EA879B 		.ascii	"\305\352\207\2337\031\005k\363\246\377\000(\335)C"
+ 153      3719056B 
+ 153      F3A6FF00 
+ 153      28DD2943 
+ 154              		.text
+ 155              		.section	.gnu.lto_.symtab.797e49ea,"",%progbits
+ 156 0000 55415254 		.ascii	"UART_Sleep\000\000\000\000\000\000\000\000\000\000\000"
+ 156      5F536C65 
+ 156      65700000 
+ 156      00000000 
+ 156      00000000 
+ 157 0015 00AC0000 		.ascii	"\000\254\000\000\000UART_backup\000\000\000\000\000"
+ 157      00554152 
+ 157      545F6261 
+ 157      636B7570 
+ 157      00000000 
+ 158 002a 00000000 		.ascii	"\000\000\000\000\000\000\000\301\000\000\000UART_Wa"
+ 158      000000C1 
+ 158      00000055 
+ 158      4152545F 
+ 158      5761
+ 159 003c 6B657570 		.ascii	"keup\000\000\000\000\000\000\000\000\000\000\000\000"
+ 159      00000000 
+ 159      00000000 
+ 159      00000000 
+ 160 004c AE000000 		.ascii	"\256\000\000\000UART_Stop\000\000\002\000\000\000\000"
+ 160      55415254 
+ 160      5F53746F 
+ 160      70000002 
+ 160      00000000 
+ 161 0060 00000000 		.ascii	"\000\000\000\000\000\260\000\000\000UART_Enable\000"
+ 161      00B00000 
+ 161      00554152 
+ 161      545F456E 
+ 161      61626C65 
+ 162 0075 00020000 		.ascii	"\000\002\000\000\000\000\000\000\000\000\000\262\000"
+ 162      00000000 
+ 162      000000B2 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 12
+
+
+ 162      00
+ 163 0082 0000     		.ascii	"\000\000"
+ 164              		.text
+ 165              		.section	.gnu.lto_.opts,"",%progbits
+ 166 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
+ 166      6F2D7472 
+ 166      61707627 
+ 166      20272D6D 
+ 166      6370753D 
+ 167 0033 20272D57 		.ascii	" '-Werror' '-ffunction-sections' '-finline-function"
+ 167      6572726F 
+ 167      72272027 
+ 167      2D666675 
+ 167      6E637469 
+ 168 0066 73272027 		.ascii	"s' '-flto' '-ffat-lto-objects' '-fno-strict-aliasin"
+ 168      2D666C74 
+ 168      6F272027 
+ 168      2D666661 
+ 168      742D6C74 
+ 169 0099 672700   		.ascii	"g'\000"
+ 170              		.text
+ 171              		.cfi_sections	.debug_frame
+ 172              		.section	.text.UART_Sleep,"ax",%progbits
+ 173              		.align	1
+ 174              		.global	UART_Sleep
+ 175              		.code	16
+ 176              		.thumb_func
+ 177              		.type	UART_Sleep, %function
+ 178              	UART_Sleep:
+ 179              	.LFB0:
+ 180              		.file 1 ".\\Generated_Source\\PSoC4\\UART_PM.c"
+   1:.\Generated_Source\PSoC4/UART_PM.c **** /***************************************************************************//**
+   2:.\Generated_Source\PSoC4/UART_PM.c **** * \file UART_PM.c
+   3:.\Generated_Source\PSoC4/UART_PM.c **** * \version 3.20
+   4:.\Generated_Source\PSoC4/UART_PM.c **** *
+   5:.\Generated_Source\PSoC4/UART_PM.c **** * \brief
+   6:.\Generated_Source\PSoC4/UART_PM.c **** *  This file provides the source code to the Power Management support for
+   7:.\Generated_Source\PSoC4/UART_PM.c **** *  the SCB Component.
+   8:.\Generated_Source\PSoC4/UART_PM.c **** *
+   9:.\Generated_Source\PSoC4/UART_PM.c **** * Note:
+  10:.\Generated_Source\PSoC4/UART_PM.c **** *
+  11:.\Generated_Source\PSoC4/UART_PM.c **** ********************************************************************************
+  12:.\Generated_Source\PSoC4/UART_PM.c **** * \copyright
+  13:.\Generated_Source\PSoC4/UART_PM.c **** * Copyright 2013-2016, Cypress Semiconductor Corporation.  All rights reserved.
+  14:.\Generated_Source\PSoC4/UART_PM.c **** * You may use this file only in accordance with the license, terms, conditions,
+  15:.\Generated_Source\PSoC4/UART_PM.c **** * disclaimers, and limitations in the end user license agreement accompanying
+  16:.\Generated_Source\PSoC4/UART_PM.c **** * the software package with which this file was provided.
+  17:.\Generated_Source\PSoC4/UART_PM.c **** *******************************************************************************/
+  18:.\Generated_Source\PSoC4/UART_PM.c **** 
+  19:.\Generated_Source\PSoC4/UART_PM.c **** #include "UART.h"
+  20:.\Generated_Source\PSoC4/UART_PM.c **** #include "UART_PVT.h"
+  21:.\Generated_Source\PSoC4/UART_PM.c **** 
+  22:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_I2C_INC)
+  23:.\Generated_Source\PSoC4/UART_PM.c ****     #include "UART_I2C_PVT.h"
+  24:.\Generated_Source\PSoC4/UART_PM.c **** #endif /* (UART_SCB_MODE_I2C_INC) */
+  25:.\Generated_Source\PSoC4/UART_PM.c **** 
+  26:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_EZI2C_INC)
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 13
+
+
+  27:.\Generated_Source\PSoC4/UART_PM.c ****     #include "UART_EZI2C_PVT.h"
+  28:.\Generated_Source\PSoC4/UART_PM.c **** #endif /* (UART_SCB_MODE_EZI2C_INC) */
+  29:.\Generated_Source\PSoC4/UART_PM.c **** 
+  30:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_SPI_INC || UART_SCB_MODE_UART_INC)
+  31:.\Generated_Source\PSoC4/UART_PM.c ****     #include "UART_SPI_UART_PVT.h"
+  32:.\Generated_Source\PSoC4/UART_PM.c **** #endif /* (UART_SCB_MODE_SPI_INC || UART_SCB_MODE_UART_INC) */
+  33:.\Generated_Source\PSoC4/UART_PM.c **** 
+  34:.\Generated_Source\PSoC4/UART_PM.c **** 
+  35:.\Generated_Source\PSoC4/UART_PM.c **** /***************************************
+  36:.\Generated_Source\PSoC4/UART_PM.c **** *   Backup Structure declaration
+  37:.\Generated_Source\PSoC4/UART_PM.c **** ***************************************/
+  38:.\Generated_Source\PSoC4/UART_PM.c **** 
+  39:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_UNCONFIG_CONST_CFG || \
+  40:.\Generated_Source\PSoC4/UART_PM.c ****    (UART_SCB_MODE_I2C_CONST_CFG   && (!UART_I2C_WAKE_ENABLE_CONST))   || \
+  41:.\Generated_Source\PSoC4/UART_PM.c ****    (UART_SCB_MODE_EZI2C_CONST_CFG && (!UART_EZI2C_WAKE_ENABLE_CONST)) || \
+  42:.\Generated_Source\PSoC4/UART_PM.c ****    (UART_SCB_MODE_SPI_CONST_CFG   && (!UART_SPI_WAKE_ENABLE_CONST))   || \
+  43:.\Generated_Source\PSoC4/UART_PM.c ****    (UART_SCB_MODE_UART_CONST_CFG  && (!UART_UART_WAKE_ENABLE_CONST)))
+  44:.\Generated_Source\PSoC4/UART_PM.c **** 
+  45:.\Generated_Source\PSoC4/UART_PM.c ****     UART_BACKUP_STRUCT UART_backup =
+  46:.\Generated_Source\PSoC4/UART_PM.c ****     {
+  47:.\Generated_Source\PSoC4/UART_PM.c ****         0u, /* enableState */
+  48:.\Generated_Source\PSoC4/UART_PM.c ****     };
+  49:.\Generated_Source\PSoC4/UART_PM.c **** #endif
+  50:.\Generated_Source\PSoC4/UART_PM.c **** 
+  51:.\Generated_Source\PSoC4/UART_PM.c **** 
+  52:.\Generated_Source\PSoC4/UART_PM.c **** /*******************************************************************************
+  53:.\Generated_Source\PSoC4/UART_PM.c **** * Function Name: UART_Sleep
+  54:.\Generated_Source\PSoC4/UART_PM.c **** ****************************************************************************//**
+  55:.\Generated_Source\PSoC4/UART_PM.c **** *
+  56:.\Generated_Source\PSoC4/UART_PM.c **** *  Prepares the UART component to enter Deep Sleep.
+  57:.\Generated_Source\PSoC4/UART_PM.c **** *  The “Enable wakeup from Deep Sleep Mode” selection has an influence on this 
+  58:.\Generated_Source\PSoC4/UART_PM.c **** *  function implementation:
+  59:.\Generated_Source\PSoC4/UART_PM.c **** *  - Checked: configures the component to be wakeup source from Deep Sleep.
+  60:.\Generated_Source\PSoC4/UART_PM.c **** *  - Unchecked: stores the current component state (enabled or disabled) and 
+  61:.\Generated_Source\PSoC4/UART_PM.c **** *    disables the component. See SCB_Stop() function for details about component 
+  62:.\Generated_Source\PSoC4/UART_PM.c **** *    disabling.
+  63:.\Generated_Source\PSoC4/UART_PM.c **** *
+  64:.\Generated_Source\PSoC4/UART_PM.c **** *  Call the UART_Sleep() function before calling the 
+  65:.\Generated_Source\PSoC4/UART_PM.c **** *  CyPmSysDeepSleep() function. 
+  66:.\Generated_Source\PSoC4/UART_PM.c **** *  Refer to the PSoC Creator System Reference Guide for more information about 
+  67:.\Generated_Source\PSoC4/UART_PM.c **** *  power management functions and Low power section of this document for the 
+  68:.\Generated_Source\PSoC4/UART_PM.c **** *  selected mode.
+  69:.\Generated_Source\PSoC4/UART_PM.c **** *
+  70:.\Generated_Source\PSoC4/UART_PM.c **** *  This function should not be called before entering Sleep.
+  71:.\Generated_Source\PSoC4/UART_PM.c **** *
+  72:.\Generated_Source\PSoC4/UART_PM.c **** *******************************************************************************/
+  73:.\Generated_Source\PSoC4/UART_PM.c **** void UART_Sleep(void)
+  74:.\Generated_Source\PSoC4/UART_PM.c **** {
+ 181              		.loc 1 74 0
+ 182              		.cfi_startproc
+ 183 0000 08B5     		push	{r3, lr}
+ 184              		.cfi_def_cfa_offset 8
+ 185              		.cfi_offset 3, -8
+ 186              		.cfi_offset 14, -4
+  75:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_UNCONFIG_CONST_CFG)
+  76:.\Generated_Source\PSoC4/UART_PM.c **** 
+  77:.\Generated_Source\PSoC4/UART_PM.c ****     if(UART_SCB_WAKE_ENABLE_CHECK)
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 14
+
+
+  78:.\Generated_Source\PSoC4/UART_PM.c ****     {
+  79:.\Generated_Source\PSoC4/UART_PM.c ****         if(UART_SCB_MODE_I2C_RUNTM_CFG)
+  80:.\Generated_Source\PSoC4/UART_PM.c ****         {
+  81:.\Generated_Source\PSoC4/UART_PM.c ****             UART_I2CSaveConfig();
+  82:.\Generated_Source\PSoC4/UART_PM.c ****         }
+  83:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_EZI2C_RUNTM_CFG)
+  84:.\Generated_Source\PSoC4/UART_PM.c ****         {
+  85:.\Generated_Source\PSoC4/UART_PM.c ****             UART_EzI2CSaveConfig();
+  86:.\Generated_Source\PSoC4/UART_PM.c ****         }
+  87:.\Generated_Source\PSoC4/UART_PM.c ****     #if(!UART_CY_SCBIP_V1)
+  88:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_SPI_RUNTM_CFG)
+  89:.\Generated_Source\PSoC4/UART_PM.c ****         {
+  90:.\Generated_Source\PSoC4/UART_PM.c ****             UART_SpiSaveConfig();
+  91:.\Generated_Source\PSoC4/UART_PM.c ****         }
+  92:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_UART_RUNTM_CFG)
+  93:.\Generated_Source\PSoC4/UART_PM.c ****         {
+  94:.\Generated_Source\PSoC4/UART_PM.c ****             UART_UartSaveConfig();
+  95:.\Generated_Source\PSoC4/UART_PM.c ****         }
+  96:.\Generated_Source\PSoC4/UART_PM.c ****     #endif /* (!UART_CY_SCBIP_V1) */
+  97:.\Generated_Source\PSoC4/UART_PM.c ****         else
+  98:.\Generated_Source\PSoC4/UART_PM.c ****         {
+  99:.\Generated_Source\PSoC4/UART_PM.c ****             /* Unknown mode */
+ 100:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 101:.\Generated_Source\PSoC4/UART_PM.c ****     }
+ 102:.\Generated_Source\PSoC4/UART_PM.c ****     else
+ 103:.\Generated_Source\PSoC4/UART_PM.c ****     {
+ 104:.\Generated_Source\PSoC4/UART_PM.c ****         UART_backup.enableState = (uint8) UART_GET_CTRL_ENABLED;
+ 105:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 106:.\Generated_Source\PSoC4/UART_PM.c ****         if(0u != UART_backup.enableState)
+ 107:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 108:.\Generated_Source\PSoC4/UART_PM.c ****             UART_Stop();
+ 109:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 110:.\Generated_Source\PSoC4/UART_PM.c ****     }
+ 111:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 112:.\Generated_Source\PSoC4/UART_PM.c **** #else
+ 113:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 114:.\Generated_Source\PSoC4/UART_PM.c ****     #if (UART_SCB_MODE_I2C_CONST_CFG && UART_I2C_WAKE_ENABLE_CONST)
+ 115:.\Generated_Source\PSoC4/UART_PM.c ****         UART_I2CSaveConfig();
+ 116:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 117:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_EZI2C_CONST_CFG && UART_EZI2C_WAKE_ENABLE_CONST)
+ 118:.\Generated_Source\PSoC4/UART_PM.c ****         UART_EzI2CSaveConfig();
+ 119:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 120:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_SPI_CONST_CFG && UART_SPI_WAKE_ENABLE_CONST)
+ 121:.\Generated_Source\PSoC4/UART_PM.c ****         UART_SpiSaveConfig();
+ 122:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 123:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_UART_CONST_CFG && UART_UART_WAKE_ENABLE_CONST)
+ 124:.\Generated_Source\PSoC4/UART_PM.c ****         UART_UartSaveConfig();
+ 125:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 126:.\Generated_Source\PSoC4/UART_PM.c ****     #else
+ 127:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 128:.\Generated_Source\PSoC4/UART_PM.c ****         UART_backup.enableState = (uint8) UART_GET_CTRL_ENABLED;
+ 187              		.loc 1 128 0
+ 188 0002 044B     		ldr	r3, .L7
+ 189 0004 044A     		ldr	r2, .L7+4
+ 190 0006 1B68     		ldr	r3, [r3]
+ 191 0008 DB0F     		lsr	r3, r3, #31
+ 192 000a 1370     		strb	r3, [r2]
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 15
+
+
+ 129:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 130:.\Generated_Source\PSoC4/UART_PM.c ****         if(0u != UART_backup.enableState)
+ 193              		.loc 1 130 0
+ 194 000c 01D0     		beq	.L1
+ 131:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 132:.\Generated_Source\PSoC4/UART_PM.c ****             UART_Stop();
+ 195              		.loc 1 132 0
+ 196 000e FFF7FEFF 		bl	UART_Stop
+ 197              	.LVL0:
+ 198              	.L1:
+ 133:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 134:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 135:.\Generated_Source\PSoC4/UART_PM.c ****     #endif /* defined (UART_SCB_MODE_I2C_CONST_CFG) && (UART_I2C_WAKE_ENABLE_CONST) */
+ 136:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 137:.\Generated_Source\PSoC4/UART_PM.c **** #endif /* (UART_SCB_MODE_UNCONFIG_CONST_CFG) */
+ 138:.\Generated_Source\PSoC4/UART_PM.c **** }
+ 199              		.loc 1 138 0
+ 200              		@ sp needed
+ 201 0012 08BD     		pop	{r3, pc}
+ 202              	.L8:
+ 203              		.align	2
+ 204              	.L7:
+ 205 0014 00000740 		.word	1074200576
+ 206 0018 00000000 		.word	.LANCHOR0
+ 207              		.cfi_endproc
+ 208              	.LFE0:
+ 209              		.size	UART_Sleep, .-UART_Sleep
+ 210              		.section	.text.UART_Wakeup,"ax",%progbits
+ 211              		.align	1
+ 212              		.global	UART_Wakeup
+ 213              		.code	16
+ 214              		.thumb_func
+ 215              		.type	UART_Wakeup, %function
+ 216              	UART_Wakeup:
+ 217              	.LFB1:
+ 139:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 140:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 141:.\Generated_Source\PSoC4/UART_PM.c **** /*******************************************************************************
+ 142:.\Generated_Source\PSoC4/UART_PM.c **** * Function Name: UART_Wakeup
+ 143:.\Generated_Source\PSoC4/UART_PM.c **** ****************************************************************************//**
+ 144:.\Generated_Source\PSoC4/UART_PM.c **** *
+ 145:.\Generated_Source\PSoC4/UART_PM.c **** *  Prepares the UART component for Active mode operation after 
+ 146:.\Generated_Source\PSoC4/UART_PM.c **** *  Deep Sleep.
+ 147:.\Generated_Source\PSoC4/UART_PM.c **** *  The “Enable wakeup from Deep Sleep Mode” selection has influence on this 
+ 148:.\Generated_Source\PSoC4/UART_PM.c **** *  function implementation:
+ 149:.\Generated_Source\PSoC4/UART_PM.c **** *  - Checked: restores the component Active mode configuration.
+ 150:.\Generated_Source\PSoC4/UART_PM.c **** *  - Unchecked: enables the component if it was enabled before enter Deep Sleep.
+ 151:.\Generated_Source\PSoC4/UART_PM.c **** *
+ 152:.\Generated_Source\PSoC4/UART_PM.c **** *  This function should not be called after exiting Sleep.
+ 153:.\Generated_Source\PSoC4/UART_PM.c **** *
+ 154:.\Generated_Source\PSoC4/UART_PM.c **** *  \sideeffect
+ 155:.\Generated_Source\PSoC4/UART_PM.c **** *   Calling the UART_Wakeup() function without first calling the 
+ 156:.\Generated_Source\PSoC4/UART_PM.c **** *   UART_Sleep() function may produce unexpected behavior.
+ 157:.\Generated_Source\PSoC4/UART_PM.c **** *
+ 158:.\Generated_Source\PSoC4/UART_PM.c **** *******************************************************************************/
+ 159:.\Generated_Source\PSoC4/UART_PM.c **** void UART_Wakeup(void)
+ 160:.\Generated_Source\PSoC4/UART_PM.c **** {
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 16
+
+
+ 218              		.loc 1 160 0
+ 219              		.cfi_startproc
+ 220 0000 08B5     		push	{r3, lr}
+ 221              		.cfi_def_cfa_offset 8
+ 222              		.cfi_offset 3, -8
+ 223              		.cfi_offset 14, -4
+ 161:.\Generated_Source\PSoC4/UART_PM.c **** #if(UART_SCB_MODE_UNCONFIG_CONST_CFG)
+ 162:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 163:.\Generated_Source\PSoC4/UART_PM.c ****     if(UART_SCB_WAKE_ENABLE_CHECK)
+ 164:.\Generated_Source\PSoC4/UART_PM.c ****     {
+ 165:.\Generated_Source\PSoC4/UART_PM.c ****         if(UART_SCB_MODE_I2C_RUNTM_CFG)
+ 166:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 167:.\Generated_Source\PSoC4/UART_PM.c ****             UART_I2CRestoreConfig();
+ 168:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 169:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_EZI2C_RUNTM_CFG)
+ 170:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 171:.\Generated_Source\PSoC4/UART_PM.c ****             UART_EzI2CRestoreConfig();
+ 172:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 173:.\Generated_Source\PSoC4/UART_PM.c ****     #if(!UART_CY_SCBIP_V1)
+ 174:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_SPI_RUNTM_CFG)
+ 175:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 176:.\Generated_Source\PSoC4/UART_PM.c ****             UART_SpiRestoreConfig();
+ 177:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 178:.\Generated_Source\PSoC4/UART_PM.c ****         else if(UART_SCB_MODE_UART_RUNTM_CFG)
+ 179:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 180:.\Generated_Source\PSoC4/UART_PM.c ****             UART_UartRestoreConfig();
+ 181:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 182:.\Generated_Source\PSoC4/UART_PM.c ****     #endif /* (!UART_CY_SCBIP_V1) */
+ 183:.\Generated_Source\PSoC4/UART_PM.c ****         else
+ 184:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 185:.\Generated_Source\PSoC4/UART_PM.c ****             /* Unknown mode */
+ 186:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 187:.\Generated_Source\PSoC4/UART_PM.c ****     }
+ 188:.\Generated_Source\PSoC4/UART_PM.c ****     else
+ 189:.\Generated_Source\PSoC4/UART_PM.c ****     {
+ 190:.\Generated_Source\PSoC4/UART_PM.c ****         if(0u != UART_backup.enableState)
+ 191:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 192:.\Generated_Source\PSoC4/UART_PM.c ****             UART_Enable();
+ 193:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 194:.\Generated_Source\PSoC4/UART_PM.c ****     }
+ 195:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 196:.\Generated_Source\PSoC4/UART_PM.c **** #else
+ 197:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 198:.\Generated_Source\PSoC4/UART_PM.c ****     #if (UART_SCB_MODE_I2C_CONST_CFG  && UART_I2C_WAKE_ENABLE_CONST)
+ 199:.\Generated_Source\PSoC4/UART_PM.c ****         UART_I2CRestoreConfig();
+ 200:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 201:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_EZI2C_CONST_CFG && UART_EZI2C_WAKE_ENABLE_CONST)
+ 202:.\Generated_Source\PSoC4/UART_PM.c ****         UART_EzI2CRestoreConfig();
+ 203:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 204:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_SPI_CONST_CFG && UART_SPI_WAKE_ENABLE_CONST)
+ 205:.\Generated_Source\PSoC4/UART_PM.c ****         UART_SpiRestoreConfig();
+ 206:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 207:.\Generated_Source\PSoC4/UART_PM.c ****     #elif (UART_SCB_MODE_UART_CONST_CFG && UART_UART_WAKE_ENABLE_CONST)
+ 208:.\Generated_Source\PSoC4/UART_PM.c ****         UART_UartRestoreConfig();
+ 209:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 210:.\Generated_Source\PSoC4/UART_PM.c ****     #else
+ 211:.\Generated_Source\PSoC4/UART_PM.c **** 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 17
+
+
+ 212:.\Generated_Source\PSoC4/UART_PM.c ****         if(0u != UART_backup.enableState)
+ 224              		.loc 1 212 0
+ 225 0002 034B     		ldr	r3, .L14
+ 226 0004 1B78     		ldrb	r3, [r3]
+ 227 0006 002B     		cmp	r3, #0
+ 228 0008 01D0     		beq	.L9
+ 213:.\Generated_Source\PSoC4/UART_PM.c ****         {
+ 214:.\Generated_Source\PSoC4/UART_PM.c ****             UART_Enable();
+ 229              		.loc 1 214 0
+ 230 000a FFF7FEFF 		bl	UART_Enable
+ 231              	.LVL1:
+ 232              	.L9:
+ 215:.\Generated_Source\PSoC4/UART_PM.c ****         }
+ 216:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 217:.\Generated_Source\PSoC4/UART_PM.c ****     #endif /* (UART_I2C_WAKE_ENABLE_CONST) */
+ 218:.\Generated_Source\PSoC4/UART_PM.c **** 
+ 219:.\Generated_Source\PSoC4/UART_PM.c **** #endif /* (UART_SCB_MODE_UNCONFIG_CONST_CFG) */
+ 220:.\Generated_Source\PSoC4/UART_PM.c **** }
+ 233              		.loc 1 220 0
+ 234              		@ sp needed
+ 235 000e 08BD     		pop	{r3, pc}
+ 236              	.L15:
+ 237              		.align	2
+ 238              	.L14:
+ 239 0010 00000000 		.word	.LANCHOR0
+ 240              		.cfi_endproc
+ 241              	.LFE1:
+ 242              		.size	UART_Wakeup, .-UART_Wakeup
+ 243              		.global	UART_backup
+ 244              		.bss
+ 245              		.set	.LANCHOR0,. + 0
+ 246              		.type	UART_backup, %object
+ 247              		.size	UART_backup, 1
+ 248              	UART_backup:
+ 249 0000 00       		.space	1
+ 250              		.text
+ 251              	.Letext0:
+ 252              		.file 2 "Generated_Source\\PSoC4/cytypes.h"
+ 253              		.file 3 ".\\Generated_Source\\PSoC4\\UART.h"
+ 254              		.section	.debug_info,"",%progbits
+ 255              	.Ldebug_info0:
+ 256 0000 2A010000 		.4byte	0x12a
+ 257 0004 0400     		.2byte	0x4
+ 258 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 259 000a 04       		.byte	0x4
+ 260 000b 01       		.uleb128 0x1
+ 261 000c 66000000 		.4byte	.LASF21
+ 262 0010 01       		.byte	0x1
+ 263 0011 43000000 		.4byte	.LASF22
+ 264 0015 51010000 		.4byte	.LASF23
+ 265 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 266 001d 00000000 		.4byte	0
+ 267 0021 00000000 		.4byte	.Ldebug_line0
+ 268 0025 02       		.uleb128 0x2
+ 269 0026 01       		.byte	0x1
+ 270 0027 06       		.byte	0x6
+ 271 0028 29020000 		.4byte	.LASF0
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 18
+
+
+ 272 002c 02       		.uleb128 0x2
+ 273 002d 01       		.byte	0x1
+ 274 002e 08       		.byte	0x8
+ 275 002f CE010000 		.4byte	.LASF1
+ 276 0033 02       		.uleb128 0x2
+ 277 0034 02       		.byte	0x2
+ 278 0035 05       		.byte	0x5
+ 279 0036 3B020000 		.4byte	.LASF2
+ 280 003a 02       		.uleb128 0x2
+ 281 003b 02       		.byte	0x2
+ 282 003c 07       		.byte	0x7
+ 283 003d 16020000 		.4byte	.LASF3
+ 284 0041 02       		.uleb128 0x2
+ 285 0042 04       		.byte	0x4
+ 286 0043 05       		.byte	0x5
+ 287 0044 07020000 		.4byte	.LASF4
+ 288 0048 02       		.uleb128 0x2
+ 289 0049 04       		.byte	0x4
+ 290 004a 07       		.byte	0x7
+ 291 004b 28010000 		.4byte	.LASF5
+ 292 004f 02       		.uleb128 0x2
+ 293 0050 08       		.byte	0x8
+ 294 0051 05       		.byte	0x5
+ 295 0052 00000000 		.4byte	.LASF6
+ 296 0056 02       		.uleb128 0x2
+ 297 0057 08       		.byte	0x8
+ 298 0058 07       		.byte	0x7
+ 299 0059 3A010000 		.4byte	.LASF7
+ 300 005d 03       		.uleb128 0x3
+ 301 005e 04       		.byte	0x4
+ 302 005f 05       		.byte	0x5
+ 303 0060 696E7400 		.ascii	"int\000"
+ 304 0064 02       		.uleb128 0x2
+ 305 0065 04       		.byte	0x4
+ 306 0066 07       		.byte	0x7
+ 307 0067 21000000 		.4byte	.LASF8
+ 308 006b 04       		.uleb128 0x4
+ 309 006c 22010000 		.4byte	.LASF9
+ 310 0070 02       		.byte	0x2
+ 311 0071 9801     		.2byte	0x198
+ 312 0073 2C000000 		.4byte	0x2c
+ 313 0077 04       		.uleb128 0x4
+ 314 0078 0E000000 		.4byte	.LASF10
+ 315 007c 02       		.byte	0x2
+ 316 007d 9A01     		.2byte	0x19a
+ 317 007f 48000000 		.4byte	0x48
+ 318 0083 02       		.uleb128 0x2
+ 319 0084 04       		.byte	0x4
+ 320 0085 04       		.byte	0x4
+ 321 0086 35020000 		.4byte	.LASF11
+ 322 008a 02       		.uleb128 0x2
+ 323 008b 08       		.byte	0x8
+ 324 008c 04       		.byte	0x4
+ 325 008d 00020000 		.4byte	.LASF12
+ 326 0091 02       		.uleb128 0x2
+ 327 0092 01       		.byte	0x1
+ 328 0093 08       		.byte	0x8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 19
+
+
+ 329 0094 DC010000 		.4byte	.LASF13
+ 330 0098 04       		.uleb128 0x4
+ 331 0099 10020000 		.4byte	.LASF14
+ 332 009d 02       		.byte	0x2
+ 333 009e 4402     		.2byte	0x244
+ 334 00a0 A4000000 		.4byte	0xa4
+ 335 00a4 05       		.uleb128 0x5
+ 336 00a5 77000000 		.4byte	0x77
+ 337 00a9 02       		.uleb128 0x2
+ 338 00aa 04       		.byte	0x4
+ 339 00ab 07       		.byte	0x7
+ 340 00ac 45020000 		.4byte	.LASF15
+ 341 00b0 06       		.uleb128 0x6
+ 342 00b1 01       		.byte	0x1
+ 343 00b2 03       		.byte	0x3
+ 344 00b3 5C       		.byte	0x5c
+ 345 00b4 C5000000 		.4byte	0xc5
+ 346 00b8 07       		.uleb128 0x7
+ 347 00b9 F4010000 		.4byte	.LASF24
+ 348 00bd 03       		.byte	0x3
+ 349 00be 5E       		.byte	0x5e
+ 350 00bf 6B000000 		.4byte	0x6b
+ 351 00c3 00       		.byte	0
+ 352 00c4 00       		.byte	0
+ 353 00c5 08       		.uleb128 0x8
+ 354 00c6 E1010000 		.4byte	.LASF16
+ 355 00ca 03       		.byte	0x3
+ 356 00cb 5F       		.byte	0x5f
+ 357 00cc B0000000 		.4byte	0xb0
+ 358 00d0 09       		.uleb128 0x9
+ 359 00d1 38000000 		.4byte	.LASF17
+ 360 00d5 01       		.byte	0x1
+ 361 00d6 49       		.byte	0x49
+ 362 00d7 00000000 		.4byte	.LFB0
+ 363 00db 1C000000 		.4byte	.LFE0-.LFB0
+ 364 00df 01       		.uleb128 0x1
+ 365 00e0 9C       		.byte	0x9c
+ 366 00e1 EF000000 		.4byte	0xef
+ 367 00e5 0A       		.uleb128 0xa
+ 368 00e6 12000000 		.4byte	.LVL0
+ 369 00ea 1F010000 		.4byte	0x11f
+ 370 00ee 00       		.byte	0
+ 371 00ef 09       		.uleb128 0x9
+ 372 00f0 B6010000 		.4byte	.LASF18
+ 373 00f4 01       		.byte	0x1
+ 374 00f5 9F       		.byte	0x9f
+ 375 00f6 00000000 		.4byte	.LFB1
+ 376 00fa 14000000 		.4byte	.LFE1-.LFB1
+ 377 00fe 01       		.uleb128 0x1
+ 378 00ff 9C       		.byte	0x9c
+ 379 0100 0E010000 		.4byte	0x10e
+ 380 0104 0A       		.uleb128 0xa
+ 381 0105 0E000000 		.4byte	.LVL1
+ 382 0109 26010000 		.4byte	0x126
+ 383 010d 00       		.byte	0
+ 384 010e 0B       		.uleb128 0xb
+ 385 010f 15000000 		.4byte	.LASF25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 20
+
+
+ 386 0113 01       		.byte	0x1
+ 387 0114 2D       		.byte	0x2d
+ 388 0115 C5000000 		.4byte	0xc5
+ 389 0119 05       		.uleb128 0x5
+ 390 011a 03       		.byte	0x3
+ 391 011b 00000000 		.4byte	UART_backup
+ 392 011f 0C       		.uleb128 0xc
+ 393 0120 2E000000 		.4byte	.LASF19
+ 394 0124 03       		.byte	0x3
+ 395 0125 6F       		.byte	0x6f
+ 396 0126 0C       		.uleb128 0xc
+ 397 0127 C2010000 		.4byte	.LASF20
+ 398 012b 03       		.byte	0x3
+ 399 012c 6D       		.byte	0x6d
+ 400 012d 00       		.byte	0
+ 401              		.section	.debug_abbrev,"",%progbits
+ 402              	.Ldebug_abbrev0:
+ 403 0000 01       		.uleb128 0x1
+ 404 0001 11       		.uleb128 0x11
+ 405 0002 01       		.byte	0x1
+ 406 0003 25       		.uleb128 0x25
+ 407 0004 0E       		.uleb128 0xe
+ 408 0005 13       		.uleb128 0x13
+ 409 0006 0B       		.uleb128 0xb
+ 410 0007 03       		.uleb128 0x3
+ 411 0008 0E       		.uleb128 0xe
+ 412 0009 1B       		.uleb128 0x1b
+ 413 000a 0E       		.uleb128 0xe
+ 414 000b 55       		.uleb128 0x55
+ 415 000c 17       		.uleb128 0x17
+ 416 000d 11       		.uleb128 0x11
+ 417 000e 01       		.uleb128 0x1
+ 418 000f 10       		.uleb128 0x10
+ 419 0010 17       		.uleb128 0x17
+ 420 0011 00       		.byte	0
+ 421 0012 00       		.byte	0
+ 422 0013 02       		.uleb128 0x2
+ 423 0014 24       		.uleb128 0x24
+ 424 0015 00       		.byte	0
+ 425 0016 0B       		.uleb128 0xb
+ 426 0017 0B       		.uleb128 0xb
+ 427 0018 3E       		.uleb128 0x3e
+ 428 0019 0B       		.uleb128 0xb
+ 429 001a 03       		.uleb128 0x3
+ 430 001b 0E       		.uleb128 0xe
+ 431 001c 00       		.byte	0
+ 432 001d 00       		.byte	0
+ 433 001e 03       		.uleb128 0x3
+ 434 001f 24       		.uleb128 0x24
+ 435 0020 00       		.byte	0
+ 436 0021 0B       		.uleb128 0xb
+ 437 0022 0B       		.uleb128 0xb
+ 438 0023 3E       		.uleb128 0x3e
+ 439 0024 0B       		.uleb128 0xb
+ 440 0025 03       		.uleb128 0x3
+ 441 0026 08       		.uleb128 0x8
+ 442 0027 00       		.byte	0
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 21
+
+
+ 443 0028 00       		.byte	0
+ 444 0029 04       		.uleb128 0x4
+ 445 002a 16       		.uleb128 0x16
+ 446 002b 00       		.byte	0
+ 447 002c 03       		.uleb128 0x3
+ 448 002d 0E       		.uleb128 0xe
+ 449 002e 3A       		.uleb128 0x3a
+ 450 002f 0B       		.uleb128 0xb
+ 451 0030 3B       		.uleb128 0x3b
+ 452 0031 05       		.uleb128 0x5
+ 453 0032 49       		.uleb128 0x49
+ 454 0033 13       		.uleb128 0x13
+ 455 0034 00       		.byte	0
+ 456 0035 00       		.byte	0
+ 457 0036 05       		.uleb128 0x5
+ 458 0037 35       		.uleb128 0x35
+ 459 0038 00       		.byte	0
+ 460 0039 49       		.uleb128 0x49
+ 461 003a 13       		.uleb128 0x13
+ 462 003b 00       		.byte	0
+ 463 003c 00       		.byte	0
+ 464 003d 06       		.uleb128 0x6
+ 465 003e 13       		.uleb128 0x13
+ 466 003f 01       		.byte	0x1
+ 467 0040 0B       		.uleb128 0xb
+ 468 0041 0B       		.uleb128 0xb
+ 469 0042 3A       		.uleb128 0x3a
+ 470 0043 0B       		.uleb128 0xb
+ 471 0044 3B       		.uleb128 0x3b
+ 472 0045 0B       		.uleb128 0xb
+ 473 0046 01       		.uleb128 0x1
+ 474 0047 13       		.uleb128 0x13
+ 475 0048 00       		.byte	0
+ 476 0049 00       		.byte	0
+ 477 004a 07       		.uleb128 0x7
+ 478 004b 0D       		.uleb128 0xd
+ 479 004c 00       		.byte	0
+ 480 004d 03       		.uleb128 0x3
+ 481 004e 0E       		.uleb128 0xe
+ 482 004f 3A       		.uleb128 0x3a
+ 483 0050 0B       		.uleb128 0xb
+ 484 0051 3B       		.uleb128 0x3b
+ 485 0052 0B       		.uleb128 0xb
+ 486 0053 49       		.uleb128 0x49
+ 487 0054 13       		.uleb128 0x13
+ 488 0055 38       		.uleb128 0x38
+ 489 0056 0B       		.uleb128 0xb
+ 490 0057 00       		.byte	0
+ 491 0058 00       		.byte	0
+ 492 0059 08       		.uleb128 0x8
+ 493 005a 16       		.uleb128 0x16
+ 494 005b 00       		.byte	0
+ 495 005c 03       		.uleb128 0x3
+ 496 005d 0E       		.uleb128 0xe
+ 497 005e 3A       		.uleb128 0x3a
+ 498 005f 0B       		.uleb128 0xb
+ 499 0060 3B       		.uleb128 0x3b
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 22
+
+
+ 500 0061 0B       		.uleb128 0xb
+ 501 0062 49       		.uleb128 0x49
+ 502 0063 13       		.uleb128 0x13
+ 503 0064 00       		.byte	0
+ 504 0065 00       		.byte	0
+ 505 0066 09       		.uleb128 0x9
+ 506 0067 2E       		.uleb128 0x2e
+ 507 0068 01       		.byte	0x1
+ 508 0069 3F       		.uleb128 0x3f
+ 509 006a 19       		.uleb128 0x19
+ 510 006b 03       		.uleb128 0x3
+ 511 006c 0E       		.uleb128 0xe
+ 512 006d 3A       		.uleb128 0x3a
+ 513 006e 0B       		.uleb128 0xb
+ 514 006f 3B       		.uleb128 0x3b
+ 515 0070 0B       		.uleb128 0xb
+ 516 0071 27       		.uleb128 0x27
+ 517 0072 19       		.uleb128 0x19
+ 518 0073 11       		.uleb128 0x11
+ 519 0074 01       		.uleb128 0x1
+ 520 0075 12       		.uleb128 0x12
+ 521 0076 06       		.uleb128 0x6
+ 522 0077 40       		.uleb128 0x40
+ 523 0078 18       		.uleb128 0x18
+ 524 0079 9742     		.uleb128 0x2117
+ 525 007b 19       		.uleb128 0x19
+ 526 007c 01       		.uleb128 0x1
+ 527 007d 13       		.uleb128 0x13
+ 528 007e 00       		.byte	0
+ 529 007f 00       		.byte	0
+ 530 0080 0A       		.uleb128 0xa
+ 531 0081 898201   		.uleb128 0x4109
+ 532 0084 00       		.byte	0
+ 533 0085 11       		.uleb128 0x11
+ 534 0086 01       		.uleb128 0x1
+ 535 0087 31       		.uleb128 0x31
+ 536 0088 13       		.uleb128 0x13
+ 537 0089 00       		.byte	0
+ 538 008a 00       		.byte	0
+ 539 008b 0B       		.uleb128 0xb
+ 540 008c 34       		.uleb128 0x34
+ 541 008d 00       		.byte	0
+ 542 008e 03       		.uleb128 0x3
+ 543 008f 0E       		.uleb128 0xe
+ 544 0090 3A       		.uleb128 0x3a
+ 545 0091 0B       		.uleb128 0xb
+ 546 0092 3B       		.uleb128 0x3b
+ 547 0093 0B       		.uleb128 0xb
+ 548 0094 49       		.uleb128 0x49
+ 549 0095 13       		.uleb128 0x13
+ 550 0096 3F       		.uleb128 0x3f
+ 551 0097 19       		.uleb128 0x19
+ 552 0098 02       		.uleb128 0x2
+ 553 0099 18       		.uleb128 0x18
+ 554 009a 00       		.byte	0
+ 555 009b 00       		.byte	0
+ 556 009c 0C       		.uleb128 0xc
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 23
+
+
+ 557 009d 2E       		.uleb128 0x2e
+ 558 009e 00       		.byte	0
+ 559 009f 3F       		.uleb128 0x3f
+ 560 00a0 19       		.uleb128 0x19
+ 561 00a1 03       		.uleb128 0x3
+ 562 00a2 0E       		.uleb128 0xe
+ 563 00a3 3A       		.uleb128 0x3a
+ 564 00a4 0B       		.uleb128 0xb
+ 565 00a5 3B       		.uleb128 0x3b
+ 566 00a6 0B       		.uleb128 0xb
+ 567 00a7 27       		.uleb128 0x27
+ 568 00a8 19       		.uleb128 0x19
+ 569 00a9 3C       		.uleb128 0x3c
+ 570 00aa 19       		.uleb128 0x19
+ 571 00ab 00       		.byte	0
+ 572 00ac 00       		.byte	0
+ 573 00ad 00       		.byte	0
+ 574              		.section	.debug_aranges,"",%progbits
+ 575 0000 24000000 		.4byte	0x24
+ 576 0004 0200     		.2byte	0x2
+ 577 0006 00000000 		.4byte	.Ldebug_info0
+ 578 000a 04       		.byte	0x4
+ 579 000b 00       		.byte	0
+ 580 000c 0000     		.2byte	0
+ 581 000e 0000     		.2byte	0
+ 582 0010 00000000 		.4byte	.LFB0
+ 583 0014 1C000000 		.4byte	.LFE0-.LFB0
+ 584 0018 00000000 		.4byte	.LFB1
+ 585 001c 14000000 		.4byte	.LFE1-.LFB1
+ 586 0020 00000000 		.4byte	0
+ 587 0024 00000000 		.4byte	0
+ 588              		.section	.debug_ranges,"",%progbits
+ 589              	.Ldebug_ranges0:
+ 590 0000 00000000 		.4byte	.LFB0
+ 591 0004 1C000000 		.4byte	.LFE0
+ 592 0008 00000000 		.4byte	.LFB1
+ 593 000c 14000000 		.4byte	.LFE1
+ 594 0010 00000000 		.4byte	0
+ 595 0014 00000000 		.4byte	0
+ 596              		.section	.debug_line,"",%progbits
+ 597              	.Ldebug_line0:
+ 598 0000 98000000 		.section	.debug_str,"MS",%progbits,1
+ 598      02006700 
+ 598      00000201 
+ 598      FB0E0D00 
+ 598      01010101 
+ 599              	.LASF6:
+ 600 0000 6C6F6E67 		.ascii	"long long int\000"
+ 600      206C6F6E 
+ 600      6720696E 
+ 600      7400
+ 601              	.LASF10:
+ 602 000e 75696E74 		.ascii	"uint32\000"
+ 602      333200
+ 603              	.LASF25:
+ 604 0015 55415254 		.ascii	"UART_backup\000"
+ 604      5F626163 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 24
+
+
+ 604      6B757000 
+ 605              	.LASF8:
+ 606 0021 756E7369 		.ascii	"unsigned int\000"
+ 606      676E6564 
+ 606      20696E74 
+ 606      00
+ 607              	.LASF19:
+ 608 002e 55415254 		.ascii	"UART_Stop\000"
+ 608      5F53746F 
+ 608      7000
+ 609              	.LASF17:
+ 610 0038 55415254 		.ascii	"UART_Sleep\000"
+ 610      5F536C65 
+ 610      657000
+ 611              	.LASF22:
+ 612 0043 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\UART_PM.c\000"
+ 612      6E657261 
+ 612      7465645F 
+ 612      536F7572 
+ 612      63655C50 
+ 613              	.LASF21:
+ 614 0066 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 614      4320342E 
+ 614      392E3320 
+ 614      32303135 
+ 614      30333033 
+ 615 0099 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 615      20726576 
+ 615      6973696F 
+ 615      6E203232 
+ 615      31323230 
+ 616 00cc 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 616      66756E63 
+ 616      74696F6E 
+ 616      2D736563 
+ 616      74696F6E 
+ 617 00ff 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 617      6F2D6F62 
+ 617      6A656374 
+ 617      73202D66 
+ 617      6E6F2D73 
+ 618              	.LASF9:
+ 619 0122 75696E74 		.ascii	"uint8\000"
+ 619      3800
+ 620              	.LASF5:
+ 621 0128 6C6F6E67 		.ascii	"long unsigned int\000"
+ 621      20756E73 
+ 621      69676E65 
+ 621      6420696E 
+ 621      7400
+ 622              	.LASF7:
+ 623 013a 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 623      206C6F6E 
+ 623      6720756E 
+ 623      7369676E 
+ 623      65642069 
+ 624              	.LASF23:
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 25
+
+
+ 625 0151 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
+ 625      73657273 
+ 625      5C766963 
+ 625      746F5C4F 
+ 625      6E654472 
+ 626 017f 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
+ 626      44343232 
+ 626      352D3430 
+ 626      4C515849 
+ 626      5F303830 
+ 627 01b0 63796473 		.ascii	"cydsn\000"
+ 627      6E00
+ 628              	.LASF18:
+ 629 01b6 55415254 		.ascii	"UART_Wakeup\000"
+ 629      5F57616B 
+ 629      65757000 
+ 630              	.LASF20:
+ 631 01c2 55415254 		.ascii	"UART_Enable\000"
+ 631      5F456E61 
+ 631      626C6500 
+ 632              	.LASF1:
+ 633 01ce 756E7369 		.ascii	"unsigned char\000"
+ 633      676E6564 
+ 633      20636861 
+ 633      7200
+ 634              	.LASF13:
+ 635 01dc 63686172 		.ascii	"char\000"
+ 635      00
+ 636              	.LASF16:
+ 637 01e1 55415254 		.ascii	"UART_BACKUP_STRUCT\000"
+ 637      5F424143 
+ 637      4B55505F 
+ 637      53545255 
+ 637      435400
+ 638              	.LASF24:
+ 639 01f4 656E6162 		.ascii	"enableState\000"
+ 639      6C655374 
+ 639      61746500 
+ 640              	.LASF12:
+ 641 0200 646F7562 		.ascii	"double\000"
+ 641      6C6500
+ 642              	.LASF4:
+ 643 0207 6C6F6E67 		.ascii	"long int\000"
+ 643      20696E74 
+ 643      00
+ 644              	.LASF14:
+ 645 0210 72656733 		.ascii	"reg32\000"
+ 645      3200
+ 646              	.LASF3:
+ 647 0216 73686F72 		.ascii	"short unsigned int\000"
+ 647      7420756E 
+ 647      7369676E 
+ 647      65642069 
+ 647      6E7400
+ 648              	.LASF0:
+ 649 0229 7369676E 		.ascii	"signed char\000"
+ 649      65642063 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccnpFI2s.s 			page 26
+
+
+ 649      68617200 
+ 650              	.LASF11:
+ 651 0235 666C6F61 		.ascii	"float\000"
+ 651      7400
+ 652              	.LASF2:
+ 653 023b 73686F72 		.ascii	"short int\000"
+ 653      7420696E 
+ 653      7400
+ 654              	.LASF15:
+ 655 0245 73697A65 		.ascii	"sizetype\000"
+ 655      74797065 
+ 655      00
+ 656              		.comm	__gnu_lto_v1,1,1
+ 657              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

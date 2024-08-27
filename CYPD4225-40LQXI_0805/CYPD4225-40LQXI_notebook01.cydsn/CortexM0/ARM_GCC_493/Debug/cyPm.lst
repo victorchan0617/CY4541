@@ -1,0 +1,2063 @@
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 1
+
+
+   1              		.cpu cortex-m0
+   2              		.fpu softvfp
+   3              		.eabi_attribute 20, 1
+   4              		.eabi_attribute 21, 1
+   5              		.eabi_attribute 23, 3
+   6              		.eabi_attribute 24, 1
+   7              		.eabi_attribute 25, 1
+   8              		.eabi_attribute 26, 1
+   9              		.eabi_attribute 30, 4
+  10              		.eabi_attribute 34, 0
+  11              		.eabi_attribute 18, 4
+  12              		.code	16
+  13              		.file	"cyPm.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.91bc9a84,"",%progbits
+  17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006'i\000\001\023\000f"
+  17      60606061 
+  17      80004606 
+  17      27690001 
+  17      130066
+  18              		.text
+  19              		.section	.gnu.lto_.jmpfuncs.91bc9a84,"",%progbits
+  20 0000 789C6366 		.ascii	"x\234cf\300\016D\24143\0203B0\210bbdd\254g\000\000\004"
+  20      C00E44A1 
+  20      34331033 
+  20      42308862 
+  20      626464AC 
+  21 0018 B200A3   		.ascii	"\262\000\243"
+  22              		.text
+  23              		.section	.gnu.lto_.inline.91bc9a84,"",%progbits
+  24 0000 789C6366 		.ascii	"x\234cf\300\016b\24043\003\003\217,#\003\023\327\004"
+  24      C00E62A0 
+  24      34330303 
+  24      8F2C2303 
+  24      13D704
+  25 0013 3F06B605 		.ascii	"?\006\266\005\362L 1&n\006\006\306\011~ \212\201\221"
+  25      F24C2031 
+  25      266E0606 
+  25      C6097E20 
+  25      8A8191
+  26 0026 814F1E28 		.ascii	"\201O\036(\315\267!\027\2534\023\003;\033##P\025\003"
+  26      CDB72117 
+  26      AB341303 
+  26      3B1B2323 
+  26      501503
+  27 0039 33D3057E 		.ascii	"3\323\005~\210\022\266\017z,`\263\001\262\247\0118"
+  27      8812B60F 
+  27      7A2C60B3 
+  27      01B2A709 
+  27      38
+  28              		.text
+  29              		.section	.gnu.lto_.pureconst.91bc9a84,"",%progbits
+  30 0000 789C6366 		.ascii	"x\234cf```g\200\000f\006+F+&)\000\002\274\000\237"
+  30      60606067 
+  30      80006606 
+  30      2B462B26 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 2
+
+
+  30      290002BC 
+  31              		.text
+  32              		.section	.gnu.lto_CySysPmSleep.91bc9a84,"",%progbits
+  33 0000 789C7D90 		.ascii	"x\234}\220OHTQ\024\306\317w\336\274\347CA#p3+a\026\""
+  33      4F485451 
+  33      14C6CF77 
+  33      DEBCE743 
+  33      41237033 
+  34 0018 C42CA285 		.ascii	"\304,\242\205{\241h70\2136\003!\323[\270\360\017\303"
+  34      7BA16837 
+  34      308B3603 
+  34      21D35BB8 
+  34      F00FC3
+  35 002b B86821DE 		.ascii	"\270h!\33673\213\010\222!\202\214H\014\024\377\345?"
+  35      37338B08 
+  35      9221828C 
+  35      480C14FF 
+  35      E53F
+  36 003d 50115DF4 		.ascii	"P\021]\364\252\325\264H$J\230\304Z\214\224\255\032F"
+  36      AAD5B448 
+  36      244A98C4 
+  36      5A8C94AD 
+  36      1A46
+  37 004f AA97E4F3 		.ascii	"\252\227\344\363\334\367jS\340\203\373\356\275\207\357"
+  37      DCF76A53 
+  37      E083FBEE 
+  37      BD87EF
+  38 005e FBDDEF1C 		.ascii	"\373\335\357\034\203\376\377\342\262\276\202\250[v\030"
+  38      83FEFFE2 
+  38      B2BE82A8 
+  38      5B7618
+  39 006d 042EBF21 		.ascii	"\004.\277!rm\006\364\201@\243\214Q\034q\235Q\366\026"
+  39      726D06F4 
+  39      8140A38C 
+  39      511C719D 
+  39      51F616
+  40 0080 C65B3AA7 		.ascii	"\306[:\247\225R\337\012\0257\345\301g\242\006G\034\314"
+  40      9552DF0A 
+  40      1537E5C1 
+  40      67A20647 
+  40      1CCC
+  41 0092 A09344B4 		.ascii	"\240\223D\264w\364\253j\032\011\350\363ae\355\201\221"
+  41      77F4AB6A 
+  41      1A09E8F3 
+  41      6165ED81 
+  41      91
+  42 00a3 78AA54E1 		.ascii	"x\252T\341\323\353\215\214\347N\252\323 \020\0270\013"
+  42      D3EB8D8C 
+  42      E74EAAD3 
+  42      20101730 
+  42      0B
+  43 00b4 438CB814 		.ascii	"C\214\270\024GW\374O\020\321\327K\277\367Z\254\222<"
+  43      4757FC4F 
+  43      10D1D74B 
+  43      BFF75AAC 
+  43      923C
+  44 00c6 70017348 		.ascii	"p\001sHDl\314\303\222|\320\225\345\213\236\012\202\306"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 3
+
+
+  44      446CCCC3 
+  44      927CD095 
+  44      E58B9E0A 
+  44      82C6
+  45 00d8 D48B2DD8 		.ascii	"\324\213-\330\222U*1\362\231M\375#\252\311\322\241\017"
+  45      92552A31 
+  45      F2994DFD 
+  45      23AAC9D2 
+  45      A10F
+  46 00ea E522BBB1 		.ascii	"\345\"\273\261\217\242\367h\025\032\360\203\015\341"
+  46      8FA2F768 
+  46      151AF083 
+  46      0DE1
+  47 00f8 4FBC1D5B 		.ascii	"O\274\035[\342\221\023uG\331>K\000\215]\300\210\270"
+  47      E2911375 
+  47      47D93E4B 
+  47      008D5DC0 
+  47      88B8
+  48 010a 63F41E1C 		.ascii	"c\364\036\034\276$L\021S\025/\277\337==6#sL\314\225"
+  48      BE244C11 
+  48      53152FBF 
+  48      DF3D3D36 
+  48      23734CCC 
+  49 011f 7BEB534D 		.ascii	"{\353SM_\330g\263\\-\252V\235\367cmg\327\016Ka\374w"
+  49      5FD867B3 
+  49      5C2DAA56 
+  49      9DF7636D 
+  49      67D70E4B 
+  50 0136 E3853A9E 		.ascii	"\343\205:\236\340\261[\222\036-<C\034\213\220\366\260"
+  50      E0B15B92 
+  50      1E2D3C43 
+  50      1C8B90F6 
+  50      B0
+  51 0147 24552116 		.ascii	"$U!\026\177Z\021\316\214\210\237\037>Oj7\237\004A\320"
+  51      7F5A11CE 
+  51      8C889F1F 
+  51      3E4F6A37 
+  51      9F0441D0 
+  52 015b 465816B1 		.ascii	"FX\026\261\274{?L|\036oE\252B\241\017P\257\326\333\265"
+  52      BC7B3F4C 
+  52      7C1E6F45 
+  52      AA42A10F 
+  52      50AFD6DB 
+  53 0170 5A0FF032 		.ascii	"Z\017\3602\355\243\344m\206n\372\267\333\246\206\236"
+  53      EDA3E46D 
+  53      866EFAB7 
+  53      DBA6869E 
+  54 0180 1056A55B 		.ascii	"\020V\245[i\317g\233\016\340z\333\346_sM\206!3\023M"
+  54      69CF679B 
+  54      0EE07ADB 
+  54      E65F734D 
+  54      86213313 
+  55 0195 473273CD 		.ascii	"G2s\315\031pr\275y\347\326\315\364\340p.\353dR\351\301"
+  55      197072BD 
+  55      79E7D6CD 
+  55      F4E0702E 
+  55      EB6452E9 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 4
+
+
+  56 01aa 9E2B99EC 		.ascii	"\236+\231\354\355T\1772K\255}\003y'\227\033\036\312"
+  56      ED547F32 
+  56      4BAD7D03 
+  56      7927971B 
+  56      1ECA
+  57 01bc A7F322B2 		.ascii	"\247\363\"\262n\\\275\336\321Lg\024k\273\376"
+  57      6E5CBDDE 
+  57      D14C6714 
+  57      6BBBFE
+  58              		.text
+  59              		.section	.gnu.lto_CySysPmDeepSleep.91bc9a84,"",%progbits
+  60 0000 789C7591 		.ascii	"x\234u\221Kh\023Q\024\206\317\177'3\2316\020\304\205"
+  60      4B681351 
+  60      1486CF7F 
+  60      27339936 
+  60      10C485
+  61 0013 8B6C2C64 		.ascii	"\213l,dQ\004\351B\004\335\013\026w\201,\334\004E\342"
+  61      5104E942 
+  61      04DD0B16 
+  61      77812CDC 
+  61      0445E2
+  62 0026 2C5CD84A 		.ascii	",\\\330JH\027.jn\222\301\326\342#-.b%BE\361\321\332"
+  62      48172E6A 
+  62      6E92C1D6 
+  62      E2232D2E 
+  62      62254245 
+  63 003d 5AFB00C5 		.ascii	"Z\373\000\305\305\240\242\306\205E\305\026b\251\001"
+  63      C5A0A2C6 
+  63      8545C516 
+  63      62A901
+  64 004c 53B0A062 		.ascii	"S\260\240b\214(\323\242\361\334\031+>p`\356\213\363"
+  64      8C28D3A2 
+  64      F1DC192B 
+  64      3E7060EE 
+  64      8BF3
+  65 005e 7FE7BFF7 		.ascii	"\177\347\277\367\327\350\337/\302\3779A\264\223gh\004"
+  65      D7E8DF2F 
+  65      C2FF3941 
+  65      B4936768 
+  65      04
+  66 006f 51784A94 		.ascii	"QxJ\2245\005\240\026\004\312\010d\260\"\352\002\005"
+  66      3505A016 
+  66      04CA0864 
+  66      B022EA02 
+  66      05
+  67 0080 67B4186A 		.ascii	"g\264\030j\277,\245\374\370i.\033s\340\262\256!|\016"
+  67      BF2CA5FC 
+  67      F8692E1B 
+  67      73E0B2AE 
+  67      217C0E
+  68 0093 AEA09DB8 		.ascii	"\256\240\235\270hae\265\242kQ\250\365ry\372\254\026"
+  68      686165B5 
+  68      A26B51A8 
+  68      F57279FA 
+  68      AC16
+  69 00a5 1D913257 		.ascii	"\035\2212W=\361\346aH\026\245]m67\273\014\277\012\215"
+  69      3DF1E661 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 5
+
+
+  69      4816A55D 
+  69      6D3637BB 
+  69      0CBF0A8D 
+  70 00b9 95D81AC1 		.ascii	"\225\330\032\301\226\310O',\250\333\337\026B\206\315"
+  70      96C84F27 
+  70      2CA8DBDF 
+  70      164286CD 
+  71 00c9 1D36E01A 		.ascii	"\0356\340\032\242>\034\327a\200'u2\261\321\221\315\346"
+  71      A23E1CD7 
+  71      61802775 
+  71      32B1D191 
+  71      CDE6
+  72 00db D483C1FE 		.ascii	"\324\203\301\376\035\010\261[>\012\220+\204\316\203"
+  72      1D08B15B 
+  72      3E0A902B 
+  72      84CE83
+  73 00ea 165483A9 		.ascii	"\026T\203\251\006\242\032+\325\005\226\205P\263\266"
+  73      06A21A2B 
+  73      D5059685 
+  73      50B3B6
+  74 00f9 88BC533A 		.ascii	"\210\274S:\276I\261\276\012\215[]xqz\\\364\256\311~"
+  74      BE49B1BE 
+  74      0A8D5B5D 
+  74      78717A5C 
+  74      F4AEC97E 
+  75 010d 69BA22D0 		.ascii	"i\272\"\320\020\252\303(zY\255\323<\204\327\224\351"
+  75      10AAC328 
+  75      7A59ADD3 
+  75      3C84D794 
+  75      E9
+  76 011e 5C4C15DC 		.ascii	"\\L\025\334\37320?|\314\027\007X|\267<\322g\276\025"
+  76      FB32303F 
+  76      7CCC1707 
+  76      587CB73C 
+  76      D267BE15 
+  77 0132 AE309ED7 		.ascii	"\2560\236\327\232\031\345\374um\356\231\177\342]\344"
+  77      9A19E5FC 
+  77      756DEE99 
+  77      7FE25DE4 
+  78 0142 49F54C31 		.ascii	"I\365L1\\\302\371\254\315\217\024\304\030\"\270\001"
+  78      5CC2F9AC 
+  78      CD8F14C4 
+  78      1822B801 
+  79 0152 BE28C651 		.ascii	"\276(\306Q\002\003sK}\3574\237\2473R\265\030\202\332"
+  79      0203734B 
+  79      7DEF349F 
+  79      A73352B5 
+  79      1882DA
+  80 0165 B3B6F47D 		.ascii	"\263\266\364}u\322C\231\266<)\003\177\320M\217\2766"
+  80      75D24399 
+  80      B63C2903 
+  80      7FD04D8F 
+  80      BE36
+  81 0177 F6FEA2EE 		.ascii	"\366\376\242\356\321\263\216\356\212\026L0\377\246\307"
+  81      D1B38EEE 
+  81      8A164C30 
+  81      FFA6C7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 6
+
+
+  82 0186 9F643E33 		.ascii	"\237d>3}\317\037\206\367\371=\202,*\237\232\271\024"
+  82      7DCF1F86 
+  82      F7F93D82 
+  82      2C2A9F9A 
+  82      B914
+  83 0198 F418854A 		.ascii	"\364\030\205J^\206\025\347e1W\307\272\313\026\334\372"
+  83      5E8615E7 
+  83      653157C7 
+  83      BACB16DC 
+  83      FA
+  84 01a9 4599F25D 		.ascii	"E\231\362]\346?\033\276\336\364\021w\206\036\027\015"
+  84      E63F1BBE 
+  84      DEF41177 
+  84      861E170D 
+  85 01b9 85D00284 		.ascii	"\205\320\002\204i\256\374\335\366\177a3\236%\223^A\336"
+  85      69AEFCDD 
+  85      F67F6133 
+  85      9E25935E 
+  85      41DE
+  86 01cb 1F7CE4BD 		.ascii	"\037|\344\275\254\212{\033-\302vf\203\336\376\357@Z"
+  86      AC8A7B1B 
+  86      2DC27666 
+  86      83DEFEEF 
+  86      405A
+  87 01dd 1B9C1B61 		.ascii	"\033\234\033a\226\003\341\004\\\021\242%d\235\333\235"
+  87      9603E104 
+  87      5C11A225 
+  87      649DDB9D 
+  88 01ed EBE21AE7 		.ascii	"\353\342\032\347\305\261rM[G\242\323\352\262R\007\322"
+  88      C5B1724D 
+  88      5B47A2D3 
+  88      EAB25207 
+  88      D2
+  89 01fe D6C1FDF1 		.ascii	"\326\301\375\361\356\236T\322J\304\342\335\273\266'"
+  89      EE9E54D2 
+  89      4AC4E2DD 
+  89      BBB627
+  90 020d 92476387 		.ascii	"\222Gc\207;\222\024>\324\225\266R\251\236#\351x\232"
+  90      3B92143E 
+  90      D495B652 
+  90      A99E23E9 
+  90      789A
+  91 021f 8B8CBDBB 		.ascii	"\213\214\275\273\367\264\265\322\017K\245\371\033"
+  91      F7B4B5D2 
+  91      0F4BA5F9 
+  91      1B
+  92              		.text
+  93              		.section	.gnu.lto_CySysPmSetWakeupHoldoff.91bc9a84,"",%progbits
+  94 0000 789C6591 		.ascii	"x\234e\221\317K[A\020\307\347;\357%*\351\301\212\207"
+  94      CF4B5B41 
+  94      10C7E73B 
+  94      EF252AE9 
+  94      C18A87
+  95 0013 9A9320E2 		.ascii	"\232\223 \342-'\377\200B\241=\011\202\327\200-\317'"
+  95      2D27FF80 
+  95      42A13D09 
+  95      82D7802D 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 7
+
+
+  95      CF27
+  96 0025 8AADD250 		.ascii	"\212\255\322P)\366\342\306\206\234<H\020\011H.\212h"
+  96      29F6E2C6 
+  96      869C3C48 
+  96      1009482E 
+  96      8A68
+  97 0037 FD6D3CE9 		.ascii	"\375m<\351A\036=\264\205\322\226\026lh\016\021\344\025"
+  97      411E3DB4 
+  97      85D29616 
+  97      6C680E11 
+  97      E415
+  98 0049 2C456888 		.ascii	",Eh\210\324\276\212?f\362\216.\354\356\314\356g\276"
+  98      D4BE8A3F 
+  98      66F28E2E 
+  98      ECEECCEE 
+  98      67BE
+  99 005b 33B36BD1 		.ascii	"3\263k\321\355\021\227\271\001\242n\331a\021x\3463Q"
+  99      ED1197B9 
+  99      01A26ED9 
+  99      611178E6 
+  99      3351
+ 100 006d BA910135 		.ascii	"\272\221\0015\0104\311\230\304/\2562f\274\265|\254k"
+ 100      0834C998 
+ 100      C42FAE32 
+ 100      66BCB57C 
+ 100      AC6B
+ 101 007f C918F3E7 		.ascii	"\311\030\363\347\333\341\260\231}\0340Q\215C\035,\243"
+ 101      DBE1B099 
+ 101      7D1C3051 
+ 101      8D431D2C 
+ 101      A3
+ 102 0090 4B9852F9 		.ascii	"K\230R\371\357K\253\003$\346\336\346\331\247\330\011"
+ 102      EF4BAB03 
+ 102      24E6DEE6 
+ 102      D9A7D809 
+ 103 00a0 078C7675 		.ascii	"\007\214vu\367s\037\362Qu\331V\267\022d\363\334\271"
+ 103      F7731FF2 
+ 103      5175D956 
+ 103      B71264F3 
+ 103      DCB9
+ 104 00b2 68CC94F7 		.ascii	"h\314\224\367\243h\356\333\001[X\201%rx\2038V\021'9"
+ 104      A368EEDB 
+ 104      015B5881 
+ 104      25727883 
+ 104      38561127 
+ 105 00c7 22ACA153 		.ascii	"\"\254\241S\361j\346\262\024\213f$ws\230\022\353\210"
+ 105      F16AE6B2 
+ 105      148B6624 
+ 105      77739812 
+ 105      EB88
+ 106 00d9 4AD9B4D5 		.ascii	"J\331\264\325\342\231\353\353\335\322\367\225D\264\001"
+ 106      E299EBEB 
+ 106      DDD2F795 
+ 106      44B401
+ 107 00e8 509E25D2 		.ascii	"P\236%\322\266t\261u!\362%@\273\371\311\254\273U\306"
+ 107      B674B175 
+ 107      21F22540 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 8
+
+
+ 107      BBF9C9AC 
+ 107      BB55C6
+ 108 00fb EBB9ECBB 		.ascii	"\353\271\354\273\337\007P\221s\346s\321g\\f\016N#Z\240"
+ 108      DF075091 
+ 108      73E673D1 
+ 108      675C660E 
+ 108      4E235AA0 
+ 109 010f BD7AD84A 		.ascii	"\275z\330J\330\220\012\004\254d\375{!f\011)\330\307"
+ 109      D8900A04 
+ 109      AC64FD7B 
+ 109      21660929 
+ 109      D8C7
+ 110 0121 E37FB53B 		.ascii	"\343\177\265;\212E\232\011\233!\224\313\372m!d\013'"
+ 110      8A459A09 
+ 110      9B2194CB 
+ 110      FA6D2164 
+ 110      0B27
+ 111 0133 D0FBC249 		.ascii	"\320\373\302I\321\256k\201\260U\207\336\346\252\245"
+ 111      D1AE6B81 
+ 111      B05587DE 
+ 111      E6AAA5
+ 112 0142 B926A5E4 		.ascii	"\271&\245\344\276p\365\177\247Q\357\245\245iS\177\220"
+ 112      BE70F57F 
+ 112      A751EFA5 
+ 112      A569537F 
+ 112      90
+ 113 0153 23FFCBD7 		.ascii	"#\377\313\327\360\210\324\275X?]\210\0240\237\316\244"
+ 113      F088D4BD 
+ 113      583F5D88 
+ 113      14309FCE 
+ 113      A4
+ 114 0164 BDB6801B 		.ascii	"\275\266\200\033\260-\257\262#J\204\"\012\220LTA\332"
+ 114      B02DAFB2 
+ 114      234A8422 
+ 114      0A904C54 
+ 114      41DA
+ 115 0176 AB955925 		.ascii	"\253\225Y%\365\007|\206v'\275\266'\222\217\334Q7\365"
+ 115      F5077C86 
+ 115      7627BDB6 
+ 115      27928FDC 
+ 115      5137F5
+ 116 0189 E4853BD0 		.ascii	"\344\205;\320\33776\236r\334do\337\330\203\356\2443"
+ 116      DF37369E 
+ 116      72DC646F 
+ 116      DFD883EE 
+ 116      A433
+ 117 019b D1FB2CE1 		.ascii	"\321\373,\341\320\335\241A\347\351\310\303\224\373|"
+ 117      D0DDA141 
+ 117      E7E9C8C3 
+ 117      94FB7C
+ 118 01aa DC1D7526 		.ascii	"\334\035u&z\206^\335\000:\013\256\247"
+ 118      7A865EDD 
+ 118      003A0BAE 
+ 118      A7
+ 119              		.text
+ 120              		.section	.gnu.lto_.symbol_nodes.91bc9a84,"",%progbits
+ 121 0000 789C6366 		.ascii	"x\234cf``(`\200\002&\206z\006\206\011\347\030\030\352"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 9
+
+
+ 121      60602860 
+ 121      80022686 
+ 121      7A068609 
+ 121      E71818EA 
+ 122 0014 EB19E62D 		.ascii	"\353\031\346-\340``b\254gD\3413\3253!\363\031Y\352\231"
+ 122      E0606062 
+ 122      AC6744E1 
+ 122      33D53321 
+ 122      F31959EA 
+ 123 0029 217C8686 		.ascii	"!|\206\206\006 \227\271\236\005\211\313\314\300\302"
+ 123      062097B9 
+ 123      9E0589CB 
+ 123      CCC0C2
+ 124 0038 B0E4C13F 		.ascii	"\260\344\301?Ff \353\311C \315\010\345\003E\216\264"
+ 124      466620EB 
+ 124      C94320CD 
+ 124      08E50345 
+ 124      8EB4
+ 125 004a BD916700 		.ascii	"\275\221g\000\000]X\035\366"
+ 125      005D581D 
+ 125      F6
+ 126              		.text
+ 127              		.section	.gnu.lto_.refs.91bc9a84,"",%progbits
+ 128 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
+ 128      60606064 
+ 128      80020000 
+ 128      3D0005
+ 129              		.text
+ 130              		.section	.gnu.lto_.decls.91bc9a84,"",%progbits
+ 131 0000 789C8D54 		.ascii	"x\234\215TmLSg\024\276\347\336\226\217\313]\345\317"
+ 131      6D4C5367 
+ 131      14BEE7DE 
+ 131      968FCB5D 
+ 131      E5CF
+ 132 0012 CAC2AF92 		.ascii	"\312\302\257\222%\304%\204D]\324\375\232I\267H\266e"
+ 132      25C42584 
+ 132      445DD4FD 
+ 132      9A49B748 
+ 132      B665
+ 133 0024 69D62CFB 		.ascii	"i\326,\373!\311\302\352uk\206\224@I\326\177/T\220\330"
+ 133      21C9C2EA 
+ 133      756B8694 
+ 133      4049D67F 
+ 133      2F5490D8 
+ 134 0038 7D542243 		.ascii	"}T\"Cp\233]d\350D*\2120\2530\312\227\202-\240N\320\316"
+ 134      709B5D64 
+ 134      E8442A8A 
+ 134      30AB30CA 
+ 134      97822DA0 
+ 135 004f 6CC2B6CE 		.ascii	"l\302\266\316e\272\245\023\343 ,\273;\357{o?\035\304"
+ 135      65BAA513 
+ 135      E3202CBB 
+ 135      3BEF7B6F 
+ 135      3F1DC4
+ 136 0062 939CDE7B 		.ascii	"\223\234\336{\336\236\363\234\363<\357i\005\216\343"
+ 136      DE9EF39C 
+ 136      F33CEF69 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 10
+
+
+ 136      058EE3
+ 137 0071 3602C729 		.ascii	"6\002\307)h1=\307=\300X\207n\341\222\206\307\334)t?"
+ 137      68313DC7 
+ 137      3DC05887 
+ 137      6EE19286 
+ 137      C7DC2974 
+ 138 0086 7A007D14 		.ascii	"z\000}\024}\202{\334hN\256V;\204^\204~\011}\014=\204"
+ 138      7D827BDC 
+ 138      684EAE56 
+ 138      3B845E84 
+ 138      7E097D0C 
+ 139 009c 7E053D8C 		.ascii	"~\005=\214\036\324\362\005\255fB\303\3144\332OJ\301"
+ 139      1ED4F205 
+ 139      AD6642C3 
+ 139      CC34DA4F 
+ 139      4AC1
+ 140 00ae 336560CE 		.ascii	"3e`\316\243\317\255\203\355_\007\233\362\310\321\260"
+ 140      A3CFAD83 
+ 140      ED5F079B 
+ 140      F2C8D1B0 
+ 141 00be 0D5A9F7E 		.ascii	"\015Z\237~\015\377\225\024Lj\240\345g\332_<\204~Z^\222"
+ 141      0DFF9514 
+ 141      4C6AA0E5 
+ 141      67DA5F3C 
+ 141      847E5A5E 
+ 142 00d3 7EE3C120 		.ascii	"~\343\301 \346\323\260\343f\364\241\200\241$\3624\034"
+ 142      E6D3B0E3 
+ 142      66F4A180 
+ 142      A124F234 
+ 142      1C
+ 143 00e4 5879743A 		.ascii	"Xyt:\253\240\225Ps\223|\036,F8\016\205p\002\012\021"
+ 143      ABA09550 
+ 143      73937C1E 
+ 143      2C46380E 
+ 143      8570020A 
+ 144 00f9 F56B28C0 		.ascii	"\365k(\300\317]:\025\2519\332\032\345\005\036\350\373"
+ 144      CF5D3A15 
+ 144      A939DA1A 
+ 144      E5051EE8 
+ 144      FB
+ 145 010a B1C38B37 		.ascii	"\261\303\2137\304\222\223X\325L\202\313\220lwl\264\321"
+ 145      C4929358 
+ 145      D54C82CB 
+ 145      906C776C 
+ 145      B4D1
+ 146 011c 63307D41 		.ascii	"c0}A|\2751\2777\"\221\023$\250(/2(8\011\002tC\011\033"
+ 146      7CBD31BF 
+ 146      37229113 
+ 146      24A8282F 
+ 146      32283809 
+ 147 0135 18DFD5C9 		.ascii	"\030\337\325\311O\201\011\313V\273\027\373\263\205m"
+ 147      4F8109CB 
+ 147      56BB17FB 
+ 147      B3856D
+ 148 0144 0CFB8867 		.ascii	"\014\373\210g\306#1\010\237r\226\354h \377(\212\300"
+ 148      C6233108 
+ 148      9F7296EC 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 11
+
+
+ 148      6820FF28 
+ 148      8AC0
+ 149 0156 007A5200 		.ascii	"\000zR\000z\342\000~\006\020\360?\234\316c4M\024\343"
+ 149      7AE2007E 
+ 149      0610F03F 
+ 149      9CCE6334 
+ 149      4D14E3
+ 150 0169 42CBE4E1 		.ascii	"B\313\344\341,FSG\303\305[7\007\263\2052\006_\337u\361"
+ 150      2C465347 
+ 150      C3C55B37 
+ 150      07B38532 
+ 150      065FDF75 
+ 151 017e C36CFCAA 		.ascii	"\303l\374\252Hd\003\3379\262\322\231\313B\272`\033\360"
+ 151      486403DF 
+ 151      39B2D299 
+ 151      CB42BA60 
+ 151      1BF0
+ 152 0190 88FFE350 		.ascii	"\210\377\343P\203\222\007\305b'\322\213\035\035\363"
+ 152      839207C5 
+ 152      6227D28B 
+ 152      1D1DF3
+ 153 019f BFEA263B 		.ascii	"\277\352&;\240\037D8\223\350\317\252\2515\023\322@\274"
+ 153      A01F4438 
+ 153      93E8CFAA 
+ 153      A93513D2 
+ 153      40BC
+ 154 01b1 6E925BC6 		.ascii	"n\222[\306\301i\024\256\027\205\203sP\214\011,\025\316"
+ 154      C16914AE 
+ 154      17858373 
+ 154      508C092C 
+ 154      15CE
+ 155 01c3 E2611F1E 		.ascii	"\342a\037\036b\253\003\235\373\374\242\216\307j\012"
+ 155      62AB039D 
+ 155      FBFCA28E 
+ 155      C76A0A
+ 156 01d2 B68B4DD6 		.ascii	"\266\213M\326\266\257\255[X\363\002\276a\0270\000\332"
+ 156      B6AFAD5B 
+ 156      58F302BE 
+ 156      61173000 
+ 156      DA
+ 157 01e3 0D2C7CD4 		.ascii	"\015,|\324\376\206P\313X|u\273wE\247\351\374}\307S\355"
+ 157      FE8650CB 
+ 157      587C75BB 
+ 157      7745A7E9 
+ 157      FC7DC753 
+ 158 01f8 C4574FFE 		.ascii	"\304WO\376U\024`5p>E\250\363q\241\002L\250\371\341\375"
+ 158      55146035 
+ 158      703E45A8 
+ 158      F371A102 
+ 158      4CA8F9E1 
+ 159 020d FB73040F 		.ascii	"\373s\004\017\244iaT\265\3708\3241\"\260P\241_\363\221"
+ 159      A4696154 
+ 159      B5F838D4 
+ 159      3122B050 
+ 159      A15FF391 
+ 160 0221 C8A11501 		.ascii	"\310\241\025\001\304bF2\326B\204g8()\204\347\220\342"
+ 160      C4624632 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 12
+
+
+ 160      D6428467 
+ 160      38282984 
+ 160      E790E2
+ 161 0234 B748D1A8 		.ascii	"\267H\321\250Q\274\210\363\016\342\274\252^nU\257!\244"
+ 161      51BC88F3 
+ 161      0EE2BCAA 
+ 161      5E6E55AF 
+ 161      21A4
+ 162 0246 7821A997 		.ascii	"x!\251\227QL\254\210\267q\304\253c2\014%d\010\267}6"
+ 162      514CAC88 
+ 162      B771C4AB 
+ 162      63320C25 
+ 162      6408B77D 
+ 163 025b 9AB7A60C 		.ascii	"\232\267\246\014A&\303p\\\206\373=gz\363\204\203*\005"
+ 163      4126C370 
+ 163      5C86FB3D 
+ 163      677AF384 
+ 163      832A05
+ 164 026e 6F2432B9 		.ascii	"o$2\271\001\205X \261\331\306\245\027\332\311\227q!"
+ 164      01855820 
+ 164      B1D9C6A5 
+ 164      17DAC997 
+ 164      7121
+ 165 0280 B00A4652 		.ascii	"\260\012FR\204\030\211\0131\312\204\230\356\236j\202"
+ 165      8418890B 
+ 165      31CA8498 
+ 165      EE9E6A82 
+ 166 0290 D496749A 		.ascii	"\324\226t\232d\317\261\264\335\237\375\375Q\273(L\251"
+ 166      64CFB1B4 
+ 166      DD9FFDFD 
+ 166      51BB284C 
+ 166      A9
+ 167 02a1 2DBBEEFA 		.ascii	"-\273\356\372\226$\326\322\027:\336dRW\234\026\300x"
+ 167      9624D6D2 
+ 167      173ADE64 
+ 167      52579C16 
+ 167      C078
+ 168 02b3 4ABBF178 		.ascii	"J\273\361x\273\011\326N\211\036\034\006\351@b]X~|c8"
+ 168      BB09D64E 
+ 168      891E1C06 
+ 168      E940625D 
+ 168      587E7C63 
+ 169 02c8 B804124B 		.ascii	"\270\004\022K\306'\375\251\265\014\334\323\013\013j"
+ 169      C627FDA9 
+ 169      B50CDCD3 
+ 169      0B0B6A
+ 170 02d7 BB40EBB5 		.ascii	"\273@\353\265\313\242\330L\247|\262E\343\203}\336U)"
+ 170      CBA2D84C 
+ 170      A77CB245 
+ 170      E3837DDE 
+ 170      5529
+ 171 02e9 B1C0EE9F 		.ascii	"\261\300\356\237\245)Br\340\012\362\273\234\274\221"
+ 171      A5294272 
+ 171      E00AF2BB 
+ 171      9CBC91
+ 172 02f8 4948AEF0 		.ascii	"IH\256\360\343\310S\377\277\302\321_\216\256f\245\262"
+ 172      E3C853FF 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 13
+
+
+ 172      BFC2D15F 
+ 172      8EAE66A5 
+ 172      B2
+ 173 0309 A0A04916 		.ascii	"\240\240I\026!\215E\210\261\270\323\364\303\365\264"
+ 173      218D4588 
+ 173      B1B8D3F4 
+ 173      C3F5B4
+ 174 0318 E4601AE5 		.ascii	"\344`\032\345\260\226\034f\311\201\231\333?\012\302"
+ 174      B0961C66 
+ 174      C98199DB 
+ 174      3F0AC2
+ 175 0327 AFE97B69 		.ascii	"\257\351{iR\367\262\355\336\362\271\034\026\342?\001"
+ 175      52F7B2ED 
+ 175      DEF2B91C 
+ 175      16E23F01 
+ 176 0337 3DF8FCC1 		.ascii	"=\370\374\301\237\203\271\302}\226\314w]\375\273\303"
+ 176      9F83B9C2 
+ 176      7D96CC77 
+ 176      5DFDBBC3 
+ 177 0347 A0B15D08 		.ascii	"\240\261]\010\364\030\010\300u\234\352j\222\252)\365"
+ 177      F41808C0 
+ 177      759CEA6A 
+ 177      92AA29F5 
+ 178 0357 C78A64F5 		.ascii	"\307\212d\365\033\271\304M\3035dj\322\230\316\340\341"
+ 178      1BB9C44D 
+ 178      C335646A 
+ 178      D298CEE0 
+ 178      E1
+ 179 0368 ACCA74FC 		.ascii	"\254\312t\374\326\247\323\222\252\372\223U\360\237t"
+ 179      D6A7D392 
+ 179      AAFA9355 
+ 179      F09F74
+ 180 0377 D587B3E3 		.ascii	"\325\207\263\343sx\372:yBt0\207\223L''\371.M\364L\340"
+ 180      7378FA3A 
+ 180      79427430 
+ 180      87934C27 
+ 180      27F92E4D 
+ 181 038e 1B6B8C12 		.ascii	"\033k\214\022\036\272\233\246\343\\\232\350\363\232"
+ 181      1EBA9BA6 
+ 181      E35C9AE8 
+ 181      F39A
+ 182 039c 8EF42999 		.ascii	"\216\364)\231]VW\255e\257\265R\226\253\263v\276\376"
+ 182      5D5657AD 
+ 182      65AFB552 
+ 182      96ABB376 
+ 182      BEFE
+ 183 03ae A6C9CC99 		.ascii	"\246\311\314\231J\313w\312UrM\205S\336\375\266\325Q"
+ 183      4ACB77CA 
+ 183      55724D85 
+ 183      53DEFDB6 
+ 183      D551
+ 184 03c0 576393CB 		.ascii	"Wc\223\313-V\207\371\371r\233\313\262\267\324\306\345"
+ 184      2D5687F9 
+ 184      F9729BCB 
+ 184      B2B7D4C6 
+ 184      E5
+ 185 03d1 6B452F61 		.ascii	"kE/a\215ZXg\257rn\331\374\354:\205NW\265\\[\372\036"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 14
+
+
+ 185      8D5A5867 
+ 185      AF726ED9 
+ 185      FCEC3A85 
+ 185      4E57B55C 
+ 186 03e8 57106F28 		.ascii	"W\020o(;\337\252x_\256\253.sT\356v\354\331\243\247\020"
+ 186      3BDFAA78 
+ 186      5FAEAB2E 
+ 186      7354EE76 
+ 186      ECD9A3A7 
+ 187 03fd DB9F36BB 		.ascii	"\333\2376\273^\376\300\3564\327\330\235v[E\245U\266"
+ 187      5EFEC0EE 
+ 187      34D7D89D 
+ 187      765B45A5 
+ 187      55B6
+ 188 040f 39ED8EAA 		.ascii	"9\355\216\252\2425q\315\256\327\354\357 \252\021\353"
+ 188      A23571CD 
+ 188      AED7ECEF 
+ 188      20AA11EB 
+ 189 041f AA9C724D 		.ascii	"\252\234rMF\241\276F~w\313f\372\271i+\233q\323\326\377"
+ 189      46A1BE46 
+ 189      7E77CB66 
+ 189      FAB9692B 
+ 189      9B71D3D6 
+ 190 0434 00681C37 		.ascii	"\000h\0347~"
+ 190      7E
+ 191              		.text
+ 192              		.section	.gnu.lto_.symtab.91bc9a84,"",%progbits
+ 193 0000 43795379 		.ascii	"CySysPmSleep\000\000\000\000\000\000\000\000\000\000"
+ 193      73506D53 
+ 193      6C656570 
+ 193      00000000 
+ 193      00000000 
+ 194 0016 0000AC00 		.ascii	"\000\000\254\000\000\000CySysPmDeepSleep\000\000\000"
+ 194      00004379 
+ 194      53797350 
+ 194      6D446565 
+ 194      70536C65 
+ 195 002f 00000000 		.ascii	"\000\000\000\000\000\000\000\000\000\256\000\000\000"
+ 195      00000000 
+ 195      00AE0000 
+ 195      00
+ 196 003c 43795379 		.ascii	"CySysPmSetWakeupHoldoff\000\000\000\000\000\000\000"
+ 196      73506D53 
+ 196      65745761 
+ 196      6B657570 
+ 196      486F6C64 
+ 197 005a 00000000 		.ascii	"\000\000\000\000\000\271\000\000\000CyExitCriticalS"
+ 197      00B90000 
+ 197      00437945 
+ 197      78697443 
+ 197      72697469 
+ 198 0072 65637469 		.ascii	"ection\000\000\002\000\000\000\000\000\000\000\000\000"
+ 198      6F6E0000 
+ 198      02000000 
+ 198      00000000 
+ 198      0000
+ 199 0084 C2000000 		.ascii	"\302\000\000\000CyEnterCriticalSection\000\000\002\000"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 15
+
+
+ 199      4379456E 
+ 199      74657243 
+ 199      72697469 
+ 199      63616C53 
+ 200 00a2 00000000 		.ascii	"\000\000\000\000\000\000\000\000\305\000\000\000"
+ 200      00000000 
+ 200      C5000000 
+ 201              		.text
+ 202              		.section	.gnu.lto_.opts,"",%progbits
+ 203 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
+ 203      6F2D7472 
+ 203      61707627 
+ 203      20272D6D 
+ 203      6370753D 
+ 204 0033 20272D57 		.ascii	" '-Werror' '-ffunction-sections' '-finline-function"
+ 204      6572726F 
+ 204      72272027 
+ 204      2D666675 
+ 204      6E637469 
+ 205 0066 73272027 		.ascii	"s' '-flto' '-ffat-lto-objects' '-fno-strict-aliasin"
+ 205      2D666C74 
+ 205      6F272027 
+ 205      2D666661 
+ 205      742D6C74 
+ 206 0099 672700   		.ascii	"g'\000"
+ 207              		.text
+ 208              		.cfi_sections	.debug_frame
+ 209              		.section	.text.CySysPmSleep,"ax",%progbits
+ 210              		.align	1
+ 211              		.global	CySysPmSleep
+ 212              		.code	16
+ 213              		.thumb_func
+ 214              		.type	CySysPmSleep, %function
+ 215              	CySysPmSleep:
+ 216              	.LFB0:
+ 217              		.file 1 ".\\Generated_Source\\PSoC4\\cyPm.c"
+   1:.\Generated_Source\PSoC4/cyPm.c **** /***************************************************************************//**
+   2:.\Generated_Source\PSoC4/cyPm.c **** * \file cyPm.c
+   3:.\Generated_Source\PSoC4/cyPm.c **** * \version 5.40
+   4:.\Generated_Source\PSoC4/cyPm.c **** *
+   5:.\Generated_Source\PSoC4/cyPm.c **** * \brief Provides an API for the power management.
+   6:.\Generated_Source\PSoC4/cyPm.c **** *
+   7:.\Generated_Source\PSoC4/cyPm.c **** * \note Documentation of the API's in this file is located in the System
+   8:.\Generated_Source\PSoC4/cyPm.c **** * Reference Guide provided with PSoC Creator.
+   9:.\Generated_Source\PSoC4/cyPm.c **** *
+  10:.\Generated_Source\PSoC4/cyPm.c **** ********************************************************************************
+  11:.\Generated_Source\PSoC4/cyPm.c **** * \copyright
+  12:.\Generated_Source\PSoC4/cyPm.c **** * Copyright 2011-2016, Cypress Semiconductor Corporation.  All rights reserved.
+  13:.\Generated_Source\PSoC4/cyPm.c **** * You may use this file only in accordance with the license, terms, conditions,
+  14:.\Generated_Source\PSoC4/cyPm.c **** * disclaimers, and limitations in the end user license agreement accompanying
+  15:.\Generated_Source\PSoC4/cyPm.c **** * the software package with which this file was provided.
+  16:.\Generated_Source\PSoC4/cyPm.c **** *******************************************************************************/
+  17:.\Generated_Source\PSoC4/cyPm.c **** 
+  18:.\Generated_Source\PSoC4/cyPm.c **** #include "cyPm.h"
+  19:.\Generated_Source\PSoC4/cyPm.c **** #include "CyLib.h"
+  20:.\Generated_Source\PSoC4/cyPm.c **** 
+  21:.\Generated_Source\PSoC4/cyPm.c **** 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 16
+
+
+  22:.\Generated_Source\PSoC4/cyPm.c **** /*******************************************************************************
+  23:.\Generated_Source\PSoC4/cyPm.c **** * Function Name: CySysPmSleep
+  24:.\Generated_Source\PSoC4/cyPm.c **** ****************************************************************************//**
+  25:.\Generated_Source\PSoC4/cyPm.c **** *
+  26:.\Generated_Source\PSoC4/cyPm.c **** * Puts the part into the Sleep state. This is a CPU-centric power mode.
+  27:.\Generated_Source\PSoC4/cyPm.c **** * It means that the CPU has indicated that it is in the sleep mode and
+  28:.\Generated_Source\PSoC4/cyPm.c **** * its main clock can be removed. It is identical to Active from a peripheral
+  29:.\Generated_Source\PSoC4/cyPm.c **** * point of view. Any enabled interrupts can cause wakeup from the Sleep mode.
+  30:.\Generated_Source\PSoC4/cyPm.c **** *
+  31:.\Generated_Source\PSoC4/cyPm.c **** *******************************************************************************/
+  32:.\Generated_Source\PSoC4/cyPm.c **** void CySysPmSleep(void)
+  33:.\Generated_Source\PSoC4/cyPm.c **** {
+ 218              		.loc 1 33 0
+ 219              		.cfi_startproc
+ 220 0000 08B5     		push	{r3, lr}
+ 221              		.cfi_def_cfa_offset 8
+ 222              		.cfi_offset 3, -8
+ 223              		.cfi_offset 14, -4
+  34:.\Generated_Source\PSoC4/cyPm.c ****     uint8 interruptState;
+  35:.\Generated_Source\PSoC4/cyPm.c **** 
+  36:.\Generated_Source\PSoC4/cyPm.c ****     interruptState = CyEnterCriticalSection();
+ 224              		.loc 1 36 0
+ 225 0002 FFF7FEFF 		bl	CyEnterCriticalSection
+ 226              	.LVL0:
+  37:.\Generated_Source\PSoC4/cyPm.c **** 
+  38:.\Generated_Source\PSoC4/cyPm.c ****     /* CPU enters Sleep mode upon execution of WFI */
+  39:.\Generated_Source\PSoC4/cyPm.c ****     CY_PM_CPU_SCR_REG &= (uint32) (~CY_PM_CPU_SCR_SLEEPDEEP);
+ 227              		.loc 1 39 0
+ 228 0006 0421     		mov	r1, #4
+ 229 0008 034A     		ldr	r2, .L2
+ 230 000a 1368     		ldr	r3, [r2]
+ 231 000c 8B43     		bic	r3, r1
+ 232 000e 1360     		str	r3, [r2]
+  40:.\Generated_Source\PSoC4/cyPm.c **** 
+  41:.\Generated_Source\PSoC4/cyPm.c ****     /* Sleep and wait for interrupt */
+  42:.\Generated_Source\PSoC4/cyPm.c ****     CY_PM_WFI;
+ 233              		.loc 1 42 0
+ 234              	@ 42 ".\Generated_Source\PSoC4\cyPm.c" 1
+ 235 0010 30BF     		WFI 
+ 236              	
+ 237              	@ 0 "" 2
+  43:.\Generated_Source\PSoC4/cyPm.c **** 
+  44:.\Generated_Source\PSoC4/cyPm.c ****     CyExitCriticalSection(interruptState);
+ 238              		.loc 1 44 0
+ 239              		.code	16
+ 240 0012 FFF7FEFF 		bl	CyExitCriticalSection
+ 241              	.LVL1:
+  45:.\Generated_Source\PSoC4/cyPm.c **** }
+ 242              		.loc 1 45 0
+ 243              		@ sp needed
+ 244 0016 08BD     		pop	{r3, pc}
+ 245              	.L3:
+ 246              		.align	2
+ 247              	.L2:
+ 248 0018 10ED00E0 		.word	-536810224
+ 249              		.cfi_endproc
+ 250              	.LFE0:
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 17
+
+
+ 251              		.size	CySysPmSleep, .-CySysPmSleep
+ 252              		.section	.text.CySysPmDeepSleep,"ax",%progbits
+ 253              		.align	1
+ 254              		.global	CySysPmDeepSleep
+ 255              		.code	16
+ 256              		.thumb_func
+ 257              		.type	CySysPmDeepSleep, %function
+ 258              	CySysPmDeepSleep:
+ 259              	.LFB1:
+  46:.\Generated_Source\PSoC4/cyPm.c **** 
+  47:.\Generated_Source\PSoC4/cyPm.c **** 
+  48:.\Generated_Source\PSoC4/cyPm.c **** /*******************************************************************************
+  49:.\Generated_Source\PSoC4/cyPm.c **** * Function Name: CySysPmDeepSleep
+  50:.\Generated_Source\PSoC4/cyPm.c **** ****************************************************************************//**
+  51:.\Generated_Source\PSoC4/cyPm.c **** *
+  52:.\Generated_Source\PSoC4/cyPm.c **** * Puts the part into the Deep Sleep state. If the firmware attempts to enter
+  53:.\Generated_Source\PSoC4/cyPm.c **** * this mode before the system is ready (that is, when
+  54:.\Generated_Source\PSoC4/cyPm.c **** * PWR_CONTROL.LPM_READY = 0), then the device will go into the Sleep mode
+  55:.\Generated_Source\PSoC4/cyPm.c **** * instead and automatically enter the originally intended mode when the
+  56:.\Generated_Source\PSoC4/cyPm.c **** * holdoff expires.
+  57:.\Generated_Source\PSoC4/cyPm.c **** *
+  58:.\Generated_Source\PSoC4/cyPm.c **** * The wakeup occurs when an interrupt is received from a DeepSleep or
+  59:.\Generated_Source\PSoC4/cyPm.c **** * Hibernate peripheral. For more details, see a corresponding
+  60:.\Generated_Source\PSoC4/cyPm.c **** * peripheral's datasheet.
+  61:.\Generated_Source\PSoC4/cyPm.c **** *
+  62:.\Generated_Source\PSoC4/cyPm.c **** *******************************************************************************/
+  63:.\Generated_Source\PSoC4/cyPm.c **** void CySysPmDeepSleep(void)
+  64:.\Generated_Source\PSoC4/cyPm.c **** {
+ 260              		.loc 1 64 0
+ 261              		.cfi_startproc
+ 262 0000 08B5     		push	{r3, lr}
+ 263              		.cfi_def_cfa_offset 8
+ 264              		.cfi_offset 3, -8
+ 265              		.cfi_offset 14, -4
+  65:.\Generated_Source\PSoC4/cyPm.c ****     uint8 interruptState;
+  66:.\Generated_Source\PSoC4/cyPm.c ****     #if(CY_IP_SRSSV2)
+  67:.\Generated_Source\PSoC4/cyPm.c ****         volatile uint32 clkSelectReg;
+  68:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_SRSSV2) */
+  69:.\Generated_Source\PSoC4/cyPm.c **** 
+  70:.\Generated_Source\PSoC4/cyPm.c ****     interruptState = CyEnterCriticalSection();
+ 266              		.loc 1 70 0
+ 267 0002 FFF7FEFF 		bl	CyEnterCriticalSection
+ 268              	.LVL2:
+  71:.\Generated_Source\PSoC4/cyPm.c **** 
+  72:.\Generated_Source\PSoC4/cyPm.c ****     #if(CY_IP_SRSSV2)
+  73:.\Generated_Source\PSoC4/cyPm.c ****         /* Device enters DeepSleep mode when CPU asserts SLEEPDEEP signal */
+  74:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_CONTROL_REG &= (uint32) (~CY_PM_PWR_CONTROL_HIBERNATE);
+  75:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_SRSSV2) */
+  76:.\Generated_Source\PSoC4/cyPm.c **** 
+  77:.\Generated_Source\PSoC4/cyPm.c ****     #if (CY_IP_CPUSS && CY_IP_SRSSV2)
+  78:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_CPUSS_CONFIG_REG |= CY_PM_CPUSS_CONFIG_FLSH_ACC_BYPASS;
+  79:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_CPUSS && CY_IP_SRSSV2) */
+  80:.\Generated_Source\PSoC4/cyPm.c **** 
+  81:.\Generated_Source\PSoC4/cyPm.c ****     /* Adjust delay to wait for references to settle on wakeup from Deep Sleep */
+  82:.\Generated_Source\PSoC4/cyPm.c ****     CY_PM_PWR_KEY_DELAY_REG = CY_SFLASH_DPSLP_KEY_DELAY_REG;
+  83:.\Generated_Source\PSoC4/cyPm.c **** 
+  84:.\Generated_Source\PSoC4/cyPm.c ****     /* CPU enters DeepSleep/Hibernate mode upon execution of WFI */
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 18
+
+
+  85:.\Generated_Source\PSoC4/cyPm.c ****     CY_PM_CPU_SCR_REG |= CY_PM_CPU_SCR_SLEEPDEEP;
+ 269              		.loc 1 85 0
+ 270 0006 0421     		mov	r1, #4
+  82:.\Generated_Source\PSoC4/cyPm.c **** 
+ 271              		.loc 1 82 0
+ 272 0008 064B     		ldr	r3, .L5
+ 273 000a 074A     		ldr	r2, .L5+4
+ 274 000c 1B88     		ldrh	r3, [r3]
+ 275 000e 9BB2     		uxth	r3, r3
+ 276 0010 1360     		str	r3, [r2]
+ 277              		.loc 1 85 0
+ 278 0012 064A     		ldr	r2, .L5+8
+ 279 0014 1368     		ldr	r3, [r2]
+ 280 0016 0B43     		orr	r3, r1
+ 281 0018 1360     		str	r3, [r2]
+  86:.\Generated_Source\PSoC4/cyPm.c **** 
+  87:.\Generated_Source\PSoC4/cyPm.c ****     #if(CY_IP_SRSSV2)
+  88:.\Generated_Source\PSoC4/cyPm.c ****         /* Preserve system clock configuration and
+  89:.\Generated_Source\PSoC4/cyPm.c ****         * reduce sysclk to <=12 MHz (Cypress ID #158710, #179888).
+  90:.\Generated_Source\PSoC4/cyPm.c ****         */
+  91:.\Generated_Source\PSoC4/cyPm.c ****         clkSelectReg = CY_SYS_CLK_SELECT_REG;
+  92:.\Generated_Source\PSoC4/cyPm.c ****         CySysClkWriteSysclkDiv(CY_SYS_CLK_SYSCLK_DIV4);
+  93:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_SRSSV2) */
+  94:.\Generated_Source\PSoC4/cyPm.c **** 
+  95:.\Generated_Source\PSoC4/cyPm.c ****     /* Sleep and wait for interrupt */
+  96:.\Generated_Source\PSoC4/cyPm.c ****     CY_PM_WFI;
+ 282              		.loc 1 96 0
+ 283              	@ 96 ".\Generated_Source\PSoC4\cyPm.c" 1
+ 284 001a 30BF     		WFI 
+ 285              	
+ 286              	@ 0 "" 2
+  97:.\Generated_Source\PSoC4/cyPm.c **** 
+  98:.\Generated_Source\PSoC4/cyPm.c ****     #if(CY_IP_SRSSV2)
+  99:.\Generated_Source\PSoC4/cyPm.c ****         /* Restore system clock configuration */
+ 100:.\Generated_Source\PSoC4/cyPm.c ****         CY_SYS_CLK_SELECT_REG = clkSelectReg;
+ 101:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_SRSSV2) */
+ 102:.\Generated_Source\PSoC4/cyPm.c **** 
+ 103:.\Generated_Source\PSoC4/cyPm.c ****     #if (CY_IP_CPUSS && CY_IP_SRSSV2)
+ 104:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_CPUSS_CONFIG_REG &= (uint32) (~CY_PM_CPUSS_CONFIG_FLSH_ACC_BYPASS);
+ 105:.\Generated_Source\PSoC4/cyPm.c ****     #endif /* (CY_IP_CPUSS && CY_IP_SRSSV2) */
+ 106:.\Generated_Source\PSoC4/cyPm.c **** 
+ 107:.\Generated_Source\PSoC4/cyPm.c ****     CyExitCriticalSection(interruptState);
+ 287              		.loc 1 107 0
+ 288              		.code	16
+ 289 001c FFF7FEFF 		bl	CyExitCriticalSection
+ 290              	.LVL3:
+ 108:.\Generated_Source\PSoC4/cyPm.c **** }
+ 291              		.loc 1 108 0
+ 292              		@ sp needed
+ 293 0020 08BD     		pop	{r3, pc}
+ 294              	.L6:
+ 295 0022 C046     		.align	2
+ 296              	.L5:
+ 297 0024 52F2FF0F 		.word	268431954
+ 298 0028 04000340 		.word	1073938436
+ 299 002c 10ED00E0 		.word	-536810224
+ 300              		.cfi_endproc
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 19
+
+
+ 301              	.LFE1:
+ 302              		.size	CySysPmDeepSleep, .-CySysPmDeepSleep
+ 303              		.section	.text.CySysPmSetWakeupHoldoff,"ax",%progbits
+ 304              		.align	1
+ 305              		.global	CySysPmSetWakeupHoldoff
+ 306              		.code	16
+ 307              		.thumb_func
+ 308              		.type	CySysPmSetWakeupHoldoff, %function
+ 309              	CySysPmSetWakeupHoldoff:
+ 310              	.LFB2:
+ 109:.\Generated_Source\PSoC4/cyPm.c **** 
+ 110:.\Generated_Source\PSoC4/cyPm.c **** 
+ 111:.\Generated_Source\PSoC4/cyPm.c **** #if(CY_IP_SRSSV2)
+ 112:.\Generated_Source\PSoC4/cyPm.c **** 
+ 113:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 114:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmHibernate
+ 115:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 116:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 117:.\Generated_Source\PSoC4/cyPm.c ****     * Puts the part into the Hibernate state. Only SRAM and UDBs are retained;
+ 118:.\Generated_Source\PSoC4/cyPm.c ****     * most internal supplies are off. Wakeup is possible from a pin or a hibernate
+ 119:.\Generated_Source\PSoC4/cyPm.c ****     * comparator only.
+ 120:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 121:.\Generated_Source\PSoC4/cyPm.c ****     * It is expected that the firmware has already frozen the IO-Cells using
+ 122:.\Generated_Source\PSoC4/cyPm.c ****     * CySysPmFreezeIo() function before the call to this function. If this is
+ 123:.\Generated_Source\PSoC4/cyPm.c ****     * omitted, the IO-cells will be frozen in the same way as they are
+ 124:.\Generated_Source\PSoC4/cyPm.c ****     * in the Active to Deep Sleep transition, but will lose their state on wake up
+ 125:.\Generated_Source\PSoC4/cyPm.c ****     * (because of the reset occurring at that time).
+ 126:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 127:.\Generated_Source\PSoC4/cyPm.c ****     * Because all the CPU state is lost, the CPU will start up at the reset vector.
+ 128:.\Generated_Source\PSoC4/cyPm.c ****     * To save the firmware state through the Hibernate low power mode, a
+ 129:.\Generated_Source\PSoC4/cyPm.c ****     * corresponding variable should be defined with CY_NOINIT attribute. It
+ 130:.\Generated_Source\PSoC4/cyPm.c ****     * prevents data from being initialized to zero on startup. The interrupt
+ 131:.\Generated_Source\PSoC4/cyPm.c ****     * cause of the hibernate peripheral is retained, such that it can be either
+ 132:.\Generated_Source\PSoC4/cyPm.c ****     * read by the firmware or cause an interrupt after the firmware has booted and
+ 133:.\Generated_Source\PSoC4/cyPm.c ****     * enabled the corresponding interrupt. To distinguish the wakeup from
+ 134:.\Generated_Source\PSoC4/cyPm.c ****     * the Hibernate mode and the general Reset event, the
+ 135:.\Generated_Source\PSoC4/cyPm.c ****     * \ref CySysPmGetResetReason() function could be used.
+ 136:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 137:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 138:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmHibernate(void)
+ 139:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 140:.\Generated_Source\PSoC4/cyPm.c ****         uint8 interruptState;
+ 141:.\Generated_Source\PSoC4/cyPm.c **** 
+ 142:.\Generated_Source\PSoC4/cyPm.c ****         interruptState = CyEnterCriticalSection();
+ 143:.\Generated_Source\PSoC4/cyPm.c **** 
+ 144:.\Generated_Source\PSoC4/cyPm.c ****         #if (CY_IP_HOBTO_DEVICE)
+ 145:.\Generated_Source\PSoC4/cyPm.c ****             /* Disable input buffers for all ports */
+ 146:.\Generated_Source\PSoC4/cyPm.c ****             CySysPmHibPinsDisableInputBuf();
+ 147:.\Generated_Source\PSoC4/cyPm.c ****         #endif /* (CY_IP_HOBTO_DEVICE) */
+ 148:.\Generated_Source\PSoC4/cyPm.c **** 
+ 149:.\Generated_Source\PSoC4/cyPm.c ****         /* Device enters Hibernate mode when CPU asserts SLEEPDEEP signal */
+ 150:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_CONTROL_REG |= CY_PM_PWR_CONTROL_HIBERNATE;
+ 151:.\Generated_Source\PSoC4/cyPm.c **** 
+ 152:.\Generated_Source\PSoC4/cyPm.c ****         /* Adjust delay to wait for references to settle on wakeup from hibernate */
+ 153:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_KEY_DELAY_REG = CY_SFLASH_HIB_KEY_DELAY_REG;
+ 154:.\Generated_Source\PSoC4/cyPm.c **** 
+ 155:.\Generated_Source\PSoC4/cyPm.c ****         /* CPU enters DeepSleep/Hibernate mode upon execution of WFI */
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 20
+
+
+ 156:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_CPU_SCR_REG |= CY_PM_CPU_SCR_SLEEPDEEP;
+ 157:.\Generated_Source\PSoC4/cyPm.c **** 
+ 158:.\Generated_Source\PSoC4/cyPm.c ****         /* Save token that will retain through a STOP/WAKEUP sequence
+ 159:.\Generated_Source\PSoC4/cyPm.c ****          * thus could be used by CySysPmGetResetReason() to differentiate
+ 160:.\Generated_Source\PSoC4/cyPm.c ****          * WAKEUP from a general RESET event.
+ 161:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 162:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG = (CY_PM_PWR_STOP_REG & (uint32)(~CY_PM_PWR_STOP_TOKEN_MASK)) | CY_PM_PW
+ 163:.\Generated_Source\PSoC4/cyPm.c **** 
+ 164:.\Generated_Source\PSoC4/cyPm.c ****         /* Sleep and wait for interrupt. Wakeup from Hibernate is performed
+ 165:.\Generated_Source\PSoC4/cyPm.c ****          * through RESET state, causing a normal Boot procedure to occur.
+ 166:.\Generated_Source\PSoC4/cyPm.c ****          * The WFI instruction doesn't put the core to sleep if its wake condition
+ 167:.\Generated_Source\PSoC4/cyPm.c ****          * is true when the instruction is executed.
+ 168:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 169:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_WFI;
+ 170:.\Generated_Source\PSoC4/cyPm.c **** 
+ 171:.\Generated_Source\PSoC4/cyPm.c ****         CyExitCriticalSection(interruptState);
+ 172:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 173:.\Generated_Source\PSoC4/cyPm.c **** 
+ 174:.\Generated_Source\PSoC4/cyPm.c **** 
+ 175:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 176:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmStop
+ 177:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 178:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 179:.\Generated_Source\PSoC4/cyPm.c ****     * Puts the part into the Stop state. All internal supplies are off;
+ 180:.\Generated_Source\PSoC4/cyPm.c ****     * no state is retained.
+ 181:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 182:.\Generated_Source\PSoC4/cyPm.c ****     * Wakeup from Stop is performed by toggling the wakeup pin, causing
+ 183:.\Generated_Source\PSoC4/cyPm.c ****     * a normal boot procedure to occur. To configure the wakeup pin,
+ 184:.\Generated_Source\PSoC4/cyPm.c ****     * the Digital Input Pin component should be placed on the schematic,
+ 185:.\Generated_Source\PSoC4/cyPm.c ****     * assigned to the wakeup pin, and resistively pulled up or down to the inverse
+ 186:.\Generated_Source\PSoC4/cyPm.c ****     * state of the wakeup polarity. To distinguish the wakeup from the Stop mode
+ 187:.\Generated_Source\PSoC4/cyPm.c ****     * and the general Reset event, \ref CySysPmGetResetReason() function could be
+ 188:.\Generated_Source\PSoC4/cyPm.c ****     * used.  The wakeup pin is active low by default. The wakeup pin polarity
+ 189:.\Generated_Source\PSoC4/cyPm.c ****     * could be changed with the \ref CySysPmSetWakeupPolarity() function.
+ 190:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 191:.\Generated_Source\PSoC4/cyPm.c ****     * This function freezes IO cells implicitly. It is not possible to enter
+ 192:.\Generated_Source\PSoC4/cyPm.c ****     * the STOP mode before freezing the IO cells. The IO cells remain frozen after
+ 193:.\Generated_Source\PSoC4/cyPm.c ****     * awake from the Stop mode until the firmware unfreezes them after booting
+ 194:.\Generated_Source\PSoC4/cyPm.c ****     * explicitly with \ref CySysPmUnfreezeIo() function call.
+ 195:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 196:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 197:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmStop(void)
+ 198:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 199:.\Generated_Source\PSoC4/cyPm.c ****         (void) CyEnterCriticalSection();
+ 200:.\Generated_Source\PSoC4/cyPm.c **** 
+ 201:.\Generated_Source\PSoC4/cyPm.c ****         /* Update token to indicate Stop mode transition. Preserve only polarity. */
+ 202:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG = (CY_PM_PWR_STOP_REG & CY_PM_PWR_STOP_POLARITY) | CY_PM_PWR_STOP_TOKEN_
+ 203:.\Generated_Source\PSoC4/cyPm.c **** 
+ 204:.\Generated_Source\PSoC4/cyPm.c ****         /* Freeze IO-Cells to save IO-Cell state */
+ 205:.\Generated_Source\PSoC4/cyPm.c ****         CySysPmFreezeIo();
+ 206:.\Generated_Source\PSoC4/cyPm.c **** 
+ 207:.\Generated_Source\PSoC4/cyPm.c ****         /* Initiates transition to Stop state */
+ 208:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG = CY_PM_PWR_STOP_REG | CY_PM_PWR_STOP_STOP;
+ 209:.\Generated_Source\PSoC4/cyPm.c **** 
+ 210:.\Generated_Source\PSoC4/cyPm.c ****         /* Depending on the clock frequency and internal timing delays,
+ 211:.\Generated_Source\PSoC4/cyPm.c ****          * the final AHB transaction may or may not complete. To guard against
+ 212:.\Generated_Source\PSoC4/cyPm.c ****          * accidentally executing an unintended instruction, it is recommended
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 21
+
+
+ 213:.\Generated_Source\PSoC4/cyPm.c ****          * to add 2 NOP cycles after the final write to the STOP register.
+ 214:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 215:.\Generated_Source\PSoC4/cyPm.c ****         CY_NOP;
+ 216:.\Generated_Source\PSoC4/cyPm.c ****         CY_NOP;
+ 217:.\Generated_Source\PSoC4/cyPm.c **** 
+ 218:.\Generated_Source\PSoC4/cyPm.c ****         /* Should never get to this WFI instruction */
+ 219:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_WFI;
+ 220:.\Generated_Source\PSoC4/cyPm.c **** 
+ 221:.\Generated_Source\PSoC4/cyPm.c ****         /* Wakeup from Stop is performed by toggling of Wakeup pin,
+ 222:.\Generated_Source\PSoC4/cyPm.c ****          * causing a normal Boot procedure to occur. No need to exit
+ 223:.\Generated_Source\PSoC4/cyPm.c ****          * from the critical section.
+ 224:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 225:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 226:.\Generated_Source\PSoC4/cyPm.c **** 
+ 227:.\Generated_Source\PSoC4/cyPm.c **** 
+ 228:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 229:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmSetWakeupPolarity
+ 230:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 231:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 232:.\Generated_Source\PSoC4/cyPm.c ****     * Wake up from the stop mode is performed by toggling the wakeup pin,
+ 233:.\Generated_Source\PSoC4/cyPm.c ****     * causing a normal boot procedure to occur. This function assigns
+ 234:.\Generated_Source\PSoC4/cyPm.c ****     * the wakeup pin active level. Setting the wakeup pin to this level will cause
+ 235:.\Generated_Source\PSoC4/cyPm.c ****     * the wakeup from stop mode. The wakeup pin is active low by default.
+ 236:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 237:.\Generated_Source\PSoC4/cyPm.c ****     * \param polarity
+ 238:.\Generated_Source\PSoC4/cyPm.c ****     * - \ref CY_PM_STOP_WAKEUP_ACTIVE_LOW Logical zero will wakeup the chip
+ 239:.\Generated_Source\PSoC4/cyPm.c ****     * - \ref CY_PM_STOP_WAKEUP_ACTIVE_HIGH Logical one will wakeup the chip
+ 240:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 241:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 242:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmSetWakeupPolarity(uint32 polarity)
+ 243:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 244:.\Generated_Source\PSoC4/cyPm.c ****         uint8 interruptState;
+ 245:.\Generated_Source\PSoC4/cyPm.c **** 
+ 246:.\Generated_Source\PSoC4/cyPm.c ****         interruptState = CyEnterCriticalSection();
+ 247:.\Generated_Source\PSoC4/cyPm.c **** 
+ 248:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG = (CY_PM_STOP_WAKEUP_ACTIVE_LOW != polarity) ?
+ 249:.\Generated_Source\PSoC4/cyPm.c ****                             (CY_PM_PWR_STOP_REG | CY_PM_PWR_STOP_POLARITY) :
+ 250:.\Generated_Source\PSoC4/cyPm.c ****                             (CY_PM_PWR_STOP_REG & (uint32) (~CY_PM_PWR_STOP_POLARITY));
+ 251:.\Generated_Source\PSoC4/cyPm.c **** 
+ 252:.\Generated_Source\PSoC4/cyPm.c ****         CyExitCriticalSection(interruptState);
+ 253:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 254:.\Generated_Source\PSoC4/cyPm.c **** 
+ 255:.\Generated_Source\PSoC4/cyPm.c **** 
+ 256:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 257:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmGetResetReason
+ 258:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 259:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 260:.\Generated_Source\PSoC4/cyPm.c ****     * Retrieves the last reset reason - transition from OFF/XRES/STOP/HIBERNATE to
+ 261:.\Generated_Source\PSoC4/cyPm.c ****     * the RESET state. Note that waking up from STOP using XRES will be perceived
+ 262:.\Generated_Source\PSoC4/cyPm.c ****     * as a general RESET.
+ 263:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 264:.\Generated_Source\PSoC4/cyPm.c ****     * \return CY_PM_RESET_REASON_UNKN          Unknown reset reason.
+ 265:.\Generated_Source\PSoC4/cyPm.c ****     * \return CY_PM_RESET_REASON_XRES          Transition from OFF/XRES to RESET
+ 266:.\Generated_Source\PSoC4/cyPm.c ****     * \return CY_PM_RESET_REASON_WAKEUP_HIB    Transition/wakeup from HIBERNATE to RESET
+ 267:.\Generated_Source\PSoC4/cyPm.c ****     * \return CY_PM_RESET_REASON_WAKEUP_STOP   Transition/wakeup from STOP to RESET
+ 268:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 269:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 22
+
+
+ 270:.\Generated_Source\PSoC4/cyPm.c ****     uint32 CySysPmGetResetReason(void)
+ 271:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 272:.\Generated_Source\PSoC4/cyPm.c ****         uint32 reason = CY_PM_RESET_REASON_UNKN;
+ 273:.\Generated_Source\PSoC4/cyPm.c **** 
+ 274:.\Generated_Source\PSoC4/cyPm.c ****         switch(CY_PM_PWR_STOP_REG & CY_PM_PWR_STOP_TOKEN_MASK)
+ 275:.\Generated_Source\PSoC4/cyPm.c ****         {
+ 276:.\Generated_Source\PSoC4/cyPm.c ****         /* Power up, XRES */
+ 277:.\Generated_Source\PSoC4/cyPm.c ****         case CY_PM_PWR_STOP_TOKEN_XRES:
+ 278:.\Generated_Source\PSoC4/cyPm.c ****             reason = CY_PM_RESET_REASON_XRES;
+ 279:.\Generated_Source\PSoC4/cyPm.c ****             break;
+ 280:.\Generated_Source\PSoC4/cyPm.c **** 
+ 281:.\Generated_Source\PSoC4/cyPm.c ****         /* Wakeup from Hibernate */
+ 282:.\Generated_Source\PSoC4/cyPm.c ****         case CY_PM_PWR_STOP_TOKEN_HIB:
+ 283:.\Generated_Source\PSoC4/cyPm.c ****             reason = CY_PM_RESET_REASON_WAKEUP_HIB;
+ 284:.\Generated_Source\PSoC4/cyPm.c ****             break;
+ 285:.\Generated_Source\PSoC4/cyPm.c **** 
+ 286:.\Generated_Source\PSoC4/cyPm.c ****         /* Wakeup from Stop (through WAKEUP pin assert) */
+ 287:.\Generated_Source\PSoC4/cyPm.c ****         case CY_PM_PWR_STOP_TOKEN_STOP:
+ 288:.\Generated_Source\PSoC4/cyPm.c ****             reason = CY_PM_RESET_REASON_WAKEUP_STOP;
+ 289:.\Generated_Source\PSoC4/cyPm.c ****             break;
+ 290:.\Generated_Source\PSoC4/cyPm.c **** 
+ 291:.\Generated_Source\PSoC4/cyPm.c ****         /* Unknown reason */
+ 292:.\Generated_Source\PSoC4/cyPm.c ****         default:
+ 293:.\Generated_Source\PSoC4/cyPm.c ****             break;
+ 294:.\Generated_Source\PSoC4/cyPm.c ****         }
+ 295:.\Generated_Source\PSoC4/cyPm.c **** 
+ 296:.\Generated_Source\PSoC4/cyPm.c ****         return (reason);
+ 297:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 298:.\Generated_Source\PSoC4/cyPm.c **** 
+ 299:.\Generated_Source\PSoC4/cyPm.c **** 
+ 300:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 301:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmFreezeIo
+ 302:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 303:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 304:.\Generated_Source\PSoC4/cyPm.c ****     * Freezes IO-Cells directly to save the IO-Cell state on wake up from the
+ 305:.\Generated_Source\PSoC4/cyPm.c ****     * Hibernate or Stop state. It is not required to call this function before
+ 306:.\Generated_Source\PSoC4/cyPm.c ****     * entering the Stop mode, since \ref CySysPmStop() function freezes IO-Cells
+ 307:.\Generated_Source\PSoC4/cyPm.c ****     * implicitly.
+ 308:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 309:.\Generated_Source\PSoC4/cyPm.c ****     * This API is not available for PSoC 4000 family of devices.
+ 310:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 311:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 312:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmFreezeIo(void)
+ 313:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 314:.\Generated_Source\PSoC4/cyPm.c ****         uint8 interruptState;
+ 315:.\Generated_Source\PSoC4/cyPm.c **** 
+ 316:.\Generated_Source\PSoC4/cyPm.c ****         interruptState = CyEnterCriticalSection();
+ 317:.\Generated_Source\PSoC4/cyPm.c **** 
+ 318:.\Generated_Source\PSoC4/cyPm.c ****         /* Check FREEZE state to avoid recurrent IO-Cells freeze attempt,
+ 319:.\Generated_Source\PSoC4/cyPm.c ****          * since the second call to this function will cause accidental switch
+ 320:.\Generated_Source\PSoC4/cyPm.c ****          * to the STOP mode (the system will enter STOP mode immediately after
+ 321:.\Generated_Source\PSoC4/cyPm.c ****          * writing to STOP bit since both UNLOCK and FREEZE have been set correctly
+ 322:.\Generated_Source\PSoC4/cyPm.c ****          * in a previous call to this function).
+ 323:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 324:.\Generated_Source\PSoC4/cyPm.c ****         if (0u == (CY_PM_PWR_STOP_REG & CY_PM_PWR_STOP_FREEZE))
+ 325:.\Generated_Source\PSoC4/cyPm.c ****         {
+ 326:.\Generated_Source\PSoC4/cyPm.c ****             /* Preserve last reset reason and disable overrides the next freeze command by peripher
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 23
+
+
+ 327:.\Generated_Source\PSoC4/cyPm.c ****             CY_PM_PWR_STOP_REG = CY_PM_PWR_STOP_STOP | CY_PM_PWR_STOP_FREEZE | CY_PM_PWR_STOP_UNLOC
+ 328:.\Generated_Source\PSoC4/cyPm.c ****                                 (CY_PM_PWR_STOP_REG & (CY_PM_PWR_STOP_TOKEN_MASK | CY_PM_PWR_STOP_P
+ 329:.\Generated_Source\PSoC4/cyPm.c **** 
+ 330:.\Generated_Source\PSoC4/cyPm.c ****             /* If reading after writing, read this register three times to delay
+ 331:.\Generated_Source\PSoC4/cyPm.c ****             *  enough time for internal settling.
+ 332:.\Generated_Source\PSoC4/cyPm.c ****             */
+ 333:.\Generated_Source\PSoC4/cyPm.c ****             (void) CY_PM_PWR_STOP_REG;
+ 334:.\Generated_Source\PSoC4/cyPm.c ****             (void) CY_PM_PWR_STOP_REG;
+ 335:.\Generated_Source\PSoC4/cyPm.c **** 
+ 336:.\Generated_Source\PSoC4/cyPm.c ****             /* Second write causes the freeze of IO-Cells to save IO-Cell state */
+ 337:.\Generated_Source\PSoC4/cyPm.c ****             CY_PM_PWR_STOP_REG = CY_PM_PWR_STOP_REG;
+ 338:.\Generated_Source\PSoC4/cyPm.c ****         }
+ 339:.\Generated_Source\PSoC4/cyPm.c **** 
+ 340:.\Generated_Source\PSoC4/cyPm.c ****         CyExitCriticalSection(interruptState);
+ 341:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 342:.\Generated_Source\PSoC4/cyPm.c **** 
+ 343:.\Generated_Source\PSoC4/cyPm.c **** 
+ 344:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 345:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmUnfreezeIo
+ 346:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 347:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 348:.\Generated_Source\PSoC4/cyPm.c ****     * The IO-Cells remain frozen after awake from Hibernate or Stop mode until
+ 349:.\Generated_Source\PSoC4/cyPm.c ****     * the firmware unfreezes them after booting. The call of this function
+ 350:.\Generated_Source\PSoC4/cyPm.c ****     * unfreezes IO-Cells explicitly.
+ 351:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 352:.\Generated_Source\PSoC4/cyPm.c ****     * If the firmware intent is to retain the data value on the port, then the
+ 353:.\Generated_Source\PSoC4/cyPm.c ****     * value must be read and re-written to the data register before calling this
+ 354:.\Generated_Source\PSoC4/cyPm.c ****     * API. Furthermore, the drive mode must be re-programmed.  If this is not done,
+ 355:.\Generated_Source\PSoC4/cyPm.c ****     * the pin state will change to default state the moment the freeze is removed.
+ 356:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 357:.\Generated_Source\PSoC4/cyPm.c ****     * This API is not available for PSoC 4000 family of devices.
+ 358:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 359:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 360:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmUnfreezeIo(void)
+ 361:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 362:.\Generated_Source\PSoC4/cyPm.c ****         uint8 interruptState;
+ 363:.\Generated_Source\PSoC4/cyPm.c **** 
+ 364:.\Generated_Source\PSoC4/cyPm.c ****         interruptState = CyEnterCriticalSection();
+ 365:.\Generated_Source\PSoC4/cyPm.c **** 
+ 366:.\Generated_Source\PSoC4/cyPm.c ****         /* Preserve last reset reason and wakeup polarity. Then, unfreeze I/O:
+ 367:.\Generated_Source\PSoC4/cyPm.c ****          * write PWR_STOP.FREEZE=0, .UNLOCK=0x3A, .STOP=0, .TOKEN
+ 368:.\Generated_Source\PSoC4/cyPm.c ****          */
+ 369:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG = CY_PM_PWR_STOP_UNLOCK |
+ 370:.\Generated_Source\PSoC4/cyPm.c ****                             (CY_PM_PWR_STOP_REG & (CY_PM_PWR_STOP_TOKEN_MASK | CY_PM_PWR_STOP_POLAR
+ 371:.\Generated_Source\PSoC4/cyPm.c **** 
+ 372:.\Generated_Source\PSoC4/cyPm.c ****         /* If reading after writing, read this register three times to delay
+ 373:.\Generated_Source\PSoC4/cyPm.c ****         *  enough time for internal settling.
+ 374:.\Generated_Source\PSoC4/cyPm.c ****         */
+ 375:.\Generated_Source\PSoC4/cyPm.c ****         (void) CY_PM_PWR_STOP_REG;
+ 376:.\Generated_Source\PSoC4/cyPm.c ****         (void) CY_PM_PWR_STOP_REG;
+ 377:.\Generated_Source\PSoC4/cyPm.c **** 
+ 378:.\Generated_Source\PSoC4/cyPm.c ****         /* Lock STOP mode: write PWR_STOP.FREEZE=0, UNLOCK=0x00, STOP=0, .TOKEN */
+ 379:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_STOP_REG &= (CY_PM_PWR_STOP_TOKEN_MASK | CY_PM_PWR_STOP_POLARITY);
+ 380:.\Generated_Source\PSoC4/cyPm.c **** 
+ 381:.\Generated_Source\PSoC4/cyPm.c ****         CyExitCriticalSection(interruptState);
+ 382:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 383:.\Generated_Source\PSoC4/cyPm.c **** 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 24
+
+
+ 384:.\Generated_Source\PSoC4/cyPm.c **** #else
+ 385:.\Generated_Source\PSoC4/cyPm.c **** 
+ 386:.\Generated_Source\PSoC4/cyPm.c ****     /*******************************************************************************
+ 387:.\Generated_Source\PSoC4/cyPm.c ****     * Function Name: CySysPmSetWakeupHoldoff
+ 388:.\Generated_Source\PSoC4/cyPm.c ****     ****************************************************************************//**
+ 389:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 390:.\Generated_Source\PSoC4/cyPm.c ****     * Sets the Deep Sleep wakeup time by scaling the hold-off to the HFCLK
+ 391:.\Generated_Source\PSoC4/cyPm.c ****     * frequency.
+ 392:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 393:.\Generated_Source\PSoC4/cyPm.c ****     * This function must be called before increasing HFCLK clock frequency. It can
+ 394:.\Generated_Source\PSoC4/cyPm.c ****     * optionally be called after lowering HFCLK clock frequency in order to improve
+ 395:.\Generated_Source\PSoC4/cyPm.c ****     * Deep Sleep wakeup time.
+ 396:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 397:.\Generated_Source\PSoC4/cyPm.c ****     * It is functionally acceptable to leave the default hold-off setting, but
+ 398:.\Generated_Source\PSoC4/cyPm.c ****     * Deep Sleep wakeup time may exceed the specification.
+ 399:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 400:.\Generated_Source\PSoC4/cyPm.c ****     * This function is applicable only for the 4000 device family.
+ 401:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 402:.\Generated_Source\PSoC4/cyPm.c ****     * \param hfclkFrequencyMhz The HFCLK frequency in MHz.
+ 403:.\Generated_Source\PSoC4/cyPm.c ****     *
+ 404:.\Generated_Source\PSoC4/cyPm.c ****     *******************************************************************************/
+ 405:.\Generated_Source\PSoC4/cyPm.c ****     void CySysPmSetWakeupHoldoff(uint32 hfclkFrequencyMhz)
+ 406:.\Generated_Source\PSoC4/cyPm.c ****     {
+ 311              		.loc 1 406 0
+ 312              		.cfi_startproc
+ 313              	.LVL4:
+ 407:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_KEY_DELAY_REG = ((((uint32)(CY_PM_PWR_KEY_DELAY_REG_DEFAULT << 16u) /
+ 408:.\Generated_Source\PSoC4/cyPm.c ****             CY_PM_PWR_KEY_DELAY_FREQ_DEFAULT) * hfclkFrequencyMhz) >> 16u) + 1u;
+ 314              		.loc 1 408 0
+ 315 0000 034B     		ldr	r3, .L8
+ 409:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 316              		.loc 1 409 0
+ 317              		@ sp needed
+ 408:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 318              		.loc 1 408 0
+ 319 0002 5843     		mul	r0, r3
+ 320              	.LVL5:
+ 407:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_KEY_DELAY_REG = ((((uint32)(CY_PM_PWR_KEY_DELAY_REG_DEFAULT << 16u) /
+ 321              		.loc 1 407 0
+ 322 0004 034B     		ldr	r3, .L8+4
+ 408:.\Generated_Source\PSoC4/cyPm.c ****     }
+ 323              		.loc 1 408 0
+ 324 0006 000C     		lsr	r0, r0, #16
+ 325 0008 0130     		add	r0, r0, #1
+ 407:.\Generated_Source\PSoC4/cyPm.c ****         CY_PM_PWR_KEY_DELAY_REG = ((((uint32)(CY_PM_PWR_KEY_DELAY_REG_DEFAULT << 16u) /
+ 326              		.loc 1 407 0
+ 327 000a 1860     		str	r0, [r3]
+ 328              		.loc 1 409 0
+ 329 000c 7047     		bx	lr
+ 330              	.L9:
+ 331 000e C046     		.align	2
+ 332              	.L8:
+ 333 0010 AA2A0500 		.word	338602
+ 334 0014 04000340 		.word	1073938436
+ 335              		.cfi_endproc
+ 336              	.LFE2:
+ 337              		.size	CySysPmSetWakeupHoldoff, .-CySysPmSetWakeupHoldoff
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 25
+
+
+ 338              		.text
+ 339              	.Letext0:
+ 340              		.file 2 ".\\Generated_Source\\PSoC4\\cytypes.h"
+ 341              		.file 3 ".\\Generated_Source\\PSoC4\\CyLib.h"
+ 342              		.section	.debug_info,"",%progbits
+ 343              	.Ldebug_info0:
+ 344 0000 77010000 		.4byte	0x177
+ 345 0004 0400     		.2byte	0x4
+ 346 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 347 000a 04       		.byte	0x4
+ 348 000b 01       		.uleb128 0x1
+ 349 000c 62000000 		.4byte	.LASF22
+ 350 0010 01       		.byte	0x1
+ 351 0011 CE010000 		.4byte	.LASF23
+ 352 0015 4D010000 		.4byte	.LASF24
+ 353 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 354 001d 00000000 		.4byte	0
+ 355 0021 00000000 		.4byte	.Ldebug_line0
+ 356 0025 02       		.uleb128 0x2
+ 357 0026 01       		.byte	0x1
+ 358 0027 06       		.byte	0x6
+ 359 0028 26020000 		.4byte	.LASF0
+ 360 002c 02       		.uleb128 0x2
+ 361 002d 01       		.byte	0x1
+ 362 002e 08       		.byte	0x8
+ 363 002f B2010000 		.4byte	.LASF1
+ 364 0033 02       		.uleb128 0x2
+ 365 0034 02       		.byte	0x2
+ 366 0035 05       		.byte	0x5
+ 367 0036 5B020000 		.4byte	.LASF2
+ 368 003a 02       		.uleb128 0x2
+ 369 003b 02       		.byte	0x2
+ 370 003c 07       		.byte	0x7
+ 371 003d 13020000 		.4byte	.LASF3
+ 372 0041 02       		.uleb128 0x2
+ 373 0042 04       		.byte	0x4
+ 374 0043 05       		.byte	0x5
+ 375 0044 C5010000 		.4byte	.LASF4
+ 376 0048 02       		.uleb128 0x2
+ 377 0049 04       		.byte	0x4
+ 378 004a 07       		.byte	0x7
+ 379 004b 24010000 		.4byte	.LASF5
+ 380 004f 02       		.uleb128 0x2
+ 381 0050 08       		.byte	0x8
+ 382 0051 05       		.byte	0x5
+ 383 0052 00000000 		.4byte	.LASF6
+ 384 0056 02       		.uleb128 0x2
+ 385 0057 08       		.byte	0x8
+ 386 0058 07       		.byte	0x7
+ 387 0059 36010000 		.4byte	.LASF7
+ 388 005d 03       		.uleb128 0x3
+ 389 005e 04       		.byte	0x4
+ 390 005f 05       		.byte	0x5
+ 391 0060 696E7400 		.ascii	"int\000"
+ 392 0064 02       		.uleb128 0x2
+ 393 0065 04       		.byte	0x4
+ 394 0066 07       		.byte	0x7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 26
+
+
+ 395 0067 15000000 		.4byte	.LASF8
+ 396 006b 04       		.uleb128 0x4
+ 397 006c 1E010000 		.4byte	.LASF9
+ 398 0070 02       		.byte	0x2
+ 399 0071 9801     		.2byte	0x198
+ 400 0073 2C000000 		.4byte	0x2c
+ 401 0077 04       		.uleb128 0x4
+ 402 0078 65020000 		.4byte	.LASF10
+ 403 007c 02       		.byte	0x2
+ 404 007d 9901     		.2byte	0x199
+ 405 007f 3A000000 		.4byte	0x3a
+ 406 0083 04       		.uleb128 0x4
+ 407 0084 0E000000 		.4byte	.LASF11
+ 408 0088 02       		.byte	0x2
+ 409 0089 9A01     		.2byte	0x19a
+ 410 008b 48000000 		.4byte	0x48
+ 411 008f 02       		.uleb128 0x2
+ 412 0090 04       		.byte	0x4
+ 413 0091 04       		.byte	0x4
+ 414 0092 55020000 		.4byte	.LASF12
+ 415 0096 02       		.uleb128 0x2
+ 416 0097 08       		.byte	0x8
+ 417 0098 04       		.byte	0x4
+ 418 0099 F4010000 		.4byte	.LASF13
+ 419 009d 02       		.uleb128 0x2
+ 420 009e 01       		.byte	0x1
+ 421 009f 08       		.byte	0x8
+ 422 00a0 C0010000 		.4byte	.LASF14
+ 423 00a4 04       		.uleb128 0x4
+ 424 00a5 EE010000 		.4byte	.LASF15
+ 425 00a9 02       		.byte	0x2
+ 426 00aa 4302     		.2byte	0x243
+ 427 00ac B0000000 		.4byte	0xb0
+ 428 00b0 05       		.uleb128 0x5
+ 429 00b1 77000000 		.4byte	0x77
+ 430 00b5 04       		.uleb128 0x4
+ 431 00b6 0D020000 		.4byte	.LASF16
+ 432 00ba 02       		.byte	0x2
+ 433 00bb 4402     		.2byte	0x244
+ 434 00bd C1000000 		.4byte	0xc1
+ 435 00c1 05       		.uleb128 0x5
+ 436 00c2 83000000 		.4byte	0x83
+ 437 00c6 02       		.uleb128 0x2
+ 438 00c7 04       		.byte	0x4
+ 439 00c8 07       		.byte	0x7
+ 440 00c9 6C020000 		.4byte	.LASF17
+ 441 00cd 06       		.uleb128 0x6
+ 442 00ce 32020000 		.4byte	.LASF18
+ 443 00d2 01       		.byte	0x1
+ 444 00d3 20       		.byte	0x20
+ 445 00d4 00000000 		.4byte	.LFB0
+ 446 00d8 1C000000 		.4byte	.LFE0-.LFB0
+ 447 00dc 01       		.uleb128 0x1
+ 448 00dd 9C       		.byte	0x9c
+ 449 00de 04010000 		.4byte	0x104
+ 450 00e2 07       		.uleb128 0x7
+ 451 00e3 75020000 		.4byte	.LASF20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 27
+
+
+ 452 00e7 01       		.byte	0x1
+ 453 00e8 22       		.byte	0x22
+ 454 00e9 6B000000 		.4byte	0x6b
+ 455 00ed 00000000 		.4byte	.LLST0
+ 456 00f1 08       		.uleb128 0x8
+ 457 00f2 06000000 		.4byte	.LVL0
+ 458 00f6 62010000 		.4byte	0x162
+ 459 00fa 08       		.uleb128 0x8
+ 460 00fb 16000000 		.4byte	.LVL1
+ 461 00ff 6D010000 		.4byte	0x16d
+ 462 0103 00       		.byte	0
+ 463 0104 06       		.uleb128 0x6
+ 464 0105 22000000 		.4byte	.LASF19
+ 465 0109 01       		.byte	0x1
+ 466 010a 3F       		.byte	0x3f
+ 467 010b 00000000 		.4byte	.LFB1
+ 468 010f 30000000 		.4byte	.LFE1-.LFB1
+ 469 0113 01       		.uleb128 0x1
+ 470 0114 9C       		.byte	0x9c
+ 471 0115 3B010000 		.4byte	0x13b
+ 472 0119 07       		.uleb128 0x7
+ 473 011a 75020000 		.4byte	.LASF20
+ 474 011e 01       		.byte	0x1
+ 475 011f 41       		.byte	0x41
+ 476 0120 6B000000 		.4byte	0x6b
+ 477 0124 13000000 		.4byte	.LLST1
+ 478 0128 08       		.uleb128 0x8
+ 479 0129 06000000 		.4byte	.LVL2
+ 480 012d 62010000 		.4byte	0x162
+ 481 0131 08       		.uleb128 0x8
+ 482 0132 20000000 		.4byte	.LVL3
+ 483 0136 6D010000 		.4byte	0x16d
+ 484 013a 00       		.byte	0
+ 485 013b 09       		.uleb128 0x9
+ 486 013c 4A000000 		.4byte	.LASF21
+ 487 0140 01       		.byte	0x1
+ 488 0141 9501     		.2byte	0x195
+ 489 0143 00000000 		.4byte	.LFB2
+ 490 0147 18000000 		.4byte	.LFE2-.LFB2
+ 491 014b 01       		.uleb128 0x1
+ 492 014c 9C       		.byte	0x9c
+ 493 014d 62010000 		.4byte	0x162
+ 494 0151 0A       		.uleb128 0xa
+ 495 0152 FB010000 		.4byte	.LASF25
+ 496 0156 01       		.byte	0x1
+ 497 0157 9501     		.2byte	0x195
+ 498 0159 83000000 		.4byte	0x83
+ 499 015d 26000000 		.4byte	.LLST2
+ 500 0161 00       		.byte	0
+ 501 0162 0B       		.uleb128 0xb
+ 502 0163 33000000 		.4byte	.LASF26
+ 503 0167 03       		.byte	0x3
+ 504 0168 E3       		.byte	0xe3
+ 505 0169 6B000000 		.4byte	0x6b
+ 506 016d 0C       		.uleb128 0xc
+ 507 016e 3F020000 		.4byte	.LASF27
+ 508 0172 03       		.byte	0x3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 28
+
+
+ 509 0173 E4       		.byte	0xe4
+ 510 0174 0D       		.uleb128 0xd
+ 511 0175 6B000000 		.4byte	0x6b
+ 512 0179 00       		.byte	0
+ 513 017a 00       		.byte	0
+ 514              		.section	.debug_abbrev,"",%progbits
+ 515              	.Ldebug_abbrev0:
+ 516 0000 01       		.uleb128 0x1
+ 517 0001 11       		.uleb128 0x11
+ 518 0002 01       		.byte	0x1
+ 519 0003 25       		.uleb128 0x25
+ 520 0004 0E       		.uleb128 0xe
+ 521 0005 13       		.uleb128 0x13
+ 522 0006 0B       		.uleb128 0xb
+ 523 0007 03       		.uleb128 0x3
+ 524 0008 0E       		.uleb128 0xe
+ 525 0009 1B       		.uleb128 0x1b
+ 526 000a 0E       		.uleb128 0xe
+ 527 000b 55       		.uleb128 0x55
+ 528 000c 17       		.uleb128 0x17
+ 529 000d 11       		.uleb128 0x11
+ 530 000e 01       		.uleb128 0x1
+ 531 000f 10       		.uleb128 0x10
+ 532 0010 17       		.uleb128 0x17
+ 533 0011 00       		.byte	0
+ 534 0012 00       		.byte	0
+ 535 0013 02       		.uleb128 0x2
+ 536 0014 24       		.uleb128 0x24
+ 537 0015 00       		.byte	0
+ 538 0016 0B       		.uleb128 0xb
+ 539 0017 0B       		.uleb128 0xb
+ 540 0018 3E       		.uleb128 0x3e
+ 541 0019 0B       		.uleb128 0xb
+ 542 001a 03       		.uleb128 0x3
+ 543 001b 0E       		.uleb128 0xe
+ 544 001c 00       		.byte	0
+ 545 001d 00       		.byte	0
+ 546 001e 03       		.uleb128 0x3
+ 547 001f 24       		.uleb128 0x24
+ 548 0020 00       		.byte	0
+ 549 0021 0B       		.uleb128 0xb
+ 550 0022 0B       		.uleb128 0xb
+ 551 0023 3E       		.uleb128 0x3e
+ 552 0024 0B       		.uleb128 0xb
+ 553 0025 03       		.uleb128 0x3
+ 554 0026 08       		.uleb128 0x8
+ 555 0027 00       		.byte	0
+ 556 0028 00       		.byte	0
+ 557 0029 04       		.uleb128 0x4
+ 558 002a 16       		.uleb128 0x16
+ 559 002b 00       		.byte	0
+ 560 002c 03       		.uleb128 0x3
+ 561 002d 0E       		.uleb128 0xe
+ 562 002e 3A       		.uleb128 0x3a
+ 563 002f 0B       		.uleb128 0xb
+ 564 0030 3B       		.uleb128 0x3b
+ 565 0031 05       		.uleb128 0x5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 29
+
+
+ 566 0032 49       		.uleb128 0x49
+ 567 0033 13       		.uleb128 0x13
+ 568 0034 00       		.byte	0
+ 569 0035 00       		.byte	0
+ 570 0036 05       		.uleb128 0x5
+ 571 0037 35       		.uleb128 0x35
+ 572 0038 00       		.byte	0
+ 573 0039 49       		.uleb128 0x49
+ 574 003a 13       		.uleb128 0x13
+ 575 003b 00       		.byte	0
+ 576 003c 00       		.byte	0
+ 577 003d 06       		.uleb128 0x6
+ 578 003e 2E       		.uleb128 0x2e
+ 579 003f 01       		.byte	0x1
+ 580 0040 3F       		.uleb128 0x3f
+ 581 0041 19       		.uleb128 0x19
+ 582 0042 03       		.uleb128 0x3
+ 583 0043 0E       		.uleb128 0xe
+ 584 0044 3A       		.uleb128 0x3a
+ 585 0045 0B       		.uleb128 0xb
+ 586 0046 3B       		.uleb128 0x3b
+ 587 0047 0B       		.uleb128 0xb
+ 588 0048 27       		.uleb128 0x27
+ 589 0049 19       		.uleb128 0x19
+ 590 004a 11       		.uleb128 0x11
+ 591 004b 01       		.uleb128 0x1
+ 592 004c 12       		.uleb128 0x12
+ 593 004d 06       		.uleb128 0x6
+ 594 004e 40       		.uleb128 0x40
+ 595 004f 18       		.uleb128 0x18
+ 596 0050 9742     		.uleb128 0x2117
+ 597 0052 19       		.uleb128 0x19
+ 598 0053 01       		.uleb128 0x1
+ 599 0054 13       		.uleb128 0x13
+ 600 0055 00       		.byte	0
+ 601 0056 00       		.byte	0
+ 602 0057 07       		.uleb128 0x7
+ 603 0058 34       		.uleb128 0x34
+ 604 0059 00       		.byte	0
+ 605 005a 03       		.uleb128 0x3
+ 606 005b 0E       		.uleb128 0xe
+ 607 005c 3A       		.uleb128 0x3a
+ 608 005d 0B       		.uleb128 0xb
+ 609 005e 3B       		.uleb128 0x3b
+ 610 005f 0B       		.uleb128 0xb
+ 611 0060 49       		.uleb128 0x49
+ 612 0061 13       		.uleb128 0x13
+ 613 0062 02       		.uleb128 0x2
+ 614 0063 17       		.uleb128 0x17
+ 615 0064 00       		.byte	0
+ 616 0065 00       		.byte	0
+ 617 0066 08       		.uleb128 0x8
+ 618 0067 898201   		.uleb128 0x4109
+ 619 006a 00       		.byte	0
+ 620 006b 11       		.uleb128 0x11
+ 621 006c 01       		.uleb128 0x1
+ 622 006d 31       		.uleb128 0x31
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 30
+
+
+ 623 006e 13       		.uleb128 0x13
+ 624 006f 00       		.byte	0
+ 625 0070 00       		.byte	0
+ 626 0071 09       		.uleb128 0x9
+ 627 0072 2E       		.uleb128 0x2e
+ 628 0073 01       		.byte	0x1
+ 629 0074 3F       		.uleb128 0x3f
+ 630 0075 19       		.uleb128 0x19
+ 631 0076 03       		.uleb128 0x3
+ 632 0077 0E       		.uleb128 0xe
+ 633 0078 3A       		.uleb128 0x3a
+ 634 0079 0B       		.uleb128 0xb
+ 635 007a 3B       		.uleb128 0x3b
+ 636 007b 05       		.uleb128 0x5
+ 637 007c 27       		.uleb128 0x27
+ 638 007d 19       		.uleb128 0x19
+ 639 007e 11       		.uleb128 0x11
+ 640 007f 01       		.uleb128 0x1
+ 641 0080 12       		.uleb128 0x12
+ 642 0081 06       		.uleb128 0x6
+ 643 0082 40       		.uleb128 0x40
+ 644 0083 18       		.uleb128 0x18
+ 645 0084 9742     		.uleb128 0x2117
+ 646 0086 19       		.uleb128 0x19
+ 647 0087 01       		.uleb128 0x1
+ 648 0088 13       		.uleb128 0x13
+ 649 0089 00       		.byte	0
+ 650 008a 00       		.byte	0
+ 651 008b 0A       		.uleb128 0xa
+ 652 008c 05       		.uleb128 0x5
+ 653 008d 00       		.byte	0
+ 654 008e 03       		.uleb128 0x3
+ 655 008f 0E       		.uleb128 0xe
+ 656 0090 3A       		.uleb128 0x3a
+ 657 0091 0B       		.uleb128 0xb
+ 658 0092 3B       		.uleb128 0x3b
+ 659 0093 05       		.uleb128 0x5
+ 660 0094 49       		.uleb128 0x49
+ 661 0095 13       		.uleb128 0x13
+ 662 0096 02       		.uleb128 0x2
+ 663 0097 17       		.uleb128 0x17
+ 664 0098 00       		.byte	0
+ 665 0099 00       		.byte	0
+ 666 009a 0B       		.uleb128 0xb
+ 667 009b 2E       		.uleb128 0x2e
+ 668 009c 00       		.byte	0
+ 669 009d 3F       		.uleb128 0x3f
+ 670 009e 19       		.uleb128 0x19
+ 671 009f 03       		.uleb128 0x3
+ 672 00a0 0E       		.uleb128 0xe
+ 673 00a1 3A       		.uleb128 0x3a
+ 674 00a2 0B       		.uleb128 0xb
+ 675 00a3 3B       		.uleb128 0x3b
+ 676 00a4 0B       		.uleb128 0xb
+ 677 00a5 27       		.uleb128 0x27
+ 678 00a6 19       		.uleb128 0x19
+ 679 00a7 49       		.uleb128 0x49
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 31
+
+
+ 680 00a8 13       		.uleb128 0x13
+ 681 00a9 3C       		.uleb128 0x3c
+ 682 00aa 19       		.uleb128 0x19
+ 683 00ab 00       		.byte	0
+ 684 00ac 00       		.byte	0
+ 685 00ad 0C       		.uleb128 0xc
+ 686 00ae 2E       		.uleb128 0x2e
+ 687 00af 01       		.byte	0x1
+ 688 00b0 3F       		.uleb128 0x3f
+ 689 00b1 19       		.uleb128 0x19
+ 690 00b2 03       		.uleb128 0x3
+ 691 00b3 0E       		.uleb128 0xe
+ 692 00b4 3A       		.uleb128 0x3a
+ 693 00b5 0B       		.uleb128 0xb
+ 694 00b6 3B       		.uleb128 0x3b
+ 695 00b7 0B       		.uleb128 0xb
+ 696 00b8 27       		.uleb128 0x27
+ 697 00b9 19       		.uleb128 0x19
+ 698 00ba 3C       		.uleb128 0x3c
+ 699 00bb 19       		.uleb128 0x19
+ 700 00bc 00       		.byte	0
+ 701 00bd 00       		.byte	0
+ 702 00be 0D       		.uleb128 0xd
+ 703 00bf 05       		.uleb128 0x5
+ 704 00c0 00       		.byte	0
+ 705 00c1 49       		.uleb128 0x49
+ 706 00c2 13       		.uleb128 0x13
+ 707 00c3 00       		.byte	0
+ 708 00c4 00       		.byte	0
+ 709 00c5 00       		.byte	0
+ 710              		.section	.debug_loc,"",%progbits
+ 711              	.Ldebug_loc0:
+ 712              	.LLST0:
+ 713 0000 06000000 		.4byte	.LVL0
+ 714 0004 15000000 		.4byte	.LVL1-1
+ 715 0008 0100     		.2byte	0x1
+ 716 000a 50       		.byte	0x50
+ 717 000b 00000000 		.4byte	0
+ 718 000f 00000000 		.4byte	0
+ 719              	.LLST1:
+ 720 0013 06000000 		.4byte	.LVL2
+ 721 0017 1F000000 		.4byte	.LVL3-1
+ 722 001b 0100     		.2byte	0x1
+ 723 001d 50       		.byte	0x50
+ 724 001e 00000000 		.4byte	0
+ 725 0022 00000000 		.4byte	0
+ 726              	.LLST2:
+ 727 0026 00000000 		.4byte	.LVL4
+ 728 002a 04000000 		.4byte	.LVL5
+ 729 002e 0100     		.2byte	0x1
+ 730 0030 50       		.byte	0x50
+ 731 0031 04000000 		.4byte	.LVL5
+ 732 0035 18000000 		.4byte	.LFE2
+ 733 0039 0400     		.2byte	0x4
+ 734 003b F3       		.byte	0xf3
+ 735 003c 01       		.uleb128 0x1
+ 736 003d 50       		.byte	0x50
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 32
+
+
+ 737 003e 9F       		.byte	0x9f
+ 738 003f 00000000 		.4byte	0
+ 739 0043 00000000 		.4byte	0
+ 740              		.section	.debug_aranges,"",%progbits
+ 741 0000 2C000000 		.4byte	0x2c
+ 742 0004 0200     		.2byte	0x2
+ 743 0006 00000000 		.4byte	.Ldebug_info0
+ 744 000a 04       		.byte	0x4
+ 745 000b 00       		.byte	0
+ 746 000c 0000     		.2byte	0
+ 747 000e 0000     		.2byte	0
+ 748 0010 00000000 		.4byte	.LFB0
+ 749 0014 1C000000 		.4byte	.LFE0-.LFB0
+ 750 0018 00000000 		.4byte	.LFB1
+ 751 001c 30000000 		.4byte	.LFE1-.LFB1
+ 752 0020 00000000 		.4byte	.LFB2
+ 753 0024 18000000 		.4byte	.LFE2-.LFB2
+ 754 0028 00000000 		.4byte	0
+ 755 002c 00000000 		.4byte	0
+ 756              		.section	.debug_ranges,"",%progbits
+ 757              	.Ldebug_ranges0:
+ 758 0000 00000000 		.4byte	.LFB0
+ 759 0004 1C000000 		.4byte	.LFE0
+ 760 0008 00000000 		.4byte	.LFB1
+ 761 000c 30000000 		.4byte	.LFE1
+ 762 0010 00000000 		.4byte	.LFB2
+ 763 0014 18000000 		.4byte	.LFE2
+ 764 0018 00000000 		.4byte	0
+ 765 001c 00000000 		.4byte	0
+ 766              		.section	.debug_line,"",%progbits
+ 767              	.Ldebug_line0:
+ 768 0000 9B000000 		.section	.debug_str,"MS",%progbits,1
+ 768      02004E00 
+ 768      00000201 
+ 768      FB0E0D00 
+ 768      01010101 
+ 769              	.LASF6:
+ 770 0000 6C6F6E67 		.ascii	"long long int\000"
+ 770      206C6F6E 
+ 770      6720696E 
+ 770      7400
+ 771              	.LASF11:
+ 772 000e 75696E74 		.ascii	"uint32\000"
+ 772      333200
+ 773              	.LASF8:
+ 774 0015 756E7369 		.ascii	"unsigned int\000"
+ 774      676E6564 
+ 774      20696E74 
+ 774      00
+ 775              	.LASF19:
+ 776 0022 43795379 		.ascii	"CySysPmDeepSleep\000"
+ 776      73506D44 
+ 776      65657053 
+ 776      6C656570 
+ 776      00
+ 777              	.LASF26:
+ 778 0033 4379456E 		.ascii	"CyEnterCriticalSection\000"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 33
+
+
+ 778      74657243 
+ 778      72697469 
+ 778      63616C53 
+ 778      65637469 
+ 779              	.LASF21:
+ 780 004a 43795379 		.ascii	"CySysPmSetWakeupHoldoff\000"
+ 780      73506D53 
+ 780      65745761 
+ 780      6B657570 
+ 780      486F6C64 
+ 781              	.LASF22:
+ 782 0062 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 782      4320342E 
+ 782      392E3320 
+ 782      32303135 
+ 782      30333033 
+ 783 0095 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 783      20726576 
+ 783      6973696F 
+ 783      6E203232 
+ 783      31323230 
+ 784 00c8 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 784      66756E63 
+ 784      74696F6E 
+ 784      2D736563 
+ 784      74696F6E 
+ 785 00fb 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 785      6F2D6F62 
+ 785      6A656374 
+ 785      73202D66 
+ 785      6E6F2D73 
+ 786              	.LASF9:
+ 787 011e 75696E74 		.ascii	"uint8\000"
+ 787      3800
+ 788              	.LASF5:
+ 789 0124 6C6F6E67 		.ascii	"long unsigned int\000"
+ 789      20756E73 
+ 789      69676E65 
+ 789      6420696E 
+ 789      7400
+ 790              	.LASF7:
+ 791 0136 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 791      206C6F6E 
+ 791      6720756E 
+ 791      7369676E 
+ 791      65642069 
+ 792              	.LASF24:
+ 793 014d 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
+ 793      73657273 
+ 793      5C766963 
+ 793      746F5C4F 
+ 793      6E654472 
+ 794 017b 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
+ 794      44343232 
+ 794      352D3430 
+ 794      4C515849 
+ 794      5F303830 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 34
+
+
+ 795 01ac 63796473 		.ascii	"cydsn\000"
+ 795      6E00
+ 796              	.LASF1:
+ 797 01b2 756E7369 		.ascii	"unsigned char\000"
+ 797      676E6564 
+ 797      20636861 
+ 797      7200
+ 798              	.LASF14:
+ 799 01c0 63686172 		.ascii	"char\000"
+ 799      00
+ 800              	.LASF4:
+ 801 01c5 6C6F6E67 		.ascii	"long int\000"
+ 801      20696E74 
+ 801      00
+ 802              	.LASF23:
+ 803 01ce 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\cyPm.c\000"
+ 803      6E657261 
+ 803      7465645F 
+ 803      536F7572 
+ 803      63655C50 
+ 804              	.LASF15:
+ 805 01ee 72656731 		.ascii	"reg16\000"
+ 805      3600
+ 806              	.LASF13:
+ 807 01f4 646F7562 		.ascii	"double\000"
+ 807      6C6500
+ 808              	.LASF25:
+ 809 01fb 6866636C 		.ascii	"hfclkFrequencyMhz\000"
+ 809      6B467265 
+ 809      7175656E 
+ 809      63794D68 
+ 809      7A00
+ 810              	.LASF16:
+ 811 020d 72656733 		.ascii	"reg32\000"
+ 811      3200
+ 812              	.LASF3:
+ 813 0213 73686F72 		.ascii	"short unsigned int\000"
+ 813      7420756E 
+ 813      7369676E 
+ 813      65642069 
+ 813      6E7400
+ 814              	.LASF0:
+ 815 0226 7369676E 		.ascii	"signed char\000"
+ 815      65642063 
+ 815      68617200 
+ 816              	.LASF18:
+ 817 0232 43795379 		.ascii	"CySysPmSleep\000"
+ 817      73506D53 
+ 817      6C656570 
+ 817      00
+ 818              	.LASF27:
+ 819 023f 43794578 		.ascii	"CyExitCriticalSection\000"
+ 819      69744372 
+ 819      69746963 
+ 819      616C5365 
+ 819      6374696F 
+ 820              	.LASF12:
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cchUasA5.s 			page 35
+
+
+ 821 0255 666C6F61 		.ascii	"float\000"
+ 821      7400
+ 822              	.LASF2:
+ 823 025b 73686F72 		.ascii	"short int\000"
+ 823      7420696E 
+ 823      7400
+ 824              	.LASF10:
+ 825 0265 75696E74 		.ascii	"uint16\000"
+ 825      313600
+ 826              	.LASF17:
+ 827 026c 73697A65 		.ascii	"sizetype\000"
+ 827      74797065 
+ 827      00
+ 828              	.LASF20:
+ 829 0275 696E7465 		.ascii	"interruptState\000"
+ 829      72727570 
+ 829      74537461 
+ 829      746500
+ 830              		.comm	__gnu_lto_v1,1,1
+ 831              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

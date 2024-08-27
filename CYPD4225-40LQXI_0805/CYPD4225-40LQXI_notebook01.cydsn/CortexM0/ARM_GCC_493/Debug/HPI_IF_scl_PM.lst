@@ -1,0 +1,1203 @@
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 1
+
+
+   1              		.cpu cortex-m0
+   2              		.fpu softvfp
+   3              		.eabi_attribute 20, 1
+   4              		.eabi_attribute 21, 1
+   5              		.eabi_attribute 23, 3
+   6              		.eabi_attribute 24, 1
+   7              		.eabi_attribute 25, 1
+   8              		.eabi_attribute 26, 1
+   9              		.eabi_attribute 30, 4
+  10              		.eabi_attribute 34, 0
+  11              		.eabi_attribute 18, 4
+  12              		.code	16
+  13              		.file	"HPI_IF_scl_PM.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.91bc9218,"",%progbits
+  17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006\0166\000\000\212\000\027"
+  17      60606061 
+  17      80004606 
+  17      0E360000 
+  17      8A0017
+  18              		.text
+  19              		.section	.gnu.lto_.jmpfuncs.91bc9218,"",%progbits
+  20 0000 789C6366 		.ascii	"x\234cf\300\0168\2404\023\024\003\000\0018\000\020"
+  20      C00E38A0 
+  20      34131403 
+  20      00013800 
+  20      10
+  21              		.text
+  22              		.section	.gnu.lto_.inline.91bc9218,"",%progbits
+  23 0000 789C6366 		.ascii	"x\234cf\300\0164\2404\023\003\003+\013#\003\023\313"
+  23      C00E34A0 
+  23      34130303 
+  23      2B0B2303 
+  23      13CB
+  24 0012 027906B6 		.ascii	"\002y\006\266\005\362L\0201\014!\006\000G\026\003\\"
+  24      05F24C10 
+  24      310C2106 
+  24      00471603 
+  24      5C
+  25              		.text
+  26              		.section	.gnu.lto_.pureconst.91bc9218,"",%progbits
+  27 0000 789C6366 		.ascii	"x\234cf```e\200\000&\006)&)\000\000\373\000A"
+  27      60606065 
+  27      80002606 
+  27      29262900 
+  27      00FB0041 
+  28              		.text
+  29              		.section	.gnu.lto_HPI_IF_scl_Sleep.91bc9218,"",%progbits
+  30 0000 789C654F 		.ascii	"x\234eO=K\202Q\024>\317\361\003\303%\032\335C\"tjji"
+  30      3D4B8251 
+  30      143ECFF1 
+  30      03C3251A 
+  30      DD432274 
+  31 0017 082A8740 		.ascii	"\010*\207@p\025$\314-\022\254F\361\276\341 \015%\265"
+  31      701524CC 
+  31      2D12AC46 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 2
+
+
+  31      F1BEE120 
+  31      0D25B5
+  32 002a 04694B44 		.ascii	"\004iKD\226\246\320/x\023\232\202\"\"\004\203\"0\260"
+  32      96A6D02F 
+  32      78139A82 
+  32      22220483 
+  32      2230B0
+  33 003d 21C884E2 		.ascii	"!\310\204\342M\324\316\325%\350\302\345\334s\316s\237"
+  33      4DD4CED5 
+  33      25E8C2E5 
+  33      DC73CE73 
+  33      9F
+  34 004e 0F1BFD3F 		.ascii	"\017\033\375?\036\2713 \232\224\012\033\201\2637D\206"
+  34      1EB93320 
+  34      9A940A1B 
+  34      81B33744 
+  34      86
+  35 005f 8B01FD20 		.ascii	"\213\001\375 P\212\221\302\033\267\030Y\263\270\357"
+  35      508A91C2 
+  35      1BB71859 
+  35      B3B8EF
+  36 006e F61E2BA5 		.ascii	"\366\036+\245>\252\327F\320\204\305Dm\036\362\340\004"
+  36      3EAAD746 
+  36      D084C544 
+  36      6D1EF2E0 
+  36      04
+  37 007f 5E12502B 		.ascii	"^\022P+\335\255\271\235i\001\215\016w(\300)\374T\031"
+  37      DDADB99D 
+  37      69018D0E 
+  37      7728C029 
+  37      FC5419
+  38 0092 3355BFDF 		.ascii	"3U\277\337._\376\300\316d\261\314\032\262\327*\257\314"
+  38      2E5FFEC0 
+  38      CE64B1CC 
+  38      1AB2D72A 
+  38      AFCC
+  39 00a4 BADAEAA8 		.ascii	"\272\332\352\250~m\365\036F\364\227o\326\222\217\315"
+  39      7E6DF51E 
+  39      46F4976F 
+  39      D6928FCD 
+  40 00b4 BD7734D9 		.ascii	"\275w4\331b\316\250\254\262k\201\347\306\355\235k0\""
+  40      62CEA8AC 
+  40      B26B81E7 
+  40      C6ED9D6B 
+  40      3022
+  41 00c6 DDE66A47 		.ascii	"\335\346jGW\356<\016\214\264\330\261\341\024\036\234"
+  41      57EE3C0E 
+  41      8CB4D8B1 
+  41      E1141E9C 
+  42 00d6 4142A188 		.ascii	"AB\241\210<\250\216\315\335\227q\315'\320\303\373\355"
+  42      3CA88ECD 
+  42      DD9771CD 
+  42      27D0C3FB 
+  42      ED
+  43 00e7 32273B2A 		.ascii	"2';*\243\\\026\333\273\332\334_>\373\240-\030\351\034"
+  43      A35C16DB 
+  43      BBDADC5F 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 3
+
+
+  43      3EFBA02D 
+  43      18E91C
+  44 00fa 349FD228 		.ascii	"4\237\322(\007JH\342\\\023\312\256W\332\271p\372\212"
+  44      074A48E2 
+  44      5C13CAAE 
+  44      57DAB970 
+  44      FA8A
+  45 010c 92CD9CB6 		.ascii	"\222\315\234\266\330\211\262\000?\007\371Q\201O\034"
+  45      D889B200 
+  45      3F07F951 
+  45      814F1C
+  46 011b D3130CB3 		.ascii	"\323\023\014\263\343\320zz\332\220\220\222K\020\023"
+  46      E3D07A7A 
+  46      DA909092 
+  46      4B1013
+  47 012a FEF07C6C 		.ascii	"\376\360|l5\226XZ\217-GB\361\215D4\026\016\206\342\263"
+  47      3596585A 
+  47      8F2D4742 
+  47      F18D4434 
+  47      160E86E2 
+  48 013f 53E18560 		.ascii	"S\341\205` \022\230\213\254EW\"\301E\177\224~\001\225"
+  48      2012988B 
+  48      AC455722 
+  48      C1457F94 
+  48      7E0195
+  49 0152 F782BE   		.ascii	"\367\202\276"
+  50              		.text
+  51              		.section	.gnu.lto_HPI_IF_scl_Wakeup.91bc9218,"",%progbits
+  52 0000 789C658F 		.ascii	"x\234e\217\301K\002Q\020\306gfu\021\366\022]2\377\001"
+  52      C14B0251 
+  52      10C66766 
+  52      7511F612 
+  52      5D32FF01 
+  53 0014 09D12E1D 		.ascii	"\011\321.\035\273\005\226\207@\360*,a{\213\004\253\243"
+  53      BB059687 
+  53      40F02A2C 
+  53      617B8B04 
+  53      ABA3
+  54 0026 F85636F0 		.ascii	"\370V6\360TV\227 \013\"\"KS\010\352\274\004]\213\250"
+  54      54569720 
+  54      0B22224B 
+  54      5308EABC 
+  54      045D8BA8 
+  55 003a 100C8AC0 		.ascii	"\020\014\212\300\300\016A\346!\2260\233\267\236\242"
+  55      C00E41E6 
+  55      2196309B 
+  55      B79EA2
+  56 0049 078F796F 		.ascii	"\007\217yo\346\233\3577\243\300\377\023\340;\211\000"
+  56      E69BEF37 
+  56      A3C0FF13 
+  56      E03B8900 
+  57 0059 218EA800 		.ascii	"!\216\250\000R\361\032\300\364\021\242|\000B\2160\207"
+  57      52F11AC0 
+  57      F411A27C 
+  57      00428E30 
+  57      87
+  58 006a 6FD4212C 		.ascii	"o\324!,\332\225m-x(\204\370\310\237\373W\375\016\001"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 4
+
+
+  58      DA956D2D 
+  58      782884F8 
+  58      C89FFB57 
+  58      FD0E01
+  59 007d 74696083 		.ascii	"ti`\203G\030\004\326t\254^CS-\326\014\015jXF\225\355"
+  59      471804D6 
+  59      74AC5E43 
+  59      532DD60C 
+  59      0D6A5846 
+  60 0093 A13E6C8B 		.ascii	"\241>l\213~\277{\277\321\036G\017\201C\234l\261@R^\211"
+  60      7EBF7BBF 
+  60      D11E470F 
+  60      81439C6C 
+  60      B140525E 
+  61 00a8 64549A98 		.ascii	"dT\232\230\277\350<\354k\262\347\213$r\357n\255F\331"
+  61      BFE83CEC 
+  61      6BB2E78B 
+  61      2472EF6E 
+  61      AD46D9
+  62 00bb 6F51103E 		.ascii	"oQ\020>\207\250'\0159\373\334\272\271\365\265\2113\356"
+  62      87A8270D 
+  62      39FBDCBA 
+  62      B9F5B589 
+  62      33EE
+  63 00cd B76C5A25 		.ascii	"\267lZ%\334\305\035SH\225\202\307\230\305\023\014\270"
+  63      DCC51D53 
+  63      489582C7 
+  63      98C5130C 
+  63      B8
+  64 00de B59FEAFA 		.ascii	"\265\237\352\372\231\032\0169\344\301\012k>\335q\261"
+  64      991A0E39 
+  64      E4C10A6B 
+  64      3EDD71B1 
+  65 00ee 8A6168E2 		.ascii	"\212ah\342\345\346\313\210D\261\354\261\275\365\216"
+  65      E5E6CB88 
+  65      44B1ECB1 
+  65      BDF58E
+  66 00fd D2D15B10 		.ascii	"\322\321[\020E\341\371\003\361\272F\245\306\301\225"
+  66      45E1F903 
+  66      F1BA46A5 
+  66      C6C195
+  67 010c 26219669 		.ascii	"&!\226i\217:\244\342)\006\260&)Xgc\036\027\236\320\264"
+  67      8F3AA4E2 
+  67      2906B026 
+  67      29586763 
+  67      1E179ED0 
+  68 0121 FB51E928 		.ascii	"\373Q\351(!-\336\220\227b\340X$9m,\032\231\271ec^O\244"
+  68      212DDE90 
+  68      9762E058 
+  68      24396D2C 
+  68      1A99B965 
+  69 0139 57322923 		.ascii	"W2)#\031O\244\247&\2223\361\230\036\213\352K\251\005"
+  69      194FA4A7 
+  69      269233F1 
+  69      981E8BEA 
+  69      4BA905
+  70 014c 3D3E1B49 		.ascii	"=>\033I\301/oc\177\376"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 5
+
+
+  70      C12F6F63 
+  70      7FFE
+  71              		.text
+  72              		.section	.gnu.lto_.symbol_nodes.91bc9218,"",%progbits
+  73 0000 789C6366 		.ascii	"x\234cf``\320d\200\002&\306z\006\206\011\347\030\030"
+  73      6060D064 
+  73      800226C6 
+  73      7A068609 
+  73      E71818
+  74 0013 EAEB19E6 		.ascii	"\352\353\031\346-\340``e`X\300T\317\314\304T\317\210"
+  74      2DE06060 
+  74      656058C0 
+  74      54CFCCC4 
+  74      54CF88
+  75 0026 2CCC0000 		.ascii	",\314\000\000\310\"\011\240"
+  75      C82209A0 
+  76              		.text
+  77              		.section	.gnu.lto_.refs.91bc9218,"",%progbits
+  78 0000 789C6366 		.ascii	"x\234cf``\340f\200\000F\006FF&F& \311\000\000\001l\000"
+  78      6060E066 
+  78      80004606 
+  78      46462646 
+  78      2620C900 
+  79 0018 19       		.ascii	"\031"
+  80              		.text
+  81              		.section	.gnu.lto_.decls.91bc9218,"",%progbits
+  82 0000 789C8D53 		.ascii	"x\234\215S[L\023A\024\235\273\333\226\2624\212!Q\343"
+  82      5B4C1341 
+  82      149DBBDB 
+  82      96B2348A 
+  82      2151E3
+  83 0013 1794A451 		.ascii	"\027\224\244Qc\370\000\303\257(\306\027\3214V\364C\222"
+  83      63F800C3 
+  83      AF28C617 
+  83      D13456F4 
+  83      4392
+  84 0025 8A75A346 		.ascii	"\212u\243F\002\015\320\017\376\006\320\244\030M\020"
+  84      020DD00F 
+  84      FE06D0A4 
+  84      184D10
+  85 0034 C567A255 		.ascii	"\305g\242UQ\336\025\001\221\247\024y?|\220\020\255\232"
+  85      51DE1501 
+  85      91A71479 
+  85      3F7C9010 
+  85      AD9A
+  86 0046 A8A82444 		.ascii	"\250\250$DE\253\242H\370\300;\263-]\025\214\223\334"
+  86      45ABA248 
+  86      F8C03BB3 
+  86      2D5D158C 
+  86      93DC
+  87 0058 9DB933E7 		.ascii	"\235\2713\347\234{\347\316]\221\020\342A\233\305Q\254"
+  87      9C7BE7CE 
+  87      5D9110E2 
+  87      419BC551 
+  87      AC
+  88 0069 21E42BAE 		.ascii	"!\344+\256E43\011\016\001\255\012\315\215\006h=\344"
+  88      45343309 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 6
+
+
+  88      0E01AD0A 
+  88      CD8D0668 
+  88      3DE4
+  89 007b F7C1CE42 		.ascii	"\367\301\316B\374\234(\264A\264\001\264!\264N\264F?"
+  89      FC9C28B4 
+  89      41B401B4 
+  89      21B44EB4 
+  89      463F
+  90 008d CFE39FAB 		.ascii	"\317\343\237\253\026\320q\377\241\243\346\0074\325:"
+  90      16D071FF 
+  90      A1A3E607 
+  90      34D53A
+  91 009c 0BE5F345 		.ascii	"\013\345\363E\200\3017?\277\031\306\005X$\2053\367\342"
+  91      80C1373F 
+  91      BF19C605 
+  91      58248533 
+  91      F7E2
+  92 00ae D3B14911 		.ascii	"\323\261I\021]\203$0\267a\372\307-\335\262b\312F>\015"
+  92      5D832430 
+  92      B761FAC7 
+  92      2DDDB262 
+  92      CA463E0D 
+  93 00c2 17C0BC14 		.ascii	"\027\300\274\024Ja\005\224\301\012T,\207e\370\335\253"
+  93      4A610594 
+  93      C10A542C 
+  93      8765F8DD 
+  93      AB
+  94 00d3 5194469E 		.ascii	"Q\224F\236\214o\024\005`\313\353\347GG\2445\025HrR\217"
+  94      8C6F1405 
+  94      60CBEBE7 
+  94      4747A435 
+  94      15487252 
+  95 00e8 570846AB 		.ascii	"W\010F\253\277\351}&D^\246\256\032_s\3433\003-\243\236"
+  95      BFE97D26 
+  95      445EA6AE 
+  95      1A5F73E3 
+  95      33032DA3 
+  96 00fd D9D9755C 		.ascii	"\331\331u\\\011*@\204JX\303\220l\315)P\005\221H{N\317"
+  96      092A4084 
+  96      4A58C390 
+  96      6CCD2950 
+  96      0591487B 
+  97 0113 4D68C48D 		.ascii	"Mh\304\215\\\333\375\270\343\253\216K\270\312\256\353"
+  97      5CDBFDB8 
+  97      E3AB8E4B 
+  97      B8CAAEEB 
+  98 0123 1401CEAF 		.ascii	"\024\001\316\257V\361\253\003|7\347\327\264W\026\204"
+  98      56F1AB03 
+  98      7C37E7D7 
+  98      B4571684 
+  99 0133 F24BEE63 		.ascii	"\362K\356c\022S\307|\005\022\277\244\201\271\325\303"
+  99      1253C77C 
+  99      0512BFA4 
+  99      81B9D5C3 
+ 100 0143 A5267137 		.ascii	"\245&q7\027orO>\010\343\300H\3466\027\365\235\327q\240"
+ 100      176F724F 
+ 100      3E08E3C0 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 7
+
+
+ 100      48E63617 
+ 100      F59DD771 
+ 101 0158 86B9A3DE 		.ascii	"\206\271\243\336\247\255!b\006G\346\336l9\021\202GQ"
+ 101      A7AD2162 
+ 101      0647E6DE 
+ 101      6C391182 
+ 101      4751
+ 102 016a 12BFD8AB 		.ascii	"\022\277\330\253K\323%\241\334e\375\261\030\267\204"
+ 102      4BD325A1 
+ 102      DC65FDB1 
+ 102      18B784
+ 103 0179 893379B3 		.ascii	"\2113y\263a`\222J\260\014\276O\235\356\244|\232\000"
+ 103      6160924A 
+ 103      B00CBE4F 
+ 103      9DEEA47C 
+ 103      9A00
+ 104 018b 8D2041FD 		.ascii	"\215 A\375\\\242\234\315\206\223\322<Z\230OC\267\020"
+ 104      5CA29CCD 
+ 104      8693D23C 
+ 104      5A984F43 
+ 104      B710
+ 105 019d A8C5FAD6 		.ascii	"\250\305\372\326a}\341.\230\020\300\241p\0077\033p\023"
+ 105      617DE12E 
+ 105      9810C0A1 
+ 105      7007371B 
+ 105      7013
+ 106 01af 43559CEA 		.ascii	"CU\234\352n\323\212\027\201\247\361\371%\335&^S\326"
+ 106      6ED38A17 
+ 106      81A7F1F9 
+ 106      25DD265E 
+ 106      53D6
+ 107 01c1 3F86BE14 		.ascii	"?\206\276\024\200X\2518%\305g\253\264<u=\272\332\276"
+ 107      8058A938 
+ 107      25C567AB 
+ 107      B43C753D 
+ 107      BADABE
+ 108 01d4 BAF27E3D 		.ascii	"\272\362~=\030#\214F\223\013c\371>\3368\275\350\002"
+ 108      18238C46 
+ 108      930B63F9 
+ 108      3EDE38BD 
+ 108      E802
+ 109 01e6 75DD079E 		.ascii	"u\335\007\236Q\013ft\017\"\202\241[\371\373\256\306"
+ 109      510B6674 
+ 109      0F2282A1 
+ 109      5BF9FBAE 
+ 109      C6
+ 110 01f7 0F39C5DE 		.ascii	"\0179\305\336\276\220\322\004\015\201[x^\303\217\030"
+ 110      BE90D204 
+ 110      0D815B78 
+ 110      5EC38F18 
+ 111 0207 1A13830E 		.ascii	"\032\023\203\016\314\321\003FhGk\003#\277\014\013\340"
+ 111      CCD10346 
+ 111      68476B03 
+ 111      23BF0C0B 
+ 111      E0
+ 112 0218 1AAAA509 		.ascii	"\032\252\245\011GE\256\336\374\247\372J\246P\313t\024"
+ 112      4745AEDE 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 8
+
+
+ 112      FCA7FA4A 
+ 112      A650CB74 
+ 112      14
+ 113 0229 EC6010DB 		.ascii	"\354`\020\3334/\226'\302\352\370\272?V\317\316I\340"
+ 113      342F9627 
+ 113      C2EAF8BA 
+ 113      3F56CFCE 
+ 113      49E0
+ 114 023b A5039D25 		.ascii	"\245\003\235%\\n\371H\365`\212\340\250\207:\200NT\271"
+ 114      5C6EF948 
+ 114      F5608AE0 
+ 114      A8873A80 
+ 114      4E54B9
+ 115 024e 1DAC3423 		.ascii	"\035\2544#\3611\337}\340>^\343_W\302\202\216\275\237"
+ 115      F131DF7D 
+ 115      E03E5EE3 
+ 115      5F57C282 
+ 115      8EBD9F
+ 116 0261 FA2E882F 		.ascii	"\372.\210/\224\352\326N\316\214k\342\353\251\323\265"
+ 116      94EAD64E 
+ 116      CE8C6BE2 
+ 116      EBA9D3B5 
+ 117 0271 9C076278 		.ascii	"\234\007bx\366D\355\376\271M\231\031\264\253\307[)F"
+ 117      F644EDFE 
+ 117      B94D9919 
+ 117      B4ABC75B 
+ 117      2946
+ 118 0283 5FA5D4E5 		.ascii	"_\245\324\345k\366\226\011\271\324\225G)\353YN\354R"
+ 118      6BF69609 
+ 118      B9D49547 
+ 118      29EB594E 
+ 118      EC52
+ 119 0295 325455B6 		.ascii	"2TU\266\213\265.tC<\201\036\210F\001gQ\303\007\2558"
+ 119      8BB52E74 
+ 119      433C811E 
+ 119      88460167 
+ 119      51C307AD 
+ 120 02aa A1046E2A 		.ascii	"\241\004n*\036\356\225$'\373\033\377\257]\004O]\341"
+ 120      1EEE9524 
+ 120      27FB1BFF 
+ 120      AF5D044F 
+ 120      5DE1
+ 121 02bc 8C61AE0D 		.ascii	"\214a\256\015\363\337\032\372)\026j\000k\335\033\254"
+ 121      F3DF1AFA 
+ 121      29166A00 
+ 121      6BDD1BAC 
+ 122 02cc 4E1F041B 		.ascii	"N\037\004\033\361o\345\376\371\033q\354\335\225\031"
+ 122      F16FE5FE 
+ 122      F91B71EC 
+ 122      DD9519
+ 123 02db 9DE1F85C 		.ascii	"\235\341\370\\\353r\321\000\211\300 \030\370/\2103\202"
+ 123      EB72D100 
+ 123      89C02018 
+ 123      F82F8833 
+ 123      82
+ 124 02ec 1FBD39E9 		.ascii	"\037\2759\351\015S\203;U\257L`\310\017fs\370\026\363"
+ 124      0D53833B 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 9
+
+
+ 124      55AF4C60 
+ 124      C80F6673 
+ 124      F816F3
+ 125 02ff 56EBD64D 		.ascii	"V\353\326M\326,[\232\325\222&\313v\335\346\035\311\221"
+ 125      D62C5B9A 
+ 125      D59226CB 
+ 125      76DDE61D 
+ 125      C991
+ 126 0311 8964554C 		.ascii	"\211dUL\312f9]\316L\315\226\017X-\031\216L\233\234b"
+ 126      CA66395D 
+ 126      CE4CCD96 
+ 126      0F582D19 
+ 126      8E4C9B9C 
+ 127 0326 B66424AE 		.ascii	"\266d$\256MQ\021\314\333cld\211jcO\352\021\331a_\256"
+ 127      4D5111CC 
+ 127      DB636C64 
+ 127      896A634F 
+ 127      EA11D961 
+ 128 033c DAD9B03E 		.ascii	"\332\331\260>1)\331l\265\354\332\231\234\270K\3478\234"
+ 128      3129D96C 
+ 128      B5ECDA99 
+ 128      9CB84BE7 
+ 128      389C
+ 129 034e 9E1D171B 		.ascii	"\236\035\027\033\275\240\266-';\307.g\305\034\"!v\233"
+ 129      BDA0B62D 
+ 129      273BC72E 
+ 129      67C51C22 
+ 129      21769B
+ 130 0361 251B01FA 		.ascii	"%\033\001\372\254\303\031\312\302\221\265\237/L\377"
+ 130      ACC319CA 
+ 130      C291B59F 
+ 130      2F4CFF
+ 131 0370 91190AA8 		.ascii	"\221\031\012\250\323\332\237j;\342\260k3\345\203q\261"
+ 131      D3DA9F6A 
+ 131      3BE2B06B 
+ 131      33E58371 
+ 131      B1
+ 132 0381 BF00A902 		.ascii	"\277\000\251\002\300\377"
+ 132      C0FF
+ 133              		.text
+ 134              		.section	.gnu.lto_.symtab.91bc9218,"",%progbits
+ 135 0000 4850495F 		.ascii	"HPI_IF_scl_Sleep\000\000\000\000\000\000\000\000\000"
+ 135      49465F73 
+ 135      636C5F53 
+ 135      6C656570 
+ 135      00000000 
+ 136 0019 000000AC 		.ascii	"\000\000\000\254\000\000\000HPI_IF_scl_Wakeup\000\000"
+ 136      00000048 
+ 136      50495F49 
+ 136      465F7363 
+ 136      6C5F5761 
+ 137 0033 00000000 		.ascii	"\000\000\000\000\000\000\000\000\000\000\256\000\000"
+ 137      00000000 
+ 137      0000AE00 
+ 137      00
+ 138 0040 00       		.ascii	"\000"
+ 139              		.text
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 10
+
+
+ 140              		.section	.gnu.lto_.opts,"",%progbits
+ 141 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
+ 141      6F2D7472 
+ 141      61707627 
+ 141      20272D6D 
+ 141      6370753D 
+ 142 0033 20272D57 		.ascii	" '-Werror' '-ffunction-sections' '-finline-function"
+ 142      6572726F 
+ 142      72272027 
+ 142      2D666675 
+ 142      6E637469 
+ 143 0066 73272027 		.ascii	"s' '-flto' '-ffat-lto-objects' '-fno-strict-aliasin"
+ 143      2D666C74 
+ 143      6F272027 
+ 143      2D666661 
+ 143      742D6C74 
+ 144 0099 672700   		.ascii	"g'\000"
+ 145              		.text
+ 146              		.cfi_sections	.debug_frame
+ 147              		.section	.text.HPI_IF_scl_Sleep,"ax",%progbits
+ 148              		.align	1
+ 149              		.global	HPI_IF_scl_Sleep
+ 150              		.code	16
+ 151              		.thumb_func
+ 152              		.type	HPI_IF_scl_Sleep, %function
+ 153              	HPI_IF_scl_Sleep:
+ 154              	.LFB0:
+ 155              		.file 1 ".\\Generated_Source\\PSoC4\\HPI_IF_scl_PM.c"
+   1:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** /*******************************************************************************
+   2:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * File Name: HPI_IF_scl.c  
+   3:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Version 2.20
+   4:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+   5:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Description:
+   6:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  This file contains APIs to set up the Pins component for low power modes.
+   7:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+   8:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Note:
+   9:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  10:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** ********************************************************************************
+  11:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Copyright 2015, Cypress Semiconductor Corporation.  All rights reserved.
+  12:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * You may use this file only in accordance with the license, terms, conditions, 
+  13:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * disclaimers, and limitations in the end user license agreement accompanying 
+  14:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * the software package with which this file was provided.
+  15:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *******************************************************************************/
+  16:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  17:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** #include "cytypes.h"
+  18:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** #include "HPI_IF_scl.h"
+  19:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  20:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** static HPI_IF_scl_BACKUP_STRUCT  HPI_IF_scl_backup = {0u, 0u, 0u};
+  21:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  22:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  23:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** /*******************************************************************************
+  24:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Function Name: HPI_IF_scl_Sleep
+  25:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** ****************************************************************************//**
+  26:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  27:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \brief Stores the pin configuration and prepares the pin for entering chip 
+  28:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  deep-sleep/hibernate modes. This function must be called for SIO and USBIO
+  29:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  pins. It is not essential if using GPIO or GPIO_OVT pins.
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 11
+
+
+  30:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  31:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * <b>Note</b> This function is available in PSoC 4 only.
+  32:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  33:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \return 
+  34:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  None 
+  35:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  
+  36:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \sideeffect
+  37:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  For SIO pins, this function configures the pin input threshold to CMOS and
+  38:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  drive level to Vddio. This is needed for SIO pins when in device 
+  39:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  deep-sleep/hibernate modes.
+  40:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  41:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \funcusage
+  42:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  \snippet HPI_IF_scl_SUT.c usage_HPI_IF_scl_Sleep_Wakeup
+  43:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *******************************************************************************/
+  44:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** void HPI_IF_scl_Sleep(void)
+  45:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** {
+ 156              		.loc 1 45 0
+ 157              		.cfi_startproc
+  46:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #if defined(HPI_IF_scl__PC)
+  47:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         HPI_IF_scl_backup.pcState = HPI_IF_scl_PC;
+ 158              		.loc 1 47 0
+ 159 0000 024B     		ldr	r3, .L2
+  48:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #else
+  49:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         #if (CY_PSOC4_4200L)
+  50:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             /* Save the regulator state and put the PHY into suspend mode */
+  51:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_backup.usbState = HPI_IF_scl_CR1_REG;
+  52:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_USB_POWER_REG |= HPI_IF_scl_USBIO_ENTER_SLEEP;
+  53:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_CR1_REG &= HPI_IF_scl_USBIO_CR1_OFF;
+  54:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         #endif
+  55:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #endif
+  56:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #if defined(CYIPBLOCK_m0s8ioss_VERSION) && defined(HPI_IF_scl__SIO)
+  57:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         HPI_IF_scl_backup.sioState = HPI_IF_scl_SIO_REG;
+  58:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         /* SIO requires unregulated output buffer and single ended input buffer */
+  59:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         HPI_IF_scl_SIO_REG &= (uint32)(~HPI_IF_scl_SIO_LPM_MASK);
+  60:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #endif  
+  61:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** }
+ 160              		.loc 1 61 0
+ 161              		@ sp needed
+  47:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #else
+ 162              		.loc 1 47 0
+ 163 0002 1A68     		ldr	r2, [r3]
+ 164 0004 024B     		ldr	r3, .L2+4
+ 165 0006 1A60     		str	r2, [r3]
+ 166              		.loc 1 61 0
+ 167 0008 7047     		bx	lr
+ 168              	.L3:
+ 169 000a C046     		.align	2
+ 170              	.L2:
+ 171 000c 08000440 		.word	1074003976
+ 172 0010 00000000 		.word	.LANCHOR0
+ 173              		.cfi_endproc
+ 174              	.LFE0:
+ 175              		.size	HPI_IF_scl_Sleep, .-HPI_IF_scl_Sleep
+ 176              		.section	.text.HPI_IF_scl_Wakeup,"ax",%progbits
+ 177              		.align	1
+ 178              		.global	HPI_IF_scl_Wakeup
+ 179              		.code	16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 12
+
+
+ 180              		.thumb_func
+ 181              		.type	HPI_IF_scl_Wakeup, %function
+ 182              	HPI_IF_scl_Wakeup:
+ 183              	.LFB1:
+  62:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  63:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** 
+  64:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** /*******************************************************************************
+  65:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * Function Name: HPI_IF_scl_Wakeup
+  66:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** ****************************************************************************//**
+  67:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  68:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \brief Restores the pin configuration that was saved during Pin_Sleep().
+  69:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  70:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * For USBIO pins, the wakeup is only triggered for falling edge interrupts.
+  71:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  72:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * <b>Note</b> This function is available in PSoC 4 only.
+  73:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *
+  74:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \return 
+  75:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  None
+  76:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  
+  77:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** * \funcusage
+  78:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *  Refer to HPI_IF_scl_Sleep() for an example usage.
+  79:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** *******************************************************************************/
+  80:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** void HPI_IF_scl_Wakeup(void)
+  81:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** {
+ 184              		.loc 1 81 0
+ 185              		.cfi_startproc
+  82:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #if defined(HPI_IF_scl__PC)
+  83:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         HPI_IF_scl_PC = HPI_IF_scl_backup.pcState;
+ 186              		.loc 1 83 0
+ 187 0000 024B     		ldr	r3, .L5
+  84:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #else
+  85:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         #if (CY_PSOC4_4200L)
+  86:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             /* Restore the regulator state and come out of suspend mode */
+  87:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_USB_POWER_REG &= HPI_IF_scl_USBIO_EXIT_SLEEP_PH1;
+  88:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_CR1_REG = HPI_IF_scl_backup.usbState;
+  89:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****             HPI_IF_scl_USB_POWER_REG &= HPI_IF_scl_USBIO_EXIT_SLEEP_PH2;
+  90:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         #endif
+  91:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #endif
+  92:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #if defined(CYIPBLOCK_m0s8ioss_VERSION) && defined(HPI_IF_scl__SIO)
+  93:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****         HPI_IF_scl_SIO_REG = HPI_IF_scl_backup.sioState;
+  94:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #endif
+  95:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c **** }
+ 188              		.loc 1 95 0
+ 189              		@ sp needed
+  83:.\Generated_Source\PSoC4/HPI_IF_scl_PM.c ****     #else
+ 190              		.loc 1 83 0
+ 191 0002 1A68     		ldr	r2, [r3]
+ 192 0004 024B     		ldr	r3, .L5+4
+ 193 0006 1A60     		str	r2, [r3]
+ 194              		.loc 1 95 0
+ 195 0008 7047     		bx	lr
+ 196              	.L6:
+ 197 000a C046     		.align	2
+ 198              	.L5:
+ 199 000c 00000000 		.word	.LANCHOR0
+ 200 0010 08000440 		.word	1074003976
+ 201              		.cfi_endproc
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 13
+
+
+ 202              	.LFE1:
+ 203              		.size	HPI_IF_scl_Wakeup, .-HPI_IF_scl_Wakeup
+ 204              		.bss
+ 205              		.align	2
+ 206              		.set	.LANCHOR0,. + 0
+ 207              		.type	HPI_IF_scl_backup, %object
+ 208              		.size	HPI_IF_scl_backup, 12
+ 209              	HPI_IF_scl_backup:
+ 210 0000 00000000 		.space	12
+ 210      00000000 
+ 210      00000000 
+ 211              		.text
+ 212              	.Letext0:
+ 213              		.file 2 ".\\Generated_Source\\PSoC4\\cytypes.h"
+ 214              		.file 3 ".\\Generated_Source\\PSoC4\\HPI_IF_scl.h"
+ 215              		.section	.debug_info,"",%progbits
+ 216              	.Ldebug_info0:
+ 217 0000 05010000 		.4byte	0x105
+ 218 0004 0400     		.2byte	0x4
+ 219 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 220 000a 04       		.byte	0x4
+ 221 000b 01       		.uleb128 0x1
+ 222 000c BC000000 		.4byte	.LASF20
+ 223 0010 01       		.byte	0x1
+ 224 0011 00000000 		.4byte	.LASF21
+ 225 0015 78010000 		.4byte	.LASF22
+ 226 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 227 001d 00000000 		.4byte	0
+ 228 0021 00000000 		.4byte	.Ldebug_line0
+ 229 0025 02       		.uleb128 0x2
+ 230 0026 01       		.byte	0x1
+ 231 0027 06       		.byte	0x6
+ 232 0028 26020000 		.4byte	.LASF0
+ 233 002c 02       		.uleb128 0x2
+ 234 002d 01       		.byte	0x1
+ 235 002e 08       		.byte	0x8
+ 236 002f 3E000000 		.4byte	.LASF1
+ 237 0033 02       		.uleb128 0x2
+ 238 0034 02       		.byte	0x2
+ 239 0035 05       		.byte	0x5
+ 240 0036 0B020000 		.4byte	.LASF2
+ 241 003a 02       		.uleb128 0x2
+ 242 003b 02       		.byte	0x2
+ 243 003c 07       		.byte	0x7
+ 244 003d 5E000000 		.4byte	.LASF3
+ 245 0041 02       		.uleb128 0x2
+ 246 0042 04       		.byte	0x4
+ 247 0043 05       		.byte	0x5
+ 248 0044 1D020000 		.4byte	.LASF4
+ 249 0048 02       		.uleb128 0x2
+ 250 0049 04       		.byte	0x4
+ 251 004a 07       		.byte	0x7
+ 252 004b 4C000000 		.4byte	.LASF5
+ 253 004f 02       		.uleb128 0x2
+ 254 0050 08       		.byte	0x8
+ 255 0051 05       		.byte	0x5
+ 256 0052 E6010000 		.4byte	.LASF6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 14
+
+
+ 257 0056 02       		.uleb128 0x2
+ 258 0057 08       		.byte	0x8
+ 259 0058 07       		.byte	0x7
+ 260 0059 A5000000 		.4byte	.LASF7
+ 261 005d 03       		.uleb128 0x3
+ 262 005e 04       		.byte	0x4
+ 263 005f 05       		.byte	0x5
+ 264 0060 696E7400 		.ascii	"int\000"
+ 265 0064 02       		.uleb128 0x2
+ 266 0065 04       		.byte	0x4
+ 267 0066 07       		.byte	0x7
+ 268 0067 98000000 		.4byte	.LASF8
+ 269 006b 04       		.uleb128 0x4
+ 270 006c 91000000 		.4byte	.LASF12
+ 271 0070 02       		.byte	0x2
+ 272 0071 9A01     		.2byte	0x19a
+ 273 0073 48000000 		.4byte	0x48
+ 274 0077 02       		.uleb128 0x2
+ 275 0078 04       		.byte	0x4
+ 276 0079 04       		.byte	0x4
+ 277 007a 38000000 		.4byte	.LASF9
+ 278 007e 02       		.uleb128 0x2
+ 279 007f 08       		.byte	0x8
+ 280 0080 04       		.byte	0x4
+ 281 0081 8A000000 		.4byte	.LASF10
+ 282 0085 02       		.uleb128 0x2
+ 283 0086 01       		.byte	0x1
+ 284 0087 08       		.byte	0x8
+ 285 0088 F4010000 		.4byte	.LASF11
+ 286 008c 04       		.uleb128 0x4
+ 287 008d 29000000 		.4byte	.LASF13
+ 288 0091 02       		.byte	0x2
+ 289 0092 4402     		.2byte	0x244
+ 290 0094 98000000 		.4byte	0x98
+ 291 0098 05       		.uleb128 0x5
+ 292 0099 6B000000 		.4byte	0x6b
+ 293 009d 06       		.uleb128 0x6
+ 294 009e 0C       		.byte	0xc
+ 295 009f 03       		.byte	0x3
+ 296 00a0 21       		.byte	0x21
+ 297 00a1 CA000000 		.4byte	0xca
+ 298 00a5 07       		.uleb128 0x7
+ 299 00a6 15020000 		.4byte	.LASF14
+ 300 00aa 03       		.byte	0x3
+ 301 00ab 23       		.byte	0x23
+ 302 00ac 6B000000 		.4byte	0x6b
+ 303 00b0 00       		.byte	0
+ 304 00b1 07       		.uleb128 0x7
+ 305 00b2 DD010000 		.4byte	.LASF15
+ 306 00b6 03       		.byte	0x3
+ 307 00b7 24       		.byte	0x24
+ 308 00b8 6B000000 		.4byte	0x6b
+ 309 00bc 04       		.byte	0x4
+ 310 00bd 07       		.uleb128 0x7
+ 311 00be 2F000000 		.4byte	.LASF16
+ 312 00c2 03       		.byte	0x3
+ 313 00c3 25       		.byte	0x25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 15
+
+
+ 314 00c4 6B000000 		.4byte	0x6b
+ 315 00c8 08       		.byte	0x8
+ 316 00c9 00       		.byte	0
+ 317 00ca 08       		.uleb128 0x8
+ 318 00cb 71000000 		.4byte	.LASF17
+ 319 00cf 03       		.byte	0x3
+ 320 00d0 26       		.byte	0x26
+ 321 00d1 9D000000 		.4byte	0x9d
+ 322 00d5 09       		.uleb128 0x9
+ 323 00d6 44020000 		.4byte	.LASF18
+ 324 00da 01       		.byte	0x1
+ 325 00db 2C       		.byte	0x2c
+ 326 00dc 00000000 		.4byte	.LFB0
+ 327 00e0 14000000 		.4byte	.LFE0-.LFB0
+ 328 00e4 01       		.uleb128 0x1
+ 329 00e5 9C       		.byte	0x9c
+ 330 00e6 09       		.uleb128 0x9
+ 331 00e7 32020000 		.4byte	.LASF19
+ 332 00eb 01       		.byte	0x1
+ 333 00ec 50       		.byte	0x50
+ 334 00ed 00000000 		.4byte	.LFB1
+ 335 00f1 14000000 		.4byte	.LFE1-.LFB1
+ 336 00f5 01       		.uleb128 0x1
+ 337 00f6 9C       		.byte	0x9c
+ 338 00f7 0A       		.uleb128 0xa
+ 339 00f8 F9010000 		.4byte	.LASF23
+ 340 00fc 01       		.byte	0x1
+ 341 00fd 14       		.byte	0x14
+ 342 00fe CA000000 		.4byte	0xca
+ 343 0102 05       		.uleb128 0x5
+ 344 0103 03       		.byte	0x3
+ 345 0104 00000000 		.4byte	HPI_IF_scl_backup
+ 346 0108 00       		.byte	0
+ 347              		.section	.debug_abbrev,"",%progbits
+ 348              	.Ldebug_abbrev0:
+ 349 0000 01       		.uleb128 0x1
+ 350 0001 11       		.uleb128 0x11
+ 351 0002 01       		.byte	0x1
+ 352 0003 25       		.uleb128 0x25
+ 353 0004 0E       		.uleb128 0xe
+ 354 0005 13       		.uleb128 0x13
+ 355 0006 0B       		.uleb128 0xb
+ 356 0007 03       		.uleb128 0x3
+ 357 0008 0E       		.uleb128 0xe
+ 358 0009 1B       		.uleb128 0x1b
+ 359 000a 0E       		.uleb128 0xe
+ 360 000b 55       		.uleb128 0x55
+ 361 000c 17       		.uleb128 0x17
+ 362 000d 11       		.uleb128 0x11
+ 363 000e 01       		.uleb128 0x1
+ 364 000f 10       		.uleb128 0x10
+ 365 0010 17       		.uleb128 0x17
+ 366 0011 00       		.byte	0
+ 367 0012 00       		.byte	0
+ 368 0013 02       		.uleb128 0x2
+ 369 0014 24       		.uleb128 0x24
+ 370 0015 00       		.byte	0
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 16
+
+
+ 371 0016 0B       		.uleb128 0xb
+ 372 0017 0B       		.uleb128 0xb
+ 373 0018 3E       		.uleb128 0x3e
+ 374 0019 0B       		.uleb128 0xb
+ 375 001a 03       		.uleb128 0x3
+ 376 001b 0E       		.uleb128 0xe
+ 377 001c 00       		.byte	0
+ 378 001d 00       		.byte	0
+ 379 001e 03       		.uleb128 0x3
+ 380 001f 24       		.uleb128 0x24
+ 381 0020 00       		.byte	0
+ 382 0021 0B       		.uleb128 0xb
+ 383 0022 0B       		.uleb128 0xb
+ 384 0023 3E       		.uleb128 0x3e
+ 385 0024 0B       		.uleb128 0xb
+ 386 0025 03       		.uleb128 0x3
+ 387 0026 08       		.uleb128 0x8
+ 388 0027 00       		.byte	0
+ 389 0028 00       		.byte	0
+ 390 0029 04       		.uleb128 0x4
+ 391 002a 16       		.uleb128 0x16
+ 392 002b 00       		.byte	0
+ 393 002c 03       		.uleb128 0x3
+ 394 002d 0E       		.uleb128 0xe
+ 395 002e 3A       		.uleb128 0x3a
+ 396 002f 0B       		.uleb128 0xb
+ 397 0030 3B       		.uleb128 0x3b
+ 398 0031 05       		.uleb128 0x5
+ 399 0032 49       		.uleb128 0x49
+ 400 0033 13       		.uleb128 0x13
+ 401 0034 00       		.byte	0
+ 402 0035 00       		.byte	0
+ 403 0036 05       		.uleb128 0x5
+ 404 0037 35       		.uleb128 0x35
+ 405 0038 00       		.byte	0
+ 406 0039 49       		.uleb128 0x49
+ 407 003a 13       		.uleb128 0x13
+ 408 003b 00       		.byte	0
+ 409 003c 00       		.byte	0
+ 410 003d 06       		.uleb128 0x6
+ 411 003e 13       		.uleb128 0x13
+ 412 003f 01       		.byte	0x1
+ 413 0040 0B       		.uleb128 0xb
+ 414 0041 0B       		.uleb128 0xb
+ 415 0042 3A       		.uleb128 0x3a
+ 416 0043 0B       		.uleb128 0xb
+ 417 0044 3B       		.uleb128 0x3b
+ 418 0045 0B       		.uleb128 0xb
+ 419 0046 01       		.uleb128 0x1
+ 420 0047 13       		.uleb128 0x13
+ 421 0048 00       		.byte	0
+ 422 0049 00       		.byte	0
+ 423 004a 07       		.uleb128 0x7
+ 424 004b 0D       		.uleb128 0xd
+ 425 004c 00       		.byte	0
+ 426 004d 03       		.uleb128 0x3
+ 427 004e 0E       		.uleb128 0xe
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 17
+
+
+ 428 004f 3A       		.uleb128 0x3a
+ 429 0050 0B       		.uleb128 0xb
+ 430 0051 3B       		.uleb128 0x3b
+ 431 0052 0B       		.uleb128 0xb
+ 432 0053 49       		.uleb128 0x49
+ 433 0054 13       		.uleb128 0x13
+ 434 0055 38       		.uleb128 0x38
+ 435 0056 0B       		.uleb128 0xb
+ 436 0057 00       		.byte	0
+ 437 0058 00       		.byte	0
+ 438 0059 08       		.uleb128 0x8
+ 439 005a 16       		.uleb128 0x16
+ 440 005b 00       		.byte	0
+ 441 005c 03       		.uleb128 0x3
+ 442 005d 0E       		.uleb128 0xe
+ 443 005e 3A       		.uleb128 0x3a
+ 444 005f 0B       		.uleb128 0xb
+ 445 0060 3B       		.uleb128 0x3b
+ 446 0061 0B       		.uleb128 0xb
+ 447 0062 49       		.uleb128 0x49
+ 448 0063 13       		.uleb128 0x13
+ 449 0064 00       		.byte	0
+ 450 0065 00       		.byte	0
+ 451 0066 09       		.uleb128 0x9
+ 452 0067 2E       		.uleb128 0x2e
+ 453 0068 00       		.byte	0
+ 454 0069 3F       		.uleb128 0x3f
+ 455 006a 19       		.uleb128 0x19
+ 456 006b 03       		.uleb128 0x3
+ 457 006c 0E       		.uleb128 0xe
+ 458 006d 3A       		.uleb128 0x3a
+ 459 006e 0B       		.uleb128 0xb
+ 460 006f 3B       		.uleb128 0x3b
+ 461 0070 0B       		.uleb128 0xb
+ 462 0071 27       		.uleb128 0x27
+ 463 0072 19       		.uleb128 0x19
+ 464 0073 11       		.uleb128 0x11
+ 465 0074 01       		.uleb128 0x1
+ 466 0075 12       		.uleb128 0x12
+ 467 0076 06       		.uleb128 0x6
+ 468 0077 40       		.uleb128 0x40
+ 469 0078 18       		.uleb128 0x18
+ 470 0079 9742     		.uleb128 0x2117
+ 471 007b 19       		.uleb128 0x19
+ 472 007c 00       		.byte	0
+ 473 007d 00       		.byte	0
+ 474 007e 0A       		.uleb128 0xa
+ 475 007f 34       		.uleb128 0x34
+ 476 0080 00       		.byte	0
+ 477 0081 03       		.uleb128 0x3
+ 478 0082 0E       		.uleb128 0xe
+ 479 0083 3A       		.uleb128 0x3a
+ 480 0084 0B       		.uleb128 0xb
+ 481 0085 3B       		.uleb128 0x3b
+ 482 0086 0B       		.uleb128 0xb
+ 483 0087 49       		.uleb128 0x49
+ 484 0088 13       		.uleb128 0x13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 18
+
+
+ 485 0089 02       		.uleb128 0x2
+ 486 008a 18       		.uleb128 0x18
+ 487 008b 00       		.byte	0
+ 488 008c 00       		.byte	0
+ 489 008d 00       		.byte	0
+ 490              		.section	.debug_aranges,"",%progbits
+ 491 0000 24000000 		.4byte	0x24
+ 492 0004 0200     		.2byte	0x2
+ 493 0006 00000000 		.4byte	.Ldebug_info0
+ 494 000a 04       		.byte	0x4
+ 495 000b 00       		.byte	0
+ 496 000c 0000     		.2byte	0
+ 497 000e 0000     		.2byte	0
+ 498 0010 00000000 		.4byte	.LFB0
+ 499 0014 14000000 		.4byte	.LFE0-.LFB0
+ 500 0018 00000000 		.4byte	.LFB1
+ 501 001c 14000000 		.4byte	.LFE1-.LFB1
+ 502 0020 00000000 		.4byte	0
+ 503 0024 00000000 		.4byte	0
+ 504              		.section	.debug_ranges,"",%progbits
+ 505              	.Ldebug_ranges0:
+ 506 0000 00000000 		.4byte	.LFB0
+ 507 0004 14000000 		.4byte	.LFE0
+ 508 0008 00000000 		.4byte	.LFB1
+ 509 000c 14000000 		.4byte	.LFE1
+ 510 0010 00000000 		.4byte	0
+ 511 0014 00000000 		.4byte	0
+ 512              		.section	.debug_line,"",%progbits
+ 513              	.Ldebug_line0:
+ 514 0000 95000000 		.section	.debug_str,"MS",%progbits,1
+ 514      02005C00 
+ 514      00000201 
+ 514      FB0E0D00 
+ 514      01010101 
+ 515              	.LASF21:
+ 516 0000 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\HPI_IF_scl_PM.c\000"
+ 516      6E657261 
+ 516      7465645F 
+ 516      536F7572 
+ 516      63655C50 
+ 517              	.LASF13:
+ 518 0029 72656733 		.ascii	"reg32\000"
+ 518      3200
+ 519              	.LASF16:
+ 520 002f 75736253 		.ascii	"usbState\000"
+ 520      74617465 
+ 520      00
+ 521              	.LASF9:
+ 522 0038 666C6F61 		.ascii	"float\000"
+ 522      7400
+ 523              	.LASF1:
+ 524 003e 756E7369 		.ascii	"unsigned char\000"
+ 524      676E6564 
+ 524      20636861 
+ 524      7200
+ 525              	.LASF5:
+ 526 004c 6C6F6E67 		.ascii	"long unsigned int\000"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 19
+
+
+ 526      20756E73 
+ 526      69676E65 
+ 526      6420696E 
+ 526      7400
+ 527              	.LASF3:
+ 528 005e 73686F72 		.ascii	"short unsigned int\000"
+ 528      7420756E 
+ 528      7369676E 
+ 528      65642069 
+ 528      6E7400
+ 529              	.LASF17:
+ 530 0071 4850495F 		.ascii	"HPI_IF_scl_BACKUP_STRUCT\000"
+ 530      49465F73 
+ 530      636C5F42 
+ 530      41434B55 
+ 530      505F5354 
+ 531              	.LASF10:
+ 532 008a 646F7562 		.ascii	"double\000"
+ 532      6C6500
+ 533              	.LASF12:
+ 534 0091 75696E74 		.ascii	"uint32\000"
+ 534      333200
+ 535              	.LASF8:
+ 536 0098 756E7369 		.ascii	"unsigned int\000"
+ 536      676E6564 
+ 536      20696E74 
+ 536      00
+ 537              	.LASF7:
+ 538 00a5 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 538      206C6F6E 
+ 538      6720756E 
+ 538      7369676E 
+ 538      65642069 
+ 539              	.LASF20:
+ 540 00bc 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 540      4320342E 
+ 540      392E3320 
+ 540      32303135 
+ 540      30333033 
+ 541 00ef 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 541      20726576 
+ 541      6973696F 
+ 541      6E203232 
+ 541      31323230 
+ 542 0122 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 542      66756E63 
+ 542      74696F6E 
+ 542      2D736563 
+ 542      74696F6E 
+ 543 0155 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 543      6F2D6F62 
+ 543      6A656374 
+ 543      73202D66 
+ 543      6E6F2D73 
+ 544              	.LASF22:
+ 545 0178 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
+ 545      73657273 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 20
+
+
+ 545      5C766963 
+ 545      746F5C4F 
+ 545      6E654472 
+ 546 01a6 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
+ 546      44343232 
+ 546      352D3430 
+ 546      4C515849 
+ 546      5F303830 
+ 547 01d7 63796473 		.ascii	"cydsn\000"
+ 547      6E00
+ 548              	.LASF15:
+ 549 01dd 73696F53 		.ascii	"sioState\000"
+ 549      74617465 
+ 549      00
+ 550              	.LASF6:
+ 551 01e6 6C6F6E67 		.ascii	"long long int\000"
+ 551      206C6F6E 
+ 551      6720696E 
+ 551      7400
+ 552              	.LASF11:
+ 553 01f4 63686172 		.ascii	"char\000"
+ 553      00
+ 554              	.LASF23:
+ 555 01f9 4850495F 		.ascii	"HPI_IF_scl_backup\000"
+ 555      49465F73 
+ 555      636C5F62 
+ 555      61636B75 
+ 555      7000
+ 556              	.LASF2:
+ 557 020b 73686F72 		.ascii	"short int\000"
+ 557      7420696E 
+ 557      7400
+ 558              	.LASF14:
+ 559 0215 70635374 		.ascii	"pcState\000"
+ 559      61746500 
+ 560              	.LASF4:
+ 561 021d 6C6F6E67 		.ascii	"long int\000"
+ 561      20696E74 
+ 561      00
+ 562              	.LASF0:
+ 563 0226 7369676E 		.ascii	"signed char\000"
+ 563      65642063 
+ 563      68617200 
+ 564              	.LASF19:
+ 565 0232 4850495F 		.ascii	"HPI_IF_scl_Wakeup\000"
+ 565      49465F73 
+ 565      636C5F57 
+ 565      616B6575 
+ 565      7000
+ 566              	.LASF18:
+ 567 0244 4850495F 		.ascii	"HPI_IF_scl_Sleep\000"
+ 567      49465F73 
+ 567      636C5F53 
+ 567      6C656570 
+ 567      00
+ 568              		.comm	__gnu_lto_v1,1,1
+ 569              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cct15Qaz.s 			page 21
+
+

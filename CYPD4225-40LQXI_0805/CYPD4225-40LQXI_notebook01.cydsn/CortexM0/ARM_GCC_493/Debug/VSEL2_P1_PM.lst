@@ -1,0 +1,1193 @@
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 1
+
+
+   1              		.cpu cortex-m0
+   2              		.fpu softvfp
+   3              		.eabi_attribute 20, 1
+   4              		.eabi_attribute 21, 1
+   5              		.eabi_attribute 23, 3
+   6              		.eabi_attribute 24, 1
+   7              		.eabi_attribute 25, 1
+   8              		.eabi_attribute 26, 1
+   9              		.eabi_attribute 30, 4
+  10              		.eabi_attribute 34, 0
+  11              		.eabi_attribute 18, 4
+  12              		.code	16
+  13              		.file	"VSEL2_P1_PM.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.790141f2,"",%progbits
+  17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006\0166\000\000\212\000\027"
+  17      60606061 
+  17      80004606 
+  17      0E360000 
+  17      8A0017
+  18              		.text
+  19              		.section	.gnu.lto_.jmpfuncs.790141f2,"",%progbits
+  20 0000 789C6366 		.ascii	"x\234cf\300\0168\2404\023\024\003\000\0018\000\020"
+  20      C00E38A0 
+  20      34131403 
+  20      00013800 
+  20      10
+  21              		.text
+  22              		.section	.gnu.lto_.inline.790141f2,"",%progbits
+  23 0000 789C6366 		.ascii	"x\234cf\300\0164\2404\023\003\003+\013#\003\023\313"
+  23      C00E34A0 
+  23      34130303 
+  23      2B0B2303 
+  23      13CB
+  24 0012 027906B6 		.ascii	"\002y\006\266\005\362L\0201\014!\006\000G\026\003\\"
+  24      05F24C10 
+  24      310C2106 
+  24      00471603 
+  24      5C
+  25              		.text
+  26              		.section	.gnu.lto_.pureconst.790141f2,"",%progbits
+  27 0000 789C6366 		.ascii	"x\234cf```e\200\000&\006)&)\000\000\373\000A"
+  27      60606065 
+  27      80002606 
+  27      29262900 
+  27      00FB0041 
+  28              		.text
+  29              		.section	.gnu.lto_VSEL2_P1_Sleep.790141f2,"",%progbits
+  30 0000 789C654F 		.ascii	"x\234eO=HBQ\024>\337\361)\212\020\321\350\034H\203B"
+  30      3D484251 
+  30      143EDFF1 
+  30      298A10D1 
+  30      E81C4883 
+  31 0015 D1D0D610 		.ascii	"\321\320\326\020\321R\360@h\022$\3145Aj\024\337\213"
+  31      D152F040 
+  31      681224CC 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 2
+
+
+  31      35416A14 
+  31      DF8B
+  32 0027 37484349 		.ascii	"7HCIC\004e[di\012AP\333K\332\202\"\032\002\301\"0\250"
+  32      4304655B 
+  32      64690A41 
+  32      50DB4BDA 
+  32      82221A02 
+  33 003f 2D138A97 		.ascii	"-\023\212\227\250\235\253K\320\205\313\271\347\234\357"
+  33      A89DAB4B 
+  33      D085CBB9 
+  33      E79CEF
+  34 004e 7E3F2EFA 		.ascii	"~?.\372\177\002r\247A4&\025.\002\347n\211L/\003\352"
+  34      7F0272A7 
+  34      41342615 
+  34      2E02E76E 
+  34      894C2F03 
+  35 0063 41A00C23 		.ascii	"A\240\014#\203wn2rvq\327\037<4\014\343\243zc\3526\034"
+  35      83776E32 
+  35      727671D7 
+  35      1F3C340C 
+  35      E3A37A63 
+  36 007a 266AF180 		.ascii	"&j\361\200\007G\010\222\200\232V\347\321\357\261\004"
+  36      07470892 
+  36      809A56E7 
+  36      D1EFB104 
+  37 008a 343CD8A1 		.ascii	"4<\330\241\000\217\360Se\3046z\275V\371\352\007\032"
+  37      008FF053 
+  37      65C4367A 
+  37      BD56F9EA 
+  37      071A
+  38 009c 93C3326B 		.ascii	"\223\3032k\310^\251\2742\253\352\252\241\372\265\321"
+  38      C85EA9BC 
+  38      32ABEAAA 
+  38      A1FAB5D1 
+  39 00ac 3DF7A92F 		.ascii	"=\367\251/\337\254$\353\327\365\213\2417v\230\263V\316"
+  39      DFAC24EB 
+  39      D7F58BA1 
+  39      377698B3 
+  39      56CE
+  40 00be D094C073 		.ascii	"\320\224\300s\343\356\336\333\037\221j/[;\266/\217="
+  40      E3EEDEDB 
+  40      1F916A2F 
+  40      5B3BB62F 
+  40      8F3D
+  41 00d0 D3123B2E 		.ascii	"\323\022;.\034#\200\023H(\024\221\007\325\260\276\375"
+  41      1C238013 
+  41      48281491 
+  41      07D5B0BE 
+  41      FD
+  42 00e1 32AAF804 		.ascii	"2\252\370\004z\360\260Y\346t\333\310\032^\207\265\216"
+  42      7AF0B059 
+  42      E674DBC8 
+  42      1A5E87B5 
+  42      8E
+  43 00f2 32F7974F 		.ascii	"2\367\227O\353\267\005\323\332\207\3423\024\312\215"
+  43      EBB705D3 
+  43      DA87E233 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 3
+
+
+  43      14CA8D
+  44 0101 12D23855 		.ascii	"\022\3228U\204\262\353\226\266\316<\241\242d\263\247"
+  44      84B2EB96 
+  44      B6CE3CA1 
+  44      A264B3A7 
+  45 0111 1CF6A02C 		.ascii	"\034\366\240,\300\317~~T\020\022\307\364\004\323n\273"
+  45      C0CF7E7E 
+  45      541012C7 
+  45      F404D36E 
+  45      BB
+  46 0122 959E9A36 		.ascii	"\225\236\2326$\244\344\022D0\034\235K\254$RK\253\211"
+  46      24A4E412 
+  46      44301C9D 
+  46      4BAC2452 
+  46      4BAB89
+  47 0135 E55824B9 		.ascii	"\345X$\271\226\212'\242z$93\031]\214\314\316O\304\364"
+  47      968A27A2 
+  47      7A243933 
+  47      195D8CCC 
+  47      CE4FC4F4 
+  48 0149 F198BE10 		.ascii	"\361\230\276\020\216\323/\211\354\201\234"
+  48      8ED32F89 
+  48      EC819C
+  49              		.text
+  50              		.section	.gnu.lto_VSEL2_P1_Wakeup.790141f2,"",%progbits
+  51 0000 789C658F 		.ascii	"x\234e\217\317K\002Q\020\307gfuQ\204\210\016a\376\003"
+  51      CF4B0251 
+  51      10C76766 
+  51      75518488 
+  51      0E61FE03 
+  52 0014 12A15174 		.ascii	"\022\241Qt\354\026\325\245`A\350$H\330^\023\244\216"
+  52      EC16D5A5 
+  52      6041E824 
+  52      48D85E13 
+  52      A48E
+  53 0026 E25BD9C0 		.ascii	"\342[\331\300SY\207\010\372q\213,M!(\352\266D\347\""
+  53      53598708 
+  53      FA718B2C 
+  53      4D2128EA 
+  53      B644E722 
+  54 003a 2A02C142 		.ascii	"*\002\301B\330\300n\231\207X\302l\336z\212\036<\346"
+  54      D8C06E99 
+  54      8758C26C 
+  54      DE7A8A1E 
+  54      3CE6
+  55 004c BD99EF7C 		.ascii	"\275\231\357|?3\012\374?!\276\223\0100\314\021\025@"
+  55      3F330AFC 
+  55      3F21BE93 
+  55      0830CC11 
+  55      1540
+  56 005e 2ADC0218 		.ascii	"*\334\002\030>B\224\017@\310\022f\361\235Z\204\005\253"
+  56      3E42940F 
+  56      40C81266 
+  56      F19D5A84 
+  56      05AB
+  57 0070 B413081F 		.ascii	"\264\023\010\037\012!>r\347\301\265\240C\000m\352\331"
+  57      0A213E72 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 4
+
+
+  57      E7C1B5A0 
+  57      43006DEA 
+  57      D9
+  58 0081 E0118681 		.ascii	"\340\021\206\2015-\263\363\034PM\326\364\367jXD\225"
+  58      352DB3F3 
+  58      1C504DD6 
+  58      F4F76A58 
+  58      4495
+  59 0093 EDA13A60 		.ascii	"\355\241:`\211n\267\375\270\331\034E\017\201C\234\264"
+  59      896EB7FD 
+  59      B8D91C45 
+  59      0F81439C 
+  59      B4
+  60 00a4 5920296F 		.ascii	"Y )oD2*5\314]\264\236\032~\331\363E\022y\360\260^\241"
+  60      44322A35 
+  60      CC5DB49E 
+  60      1A7ED9F3 
+  60      451279F0 
+  61 00bb CCB7C80B 		.ascii	"\314\267\310\013\237C\324\221\206\234}\265\357\356}"
+  61      9F43D491 
+  61      869C7DB5 
+  61      EFEE7D
+  62 00ca 4DE28CFB 		.ascii	"M\342\214\373-\032\346\036\356\343\256!\244J\301c\314"
+  62      2D1AE61E 
+  62      EEE3AE21 
+  62      A44AC163 
+  62      CC
+  63 00db E00986DC 		.ascii	"\340\011\206\334\332Oy\343L\215\2148\344\301\022k>\335"
+  63      DA4F79E3 
+  63      4C8D8C38 
+  63      E4C1126B 
+  63      3EDD
+  64 00ed 71B18C11 		.ascii	"q\261\214\021\250\341\365VcP\242XV\277\251_\366IGo\336"
+  64      A8E1F556 
+  64      6350A258 
+  64      56BFA95F 
+  64      F649476F 
+  65 0102 2C08CF1F 		.ascii	",\010\317\037\210\3275\272jo[~\0111\015k\310!\025O1"
+  65      88D735BA 
+  65      6A6F5B7E 
+  65      09310D6B 
+  65      C821154F 
+  66 0117 841549C1 		.ascii	"\204\025I\301*\033\363\270\360\202\206\325\235\221\216"
+  66      2A1BF3B8 
+  66      F08286D5 
+  66      9D918E
+  67 0126 1262F386 		.ascii	"\022b\363\206\274\024\003\303\321\370\254\276\254\247"
+  67      BC1403C3 
+  67      D1F8ACBE 
+  67      ACA7
+  68 0134 1757F4A5 		.ascii	"\027W\364\245D,\265\232N\352q-\226\232\232\210/\304"
+  68      442CB59A 
+  68      4EEA712D 
+  68      969A9A88 
+  68      2FC4
+  69 0146 A6E7C613 		.ascii	"\246\347\306\023\332XB\233\217&\341\027\264W\177<"
+  69      DA58429B 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 5
+
+
+  69      8F26E117 
+  69      B4577F3C 
+  70              		.text
+  71              		.section	.gnu.lto_.symbol_nodes.790141f2,"",%progbits
+  72 0000 789C6366 		.ascii	"x\234cf``\320d\200\002&\306z\006\206\011\347\030\030"
+  72      6060D064 
+  72      800226C6 
+  72      7A068609 
+  72      E71818
+  73 0013 EAEB19E6 		.ascii	"\352\353\031\346-\340``e`X\300T\317\314\304T\317\210"
+  73      2DE06060 
+  73      656058C0 
+  73      54CFCCC4 
+  73      54CF88
+  74 0026 2CCC0000 		.ascii	",\314\000\000\310\"\011\240"
+  74      C82209A0 
+  75              		.text
+  76              		.section	.gnu.lto_.refs.790141f2,"",%progbits
+  77 0000 789C6366 		.ascii	"x\234cf``\340f\200\000F\006FF&F& \311\000\000\001l\000"
+  77      6060E066 
+  77      80004606 
+  77      46462646 
+  77      2620C900 
+  78 0018 19       		.ascii	"\031"
+  79              		.text
+  80              		.section	.gnu.lto_.decls.790141f2,"",%progbits
+  81 0000 789C8D53 		.ascii	"x\234\215S]HTA\024\236s\257\373w\335,\020*z\3225,\""
+  81      5D485441 
+  81      149E73AF 
+  81      FB77DD2C 
+  81      102A7AD2 
+  82 0017 84347ACD 		.ascii	"\2044z\315\2220\372ci\263\036\022\314\266\233J\241\213"
+  82      9230FA63 
+  82      69B31E12 
+  82      CCB69B4A 
+  82      A18B
+  83 0029 BA0FBD8D 		.ascii	"\272\017\275\215Z\261f\220Z\206\025\325\015\265\314"
+  83      5AB16690 
+  83      5A8615D5 
+  83      0DB5CC
+  84 0038 6C35355B 		.ascii	"l55[Ms[-\177\013\204(\203\260,\213 \242\215\324\022"
+  84      4D735B2D 
+  84      7F0B8428 
+  84      83B02C8B 
+  84      20A28DD4 
+  85 004d 1FB63373 		.ascii	"\037\2663s\367\257\322j\340\334\2313\363}\3379s\346"
+  85      F7AFD26A 
+  85      E0DC9933 
+  85      F37DDF39 
+  85      73E6
+  86 005f 5C9110E2 		.ascii	"\\\221\020\342F\363\3418\027A\310\007\\\213hf\022\032"
+  86      46F3E138 
+  86      1741C807 
+  86      5C8B6866 
+  86      121A
+  87 0071 025A239A 		.ascii	"\002Z#\232\023\015\320\036\223_\007;\323\3719\261h\303"
+  87      130DD01E 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 6
+
+
+  87      935F073B 
+  87      D3F939B1 
+  87      68C3
+  88 0083 68436823 		.ascii	"hCh#h\0364\227\237\347\366\317\215\013\3508\177\323"
+  88      681E3497 
+  88      9FE7F6CF 
+  88      8D0BE838 
+  88      7FD3
+  89 0095 09E70734 		.ascii	"\011\347\0074\303u\026\312\347\253\000\303o\177|3~\024"
+  89      C37516CA 
+  89      E7AB00C3 
+  89      6F7F7C33 
+  89      7E14
+  90 00a7 204A5AC2 		.ascii	" JZ\302\334\213/\336O\211\350\032%\201\271\355\2633"
+  90      DC8B2FDE 
+  90      4F89E81A 
+  90      2581B9ED 
+  90      B333
+  91 00b9 4DDA6555 		.ascii	"M\332eU\224\215\022\272D\000\363R\270\001+\240\036V"
+  91      948D12BA 
+  91      4400F352 
+  91      B8012BA0 
+  91      1E56
+  92 00cb A0E24D58 		.ascii	"\240\342MX\206\337\375\021\252\322S\337\345>\235(\000"
+  92      86DFFD11 
+  92      AAD253DF 
+  92      E53E9D28 
+  92      00
+  93 00dc 5BD7544F 		.ascii	"[\327TO<\223\3266 \313A\335\003B(\334\370\325\272\330"
+  93      3C93D636 
+  93      20CB41DD 
+  93      034228DC 
+  93      F8D5BAD8 
+  94 00f0 982B5469 		.ascii	"\230+Ti\366\272\\/\215\264\236\272}\276\215\\\011\032"
+  94      F6BA5C2F 
+  94      8DB49EBA 
+  94      7DBE8D5C 
+  94      091A
+  95 0102 40845BB0 		.ascii	"@\204[\260\226\001\331\2323\240\021b\220u\335\335\221"
+  95      9601D99A 
+  95      33A01162 
+  95      9075DDDD 
+  95      91
+  96 0113 2D2673E5 		.ascii	"-&s\345\266\2463\243\006\256\240\324\327hU>\247\337"
+  96      B6A633A3 
+  96      06AEA0D4 
+  96      D768553E 
+  96      A7DF
+  97 0125 0EA3DF0E 		.ascii	"\016\243\337\016\320\235\234\336\334s\253\324\300\357"
+  97      D09D9CDE 
+  97      DC73ABD4 
+  97      C0EF
+  98 0133 7880497C 		.ascii	"x\200I|?\341-\225\370\035\215\314}\336\333_&\212f\256"
+  98      3FE12D95 
+  98      F81D8DCC 
+  98      7DDEDB5F 
+  98      268A66AE 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 7
+
+
+  99 0147 DEE19C7A 		.ascii	"\336\341\234z\022\311\2211\314\355\254\034\250\326r"
+  99      12C99131 
+  99      CCEDAC1C 
+  99      A8D672
+ 100 0156 64047327 		.ascii	"d\004s'\306^t\351\304,\216,\272~\377\264\016\217b%~"
+ 100      C65E74E9 
+ 100      C42C8E2C 
+ 100      BA7EFFB4 
+ 100      0E8F6225 
+ 101 016b AFD79766 		.ascii	"\257\327\227fk\015\334e\375\261\030\267\204\317\347"
+ 101      6B0DDC65 
+ 101      FDB118B7 
+ 101      84CFE7
+ 102 017a 8A7D9110 		.ascii	"\212}\221\020/\325b\025\274\343\275\316\355%4\031\\"
+ 102      2FD56215 
+ 102      BCE3BDCE 
+ 102      ED253419 
+ 102      5C
+ 103 018b 20415B30 		.ascii	" A[0S\316f\303Ai1-/\241\206\255\004Z\260\276\255X_\270"
+ 103      53CE66C3 
+ 103      4169312D 
+ 103      2FA186AD 
+ 103      045AB0BE 
+ 104 01a3 07F108E0 		.ascii	"\007\361\010\340P\270\213\233\355\270\211\241\032*\036"
+ 104      50B88B9B 
+ 104      EDB889A1 
+ 104      1A2A1E
+ 105 01b2 756BC44A 		.ascii	"uk\304J\340i|\031\247\333\304\213\352zf\344k)\2105\252"
+ 105      E0697C19 
+ 105      A7DBC48B 
+ 105      EA7A66E4 
+ 105      6B298835 
+ 106 01c7 535B75BE 		.ascii	"S[u\276Q\303S\327\243\253\031h\2759\250\007S\264\311"
+ 106      51C353D7 
+ 106      A3AB1968 
+ 106      BD39A807 
+ 106      53B4C9
+ 107 01da 14AF602C 		.ascii	"\024\257`,\357\253\272\263Q\027\250\342\001\236\321"
+ 107      EFABBAB3 
+ 107      5117A8E2 
+ 107      019ED1
+ 108 01e9 7DCCE801 		.ascii	"}\314\350\001D\207Bw\361\367]\203\037R\301\336\276\234"
+ 108      44874277 
+ 108      F1F75D83 
+ 108      1F52C1DE 
+ 108      BE9C
+ 109 01fb D2E40802 		.ascii	"\322\344\010\002Mx\336\314\217\030\032\023\203\207\230"
+ 109      4D78DECC 
+ 109      8F181A13 
+ 109      838798
+ 110 020a A31B4CD0 		.ascii	"\243\033L\320\203\326\015&~\031\026@\031i\241\311\307"
+ 110      83D60D26 
+ 110      7E191640 
+ 110      1969A1C9 
+ 110      C7
+ 111 021b 45AEDEF9 		.ascii	"E\256\336\371\273\372j\246\320\302tT\354p\010\3331/"
+ 111      BBFA6AA6 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 8
+
+
+ 111      D0C27454 
+ 111      EC7008DB 
+ 111      312F
+ 112 022d 9627C2EA 		.ascii	"\226'\302\352\370f0Q\317\316I\340\251\003\215%\324\271"
+ 112      F8663051 
+ 112      CFCE49E0 
+ 112      A9038D25 
+ 112      D4B9
+ 113 023f C6671741 		.ascii	"\306g\027At\374|\351B/f\371\267\214\271\364S-\200\007"
+ 113      74FC7CE9 
+ 113      422F66F9 
+ 113      B78CB9F4 
+ 113      532D8007 
+ 114 0253 417742CF 		.ascii	"AwB\317\303\"\005:w\332\323yX\034U\213\333q\362\324"
+ 114      C322053A 
+ 114      77DAD379 
+ 114      581C558B 
+ 114      DB71F2D4 
+ 115 0267 9076431B 		.ascii	"\220vC\033u(\3139\205\351\261\027\352\361\317\335\352"
+ 115      7528CB39 
+ 115      85E9B117 
+ 115      EAF1CFDD 
+ 115      EA
+ 116 0278 CCA093D5 		.ascii	"\314\240\223\325\323S\221q\327(U\274\2561E(\242J1\245"
+ 116      D3539171 
+ 116      D72855BC 
+ 116      AE314528 
+ 116      A24A31A5 
+ 117 028c AC6739B1 		.ascii	"\254g9\261O\215\025V\330>\326\272\360\0106\020x\014"
+ 117      4F8D1556 
+ 117      D83ED6BA 
+ 117      F0083610 
+ 117      780C
+ 118 029e 7128E0A8 		.ascii	"q(\340\250l\377\244\021'\374\201\253F\373%\311\301~"
+ 118      6CFFA411 
+ 118      27FC81AB 
+ 118      46FB25C9 
+ 118      C17E
+ 119 02b0 C6FFEB16 		.ascii	"\306\377\353\026\301\335Z>g\014va\311;\343 \245z\030"
+ 119      C1DD5A3E 
+ 119      670C7661 
+ 119      C93BE320 
+ 119      A57A18
+ 120 02c3 C252F787 		.ascii	"\302R\367\207\3569\000\241>\374Syp\376>|?yuNk<\025\354"
+ 120      EE3900A1 
+ 120      3EFC5379 
+ 120      70FE3E7C 
+ 120      3F79754E 
+ 121 02db 5C2E1A20 		.ascii	"\\.\032 \021\030\006#\377\005qFp_\331\324\264!\034\354"
+ 121      11180623 
+ 121      FF057146 
+ 121      705FD9D4 
+ 121      B4211CEC 
+ 122 02ef 097B6402 		.ascii	"\011{d\002#~0\233\243\366Z\266\354H\3140\257\313\260"
+ 122      237E309B 
+ 122      A3F65AB6 
+ 122      EC48CC30 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 9
+
+
+ 122      AFCBB0
+ 123 0302 1C95659B 		.ascii	"\034\225e\2336uWZL\012Y\225\220\236*\347\312\371\231"
+ 123      3675575A 
+ 123      4C0A5995 
+ 123      909E2AE7 
+ 123      CAF999
+ 124 0315 85F2A10C 		.ascii	"\205\362\241\014K\236=\337*\247\233-y)\353\323\203p"
+ 124      4B9E3DDF 
+ 124      2AA79B2D 
+ 124      7929EBD3 
+ 124      8370
+ 125 0327 F3CE042B 		.ascii	"\363\316\004+Y\034t\367e\036\221\355\266\245A\177\363"
+ 125      591C74F7 
+ 125      651E91ED 
+ 125      B6A5417F 
+ 125      F3
+ 126 0338 A694ED69 		.ascii	"\246\224\355i\346\014\313\236\335i){\264\366\234\334"
+ 126      E60CCB9E 
+ 126      DD69297B 
+ 126      B4F69CDC 
+ 127 0348 C2A4C4B8 		.ascii	"\302\244\304\270\005U\255\307\012\217\331\344\202\204"
+ 127      0555ADC7 
+ 127      0A8FD9E4 
+ 127      8284
+ 128 0356 6CA2B359 		.ascii	"l\242\263Y-\205\010\320\027\344\344\251\013{\301A\276"
+ 128      2D8508D0 
+ 128      17E4E4A9 
+ 128      0B7BC141 
+ 128      BE
+ 129 0367 58F9CF9C 		.ascii	"X\371\317\234\220\036J\350`\246\365\210\335\246\311"
+ 129      901E4AE8 
+ 129      60A6F588 
+ 129      DDA6C9
+ 130 0376 97B39212 		.ascii	"\227\263\222\022\177\002FI\270\011"
+ 130      7F024649 
+ 130      B809
+ 131              		.text
+ 132              		.section	.gnu.lto_.symtab.790141f2,"",%progbits
+ 133 0000 5653454C 		.ascii	"VSEL2_P1_Sleep\000\000\000\000\000\000\000\000\000\000"
+ 133      325F5031 
+ 133      5F536C65 
+ 133      65700000 
+ 133      00000000 
+ 134 0018 0000AC00 		.ascii	"\000\000\254\000\000\000VSEL2_P1_Wakeup\000\000\000"
+ 134      00005653 
+ 134      454C325F 
+ 134      50315F57 
+ 134      616B6575 
+ 135 0030 00000000 		.ascii	"\000\000\000\000\000\000\000\000\000\256\000\000\000"
+ 135      00000000 
+ 135      00AE0000 
+ 135      00
+ 136              		.text
+ 137              		.section	.gnu.lto_.opts,"",%progbits
+ 138 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
+ 138      6F2D7472 
+ 138      61707627 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 10
+
+
+ 138      20272D6D 
+ 138      6370753D 
+ 139 0033 20272D57 		.ascii	" '-Werror' '-ffunction-sections' '-finline-function"
+ 139      6572726F 
+ 139      72272027 
+ 139      2D666675 
+ 139      6E637469 
+ 140 0066 73272027 		.ascii	"s' '-flto' '-ffat-lto-objects' '-fno-strict-aliasin"
+ 140      2D666C74 
+ 140      6F272027 
+ 140      2D666661 
+ 140      742D6C74 
+ 141 0099 672700   		.ascii	"g'\000"
+ 142              		.text
+ 143              		.cfi_sections	.debug_frame
+ 144              		.section	.text.VSEL2_P1_Sleep,"ax",%progbits
+ 145              		.align	1
+ 146              		.global	VSEL2_P1_Sleep
+ 147              		.code	16
+ 148              		.thumb_func
+ 149              		.type	VSEL2_P1_Sleep, %function
+ 150              	VSEL2_P1_Sleep:
+ 151              	.LFB0:
+ 152              		.file 1 ".\\Generated_Source\\PSoC4\\VSEL2_P1_PM.c"
+   1:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** /*******************************************************************************
+   2:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * File Name: VSEL2_P1.c  
+   3:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Version 2.20
+   4:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+   5:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Description:
+   6:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  This file contains APIs to set up the Pins component for low power modes.
+   7:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+   8:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Note:
+   9:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  10:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** ********************************************************************************
+  11:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Copyright 2015, Cypress Semiconductor Corporation.  All rights reserved.
+  12:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * You may use this file only in accordance with the license, terms, conditions, 
+  13:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * disclaimers, and limitations in the end user license agreement accompanying 
+  14:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * the software package with which this file was provided.
+  15:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *******************************************************************************/
+  16:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  17:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** #include "cytypes.h"
+  18:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** #include "VSEL2_P1.h"
+  19:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  20:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** static VSEL2_P1_BACKUP_STRUCT  VSEL2_P1_backup = {0u, 0u, 0u};
+  21:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  22:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  23:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** /*******************************************************************************
+  24:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Function Name: VSEL2_P1_Sleep
+  25:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** ****************************************************************************//**
+  26:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  27:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \brief Stores the pin configuration and prepares the pin for entering chip 
+  28:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  deep-sleep/hibernate modes. This function must be called for SIO and USBIO
+  29:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  pins. It is not essential if using GPIO or GPIO_OVT pins.
+  30:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  31:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * <b>Note</b> This function is available in PSoC 4 only.
+  32:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  33:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \return 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 11
+
+
+  34:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  None 
+  35:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  
+  36:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \sideeffect
+  37:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  For SIO pins, this function configures the pin input threshold to CMOS and
+  38:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  drive level to Vddio. This is needed for SIO pins when in device 
+  39:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  deep-sleep/hibernate modes.
+  40:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  41:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \funcusage
+  42:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  \snippet VSEL2_P1_SUT.c usage_VSEL2_P1_Sleep_Wakeup
+  43:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *******************************************************************************/
+  44:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** void VSEL2_P1_Sleep(void)
+  45:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** {
+ 153              		.loc 1 45 0
+ 154              		.cfi_startproc
+  46:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #if defined(VSEL2_P1__PC)
+  47:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         VSEL2_P1_backup.pcState = VSEL2_P1_PC;
+ 155              		.loc 1 47 0
+ 156 0000 024B     		ldr	r3, .L2
+  48:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #else
+  49:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         #if (CY_PSOC4_4200L)
+  50:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             /* Save the regulator state and put the PHY into suspend mode */
+  51:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_backup.usbState = VSEL2_P1_CR1_REG;
+  52:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_USB_POWER_REG |= VSEL2_P1_USBIO_ENTER_SLEEP;
+  53:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_CR1_REG &= VSEL2_P1_USBIO_CR1_OFF;
+  54:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         #endif
+  55:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #endif
+  56:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #if defined(CYIPBLOCK_m0s8ioss_VERSION) && defined(VSEL2_P1__SIO)
+  57:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         VSEL2_P1_backup.sioState = VSEL2_P1_SIO_REG;
+  58:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         /* SIO requires unregulated output buffer and single ended input buffer */
+  59:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         VSEL2_P1_SIO_REG &= (uint32)(~VSEL2_P1_SIO_LPM_MASK);
+  60:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #endif  
+  61:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** }
+ 157              		.loc 1 61 0
+ 158              		@ sp needed
+  47:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #else
+ 159              		.loc 1 47 0
+ 160 0002 1A68     		ldr	r2, [r3]
+ 161 0004 024B     		ldr	r3, .L2+4
+ 162 0006 1A60     		str	r2, [r3]
+ 163              		.loc 1 61 0
+ 164 0008 7047     		bx	lr
+ 165              	.L3:
+ 166 000a C046     		.align	2
+ 167              	.L2:
+ 168 000c 08020440 		.word	1074004488
+ 169 0010 00000000 		.word	.LANCHOR0
+ 170              		.cfi_endproc
+ 171              	.LFE0:
+ 172              		.size	VSEL2_P1_Sleep, .-VSEL2_P1_Sleep
+ 173              		.section	.text.VSEL2_P1_Wakeup,"ax",%progbits
+ 174              		.align	1
+ 175              		.global	VSEL2_P1_Wakeup
+ 176              		.code	16
+ 177              		.thumb_func
+ 178              		.type	VSEL2_P1_Wakeup, %function
+ 179              	VSEL2_P1_Wakeup:
+ 180              	.LFB1:
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 12
+
+
+  62:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  63:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** 
+  64:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** /*******************************************************************************
+  65:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * Function Name: VSEL2_P1_Wakeup
+  66:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** ****************************************************************************//**
+  67:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  68:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \brief Restores the pin configuration that was saved during Pin_Sleep().
+  69:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  70:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * For USBIO pins, the wakeup is only triggered for falling edge interrupts.
+  71:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  72:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * <b>Note</b> This function is available in PSoC 4 only.
+  73:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *
+  74:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \return 
+  75:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  None
+  76:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  
+  77:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** * \funcusage
+  78:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *  Refer to VSEL2_P1_Sleep() for an example usage.
+  79:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** *******************************************************************************/
+  80:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** void VSEL2_P1_Wakeup(void)
+  81:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** {
+ 181              		.loc 1 81 0
+ 182              		.cfi_startproc
+  82:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #if defined(VSEL2_P1__PC)
+  83:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         VSEL2_P1_PC = VSEL2_P1_backup.pcState;
+ 183              		.loc 1 83 0
+ 184 0000 024B     		ldr	r3, .L5
+  84:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #else
+  85:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         #if (CY_PSOC4_4200L)
+  86:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             /* Restore the regulator state and come out of suspend mode */
+  87:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_USB_POWER_REG &= VSEL2_P1_USBIO_EXIT_SLEEP_PH1;
+  88:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_CR1_REG = VSEL2_P1_backup.usbState;
+  89:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****             VSEL2_P1_USB_POWER_REG &= VSEL2_P1_USBIO_EXIT_SLEEP_PH2;
+  90:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         #endif
+  91:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #endif
+  92:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #if defined(CYIPBLOCK_m0s8ioss_VERSION) && defined(VSEL2_P1__SIO)
+  93:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****         VSEL2_P1_SIO_REG = VSEL2_P1_backup.sioState;
+  94:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #endif
+  95:.\Generated_Source\PSoC4/VSEL2_P1_PM.c **** }
+ 185              		.loc 1 95 0
+ 186              		@ sp needed
+  83:.\Generated_Source\PSoC4/VSEL2_P1_PM.c ****     #else
+ 187              		.loc 1 83 0
+ 188 0002 1A68     		ldr	r2, [r3]
+ 189 0004 024B     		ldr	r3, .L5+4
+ 190 0006 1A60     		str	r2, [r3]
+ 191              		.loc 1 95 0
+ 192 0008 7047     		bx	lr
+ 193              	.L6:
+ 194 000a C046     		.align	2
+ 195              	.L5:
+ 196 000c 00000000 		.word	.LANCHOR0
+ 197 0010 08020440 		.word	1074004488
+ 198              		.cfi_endproc
+ 199              	.LFE1:
+ 200              		.size	VSEL2_P1_Wakeup, .-VSEL2_P1_Wakeup
+ 201              		.bss
+ 202              		.align	2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 13
+
+
+ 203              		.set	.LANCHOR0,. + 0
+ 204              		.type	VSEL2_P1_backup, %object
+ 205              		.size	VSEL2_P1_backup, 12
+ 206              	VSEL2_P1_backup:
+ 207 0000 00000000 		.space	12
+ 207      00000000 
+ 207      00000000 
+ 208              		.text
+ 209              	.Letext0:
+ 210              		.file 2 ".\\Generated_Source\\PSoC4\\cytypes.h"
+ 211              		.file 3 ".\\Generated_Source\\PSoC4\\VSEL2_P1.h"
+ 212              		.section	.debug_info,"",%progbits
+ 213              	.Ldebug_info0:
+ 214 0000 05010000 		.4byte	0x105
+ 215 0004 0400     		.2byte	0x4
+ 216 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 217 000a 04       		.byte	0x4
+ 218 000b 01       		.uleb128 0x1
+ 219 000c D7000000 		.4byte	.LASF20
+ 220 0010 01       		.byte	0x1
+ 221 0011 0F000000 		.4byte	.LASF21
+ 222 0015 93010000 		.4byte	.LASF22
+ 223 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 224 001d 00000000 		.4byte	0
+ 225 0021 00000000 		.4byte	.Ldebug_line0
+ 226 0025 02       		.uleb128 0x2
+ 227 0026 01       		.byte	0x1
+ 228 0027 06       		.byte	0x6
+ 229 0028 3F020000 		.4byte	.LASF0
+ 230 002c 02       		.uleb128 0x2
+ 231 002d 01       		.byte	0x1
+ 232 002e 08       		.byte	0x8
+ 233 002f 3C000000 		.4byte	.LASF1
+ 234 0033 02       		.uleb128 0x2
+ 235 0034 02       		.byte	0x2
+ 236 0035 05       		.byte	0x5
+ 237 0036 24020000 		.4byte	.LASF2
+ 238 003a 02       		.uleb128 0x2
+ 239 003b 02       		.byte	0x2
+ 240 003c 07       		.byte	0x7
+ 241 003d 5C000000 		.4byte	.LASF3
+ 242 0041 02       		.uleb128 0x2
+ 243 0042 04       		.byte	0x4
+ 244 0043 05       		.byte	0x5
+ 245 0044 36020000 		.4byte	.LASF4
+ 246 0048 02       		.uleb128 0x2
+ 247 0049 04       		.byte	0x4
+ 248 004a 07       		.byte	0x7
+ 249 004b 4A000000 		.4byte	.LASF5
+ 250 004f 02       		.uleb128 0x2
+ 251 0050 08       		.byte	0x8
+ 252 0051 05       		.byte	0x5
+ 253 0052 01020000 		.4byte	.LASF6
+ 254 0056 02       		.uleb128 0x2
+ 255 0057 08       		.byte	0x8
+ 256 0058 07       		.byte	0x7
+ 257 0059 C0000000 		.4byte	.LASF7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 14
+
+
+ 258 005d 03       		.uleb128 0x3
+ 259 005e 04       		.byte	0x4
+ 260 005f 05       		.byte	0x5
+ 261 0060 696E7400 		.ascii	"int\000"
+ 262 0064 02       		.uleb128 0x2
+ 263 0065 04       		.byte	0x4
+ 264 0066 07       		.byte	0x7
+ 265 0067 B3000000 		.4byte	.LASF8
+ 266 006b 04       		.uleb128 0x4
+ 267 006c 9C000000 		.4byte	.LASF12
+ 268 0070 02       		.byte	0x2
+ 269 0071 9A01     		.2byte	0x19a
+ 270 0073 48000000 		.4byte	0x48
+ 271 0077 02       		.uleb128 0x2
+ 272 0078 04       		.byte	0x4
+ 273 0079 04       		.byte	0x4
+ 274 007a 36000000 		.4byte	.LASF9
+ 275 007e 02       		.uleb128 0x2
+ 276 007f 08       		.byte	0x8
+ 277 0080 04       		.byte	0x4
+ 278 0081 95000000 		.4byte	.LASF10
+ 279 0085 02       		.uleb128 0x2
+ 280 0086 01       		.byte	0x1
+ 281 0087 08       		.byte	0x8
+ 282 0088 0F020000 		.4byte	.LASF11
+ 283 008c 04       		.uleb128 0x4
+ 284 008d 00000000 		.4byte	.LASF13
+ 285 0091 02       		.byte	0x2
+ 286 0092 4402     		.2byte	0x244
+ 287 0094 98000000 		.4byte	0x98
+ 288 0098 05       		.uleb128 0x5
+ 289 0099 6B000000 		.4byte	0x6b
+ 290 009d 06       		.uleb128 0x6
+ 291 009e 0C       		.byte	0xc
+ 292 009f 03       		.byte	0x3
+ 293 00a0 21       		.byte	0x21
+ 294 00a1 CA000000 		.4byte	0xca
+ 295 00a5 07       		.uleb128 0x7
+ 296 00a6 2E020000 		.4byte	.LASF14
+ 297 00aa 03       		.byte	0x3
+ 298 00ab 23       		.byte	0x23
+ 299 00ac 6B000000 		.4byte	0x6b
+ 300 00b0 00       		.byte	0
+ 301 00b1 07       		.uleb128 0x7
+ 302 00b2 F8010000 		.4byte	.LASF15
+ 303 00b6 03       		.byte	0x3
+ 304 00b7 24       		.byte	0x24
+ 305 00b8 6B000000 		.4byte	0x6b
+ 306 00bc 04       		.byte	0x4
+ 307 00bd 07       		.uleb128 0x7
+ 308 00be 06000000 		.4byte	.LASF16
+ 309 00c2 03       		.byte	0x3
+ 310 00c3 25       		.byte	0x25
+ 311 00c4 6B000000 		.4byte	0x6b
+ 312 00c8 08       		.byte	0x8
+ 313 00c9 00       		.byte	0
+ 314 00ca 08       		.uleb128 0x8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 15
+
+
+ 315 00cb 6F000000 		.4byte	.LASF17
+ 316 00cf 03       		.byte	0x3
+ 317 00d0 26       		.byte	0x26
+ 318 00d1 9D000000 		.4byte	0x9d
+ 319 00d5 09       		.uleb128 0x9
+ 320 00d6 86000000 		.4byte	.LASF18
+ 321 00da 01       		.byte	0x1
+ 322 00db 2C       		.byte	0x2c
+ 323 00dc 00000000 		.4byte	.LFB0
+ 324 00e0 14000000 		.4byte	.LFE0-.LFB0
+ 325 00e4 01       		.uleb128 0x1
+ 326 00e5 9C       		.byte	0x9c
+ 327 00e6 09       		.uleb128 0x9
+ 328 00e7 14020000 		.4byte	.LASF19
+ 329 00eb 01       		.byte	0x1
+ 330 00ec 50       		.byte	0x50
+ 331 00ed 00000000 		.4byte	.LFB1
+ 332 00f1 14000000 		.4byte	.LFE1-.LFB1
+ 333 00f5 01       		.uleb128 0x1
+ 334 00f6 9C       		.byte	0x9c
+ 335 00f7 0A       		.uleb128 0xa
+ 336 00f8 A3000000 		.4byte	.LASF23
+ 337 00fc 01       		.byte	0x1
+ 338 00fd 14       		.byte	0x14
+ 339 00fe CA000000 		.4byte	0xca
+ 340 0102 05       		.uleb128 0x5
+ 341 0103 03       		.byte	0x3
+ 342 0104 00000000 		.4byte	VSEL2_P1_backup
+ 343 0108 00       		.byte	0
+ 344              		.section	.debug_abbrev,"",%progbits
+ 345              	.Ldebug_abbrev0:
+ 346 0000 01       		.uleb128 0x1
+ 347 0001 11       		.uleb128 0x11
+ 348 0002 01       		.byte	0x1
+ 349 0003 25       		.uleb128 0x25
+ 350 0004 0E       		.uleb128 0xe
+ 351 0005 13       		.uleb128 0x13
+ 352 0006 0B       		.uleb128 0xb
+ 353 0007 03       		.uleb128 0x3
+ 354 0008 0E       		.uleb128 0xe
+ 355 0009 1B       		.uleb128 0x1b
+ 356 000a 0E       		.uleb128 0xe
+ 357 000b 55       		.uleb128 0x55
+ 358 000c 17       		.uleb128 0x17
+ 359 000d 11       		.uleb128 0x11
+ 360 000e 01       		.uleb128 0x1
+ 361 000f 10       		.uleb128 0x10
+ 362 0010 17       		.uleb128 0x17
+ 363 0011 00       		.byte	0
+ 364 0012 00       		.byte	0
+ 365 0013 02       		.uleb128 0x2
+ 366 0014 24       		.uleb128 0x24
+ 367 0015 00       		.byte	0
+ 368 0016 0B       		.uleb128 0xb
+ 369 0017 0B       		.uleb128 0xb
+ 370 0018 3E       		.uleb128 0x3e
+ 371 0019 0B       		.uleb128 0xb
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 16
+
+
+ 372 001a 03       		.uleb128 0x3
+ 373 001b 0E       		.uleb128 0xe
+ 374 001c 00       		.byte	0
+ 375 001d 00       		.byte	0
+ 376 001e 03       		.uleb128 0x3
+ 377 001f 24       		.uleb128 0x24
+ 378 0020 00       		.byte	0
+ 379 0021 0B       		.uleb128 0xb
+ 380 0022 0B       		.uleb128 0xb
+ 381 0023 3E       		.uleb128 0x3e
+ 382 0024 0B       		.uleb128 0xb
+ 383 0025 03       		.uleb128 0x3
+ 384 0026 08       		.uleb128 0x8
+ 385 0027 00       		.byte	0
+ 386 0028 00       		.byte	0
+ 387 0029 04       		.uleb128 0x4
+ 388 002a 16       		.uleb128 0x16
+ 389 002b 00       		.byte	0
+ 390 002c 03       		.uleb128 0x3
+ 391 002d 0E       		.uleb128 0xe
+ 392 002e 3A       		.uleb128 0x3a
+ 393 002f 0B       		.uleb128 0xb
+ 394 0030 3B       		.uleb128 0x3b
+ 395 0031 05       		.uleb128 0x5
+ 396 0032 49       		.uleb128 0x49
+ 397 0033 13       		.uleb128 0x13
+ 398 0034 00       		.byte	0
+ 399 0035 00       		.byte	0
+ 400 0036 05       		.uleb128 0x5
+ 401 0037 35       		.uleb128 0x35
+ 402 0038 00       		.byte	0
+ 403 0039 49       		.uleb128 0x49
+ 404 003a 13       		.uleb128 0x13
+ 405 003b 00       		.byte	0
+ 406 003c 00       		.byte	0
+ 407 003d 06       		.uleb128 0x6
+ 408 003e 13       		.uleb128 0x13
+ 409 003f 01       		.byte	0x1
+ 410 0040 0B       		.uleb128 0xb
+ 411 0041 0B       		.uleb128 0xb
+ 412 0042 3A       		.uleb128 0x3a
+ 413 0043 0B       		.uleb128 0xb
+ 414 0044 3B       		.uleb128 0x3b
+ 415 0045 0B       		.uleb128 0xb
+ 416 0046 01       		.uleb128 0x1
+ 417 0047 13       		.uleb128 0x13
+ 418 0048 00       		.byte	0
+ 419 0049 00       		.byte	0
+ 420 004a 07       		.uleb128 0x7
+ 421 004b 0D       		.uleb128 0xd
+ 422 004c 00       		.byte	0
+ 423 004d 03       		.uleb128 0x3
+ 424 004e 0E       		.uleb128 0xe
+ 425 004f 3A       		.uleb128 0x3a
+ 426 0050 0B       		.uleb128 0xb
+ 427 0051 3B       		.uleb128 0x3b
+ 428 0052 0B       		.uleb128 0xb
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 17
+
+
+ 429 0053 49       		.uleb128 0x49
+ 430 0054 13       		.uleb128 0x13
+ 431 0055 38       		.uleb128 0x38
+ 432 0056 0B       		.uleb128 0xb
+ 433 0057 00       		.byte	0
+ 434 0058 00       		.byte	0
+ 435 0059 08       		.uleb128 0x8
+ 436 005a 16       		.uleb128 0x16
+ 437 005b 00       		.byte	0
+ 438 005c 03       		.uleb128 0x3
+ 439 005d 0E       		.uleb128 0xe
+ 440 005e 3A       		.uleb128 0x3a
+ 441 005f 0B       		.uleb128 0xb
+ 442 0060 3B       		.uleb128 0x3b
+ 443 0061 0B       		.uleb128 0xb
+ 444 0062 49       		.uleb128 0x49
+ 445 0063 13       		.uleb128 0x13
+ 446 0064 00       		.byte	0
+ 447 0065 00       		.byte	0
+ 448 0066 09       		.uleb128 0x9
+ 449 0067 2E       		.uleb128 0x2e
+ 450 0068 00       		.byte	0
+ 451 0069 3F       		.uleb128 0x3f
+ 452 006a 19       		.uleb128 0x19
+ 453 006b 03       		.uleb128 0x3
+ 454 006c 0E       		.uleb128 0xe
+ 455 006d 3A       		.uleb128 0x3a
+ 456 006e 0B       		.uleb128 0xb
+ 457 006f 3B       		.uleb128 0x3b
+ 458 0070 0B       		.uleb128 0xb
+ 459 0071 27       		.uleb128 0x27
+ 460 0072 19       		.uleb128 0x19
+ 461 0073 11       		.uleb128 0x11
+ 462 0074 01       		.uleb128 0x1
+ 463 0075 12       		.uleb128 0x12
+ 464 0076 06       		.uleb128 0x6
+ 465 0077 40       		.uleb128 0x40
+ 466 0078 18       		.uleb128 0x18
+ 467 0079 9742     		.uleb128 0x2117
+ 468 007b 19       		.uleb128 0x19
+ 469 007c 00       		.byte	0
+ 470 007d 00       		.byte	0
+ 471 007e 0A       		.uleb128 0xa
+ 472 007f 34       		.uleb128 0x34
+ 473 0080 00       		.byte	0
+ 474 0081 03       		.uleb128 0x3
+ 475 0082 0E       		.uleb128 0xe
+ 476 0083 3A       		.uleb128 0x3a
+ 477 0084 0B       		.uleb128 0xb
+ 478 0085 3B       		.uleb128 0x3b
+ 479 0086 0B       		.uleb128 0xb
+ 480 0087 49       		.uleb128 0x49
+ 481 0088 13       		.uleb128 0x13
+ 482 0089 02       		.uleb128 0x2
+ 483 008a 18       		.uleb128 0x18
+ 484 008b 00       		.byte	0
+ 485 008c 00       		.byte	0
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 18
+
+
+ 486 008d 00       		.byte	0
+ 487              		.section	.debug_aranges,"",%progbits
+ 488 0000 24000000 		.4byte	0x24
+ 489 0004 0200     		.2byte	0x2
+ 490 0006 00000000 		.4byte	.Ldebug_info0
+ 491 000a 04       		.byte	0x4
+ 492 000b 00       		.byte	0
+ 493 000c 0000     		.2byte	0
+ 494 000e 0000     		.2byte	0
+ 495 0010 00000000 		.4byte	.LFB0
+ 496 0014 14000000 		.4byte	.LFE0-.LFB0
+ 497 0018 00000000 		.4byte	.LFB1
+ 498 001c 14000000 		.4byte	.LFE1-.LFB1
+ 499 0020 00000000 		.4byte	0
+ 500 0024 00000000 		.4byte	0
+ 501              		.section	.debug_ranges,"",%progbits
+ 502              	.Ldebug_ranges0:
+ 503 0000 00000000 		.4byte	.LFB0
+ 504 0004 14000000 		.4byte	.LFE0
+ 505 0008 00000000 		.4byte	.LFB1
+ 506 000c 14000000 		.4byte	.LFE1
+ 507 0010 00000000 		.4byte	0
+ 508 0014 00000000 		.4byte	0
+ 509              		.section	.debug_line,"",%progbits
+ 510              	.Ldebug_line0:
+ 511 0000 91000000 		.section	.debug_str,"MS",%progbits,1
+ 511      02005800 
+ 511      00000201 
+ 511      FB0E0D00 
+ 511      01010101 
+ 512              	.LASF13:
+ 513 0000 72656733 		.ascii	"reg32\000"
+ 513      3200
+ 514              	.LASF16:
+ 515 0006 75736253 		.ascii	"usbState\000"
+ 515      74617465 
+ 515      00
+ 516              	.LASF21:
+ 517 000f 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\VSEL2_P1_PM.c\000"
+ 517      6E657261 
+ 517      7465645F 
+ 517      536F7572 
+ 517      63655C50 
+ 518              	.LASF9:
+ 519 0036 666C6F61 		.ascii	"float\000"
+ 519      7400
+ 520              	.LASF1:
+ 521 003c 756E7369 		.ascii	"unsigned char\000"
+ 521      676E6564 
+ 521      20636861 
+ 521      7200
+ 522              	.LASF5:
+ 523 004a 6C6F6E67 		.ascii	"long unsigned int\000"
+ 523      20756E73 
+ 523      69676E65 
+ 523      6420696E 
+ 523      7400
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 19
+
+
+ 524              	.LASF3:
+ 525 005c 73686F72 		.ascii	"short unsigned int\000"
+ 525      7420756E 
+ 525      7369676E 
+ 525      65642069 
+ 525      6E7400
+ 526              	.LASF17:
+ 527 006f 5653454C 		.ascii	"VSEL2_P1_BACKUP_STRUCT\000"
+ 527      325F5031 
+ 527      5F424143 
+ 527      4B55505F 
+ 527      53545255 
+ 528              	.LASF18:
+ 529 0086 5653454C 		.ascii	"VSEL2_P1_Sleep\000"
+ 529      325F5031 
+ 529      5F536C65 
+ 529      657000
+ 530              	.LASF10:
+ 531 0095 646F7562 		.ascii	"double\000"
+ 531      6C6500
+ 532              	.LASF12:
+ 533 009c 75696E74 		.ascii	"uint32\000"
+ 533      333200
+ 534              	.LASF23:
+ 535 00a3 5653454C 		.ascii	"VSEL2_P1_backup\000"
+ 535      325F5031 
+ 535      5F626163 
+ 535      6B757000 
+ 536              	.LASF8:
+ 537 00b3 756E7369 		.ascii	"unsigned int\000"
+ 537      676E6564 
+ 537      20696E74 
+ 537      00
+ 538              	.LASF7:
+ 539 00c0 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 539      206C6F6E 
+ 539      6720756E 
+ 539      7369676E 
+ 539      65642069 
+ 540              	.LASF20:
+ 541 00d7 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 541      4320342E 
+ 541      392E3320 
+ 541      32303135 
+ 541      30333033 
+ 542 010a 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 542      20726576 
+ 542      6973696F 
+ 542      6E203232 
+ 542      31323230 
+ 543 013d 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 543      66756E63 
+ 543      74696F6E 
+ 543      2D736563 
+ 543      74696F6E 
+ 544 0170 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 544      6F2D6F62 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\cc86t9LG.s 			page 20
+
+
+ 544      6A656374 
+ 544      73202D66 
+ 544      6E6F2D73 
+ 545              	.LASF22:
+ 546 0193 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
+ 546      73657273 
+ 546      5C766963 
+ 546      746F5C4F 
+ 546      6E654472 
+ 547 01c1 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
+ 547      44343232 
+ 547      352D3430 
+ 547      4C515849 
+ 547      5F303830 
+ 548 01f2 63796473 		.ascii	"cydsn\000"
+ 548      6E00
+ 549              	.LASF15:
+ 550 01f8 73696F53 		.ascii	"sioState\000"
+ 550      74617465 
+ 550      00
+ 551              	.LASF6:
+ 552 0201 6C6F6E67 		.ascii	"long long int\000"
+ 552      206C6F6E 
+ 552      6720696E 
+ 552      7400
+ 553              	.LASF11:
+ 554 020f 63686172 		.ascii	"char\000"
+ 554      00
+ 555              	.LASF19:
+ 556 0214 5653454C 		.ascii	"VSEL2_P1_Wakeup\000"
+ 556      325F5031 
+ 556      5F57616B 
+ 556      65757000 
+ 557              	.LASF2:
+ 558 0224 73686F72 		.ascii	"short int\000"
+ 558      7420696E 
+ 558      7400
+ 559              	.LASF14:
+ 560 022e 70635374 		.ascii	"pcState\000"
+ 560      61746500 
+ 561              	.LASF4:
+ 562 0236 6C6F6E67 		.ascii	"long int\000"
+ 562      20696E74 
+ 562      00
+ 563              	.LASF0:
+ 564 023f 7369676E 		.ascii	"signed char\000"
+ 564      65642063 
+ 564      68617200 
+ 565              		.comm	__gnu_lto_v1,1,1
+ 566              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

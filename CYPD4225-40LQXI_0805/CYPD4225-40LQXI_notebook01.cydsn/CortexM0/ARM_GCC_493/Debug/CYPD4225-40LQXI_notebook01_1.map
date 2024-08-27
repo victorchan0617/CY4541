@@ -1,0 +1,2223 @@
+Archive member included because of file (symbol)
+
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(cyfitter_cfg_1.o)
+                              .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (symbol from plugin) (cyfitter_cfg)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VBUS_DISCHARGE_P1.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin) (VBUS_DISCHARGE_P1_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VBUS_P_CTRL_P2.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin) (VBUS_P_CTRL_P2_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VBUS_C_CTRL_P2.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psink.o (symbol from plugin) (VBUS_C_CTRL_P2_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VBUS_DISCHARGE_P2.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin) (VBUS_DISCHARGE_P2_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VSEL2_P2.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin) (VSEL2_P2_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(VSEL1_P2.o)
+                              .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin) (VSEL1_P2_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+                              .\CortexM0\ARM_GCC_493\Debug\app.o (symbol from plugin) (CyEnterCriticalSection)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyFlash.o)
+                              .\CortexM0\ARM_GCC_493\Debug\flash.o (symbol from plugin) (CySysFlashWriteRow)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyLib.o)
+                              cyfitter_cfg_1.o (symbol from plugin) (CySysClkWriteImoFreq)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(cyPm.o)
+                              .\CortexM0\ARM_GCC_493\Debug\app.o (symbol from plugin) (CySysPmDeepSleep)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyLFClk.o)
+                              .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (symbol from plugin) (CySysWdtDisable)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (symbol from plugin) (UART_Start)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+                              UART.o (symbol from plugin) (UART_PutChar)
+.\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (symbol from plugin) (hpi_is_ec_ready)
+.\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (i2c_slave_ack_ctrl)
+.\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (symbol from plugin) (pe_init)
+.\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                              .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o) (pd_prot_init)
+.\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                              .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o) (typec_change_rp)
+.\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (symbol from plugin) (dpm_init)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(EC_INT.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (EC_INT_Write)
+.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(I2C_CFG.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (I2C_CFG_SetDriveMode)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (__gnu_thumb1_case_uqi)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (__gnu_thumb1_case_uhi)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o) (__aeabi_uidiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                              .\lib\ccg4_dualport\libccgx_pd.a(dpm.o) (__aeabi_idiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (symbol from plugin) (__errno)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                              .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o) (memcpy)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+gl_dpm_status       0x2f0             .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+gl_img_status       0x1               .\CortexM0\ARM_GCC_493\Debug\boot.o (symbol from plugin)
+gl_dpm_port_type    0x2               .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\alt_mode_hw.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .text._exit    0x00000000        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\alt_modes_mngr.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\dp_sid.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\vdm_task_mngr.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\app.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\pdo.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\psink.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\psource.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\swap.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\vdm.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\boot.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\flash.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\gpio.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\system.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\timer.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\utils.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\config.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\datamux_ctrl.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\main.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\hal_ccgx.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\pdss_hal.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\cybootloader.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o (symbol from plugin)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (symbol from plugin)
+ .text          0x00000000        0x0 cyfitter_cfg_1.o (symbol from plugin)
+ .text          0x00000000        0x0 VBUS_DISCHARGE_P1.o (symbol from plugin)
+ .text          0x00000000        0x0 VBUS_P_CTRL_P2.o (symbol from plugin)
+ .text          0x00000000        0x0 VBUS_C_CTRL_P2.o (symbol from plugin)
+ .text          0x00000000        0x0 VBUS_DISCHARGE_P2.o (symbol from plugin)
+ .text          0x00000000        0x0 VSEL2_P2.o (symbol from plugin)
+ .text          0x00000000        0x0 VSEL1_P2.o (symbol from plugin)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 CyFlash.o (symbol from plugin)
+ .text          0x00000000        0x0 CyLib.o (symbol from plugin)
+ .text          0x00000000        0x0 cyPm.o (symbol from plugin)
+ .text          0x00000000        0x0 CyLFClk.o (symbol from plugin)
+ .text          0x00000000        0x0 UART.o (symbol from plugin)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_is_extd_msg_ec_ctrl_enabled
+                0x00000000       0x18 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpid_get_ec_active_modes
+                0x00000000       0x14 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_set_reserved_reg
+                0x00000000       0x14 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_set_no_boot_mode
+                0x00000000        0xc .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_set_fixed_slave_address
+                0x00000000        0xc .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_set_flash_params
+                0x00000000       0x14 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .data          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .data          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .data          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .text.pd_prot_set_avoid_retry
+                0x00000000       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text          0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .bss           0x00000000        0x0 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .text.dpm_sleep
+                0x00000000       0x64 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .text.dpm_update_def_cable_cap
+                0x00000000        0xc .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .text.dpm_get_def_cable_cap
+                0x00000000        0xc .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .text.dpm_prot_reset
+                0x00000000        0x8 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .text          0x00000000        0x0 EC_INT.o (symbol from plugin)
+ .text          0x00000000        0x0 I2C_CFG.o (symbol from plugin)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00000000        0x2 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00020000         xr
+ram              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+START GROUP
+LOAD .\CortexM0\ARM_GCC_493\Debug\alt_mode_hw.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+LOAD .\CortexM0\ARM_GCC_493\Debug\alt_modes_mngr.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\dp_sid.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\vdm_task_mngr.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\app.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\pdo.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\psink.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\psource.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\swap.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\vdm.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\boot.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\flash.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\gpio.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\system.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\timer.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\utils.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\config.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\datamux_ctrl.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\main.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\hal_ccgx.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\pdss_hal.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\cybootloader.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a
+LOAD C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM0\ARM_GCC_493\Debug\CyComponentLibrary.a
+LOAD .\lib\ccg4_dualport\libccgx_hpi.a
+LOAD .\lib\ccg4_dualport\libccgx_pd.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+                0x00001400                CY_APPL_ORIGIN = 0x1400
+                0x00000100                CY_FLASH_ROW_SIZE = 0x100
+                0x00020000                CY_FLASH_SIZE = 0x20000
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000002                CY_APPL_MAX = 0x2
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000001                CY_APPL_LOADABLE = 0x1
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                0x00000000                CY_APP_FOR_STACK_AND_COPIER = 0x0
+                0x20001c88                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20002000                PROVIDE (__cy_stack, (ORIGIN (ram) + 0x2000))
+                0x20001e00                PROVIDE (__cy_heap_end, (__cy_stack - 0x200))
+
+.cybootloader   0x00000000     0x1400
+ *(.cybootloader)
+ .cybootloader  0x00000000     0x1400 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00000000                cy_bootloader
+                0x00001400                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x00010000                appl2_start = (CY_FLASH_SIZE / 0x2)
+                0x00001400                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000000                cy_project_type_bootloader = (appl_start == 0x0)?0x1:0x0
+                0x00000000                cy_project_type_app_for_stack_and_copier = (CY_APP_FOR_STACK_AND_COPIER == 0x1)?0x1:0x0
+
+.text           0x00001400     0xd142
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00001400       0x10 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x000000c0                . = 0xc0
+ *fill*         0x00001410       0xb0 
+ *(.customer_region)
+ .customer_region
+                0x000014c0       0x20 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000014c0                customer_info
+ *(.base_version)
+ .base_version  0x000014e0        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                0x000014e0                base_version
+ *(.app_version)
+ .app_version   0x000014e4        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000014e4                app_version
+ *(.dev_siliconid)
+ .dev_siliconid
+                0x000014e8        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000014e8                ccg_silicon_id
+ *(.fw_reserved)
+ .fw_reserved   0x000014ec       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000014ec                reserved_buf
+ *(.configSection)
+ .configSection
+                0x00001500      0x400 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00001500                gl_config_table
+                0x00001900                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00001900       0x20 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00001900                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.psocinit)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00001920       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text.form_alt_mode_event
+                0x00001980       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.get_next_alt_mode
+                0x000019b8       0x50 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.wait_ec_trigger.lto_priv.31
+                0x00001a08        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001a08                wait_ec_trigger.lto_priv.31
+ .text.set_disc_mode_params
+                0x00001a0c       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.dp_dfp_enqueue_hpd
+                0x00001a3c       0x74 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.fail_alt_modes.lto_priv.34
+                0x00001ab0       0x80 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001ab0                fail_alt_modes.lto_priv.34
+ .text.send_sln_app_evt.part.0
+                0x00001b30       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.run_disc_mode.lto_priv.27
+                0x00001b60       0xb0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001b60                run_disc_mode.lto_priv.27
+ .text.dp_src_hpd_cbk.lto_priv.62
+                0x00001c10       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001c10                dp_src_hpd_cbk.lto_priv.62
+ .text.alt_mode_mngr_deinit.lto_priv.30
+                0x00001c50       0x7c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001c50                alt_mode_mngr_deinit.lto_priv.30
+ .text.move_to_vdm_info
+                0x00001ccc       0x6c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.eval_alt_modes.lto_priv.33
+                0x00001d38      0x178 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001d38                eval_alt_modes.lto_priv.33
+ .text.handle_cbl_disc_mode
+                0x00001eb0       0xec C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.disc_mode_fail.lto_priv.29
+                0x00001f9c       0x34 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001f9c                disc_mode_fail.lto_priv.29
+ .text.eval_disc_mode.lto_priv.28
+                0x00001fd0      0x178 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00001fd0                eval_disc_mode.lto_priv.28
+ .text.analyse_dp_sink_vdo.lto_priv.64
+                0x00002148       0xa4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00002148                analyse_dp_sink_vdo.lto_priv.64
+ .text.eval_app_alt_mode_cmd
+                0x000021ec      0x158 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000021ec                eval_app_alt_mode_cmd
+ .text.set_mux.part.1.lto_priv.63
+                0x00002344       0x70 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00002344                set_mux.part.1.lto_priv.63
+ .text.analyse_status_update_vdo
+                0x000023b4      0x114 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .text.monitor_alt_modes.lto_priv.32
+                0x000024c8      0x11c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000024c8                monitor_alt_modes.lto_priv.32
+ .text.eval_hpd_cmd
+                0x000025e4      0x144 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x000025e4                eval_hpd_cmd
+ .text.dp_dfp_run.lto_priv.65
+                0x00002728      0x21c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00002728                dp_dfp_run.lto_priv.65
+ .text.eval_app_alt_hw_cmd
+                0x00002944       0x50 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x00002944                eval_app_alt_hw_cmd
+ .text.startup.main
+                0x00002994      0xa24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                0x00002994                main
+ .text.mux_xfer_timer_cb.lto_priv.21
+                0x000033b8        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000033b8                mux_xfer_timer_cb.lto_priv.21
+ .text.timer_stop_internal
+                0x000033c4       0x54 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .text.eval_vdm
+                0x00003418      0x2e0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003418                eval_vdm
+ .text.eval_vconn_swap
+                0x000036f8       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000036f8                eval_vconn_swap
+ .text.eval_pr_swap
+                0x00003730       0x64 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003730                eval_pr_swap
+ .text.eval_dr_swap
+                0x00003794       0x48 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003794                eval_dr_swap
+ .text.get_pd_port_config
+                0x000037dc       0x10 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000037dc                get_pd_port_config
+ .text.get_pd_config
+                0x000037ec        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000037ec                get_pd_config
+ .text.mem_copy_word
+                0x000037f4       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000037f4                mem_copy_word
+ .text.timer_stop_range.part.3.lto_priv.54
+                0x00003808       0x4c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003808                timer_stop_range.part.3.lto_priv.54
+ .text.timer_is_running
+                0x00003854       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003854                timer_is_running
+ .text.timer_stop_range
+                0x0000388c       0x10 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x0000388c                timer_stop_range
+ .text.timer_stop
+                0x0000389c       0x48 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x0000389c                timer_stop
+ .text.sys_get_custom_info_addr
+                0x000038e4       0x48 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000038e4                sys_get_custom_info_addr
+ .text.sys_get_silicon_id
+                0x0000392c       0x10 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x0000392c                sys_get_silicon_id
+ .text.sys_get_device_mode
+                0x0000393c        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x0000393c                sys_get_device_mode
+ .text.gpio_set_lvttl_mode
+                0x00003948       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003948                gpio_set_lvttl_mode
+ .text.hsiom_set_config
+                0x00003960       0x24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003960                hsiom_set_config
+ .text.gpio_int_set_config
+                0x00003984       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003984                gpio_int_set_config
+ .text.gpio_set_value
+                0x000039b0       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000039b0                gpio_set_value
+ .text.flash_set_app_priority
+                0x000039e0       0x32 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x000039e0                flash_set_app_priority
+ *fill*         0x00003a12        0x2 
+ .text.flash_row_read
+                0x00003a14       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003a14                flash_row_read
+ .text.flash_row_clear
+                0x00003a54       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003a54                flash_row_clear
+ .text.flash_access_get_status
+                0x00003a7c       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003a7c                flash_access_get_status
+ .text.flash_enter_mode
+                0x00003a90       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003a90                flash_enter_mode
+ .text.boot_validate_configtable
+                0x00003aa8       0x60 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003aa8                boot_validate_configtable
+ .text.boot_validate_fw
+                0x00003b08       0xbc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003b08                boot_validate_fw
+ .text.flash_row_write
+                0x00003bc4       0xac C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003bc4                flash_row_write
+ .text.boot_handle_validate_fw_cmd
+                0x00003c70       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003c70                boot_handle_validate_fw_cmd
+ .text.hw_timer_load_period
+                0x00003ca8       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .text.wdt_interrupt_handler.lto_priv.26
+                0x00003cd0      0x15c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003cd0                wdt_interrupt_handler.lto_priv.26
+ .text.timer_start
+                0x00003e2c      0x174 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003e2c                timer_start
+ .text.led_timer_cb
+                0x00003fa0       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                0x00003fa0                led_timer_cb
+ .text.psrc_set_current
+                0x00003fcc        0x2 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00003fcc                psrc_set_current
+ *fill*         0x00003fce        0x2 
+ .text.vbus_discharge_off
+                0x00003fd0       0x24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00003fd0                vbus_discharge_off
+ .text.vbus_discharge_on
+                0x00003ff4       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00003ff4                vbus_discharge_on
+ .text.psnk_set_current
+                0x0000401c        0x2 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x0000401c                psnk_set_current
+ *fill*         0x0000401e        0x2 
+ .text.snk_vbus_ovp
+                0x00004020       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.app_snk_db_fet_off_delay_expire
+                0x0000404c        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.psrc_en_ovp
+                0x00004054       0x34 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.psnk_set_voltage
+                0x00004088       0x24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004088                psnk_set_voltage
+ .text.psrc_shutdown
+                0x000040ac       0x68 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.app_psrc_vbus_ovp_cbk
+                0x00004114       0x1c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.app_psrc_vbus_ocp_cbk
+                0x00004130       0x1c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.psrc_set_voltage
+                0x0000414c       0xb8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x0000414c                psrc_set_voltage
+ .text.psnk_enable
+                0x00004204       0x34 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004204                psnk_enable
+ .text.eval_rdo
+                0x00004238       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004238                eval_rdo
+ .text.eval_src_cap
+                0x00004268      0x40c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004268                eval_src_cap
+ .text.psrc_disable
+                0x00004674       0x7c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004674                psrc_disable
+ .text.psnk_disable
+                0x000046f0       0x84 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x000046f0                psnk_disable
+ .text.app_psnk_vbus_ovp_cbk
+                0x00004774       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.app_psrc_tmr_cbk
+                0x000047ac      0x138 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.app_psnk_tmr_cbk
+                0x000048e4       0x60 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .text.psrc_enable
+                0x00004944       0xf0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x00004944                psrc_enable
+ .text.vconn_disable
+                0x00004a34       0x24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004a34                vconn_disable
+ .text.set_vdm_failed
+                0x00004a58       0x34 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .text.reset_dp_var
+                0x00004a8c       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .text.vconn_is_present
+                0x00004acc       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004acc                vconn_is_present
+ .text.vconn_enable
+                0x00004afc       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004afc                vconn_enable
+ .text.form_rdo.lto_priv.55
+                0x00004b34       0x84 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004b34                form_rdo.lto_priv.55
+ .text.app_ovp_enable.part.2.lto_priv.53
+                0x00004bb8       0x44 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004bb8                app_ovp_enable.part.2.lto_priv.53
+ .text.reset_vdm_mngr.lto_priv.35
+                0x00004bfc       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004bfc                reset_vdm_mngr.lto_priv.35
+ .text.vdm_task_mngr_deinit
+                0x00004c2c       0x84 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004c2c                vdm_task_mngr_deinit
+ .text.app_event_handler
+                0x00004cb0      0x1d8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004cb0                app_event_handler
+ .text.reg_dp_modes.part.2.lto_priv.75
+                0x00004e88       0xd4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004e88                reg_dp_modes.part.2.lto_priv.75
+ .text.dp_exit.lto_priv.74
+                0x00004f5c       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004f5c                dp_exit.lto_priv.74
+ .text.is_prtnr_ccg_consistent.lto_priv.72
+                0x00004f94       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004f94                is_prtnr_ccg_consistent.lto_priv.72
+ .text.send_cmd.lto_priv.73
+                0x00004fbc       0x44 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00004fbc                send_cmd.lto_priv.73
+ .text.dp_eval_app_cmd.lto_priv.67
+                0x00005000       0xb8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00005000                dp_eval_app_cmd.lto_priv.67
+ .text.dp_dfp_dequeue_hpd.lto_priv.71
+                0x000050b8       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x000050b8                dp_dfp_dequeue_hpd.lto_priv.71
+ .text.dp_src_hpd_resp_cbk.lto_priv.66
+                0x000050e4       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x000050e4                dp_src_hpd_resp_cbk.lto_priv.66
+ .text.vbus_is_present
+                0x00005114       0x90 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x00005114                vbus_is_present
+ .text.vdm_rec_cbk.lto_priv.25
+                0x000051a4      0x13c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x000051a4                vdm_rec_cbk.lto_priv.25
+ .text.pd_get_vbus_adc_level
+                0x000052e0       0x58 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000052e0                pd_get_vbus_adc_level
+ .text.hpd_deinit
+                0x00005338       0x98 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005338                hpd_deinit
+ .text.pd_typec_set_polarity
+                0x000053d0       0x24 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000053d0                pd_typec_set_polarity
+ .text.pd_typec_dis_rd
+                0x000053f4       0x3c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000053f4                pd_typec_dis_rd
+ .text.pd_typec_en_rd
+                0x00005430       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005430                pd_typec_en_rd
+ .text.pd_typec_dis_rp
+                0x0000545c       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x0000545c                pd_typec_dis_rp
+ .text.pd_typec_en_rp
+                0x00005484       0x4c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005484                pd_typec_en_rp
+ .text.pd_typec_snk_update_trim
+                0x000054d0       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000054d0                pd_typec_snk_update_trim
+ .text.pd_typec_stop
+                0x00005508        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005508                pd_typec_stop
+ .text.pd_typec_start
+                0x0000550c       0x1c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x0000550c                pd_typec_start
+ .text.pd_typec_init
+                0x00005528       0x50 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005528                pd_typec_init
+ .text.pd_phy_is_busy
+                0x00005578       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005578                pd_phy_is_busy
+ .text.pd_phy_get_rx_packet
+                0x000055a0       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000055a0                pd_phy_get_rx_packet
+ .text.pd_phy_send_reset
+                0x000055b4       0x3c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000055b4                pd_phy_send_reset
+ .text.pd_phy_abort_tx_msg
+                0x000055f0       0x3c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000055f0                pd_phy_abort_tx_msg
+ .text.pd_phy_abort_bist_cm2
+                0x0000562c       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x0000562c                pd_phy_abort_bist_cm2
+ .text.pd_prot_rx_dis
+                0x00005654       0x5c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005654                pd_prot_rx_dis
+ .text.pd_prot_rx_en
+                0x000056b0       0x3c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000056b0                pd_prot_rx_en
+ .text.pd_adc_comparator_ctrl
+                0x000056ec      0x148 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000056ec                pd_adc_comparator_ctrl
+ .text.pd_typec_get_rp_rd_status
+                0x00005834       0xf8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .text.pd_typec_get_cc_status
+                0x0000592c       0xc4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x0000592c                pd_typec_get_cc_status
+ .text.pdss_intr0_handler
+                0x000059f0      0x34c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x000059f0                pdss_intr0_handler
+ .text.pd_phy_send_bist_cm2
+                0x00005d3c       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x00005d3c                pd_phy_send_bist_cm2
+ .text.pd_phy_vbus_detach_cbk
+                0x00005d68        0x2 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ *fill*         0x00005d6a        0x2 
+ .text.vbus_ocp_handler
+                0x00005d6c       0x38 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text.vbus_ocp_port1_handler
+                0x00005da4        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005da4                vbus_ocp_port1_handler
+ .text.vbus_ocp_port0_handler
+                0x00005dae        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005dae                vbus_ocp_port0_handler
+ .text.pdss_port0_intr0_handler
+                0x00005db8        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text.pdss_port1_intr0_handler
+                0x00005dc2        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text.pdss_port0_intr1_handler
+                0x00005dcc        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text.pdss_port1_intr1_handler
+                0x00005dd6        0xa C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .text.pd_phy_load_msg
+                0x00005de0       0x64 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005de0                pd_phy_load_msg
+ .text.pd_phy_load_data_in_mem
+                0x00005e44       0x8c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005e44                pd_phy_load_data_in_mem
+ .text.pd_phy_send_msg
+                0x00005ed0      0x10c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005ed0                pd_phy_send_msg
+ .text.pd_phy_dis_unchunked_tx
+                0x00005fdc       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005fdc                pd_phy_dis_unchunked_tx
+ .text.pd_phy_refresh_roles
+                0x00005ff0       0x68 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00005ff0                pd_phy_refresh_roles
+ .text.pd_phy_init
+                0x00006058       0x90 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00006058                pd_phy_init
+ .text.pd_phy_wakeup
+                0x000060e8       0x58 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x000060e8                pd_phy_wakeup
+ .text.pd_prot_stop
+                0x00006140       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00006140                pd_prot_stop
+ .text.pd_phy_deepsleep
+                0x00006170      0x2b8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00006170                pd_phy_deepsleep
+ .text.pd_hal_init
+                0x00006428      0x114 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x00006428                pd_hal_init
+ .text.IntDefaultHandler
+                0x0000653c        0x2 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ *fill*         0x0000653e        0x2 
+ .text.save_svids.constprop.13
+                0x00006540       0xc0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006540                save_svids.constprop.13
+ .text.app_ovp_disable.constprop.11
+                0x00006600       0x28 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006600                app_ovp_disable.constprop.11
+ .text.I2C_CFG_Read
+                0x00006628       0x10 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006628                I2C_CFG_Read
+ .text.I2C_CFG_Write
+                0x00006638       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006638                I2C_CFG_Write
+ .text.I2C_CFG_SetDriveMode
+                0x00006650       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006650                I2C_CFG_SetDriveMode
+ .text.EC_INT_Write
+                0x00006668       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006668                EC_INT_Write
+ .text.UART_PutString
+                0x00006680       0x1a C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006680                UART_PutString
+ .text.CyDelayUs
+                0x0000669a        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x0000669a                CyDelayUs
+ *fill*         0x000066a6        0x2 
+ .text.CySoftwareReset
+                0x000066a8       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x000066a8                CySoftwareReset
+ .text.CyIntEnable
+                0x000066c0       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x000066c0                CyIntEnable
+ .text.CyIntSetVector
+                0x000066d4       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x000066d4                CyIntSetVector
+ .text.CySysFlashWriteRow
+                0x000066ec      0x170 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x000066ec                CySysFlashWriteRow
+ .text.startup.initialize_psoc
+                0x0000685c      0x248 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .text.pdss_intr1_handler
+                0x00006aa4       0xd8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006aa4                pdss_intr1_handler
+ .text.pd_adc_calibrate
+                0x00006b7c       0xfc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006b7c                pd_adc_calibrate
+ .text.PS8740_I2C_Write.constprop.20
+                0x00006c78       0xe4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x00006c78                PS8740_I2C_Write.constprop.20
+ .text.Start_c  0x00006d5c       0x48 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ *fill*         0x00006da4        0x4 
+ .text          0x00006da8       0x28 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+                0x00006da8                CyDelayCycles
+                0x00006dbc                CyEnterCriticalSection
+                0x00006dc4                CyExitCriticalSection
+ *fill*         0x00006dd0       0x10 
+ .text          0x00006de0       0xe0 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+                0x00006de0                UART_PutChar
+ .text.hpi_reg_handle_queue
+                0x00006ec0       0x8c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_reg_handle_intr_write
+                0x00006f4c       0x7c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_initiate_dpm_command
+                0x00006fc8       0x94 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_reset_dev
+                0x0000705c       0x54 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_i2c_cmd_callback
+                0x000070b0      0x368 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_queue_pd_msg.constprop.5
+                0x00007418       0xcc .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_is_ec_ready
+                0x000074e4        0xc .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x000074e4                hpi_is_ec_ready
+ .text.hpi_is_vdm_ec_ctrl_enabled
+                0x000074f0       0x18 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x000074f0                hpi_is_vdm_ec_ctrl_enabled
+ .text.hpi_set_mode_regs
+                0x00007508       0x10 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007508                hpi_set_mode_regs
+ .text.hpi_update_versions
+                0x00007518       0x38 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007518                hpi_update_versions
+ .text.hpi_update_fw_locations
+                0x00007550       0x14 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007550                hpi_update_fw_locations
+ .text.hpi_reg_enqueue_event
+                0x00007564       0xb4 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007564                hpi_reg_enqueue_event
+ .text.hpi_abort_pd_retry
+                0x00007618       0x2c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_pd_event_handler
+                0x00007644      0x320 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007644                hpi_pd_event_handler
+ .text.hpi_dpm_cb
+                0x00007964       0x2c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_pd_port_disable_cb
+                0x00007990       0x3c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_typec_cmd_cb
+                0x000079cc       0x30 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .text.hpi_get_port_enable
+                0x000079fc        0xc .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x000079fc                hpi_get_port_enable
+ .text.hpi_task
+                0x00007a08      0xa20 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00007a08                hpi_task
+ .text.hpi_send_fw_ready_event
+                0x00008428       0x10 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00008428                hpi_send_fw_ready_event
+ .text.hpi_init
+                0x00008438      0x184 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00008438                hpi_init
+ .text.hpi_sleep_allowed
+                0x000085bc       0x48 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x000085bc                hpi_sleep_allowed
+ .text.hpi_sleep
+                0x00008604       0x30 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x00008604                hpi_sleep
+ .text.i2c_scb_read.constprop.0
+                0x00008634       0x70 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_slave_ack_ctrl
+                0x000086a4       0x2c .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x000086a4                i2c_slave_ack_ctrl
+ .text.i2c_reset
+                0x000086d0       0x60 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x000086d0                i2c_reset
+ .text.i2c_scb_intr_handler
+                0x00008730      0x260 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_scb_3_intr_handler
+                0x00008990        0xa .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_scb_2_intr_handler
+                0x0000899a        0xa .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_scb_1_intr_handler
+                0x000089a4        0xa .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_scb_0_intr_handler
+                0x000089ae        0xa .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_timer_cb
+                0x000089b8       0x28 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .text.i2c_scb_is_idle
+                0x000089e0       0x2c .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x000089e0                i2c_scb_is_idle
+ .text.i2c_scb_enable_wakeup
+                0x00008a0c       0x1c .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x00008a0c                i2c_scb_enable_wakeup
+ .text.i2c_scb_init
+                0x00008a28      0x148 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x00008a28                i2c_scb_init
+ .text.i2c_scb_write
+                0x00008b70       0x4c .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x00008b70                i2c_scb_write
+ .text.do_nothing
+                0x00008bbc        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_ready__entry
+                0x00008bbe        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_ready__timeout
+                0x00008bc0        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_ready__fr_signal_rcvd
+                0x00008bc2        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_reject__fr_signal_rcvd
+                0x00008bc4        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__fr_signal_rcvd
+                0x00008bc6        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__fr_signal_rcvd
+                0x00008bc8        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_eval_vdm__fr_signal_rcvd
+                0x00008bca        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__fr_signal_rcvd
+                0x00008bcc        0x2 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_dpm_cmd_clear
+                0x00008bce       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00008be2        0x2 
+ .text.vs_ams_eval_vconn_swap__entry
+                0x00008be4       0x1c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.check_vconn_swap_required
+                0x00008c00       0x94 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_eval_dr_swap__entry
+                0x00008c94       0x1c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_eval_pr_swap__entry
+                0x00008cb0       0x1c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_neg_cap__entry
+                0x00008ccc       0x30 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_dpm_cmd_response
+                0x00008cfc       0x68 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams__dpm_cmd_unexpected
+                0x00008d64        0xc .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_pd_connected
+                0x00008d70       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams_send_hr
+                0x00008db0       0x4a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00008dfa        0x2 
+ .text.snk_ams_snk_trans_snk__timeout
+                0x00008dfc       0x48 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_sel_cap__timeout
+                0x00008e44       0x1e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__timeout
+                0x00008e62       0x1e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__timeout
+                0x00008e80       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__tx_fail
+                0x00008ea8       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__tx_discarded
+                0x00008ebc       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams__hr_rcvd
+                0x00008ed0       0x5a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00008f2a        0x2 
+ .text.gn_ams_eval_vdm__entry
+                0x00008f2c       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__tx_success
+                0x00008f80       0x34 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_get_resp__tx_success
+                0x00008fb4       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_turn_off_vconn__entry
+                0x00008fd4       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_turn_on_vconn__entry
+                0x00008fe8       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__tx_success
+                0x00009014       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__tx_success
+                0x00009034       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_wait_ps_rdy__entry
+                0x00009054       0x34 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_wait_ps_rdy__entry
+                0x00009088       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_remove_vbus__entry
+                0x0000909c       0x30 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_trans__entry
+                0x000090cc       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__tx_success
+                0x000090e0       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_trans_snk__entry
+                0x00009100      0x174 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_sel_cap__entry
+                0x00009274       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_wait_for_cap__entry
+                0x00009288       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_send_ps_rdy__entry
+                0x0000929c      0x124 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_trans_supply__tx_success
+                0x000093c0       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__tx_success
+                0x000093e4       0x1c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_snd_cbl_dscid__tx_success
+                0x00009400       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cbl_sr__tx_success
+                0x00009414       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__tx_success
+                0x00009428       0x50 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_apply_vbus__entry
+                0x00009478       0x50 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_recover__entry
+                0x000094c8       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_cbk   0x000094e0       0x7c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_tmr_cbk
+                0x0000955c       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_vdm_resp_cbk
+                0x00009580       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__timeout
+                0x000095a8       0x34 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_jump_to_ready
+                0x000095dc       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__timeout
+                0x000095f4       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__tx_discarded
+                0x0000961c       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__tx_fail
+                0x00009630       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__tx_discarded
+                0x00009644       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__tx_success
+                0x00009658       0x2e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__tx_fail
+                0x00009686       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__tx_discarded
+                0x0000969a       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_get_resp__timeout
+                0x000096ae       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_get_resp__tx_discarded
+                0x000096d6       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.jump_to_generic_ams
+                0x000096ea       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_vs_swap_fail
+                0x0000970a       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000971e        0x2 
+ .text.vs_ams_turn_on_vconn__tx_success
+                0x00009720       0x50 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__timeout
+                0x00009770       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__tx_discarded
+                0x00009798       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__timeout
+                0x000097ac       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__tx_discarded
+                0x000097d4       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__timeout
+                0x000097e8       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__tx_discarded
+                0x00009810       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_vs_swap_accepted
+                0x00009824       0x26 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000984a        0x2 
+ .text.vs_ams_eval_vconn_swap__tx_success
+                0x0000984c       0x48 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_app_resp_cbk
+                0x00009894       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_eval_dr_swap__tx_success
+                0x000098bc       0x50 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_apply_vbus__tx_success
+                0x0000990c       0x58 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_pwr_ready_cbk
+                0x00009964        0xa .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_remove_vbus__tx_success
+                0x0000996e       0x16 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_trans__timeout
+                0x00009984       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_pr_swap_accepted
+                0x0000999c       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_eval_pr_swap__tx_success
+                0x000099c8       0x48 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_eval_cap__tx_success
+                0x00009a10       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_wait_new_cap__dpm_cmd_rcvd
+                0x00009a28       0x22 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_trans_supply__timeout
+                0x00009a4a       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00009a62        0x2 
+ .text.src_ams_discovery__entry
+                0x00009a64       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cbl_sr_cbl_fail
+                0x00009ab8       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cbl_sr__timeout
+                0x00009ae4       0x1e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00009b02        0x2 
+ .text.src_ams_src_startup__timeout
+                0x00009b04       0x4c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams_send_sr
+                0x00009b50       0x60 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__tx_fail
+                0x00009bb0       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_get_resp__tx_fail
+                0x00009bdc       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__tx_fail
+                0x00009bf0       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_eval_vconn_swap__tx_discarded
+                0x00009c04        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__tx_fail
+                0x00009c0c       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__tx_fail
+                0x00009c20       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_eval_cap__tx_discarded
+                0x00009c34       0x22 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_trans_supply__tx_fail
+                0x00009c56       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_trans_supply__tx_discarded
+                0x00009c6a       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00009c7e        0x2 
+ .text.gn_ams_ready__dpm_cmd_rcvd
+                0x00009c80       0xec .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__tx_failed
+                0x00009d6c       0x58 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__tx_discarded
+                0x00009dc4       0x48 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_exit
+                0x00009e0c       0x3e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_rcvd_sr__tx_success
+                0x00009e4a        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x00009e52        0x2 
+ .text.pe_ams__sr_rcvd
+                0x00009e54       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_hr_reset_complete
+                0x00009ea8       0x8c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_snk_wait_vbus_on__timeout
+                0x00009f34        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_apply_vbus__pwr_rdy
+                0x00009f3c       0x30 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_jump_to_snk_wait_vbus_on
+                0x00009f6c       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_recover__timeout
+                0x00009fac       0x18 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_tran_to_dflt__pwr_rdy
+                0x00009fc4       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_send_hr__tx_over
+                0x00009ff0       0x44 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pd_cbk   0x0000a034        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__entry
+                0x0000a03c       0x1e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000a05a        0x2 
+ .text.gn_ams_eval_vdm__vdm_resp_rcvd
+                0x0000a05c       0x4c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_eval_cap__app_resp_rcvd
+                0x0000a0a8       0x4c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_snd_cbl_dscid__entry
+                0x0000a0f4       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__entry
+                0x0000a134       0x1a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__entry
+                0x0000a14e       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000a172        0x2 
+ .text.gn_ams_get_resp__entry
+                0x0000a174       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_reject__entry
+                0x0000a1a0        0xc .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__entry
+                0x0000a1ac        0xc .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_eval_vconn__app_resp_rcvd
+                0x0000a1b8       0x3c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__entry
+                0x0000a1f4        0xc .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_eval_dr_swap__app_resp_rcvd
+                0x0000a200       0x4c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_apply_vbus__pwr_rdy
+                0x0000a24c       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__entry
+                0x0000a26c        0xc .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_eval_pr_swap__app_resp_rcvd
+                0x0000a278       0xe0 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_send_ps_rdy__pwr_rdy
+                0x0000a358       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_trans_supply__entry
+                0x0000a378       0x38 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_neg_cap__app_resp_rcvd
+                0x0000a3b0       0x3c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cbl_sr__entry
+                0x0000a3ec       0x16 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_rcvd_sr__entry
+                0x0000a402       0x16 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__entry
+                0x0000a418       0x1e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_give_snk_cap__entry
+                0x0000a436       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000a45e        0x2 
+ .text.snk_ams_snk_eval_cap__entry
+                0x0000a460       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_give_src_cap__entry
+                0x0000a4a0       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__entry
+                0x0000a4c8       0x28 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_snd_cbl_dscid__exit
+                0x0000a4f0       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_chng_data_role__entry
+                0x0000a530       0x88 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_apply_vbus__entry
+                0x0000a5b8       0x78 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_remove_vbus__pwr_rdy
+                0x0000a630       0x68 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams_pe_disabled
+                0x0000a698       0x46 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000a6de        0x2 
+ .text.src_ams_discovery__timeout
+                0x0000a6e0       0x3c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_startup__entry
+                0x0000a71c       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_send_ps_rdy__tx_success
+                0x0000a770       0xa4 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_neg_cap__tx_success
+                0x0000a814       0x98 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.bcm2_ams_enabled__timeout
+                0x0000a8ac       0x10 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.bcm2_ams_enabled__entry
+                0x0000a8bc       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.btd_ams_enabled__entry
+                0x0000a8e0        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams_reset_flags_on_hr
+                0x0000a8e8       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_ams_reset_on_hr
+                0x0000a93c       0x44 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_snk_tran_to_dflt__entry
+                0x0000a980       0x68 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_tran_to_dflt__entry
+                0x0000a9e8       0x34 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_reset_flags
+                0x0000aa1c       0x74 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__tx_success
+                0x0000aa90       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_turn_on_vconn__timeout
+                0x0000aad0       0x2a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_snk_wait_vbus_on__entry
+                0x0000aafa       0x4e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_startup__entry
+                0x0000ab48       0x90 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_init  0x0000abd8       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000abd8                pe_init
+ .text.pe_start
+                0x0000abf8       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000abf8                pe_start
+ .text.pe_stop  0x0000ac38       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000ac38                pe_stop
+ .text.pe_ams_err_recovery
+                0x0000ac4c       0x38 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_get_resp__fr_signal_rcvd
+                0x0000ac84        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_give_snk_cap__fr_signal_rcvd
+                0x0000ac8c        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_give_src_cap__fr_signal_rcvd
+                0x0000ac94        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_apply_vbus__timeout
+                0x0000ac9c        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_remove_vbus__timeout
+                0x0000aca4        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_send_ps_rdy__timeout
+                0x0000acac       0x44 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_snk_wait_vbus_off__timeout
+                0x0000acf0       0x42 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_snk_wait_vbus_off__entry
+                0x0000ad32       0x40 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_src_apply_vbus__timeout
+                0x0000ad72        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000ad7a        0x2 
+ .text.hr_ams_src_tran_to_dflt__timeout
+                0x0000ad7c       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.hr_ams_send_hr__entry
+                0x0000add0       0x78 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_is_busy
+                0x0000ae48       0x4e .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000ae48                pe_is_busy
+ *fill*         0x0000ae96        0x2 
+ .text.pd_is_msg
+                0x0000ae98       0x74 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000ae98                pd_is_msg
+ .text.gn_ams_get_resp__pkt_rcvd
+                0x0000af0c      0x114 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_pkt_rcvd
+                0x0000b020      0x250 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_cbl_reset__pkt_rcvd
+                0x0000b270       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_ready__pkt_rcvd
+                0x0000b284        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_vdm__pkt_rcvd
+                0x0000b28c       0x6c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.gn_ams_send_sr_sp_dp__pkt_rcvd
+                0x0000b2f8       0x64 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_turn_off_vconn__pkt_rcvd
+                0x0000b35c       0x98 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.vs_ams_send_vconn_swap__pkt_rcvd
+                0x0000b3f4       0x80 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.dr_ams_send_dr_swap__pkt_rcvd
+                0x0000b474       0x8c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_snk_src_wait_ps_rdy__pkt_rcvd
+                0x0000b500       0x68 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_send_pr_swap__pkt_rcvd
+                0x0000b568       0x88 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_trans_snk__pkt_rcvd
+                0x0000b5f0      0x104 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_sel_cap__pkt_rcvd
+                0x0000b6f4       0xc8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.snk_ams_snk_wait_for_cap__pkt_rcvd
+                0x0000b7bc       0x78 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_discovery__pkt_rcvd
+                0x0000b834       0x50 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cap__pkt_rcvd
+                0x0000b884       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.validate_n_store_cbl_vdo
+                0x0000b8d8       0x8a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ *fill*         0x0000b962        0x2 
+ .text.src_ams_src_snd_cbl_dscid__pkt_rcvd
+                0x0000b964       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.cbl_cbk  0x0000b984      0x10c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.src_ams_src_send_cbl_sr__pkt_rcvd
+                0x0000ba90       0x54 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.sr_ams_send_sr__pkt_rcvd
+                0x0000bae4       0x44 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pr_ams_src_snk_wait_ps_rdy__pkt_rcvd
+                0x0000bb28       0x88 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .text.pe_fsm   0x0000bbb0      0x3a8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000bbb0                pe_fsm
+ .text.analyze_rx
+                0x0000bf58      0x160 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .text.pd_prot_init
+                0x0000c0b8       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c0b8                pd_prot_init
+ .text.pd_prot_start
+                0x0000c0e4       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c0e4                pd_prot_start
+ .text.pd_prot_refresh_roles
+                0x0000c104       0x12 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c104                pd_prot_refresh_roles
+ *fill*         0x0000c116        0x2 
+ .text.pd_prot_reset
+                0x0000c118       0x2c .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c118                pd_prot_reset
+ .text.pd_prot_reset_all
+                0x0000c144       0x4c .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c144                pd_prot_reset_all
+ .text.pd_prot_reset_rx
+                0x0000c190       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c190                pd_prot_reset_rx
+ .text.pd_prot_is_busy
+                0x0000c1b4       0x48 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c1b4                pd_prot_is_busy
+ .text.tx_msg_over
+                0x0000c1fc       0x68 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c1fc                tx_msg_over
+ .text.check_collision
+                0x0000c264       0x3c .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c264                check_collision
+ .text.phy_cbk  0x0000c2a0      0x1cc .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .text.prl_tmr_cbk
+                0x0000c46c       0x74 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .text.pd_send_msg
+                0x0000c4e0      0x128 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c4e0                pd_send_msg
+ .text.pd_register_msg
+                0x0000c608       0x58 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c608                pd_register_msg
+ .text.pd_prot_send_ctrl_msg
+                0x0000c660       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c660                pd_prot_send_ctrl_msg
+ .text.pd_prot_send_data_msg
+                0x0000c674       0x1a .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c674                pd_prot_send_data_msg
+ *fill*         0x0000c68e        0x2 
+ .text.pd_prot_send_hard_reset
+                0x0000c690       0x80 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c690                pd_prot_send_hard_reset
+ .text.pd_prot_send_cable_reset
+                0x0000c710       0x58 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c710                pd_prot_send_cable_reset
+ .text.pd_prot_en_bist_cm2
+                0x0000c768        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c768                pd_prot_en_bist_cm2
+ .text.pd_prot_dis_bist_cm2
+                0x0000c770        0x8 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c770                pd_prot_dis_bist_cm2
+ .text.pd_prot_en_bist_test_data
+                0x0000c778       0x24 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c778                pd_prot_en_bist_test_data
+ .text.pd_prot_dis_bist_test_data
+                0x0000c79c       0x20 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c79c                pd_prot_dis_bist_test_data
+ .text.pd_prot_get_rx_packet
+                0x0000c7bc       0x14 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                0x0000c7bc                pd_prot_get_rx_packet
+ .text.typec_do_nothing
+                0x0000c7d0        0x2 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ *fill*         0x0000c7d2        0x2 
+ .text.typec_debounce_reset
+                0x0000c7d4       0x68 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_is_connection_detected
+                0x0000c83c       0x76 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_dpm_resp
+                0x0000c8b2       0x2c .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_snk_detach_transition
+                0x0000c8de       0x2a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_snk__pwr_rdy
+                0x0000c908       0x1a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_snk__timeout
+                0x0000c922        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_pwr_ready_cbk
+                0x0000c92a        0xa .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_tmr_cbk
+                0x0000c934       0x20 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_src_detach
+                0x0000c954       0x38 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_src__timeout
+                0x0000c98c       0x3c .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_acc_detach
+                0x0000c9c8       0x46 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_unattached_snk__timeout
+                0x0000ca0e       0x22 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_unattached_src__timeout
+                0x0000ca30       0x22 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_try_src__timeout
+                0x0000ca52       0x32 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_err_recov_trans
+                0x0000ca84       0x2a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attach_evt
+                0x0000caae      0x11a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_err_recov
+                0x0000cbc8       0x22 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_detach
+                0x0000cbea       0x2e .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_snk__detach
+                0x0000cc18       0x50 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attach
+                0x0000cc68       0x4a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_snk__entry
+                0x0000ccb2       0x34 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ *fill*         0x0000cce6        0x2 
+ .text.typec_gn_fsm_attached_src__pwr_rdy
+                0x0000cce8       0x34 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_src__detach
+                0x0000cd1c       0x88 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_attached_src__entry
+                0x0000cda4       0x70 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.debounce
+                0x0000ce14       0xb8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_init
+                0x0000cecc       0x10 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000cecc                typec_init
+ .text.typec_start
+                0x0000cedc       0x96 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000cedc                typec_start
+ .text.typec_gn_fsm_err_recov_cmplt__timeout
+                0x0000cf72        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ *fill*         0x0000cf7a        0x2 
+ .text.typec_is_busy
+                0x0000cf7c       0x78 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000cf7c                typec_is_busy
+ .text.typec_sync_toggle
+                0x0000cff4       0x94 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000cff4                typec_sync_toggle
+ .text.typec_deepsleep
+                0x0000d088        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d088                typec_deepsleep
+ .text.typec_wakeup
+                0x0000d090        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d090                typec_wakeup
+ .text.typec_change_rp
+                0x0000d098       0x44 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d098                typec_change_rp
+ .text.typec_gn_fsm_acc_attach
+                0x0000d0dc       0x58 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_dbg_acc__entry
+                0x0000d134        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_aud_acc__entry
+                0x0000d13c        0x8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_dpm_cmd
+                0x0000d144       0x58 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_assert_rp
+                0x0000d19c       0x30 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d19c                typec_assert_rp
+ .text.typec_assert_rd
+                0x0000d1cc       0x28 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d1cc                typec_assert_rd
+ .text.typec_reset
+                0x0000d1f4       0x84 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_unattached
+                0x0000d278       0xac .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_unattached_snk__entry
+                0x0000d324        0xa .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_unattached_src__entry
+                0x0000d32e        0xa .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_try_wait_snk__entry
+                0x0000d338       0x1c .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_try_src__entry
+                0x0000d354       0x30 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.dpm_typec_deassert_rp_rd
+                0x0000d384       0x1e .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d384                dpm_typec_deassert_rp_rd
+ .text.typec_disable
+                0x0000d3a2       0x3a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_gn_fsm_err_recov_cmplt__entry
+                0x0000d3dc       0x58 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_stop
+                0x0000d434       0x4a .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d434                typec_stop
+ *fill*         0x0000d47e        0x2 
+ .text.typec_gn_fsm_err_recov__entry
+                0x0000d480       0xa0 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .text.typec_fsm
+                0x0000d520      0x3cc .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000d520                typec_fsm
+ .text.dpm_init
+                0x0000d8ec       0x64 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000d8ec                dpm_init
+ .text.dpm_start
+                0x0000d950       0x3c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000d950                dpm_start
+ .text.dpm_stop
+                0x0000d98c       0x38 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000d98c                dpm_stop
+ .text.dpm_deepsleep
+                0x0000d9c4       0x68 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000d9c4                dpm_deepsleep
+ .text.dpm_wakeup
+                0x0000da2c        0xa .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000da2c                dpm_wakeup
+ *fill*         0x0000da36        0x2 
+ .text.dpm_task
+                0x0000da38       0x44 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000da38                dpm_task
+ .text.dpm_get_info
+                0x0000da7c       0x10 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000da7c                dpm_get_info
+ .text.dpm_update_swap_response
+                0x0000da8c       0x1c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000da8c                dpm_update_swap_response
+ .text.dpm_update_src_cap
+                0x0000daa8       0x40 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000daa8                dpm_update_src_cap
+ .text.dpm_update_src_cap_mask
+                0x0000dae8       0x1c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dae8                dpm_update_src_cap_mask
+ .text.dpm_update_snk_cap
+                0x0000db04       0x40 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000db04                dpm_update_snk_cap
+ .text.dpm_update_snk_cap_mask
+                0x0000db44       0x1c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000db44                dpm_update_snk_cap_mask
+ .text.dpm_update_snk_max_min
+                0x0000db60       0x34 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000db60                dpm_update_snk_max_min
+ .text.dpm_update_port_config
+                0x0000db94       0x4c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000db94                dpm_update_port_config
+ .text.dpm_is_rdo_valid
+                0x0000dbe0       0x5c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dbe0                dpm_is_rdo_valid
+ .text.dpm_get_polarity
+                0x0000dc3c       0x14 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dc3c                dpm_get_polarity
+ .text.dpm_get_status
+                0x0000dc50       0x10 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dc50                dpm_get_status
+ .text.dpm_refresh_src_cap
+                0x0000dc60      0x1a0 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dc60                dpm_refresh_src_cap
+ .text.dpm_refresh_snk_cap
+                0x0000de00       0x7c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000de00                dpm_refresh_snk_cap
+ .text.dpm_is_prev_contract_valid
+                0x0000de7c       0x1c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000de7c                dpm_is_prev_contract_valid
+ .text.dpm_get_evtno_n_clear
+                0x0000de98       0x34 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000de98                dpm_get_evtno_n_clear
+ .text.dpm_get_sink_detach_voltage
+                0x0000decc       0x30 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000decc                dpm_get_sink_detach_voltage
+ .text.dpm_get_sink_detach_margin
+                0x0000defc       0x12 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000defc                dpm_get_sink_detach_margin
+ *fill*         0x0000df0e        0x2 
+ .text.dpm_set_pe_evt
+                0x0000df10       0x28 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000df10                dpm_set_pe_evt
+ .text.dpm_pd_command_ec
+                0x0000df38       0x98 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000df38                dpm_pd_command_ec
+ .text.dpm_pd_command
+                0x0000dfd0       0x2c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dfd0                dpm_pd_command
+ .text.dpm_clear_pe_evt
+                0x0000dffc       0x28 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000dffc                dpm_clear_pe_evt
+ .text.dpm_set_typec_evt
+                0x0000e024       0x28 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e024                dpm_set_typec_evt
+ .text.dpm_typec_command
+                0x0000e04c       0x44 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e04c                dpm_typec_command
+ .text.dpm_clear_typec_evt
+                0x0000e090       0x28 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e090                dpm_clear_typec_evt
+ .text.dpm_update_port_status
+                0x0000e0b8       0x1c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e0b8                dpm_update_port_status
+ .text.dpm_get_pd_port_status
+                0x0000e0d4       0xc8 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e0d4                dpm_get_pd_port_status
+ .text.dpm_update_frs_enable
+                0x0000e19c        0x2 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e19c                dpm_update_frs_enable
+ .text.dpm_update_ext_src_cap
+                0x0000e19e        0x2 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e19e                dpm_update_ext_src_cap
+ .text.dpm_prot_reset_rx
+                0x0000e1a0        0x8 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x0000e1a0                dpm_prot_reset_rx
+ .text          0x0000e1a8       0x14 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                0x0000e1a8                __gnu_thumb1_case_uqi
+ .text          0x0000e1bc       0x14 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+                0x0000e1bc                __gnu_thumb1_case_uhi
+ .text          0x0000e1d0      0x120 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x0000e1d0                __aeabi_uidiv
+                0x0000e1d0                __udivsi3
+                0x0000e2dc                __aeabi_uidivmod
+ .text          0x0000e2f0      0x1e0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                0x0000e2f0                __divsi3
+                0x0000e2f0                __aeabi_idiv
+                0x0000e4bc                __aeabi_idivmod
+ .text          0x0000e4d0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x0000e4d0                __aeabi_idiv0
+                0x0000e4d0                __aeabi_ldiv0
+ .text.__libc_init_array
+                0x0000e4d4       0x4c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                0x0000e4d4                __libc_init_array
+ .text.memcpy   0x0000e520       0x12 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                0x0000e520                memcpy
+ .text.memset   0x0000e532       0x10 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                0x0000e532                memset
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x0000e544        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0000e544        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000e544        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000e544        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x0000e544        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+                0x0000e548                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000e548                __exidx_end = .
+
+.rodata         0x0000e548      0x858
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000e548       0x9c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                0x0000e5a0                alt_mode_ams_table.lto_priv.58
+                0x0000e5e0                gl_img2_fw_metadata
+ .rodata.str1.1
+                0x0000e5e4       0x13 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ *fill*         0x0000e5f7        0x1 
+ .rodata        0x0000e5f8       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .rodata        0x0000e60c        0xe C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x0000e60c                mux_ps8740_address.lto_priv.69
+ *fill*         0x0000e61a        0x2 
+ .rodata        0x0000e61c       0x2c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x0000e61c                os_table
+                0x0000e638                thresholds
+ .rodata        0x0000e648       0x18 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x0000e648                hal_ocp_fault_pin.lto_priv.52
+                0x0000e64c                GPIO
+ .rodata        0x0000e660        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x0000e660                gl_pdss.lto_priv.22
+                0x0000e668                dfp_compatibility_mode_table
+ .rodata        0x0000e66c      0x100 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                0x0000e724                hpi_pdcmd_rp_map
+                0x0000e727                hpi_to_dpm_pkt_map
+                0x0000e747                hpi_to_dpm_cmd_map
+                0x0000e767                gl_hpi_scb_port_map
+ .rodata        0x0000e76c       0x10 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                0x0000e76c                SCB_PRT
+ .rodata        0x0000e77c      0x514 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                0x0000e77c                CUR_TABLE
+                0x0000e7a2                hr_ams_table
+                0x0000e7e8                btd_ams_table
+                0x0000e7f2                bcm2_ams_table
+                0x0000e7fc                sr_ams_table
+                0x0000e810                src_ams_table
+                0x0000e88e                snk_ams_table
+                0x0000e8c5                pr_ams_table
+                0x0000e912                dr_ams_table
+                0x0000e933                vs_ams_table
+                0x0000e95f                gn_ams_table
+                0x0000e9e8                pe_ams_funcs
+ .rodata        0x0000ec90       0xd8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                0x0000ec90                typec_dpmcmd_rp_map
+                0x0000ec94                typec_gn_fsm_funcs
+                0x0000ed68                . = ALIGN (0x4)
+ *(.init)
+ .init          0x0000ed68        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x0000ed68                _init
+ .init          0x0000ed6c        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x0000ed74                . = ALIGN (0x4)
+                0x0000ed74                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000ed74                __preinit_array_end = .
+                0x0000ed74                . = ALIGN (0x4)
+                0x0000ed74                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000ed74        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .init_array    0x0000ed78        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x0000ed7c                __init_array_end = .
+                0x0000ed7c                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x0000ed7c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x0000ed7c                _fini
+ .fini          0x0000ed80        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x0000ed88                . = ALIGN (0x4)
+                0x0000ed88                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x0000ed88        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x0000ed8c                __fini_array_end = .
+                0x0000ed8c                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000ed8c                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x0000ed8c                . = ALIGN (0x4)
+                0x0000ed8c                __cy_regions = .
+                0x0000ed8c        0x4 LONG 0xeda0 __cy_region_init_ram
+                0x0000ed90        0x4 LONG 0x200000a0 __cy_region_start_data
+                0x0000ed94        0x4 LONG 0x40 __cy_region_init_size_ram
+                0x0000ed98        0x4 LONG 0x1ba8 __cy_region_zero_size_ram
+                0x0000ed9c                __cy_regions_end = .
+                0x0000eda0                . = ALIGN (0x8)
+ *fill*         0x0000ed9c        0x4 
+                0x0000eda0                _etext = .
+
+.ramvectors     0x20000000       0x90
+                0x20000000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x20000000       0x90 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+
+.btldr_run      0x20000090        0x4
+ *(.bootloaderruntype)
+ .bootloaderruntype
+                0x20000090        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x20000090                cyBtldrRunType
+
+.noinit         0x20000098        0x4
+ *(.noinit)
+ .noinit        0x20000098        0x4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+
+.data           0x200000a0       0x40 load address 0x0000eda0
+                0x200000a0                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x200000a0        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x200000a0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x200000a4       0x14 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x200000a8                cydelayFreqHz
+                0x200000ac                UART_pinDrAdress
+                0x200000b0                UART_pinPortNumber
+                0x200000b4                UART_pinNumber
+ .data          0x200000b8        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                0x200000b8                gl_active_fw
+                0x200000ba                gl_flash_access_last.lto_priv.44
+                0x200000bc                gl_flash_metadata_row.lto_priv.45
+                0x200000be                gl_flash_bl_last_row.lto_priv.42
+ .data          0x200000c0       0x14 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .data          0x200000d4        0x4 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .data          0x200000d8        0x2 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x200000e0                . = ALIGN (0x8)
+ *fill*         0x200000da        0x6 
+ *(.ram)
+                0x200000e0                _edata = .
+
+.igot.plt       0x200000e0        0x0 load address 0x0000ede0
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.bss            0x200000e0     0x1ba8 load address 0x0000ede0
+                0x200000e0                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x200000e0       0x1c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss           0x200000fc        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .bss           0x20000104      0x4d8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                0x20000108                gl_timer_handle.lto_priv.37
+                0x20000408                gl_num_active.lto_priv.38
+                0x2000040a                gl_total_active.lto_priv.39
+                0x2000040c                gl_multiplier.lto_priv.40
+                0x2000040e                gl_flash_access_first.lto_priv.43
+                0x20000410                gl_vdm_id_vdo_cnt.lto_priv.46
+                0x20000414                gl_vdm_id_vdo_p.lto_priv.47
+                0x2000041c                gl_vdm_svid_vdo_cnt.lto_priv.48
+                0x20000420                gl_vdm_svid_vdo_p.lto_priv.49
+                0x20000428                gl_vdm_mode_data_len.lto_priv.51
+                0x2000042c                gl_vdm_mode_data_p.lto_priv.50
+                0x20000434                alt_mode
+                0x2000051c                app_status
+                0x200005cc                gl_alt_mode_cmd_pending.lto_priv.59
+                0x200005d0                gl_hw_cmd_cbk.lto_priv.61
+                0x200005d8                gl_alt_mode_hpd_state.lto_priv.60
+                0x200005da                gl_match.lto_priv.41
+ .bss           0x200005dc        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .bss           0x200005e4       0x20 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                0x200005e4                op_cur_power.lto_priv.56
+                0x200005fc                max_min_cur_pwr.lto_priv.57
+ .bss           0x20000604       0xa4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                0x20000604                dp
+                0x200006a4                mux_state.lto_priv.68
+ .bss           0x200006a8        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                0x200006a8                hpd_transmit_enable.lto_priv.24
+                0x200006ac                hpd_cbks.lto_priv.70
+ .bss           0x200006b4        0x8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                0x200006b4                vbus_ocp_cbk
+ .bss           0x200006bc      0x314 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                0x200006bc                vdm_stat
+                0x20000764                gl_pdss_status.lto_priv.23
+                0x200009cc                mux_xfer_timeout.lto_priv.36
+ .bss           0x200009d0      0x7f4 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .bss           0x200011c4       0x68 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .bss           0x2000122c      0x498 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .bss           0x200016c4      0x2b8 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .bss           0x2000197c       0x16 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ *(COMMON)
+ *fill*         0x20001992        0x2 
+ COMMON         0x20001994      0x2f2 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                0x20001994                gl_dpm_status
+                0x20001c84                gl_dpm_port_type
+                0x20001c88                . = ALIGN (0x8)
+ *fill*         0x20001c86        0x2 
+ *(.ram.b)
+                0x20001c88                _end = .
+                0x20001c88                __end = .
+                0x20001c88                PROVIDE (end, .)
+                0x20001c88                PROVIDE (__bss_end__, .)
+                0x0000eda0                __cy_region_init_ram = LOADADDR (.data)
+                0x00000040                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x00001ba8                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x20001c88        0x0 load address 0x0000ede0
+                0x20001c88                . = _end
+                0x20001c88                . = (. + 0x0)
+                0x20001c88                __cy_heap_limit = .
+
+.stack          0x20001e00      0x200
+                0x20001e00                __cy_stack_limit = .
+                0x20002000                . = (. + 0x200)
+ *fill*         0x20001e00      0x200 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+
+.cy_checksum_exclude
+                0x00010000        0x0
+ *(.cy_checksum_exclude)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+                0xf0000000                cyloadermeta_start = (cy_project_type_bootloader || cy_project_type_app_for_stack_and_copier)?(0x20000 - CY_METADATA_SIZE):0xf0000000
+
+.cyloadermeta   0xf0000000       0x40
+ *(.cyloadermeta)
+ .cyloadermeta  0xf0000000       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0xf0000000                cy_meta_loader
+                0x0001ffc0                cyloadablemeta_start = cy_project_type_app_for_stack_and_copier?((0x20000 - CY_FLASH_ROW_SIZE) - CY_METADATA_SIZE):((0x20000 - (CY_FLASH_ROW_SIZE * (CY_APPL_NUM - 0x1))) - CY_METADATA_SIZE)
+
+.cyloadablemeta
+                0x0001ffc0       0x40
+ *(.cyloadablemeta)
+ .cyloadablemeta
+                0x0001ffc0       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x0001ffc0                cy_meta_loadable
+
+.cyflashprotect
+                0x90400000       0x40
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000       0x40 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x90500000                cy_metadata
+
+.cychipprotect  0x90600000        0x1
+ *(.cychipprotect)
+ .cychipprotect
+                0x90600000        0x1 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                0x90600000                cy_meta_chipprotect
+
+.rel.dyn        0x00020000        0x0 load address 0x90600004
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000     0x11a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xd0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_aranges
+                0x000000d0       0x20 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_aranges
+                0x000000f0      0x120 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000210       0xc0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_aranges
+                0x000002d0       0xb0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000380       0xd0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000450       0xa8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_aranges
+                0x000004f8       0xb8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_aranges
+                0x000005b0       0x20 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x000005d0       0x20 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .debug_aranges
+                0x000005f0      0x100 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_aranges
+                0x000006f0       0x80 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_aranges
+                0x00000770      0x650 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_aranges
+                0x00000dc0       0xd8 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_aranges
+                0x00000e98      0x1b8 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_aranges
+                0x00001050      0x150 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x3ef5a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x460b C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_info    0x0000460b     0x5b13 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_info    0x0000a11e     0x4cba C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_info    0x0000edd8     0x45c2 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_info    0x0001339a     0x4e2a C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_info    0x000181c4     0x3beb C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_info    0x0001bdaf     0x3ab1 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_info    0x0001f860     0x2d55 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_info    0x000225b5       0xb5 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .debug_info    0x0002266a       0xb4 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .debug_info    0x0002271e     0x5e06 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_info    0x00028524      0xdd1 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_info    0x000292f5     0x9e9a .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_info    0x0003318f     0x3841 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_info    0x000369d0     0x4aa1 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_info    0x0003b471     0x3ae9 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_abbrev   0x00000000     0x4772
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x663 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_abbrev  0x00000663      0x604 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_abbrev  0x00000c67      0x6dd C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_abbrev  0x00001344      0x584 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_abbrev  0x000018c8      0x69c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_abbrev  0x00001f64      0x44e C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_abbrev  0x000023b2      0x47f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_abbrev  0x00002831      0x5dd C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_abbrev  0x00002e0e       0x14 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x00002e22       0x14 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .debug_abbrev  0x00002e36      0x4c8 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_abbrev  0x000032fe      0x32a .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_abbrev  0x00003628      0x48d .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_abbrev  0x00003ab5      0x43f .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_abbrev  0x00003ef4      0x41e .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_abbrev  0x00004312      0x460 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_line     0x00000000     0x75c5
+ *(.debug_line)
+ .debug_line    0x00000000      0xa76 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_line    0x00000a76      0x7a4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_line    0x0000121a      0x95b C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_line    0x00001b75      0x726 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_line    0x0000229b      0x758 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_line    0x000029f3      0x589 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_line    0x00002f7c      0x56c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_line    0x000034e8      0x766 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_line    0x00003c4e       0x6b .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .debug_line    0x00003cb9       0x9f .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .debug_line    0x00003d58      0x989 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_line    0x000046e1      0x386 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_line    0x00004a67     0x1773 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_line    0x000061da      0x4af .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_line    0x00006689      0x8d0 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_line    0x00006f59      0x66c .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_frame    0x00000000     0x35ac
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2c0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_frame   0x000002c0       0x30 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_frame   0x000002f0      0x32c C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_frame   0x0000061c      0x220 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_frame   0x0000083c      0x218 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_frame   0x00000a54      0x204 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_frame   0x00000c58      0x1e8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_frame   0x00000e40      0x1f4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_frame   0x00001034      0x2d4 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_frame   0x00001308      0x150 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_frame   0x00001458     0x146c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_frame   0x000028c4      0x26c .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_frame   0x00002b30      0x58c .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_frame   0x000030bc      0x3d4 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .debug_frame   0x00003490       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000034b0       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x000034d0       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x000034f0       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00003518       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00003544       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x0000356c       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000358c       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+
+.debug_str      0x00000000     0xca76
+ *(.debug_str)
+ .debug_str     0x00000000     0x1b8b C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+                               0x2d8e (size before relaxing)
+ .debug_str     0x00001b8b      0xbfe C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+                               0x4de3 (size before relaxing)
+ .debug_str     0x00002789      0x4e4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+                               0x3e86 (size before relaxing)
+ .debug_str     0x00002c6d      0x427 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+                               0x336f (size before relaxing)
+ .debug_str     0x00003094      0x4ef C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+                               0x408f (size before relaxing)
+ .debug_str     0x00003583      0x148 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+                               0x3930 (size before relaxing)
+ .debug_str     0x000036cb      0x17f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+                               0x34f0 (size before relaxing)
+ .debug_str     0x0000384a      0x3c7 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+                               0x1bec (size before relaxing)
+ .debug_str     0x00003c11     0x5b4c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                               0x5f87 (size before relaxing)
+ .debug_str     0x0000975d      0x460 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+                                0x917 (size before relaxing)
+ .debug_str     0x00009bbd     0x2063 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+                               0x4aeb (size before relaxing)
+ .debug_str     0x0000bc20      0x381 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+                               0x2e50 (size before relaxing)
+ .debug_str     0x0000bfa1      0x831 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+                               0x3071 (size before relaxing)
+ .debug_str     0x0000c7d2      0x2a4 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+                               0x3070 (size before relaxing)
+
+.debug_loc      0x00000000    0x10ccb
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x1890 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_loc     0x00001890     0x1027 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_loc     0x000028b7     0x155a C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_loc     0x00003e11     0x116f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_loc     0x00004f80     0x1123 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_loc     0x000060a3      0xb65 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_loc     0x00006c08      0xa00 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_loc     0x00007608      0x8b4 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_loc     0x00007ebc     0x2191 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_loc     0x0000a04d      0x5b0 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_loc     0x0000a5fd     0x37c8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_loc     0x0000ddc5      0xc21 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_loc     0x0000e9e6     0x11bc .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_loc     0x0000fba2     0x1129 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000     0x2148
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x3c8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .debug_ranges  0x000003c8      0x5c8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .debug_ranges  0x00000990      0x370 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .debug_ranges  0x00000d00      0x290 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .debug_ranges  0x00000f90      0x1a8 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .debug_ranges  0x00001138       0xe0 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .debug_ranges  0x00001218      0x160 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .debug_ranges  0x00001378      0x168 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .debug_ranges  0x000014e0      0x188 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .debug_ranges  0x00001668       0x70 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .debug_ranges  0x000016d8      0x6a8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .debug_ranges  0x00001d80       0xc8 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .debug_ranges  0x00001e48      0x1c0 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .debug_ranges  0x00002008      0x140 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .comment       0x00000000       0x70 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000094       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000c3       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000f2       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000121       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000150       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans5.ltrans.o
+ .ARM.attributes
+                0x0000017f       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans6.ltrans.o
+ .ARM.attributes
+                0x000001ae       0x2f C:\Users\victo\AppData\Local\Temp\ccINIyed.ltrans7.ltrans.o
+ .ARM.attributes
+                0x000001dd       0x21 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x000001fe       0x21 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.a(UART_AsmGnu.o)
+ .ARM.attributes
+                0x0000021f       0x31 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
+ .ARM.attributes
+                0x00000250       0x31 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
+ .ARM.attributes
+                0x00000281       0x31 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
+ .ARM.attributes
+                0x000002b2       0x31 .\lib\ccg4_dualport\libccgx_pd.a(pd_protocol.o)
+ .ARM.attributes
+                0x000002e3       0x31 .\lib\ccg4_dualport\libccgx_pd.a(typec_manager.o)
+ .ARM.attributes
+                0x00000314       0x31 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
+ .ARM.attributes
+                0x00000345       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000363       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x00000381       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000039f       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000003bd       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000003db       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000407       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000433       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000045f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000048b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004b7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004e3       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000050f       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .ARM.attributes
+                0x0000052d       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(.\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.elf elf32-littlearm)

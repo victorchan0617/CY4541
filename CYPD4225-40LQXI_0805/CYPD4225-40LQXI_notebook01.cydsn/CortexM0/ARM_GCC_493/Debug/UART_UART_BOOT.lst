@@ -1,0 +1,320 @@
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 1
+
+
+   1              		.cpu cortex-m0
+   2              		.fpu softvfp
+   3              		.eabi_attribute 20, 1
+   4              		.eabi_attribute 21, 1
+   5              		.eabi_attribute 23, 3
+   6              		.eabi_attribute 24, 1
+   7              		.eabi_attribute 25, 1
+   8              		.eabi_attribute 26, 1
+   9              		.eabi_attribute 30, 4
+  10              		.eabi_attribute 34, 0
+  11              		.eabi_attribute 18, 4
+  12              		.code	16
+  13              		.file	"UART_UART_BOOT.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.797e4744,"",%progbits
+  17 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
+  17      60606064 
+  17      80020000 
+  17      3D0005
+  18              		.text
+  19              		.section	.gnu.lto_.inline.797e4744,"",%progbits
+  20 0000 789C6366 		.ascii	"x\234cf\300\016\230\340,\000\000\234\000\006"
+  20      C00E98E0 
+  20      2C00009C 
+  20      0006
+  21              		.text
+  22              		.section	.gnu.lto_.pureconst.797e4744,"",%progbits
+  23 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
+  23      60606064 
+  23      80020000 
+  23      3D0005
+  24              		.text
+  25              		.section	.gnu.lto_.symbol_nodes.797e4744,"",%progbits
+  26 0000 789C6366 		.ascii	"x\234cf```b\200\001\000\000L\000\006"
+  26      60606062 
+  26      80010000 
+  26      4C0006
+  27              		.text
+  28              		.section	.gnu.lto_.refs.797e4744,"",%progbits
+  29 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
+  29      60606064 
+  29      80020000 
+  29      3D0005
+  30              		.text
+  31              		.section	.gnu.lto_.decls.797e4744,"",%progbits
+  32 0000 789C6366 		.ascii	"x\234cf``P\001\342\377@\000\244\030\030\2418\200\201"
+  32      60605001 
+  32      E2FF4000 
+  32      A41818A1 
+  32      388081
+  33 0013 000000D0 		.ascii	"\000\000\000\3208\004v"
+  33      380476
+  34              		.text
+  35              		.section	.gnu.lto_.symtab.797e4744,"",%progbits
+  36              		.text
+  37              		.section	.gnu.lto_.opts,"",%progbits
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 2
+
+
+  38 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
+  38      6F2D7472 
+  38      61707627 
+  38      20272D6D 
+  38      6370753D 
+  39 0033 20272D57 		.ascii	" '-Werror' '-ffunction-sections' '-finline-function"
+  39      6572726F 
+  39      72272027 
+  39      2D666675 
+  39      6E637469 
+  40 0066 73272027 		.ascii	"s' '-flto' '-ffat-lto-objects' '-fno-strict-aliasin"
+  40      2D666C74 
+  40      6F272027 
+  40      2D666661 
+  40      742D6C74 
+  41 0099 672700   		.ascii	"g'\000"
+  42              		.text
+  43              		.cfi_sections	.debug_frame
+  44              	.Letext0:
+  45              		.section	.debug_info,"",%progbits
+  46              	.Ldebug_info0:
+  47 0000 7C000000 		.4byte	0x7c
+  48 0004 0400     		.2byte	0x4
+  49 0006 00000000 		.4byte	.Ldebug_abbrev0
+  50 000a 04       		.byte	0x4
+  51 000b 01       		.uleb128 0x1
+  52 000c 1B000000 		.4byte	.LASF13
+  53 0010 01       		.byte	0x1
+  54 0011 73010000 		.4byte	.LASF14
+  55 0015 00010000 		.4byte	.LASF15
+  56 0019 00000000 		.4byte	.Ldebug_line0
+  57 001d 02       		.uleb128 0x2
+  58 001e 01       		.byte	0x1
+  59 001f 06       		.byte	0x6
+  60 0020 C5010000 		.4byte	.LASF0
+  61 0024 02       		.uleb128 0x2
+  62 0025 01       		.byte	0x1
+  63 0026 08       		.byte	0x8
+  64 0027 65010000 		.4byte	.LASF1
+  65 002b 02       		.uleb128 0x2
+  66 002c 02       		.byte	0x2
+  67 002d 05       		.byte	0x5
+  68 002e D7010000 		.4byte	.LASF2
+  69 0032 02       		.uleb128 0x2
+  70 0033 02       		.byte	0x2
+  71 0034 07       		.byte	0x7
+  72 0035 B2010000 		.4byte	.LASF3
+  73 0039 02       		.uleb128 0x2
+  74 003a 04       		.byte	0x4
+  75 003b 05       		.byte	0x5
+  76 003c A2010000 		.4byte	.LASF4
+  77 0040 02       		.uleb128 0x2
+  78 0041 04       		.byte	0x4
+  79 0042 07       		.byte	0x7
+  80 0043 D7000000 		.4byte	.LASF5
+  81 0047 02       		.uleb128 0x2
+  82 0048 08       		.byte	0x8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 3
+
+
+  83 0049 05       		.byte	0x5
+  84 004a 00000000 		.4byte	.LASF6
+  85 004e 02       		.uleb128 0x2
+  86 004f 08       		.byte	0x8
+  87 0050 07       		.byte	0x7
+  88 0051 E9000000 		.4byte	.LASF7
+  89 0055 03       		.uleb128 0x3
+  90 0056 04       		.byte	0x4
+  91 0057 05       		.byte	0x5
+  92 0058 696E7400 		.ascii	"int\000"
+  93 005c 02       		.uleb128 0x2
+  94 005d 04       		.byte	0x4
+  95 005e 07       		.byte	0x7
+  96 005f 0E000000 		.4byte	.LASF8
+  97 0063 02       		.uleb128 0x2
+  98 0064 04       		.byte	0x4
+  99 0065 04       		.byte	0x4
+ 100 0066 D1010000 		.4byte	.LASF9
+ 101 006a 02       		.uleb128 0x2
+ 102 006b 08       		.byte	0x8
+ 103 006c 04       		.byte	0x4
+ 104 006d AB010000 		.4byte	.LASF10
+ 105 0071 02       		.uleb128 0x2
+ 106 0072 01       		.byte	0x1
+ 107 0073 08       		.byte	0x8
+ 108 0074 9D010000 		.4byte	.LASF11
+ 109 0078 02       		.uleb128 0x2
+ 110 0079 04       		.byte	0x4
+ 111 007a 07       		.byte	0x7
+ 112 007b E1010000 		.4byte	.LASF12
+ 113 007f 00       		.byte	0
+ 114              		.section	.debug_abbrev,"",%progbits
+ 115              	.Ldebug_abbrev0:
+ 116 0000 01       		.uleb128 0x1
+ 117 0001 11       		.uleb128 0x11
+ 118 0002 01       		.byte	0x1
+ 119 0003 25       		.uleb128 0x25
+ 120 0004 0E       		.uleb128 0xe
+ 121 0005 13       		.uleb128 0x13
+ 122 0006 0B       		.uleb128 0xb
+ 123 0007 03       		.uleb128 0x3
+ 124 0008 0E       		.uleb128 0xe
+ 125 0009 1B       		.uleb128 0x1b
+ 126 000a 0E       		.uleb128 0xe
+ 127 000b 10       		.uleb128 0x10
+ 128 000c 17       		.uleb128 0x17
+ 129 000d 00       		.byte	0
+ 130 000e 00       		.byte	0
+ 131 000f 02       		.uleb128 0x2
+ 132 0010 24       		.uleb128 0x24
+ 133 0011 00       		.byte	0
+ 134 0012 0B       		.uleb128 0xb
+ 135 0013 0B       		.uleb128 0xb
+ 136 0014 3E       		.uleb128 0x3e
+ 137 0015 0B       		.uleb128 0xb
+ 138 0016 03       		.uleb128 0x3
+ 139 0017 0E       		.uleb128 0xe
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 4
+
+
+ 140 0018 00       		.byte	0
+ 141 0019 00       		.byte	0
+ 142 001a 03       		.uleb128 0x3
+ 143 001b 24       		.uleb128 0x24
+ 144 001c 00       		.byte	0
+ 145 001d 0B       		.uleb128 0xb
+ 146 001e 0B       		.uleb128 0xb
+ 147 001f 3E       		.uleb128 0x3e
+ 148 0020 0B       		.uleb128 0xb
+ 149 0021 03       		.uleb128 0x3
+ 150 0022 08       		.uleb128 0x8
+ 151 0023 00       		.byte	0
+ 152 0024 00       		.byte	0
+ 153 0025 00       		.byte	0
+ 154              		.section	.debug_aranges,"",%progbits
+ 155 0000 14000000 		.4byte	0x14
+ 156 0004 0200     		.2byte	0x2
+ 157 0006 00000000 		.4byte	.Ldebug_info0
+ 158 000a 04       		.byte	0x4
+ 159 000b 00       		.byte	0
+ 160 000c 0000     		.2byte	0
+ 161 000e 0000     		.2byte	0
+ 162 0010 00000000 		.4byte	0
+ 163 0014 00000000 		.4byte	0
+ 164              		.section	.debug_line,"",%progbits
+ 165              	.Ldebug_line0:
+ 166 0000 19000000 		.section	.debug_str,"MS",%progbits,1
+ 166      02001300 
+ 166      00000201 
+ 166      FB0E0D00 
+ 166      01010101 
+ 167              	.LASF6:
+ 168 0000 6C6F6E67 		.ascii	"long long int\000"
+ 168      206C6F6E 
+ 168      6720696E 
+ 168      7400
+ 169              	.LASF8:
+ 170 000e 756E7369 		.ascii	"unsigned int\000"
+ 170      676E6564 
+ 170      20696E74 
+ 170      00
+ 171              	.LASF13:
+ 172 001b 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 172      4320342E 
+ 172      392E3320 
+ 172      32303135 
+ 172      30333033 
+ 173 004e 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 173      20726576 
+ 173      6973696F 
+ 173      6E203232 
+ 173      31323230 
+ 174 0081 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 174      66756E63 
+ 174      74696F6E 
+ 174      2D736563 
+ 174      74696F6E 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 5
+
+
+ 175 00b4 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 175      6F2D6F62 
+ 175      6A656374 
+ 175      73202D66 
+ 175      6E6F2D73 
+ 176              	.LASF5:
+ 177 00d7 6C6F6E67 		.ascii	"long unsigned int\000"
+ 177      20756E73 
+ 177      69676E65 
+ 177      6420696E 
+ 177      7400
+ 178              	.LASF7:
+ 179 00e9 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 179      206C6F6E 
+ 179      6720756E 
+ 179      7369676E 
+ 179      65642069 
+ 180              	.LASF15:
+ 181 0100 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
+ 181      73657273 
+ 181      5C766963 
+ 181      746F5C4F 
+ 181      6E654472 
+ 182 012e 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
+ 182      44343232 
+ 182      352D3430 
+ 182      4C515849 
+ 182      5F303830 
+ 183 015f 63796473 		.ascii	"cydsn\000"
+ 183      6E00
+ 184              	.LASF1:
+ 185 0165 756E7369 		.ascii	"unsigned char\000"
+ 185      676E6564 
+ 185      20636861 
+ 185      7200
+ 186              	.LASF14:
+ 187 0173 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\UART_UART_BOOT.c\000"
+ 187      6E657261 
+ 187      7465645F 
+ 187      536F7572 
+ 187      63655C50 
+ 188              	.LASF11:
+ 189 019d 63686172 		.ascii	"char\000"
+ 189      00
+ 190              	.LASF4:
+ 191 01a2 6C6F6E67 		.ascii	"long int\000"
+ 191      20696E74 
+ 191      00
+ 192              	.LASF10:
+ 193 01ab 646F7562 		.ascii	"double\000"
+ 193      6C6500
+ 194              	.LASF3:
+ 195 01b2 73686F72 		.ascii	"short unsigned int\000"
+ 195      7420756E 
+ 195      7369676E 
+ 195      65642069 
+ 195      6E7400
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccjnDZLk.s 			page 6
+
+
+ 196              	.LASF0:
+ 197 01c5 7369676E 		.ascii	"signed char\000"
+ 197      65642063 
+ 197      68617200 
+ 198              	.LASF9:
+ 199 01d1 666C6F61 		.ascii	"float\000"
+ 199      7400
+ 200              	.LASF2:
+ 201 01d7 73686F72 		.ascii	"short int\000"
+ 201      7420696E 
+ 201      7400
+ 202              	.LASF12:
+ 203 01e1 73697A65 		.ascii	"sizetype\000"
+ 203      74797065 
+ 203      00
+ 204              		.comm	__gnu_lto_v1,1,1
+ 205              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

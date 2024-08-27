@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal\pdss_hal.h">
+<ExpandedNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\TopDesign</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\scb</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART\UART_AsmGnu.s</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART\UART_AsmIar.s</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART\UART_AsmRv.s</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\psource.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\swap.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\vdm.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss\hpi.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm_intern.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd_policy_engine.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd_protocol.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\typec_manager.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal\hal_ccgx.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal\hpd.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal\pdss_hal.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\scb</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\scb\i2c.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution\alt_modes_config.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution\app_version.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution\config.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution\flash_config.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\solution\stack_params.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\system</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\cyapicallbacks.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode\alt_mode_hw.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode\alt_modes_mngr.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode\dp_sid.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\alt_mode\vdm_task_mngr.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\app.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\pdo.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\psink.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\psource.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\swap.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\vdm.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal\hal_ccgx.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal\pdss_hal.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\config.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\datamux_ctrl.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\main.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_mode_hw.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_modes_mngr.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\app.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\boot.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Bootloadable_1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\config.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cybootloader.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\datamux_ctrl.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\dp_sid.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\flash.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\gpio.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hal_ccgx.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hpd_isr.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_INT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_SLAVE.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCB_IRQ.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCBCLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_sda.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_sda_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_CFG.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\I2C_CFG_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_I2C.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_I2C_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_I2C_INT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_I2C_MASTER.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_SCB_IRQ.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_SCBCLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_scl.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_scl_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_sda.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\MUX_CTRL_sda_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\OCP_FAULT_P1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\OCP_FAULT_P1_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\OCP_FAULT_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\OCP_FAULT_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\pdo.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\pdss_hal.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT0_RX_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT0_SAR_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT0_TX_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT1_RX_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT1_SAR_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\PDSS_PORT1_TX_CLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_1_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\psink.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\psource.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\swap.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\system.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\timer.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\UART.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_AsmGnu.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\utils.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_C_CTRL_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_C_CTRL_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_DISCHARGE_P1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_DISCHARGE_P1_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_DISCHARGE_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_DISCHARGE_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_MON_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_MON_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_OVP_TRIP_P1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_OVP_TRIP_P1_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_OVP_TRIP_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_OVP_TRIP_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_P_CTRL_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VBUS_P_CTRL_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VCONN_MON_P1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VCONN_MON_P1_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VCONN_MON_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VCONN_MON_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\vdm.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\vdm_task_mngr.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VSEL1_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VSEL1_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VSEL2_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\VSEL2_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01.hex</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.cyacd</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.elf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.map</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.cyacd</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.elf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.map</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CYPD4225-40LQXI_notebook01.gpdsc</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_mode_hw.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_modes_mngr.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\app.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\boot.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Bootloadable_1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\config.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cybootloader.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\datamux_ctrl.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\dp_sid.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\flash.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\gpio.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hal_ccgx.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hpd_isr.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_BOOT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_INT.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_SLAVE.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCB_IRQ.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCBCLK.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl_PM.lst</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_sda.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\PSoC 4 Architecture TRM</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CCG4 Family Datasheet</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\System Reference Guides</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\System Reference Guides\cy_boot_v5_40</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\System Reference Guides\cy_lfclk_v1_10</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Bootloadable_v1_40.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\cy_clock_v2_20</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\cy_isr_v1_70.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\cy_pins_v2_20</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\SCB_P4_v3_10</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\SCB_P4_v3_10\SCB_P4_v3_10.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\SW_Tx_UART_v1_50.pdf</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\TCPWM_P4_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>CYPD4225-40LQXI_0805</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\common\main.c" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cydwr" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\Generated_Source\PSoC4\UART.c" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\pd_common\pd_protocol.h" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\pd_common\pd.h" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\app\app.c" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\pd_hal\pdss_hal.c" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\system\ccg4_regs.h" />
+<name v=".\CYPD4225-40LQXI_notebook01.cydsn\src\pd_hal\pdss_hal.h" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,0 +1,5 @@
+C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj|07cac824-46e7-4c33-964e-4fe8130ee694
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6c1601c5-5eac-446d-8922-a386b6fc61a6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7ef0b036-d97a-47e6-a96b-4c60763e7d6d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b853709f-14f7-4aea-a12d-c2b8f39c4c36
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|157dc497-2d7b-4ccb-8cc4-09f1d78ccd82
