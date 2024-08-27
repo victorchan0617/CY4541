@@ -511,6 +511,7 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     dpm_update_src_cap_mask (1, 0x0C);
     dpm_pd_command (1, DPM_CMD_SRC_CAP_CHNG, NULL,NULL);
     
+    change1_gl_pdss_status(1);
     //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
     //choose_status(cc);
     
