@@ -1,4 +1,4 @@
---------------- Build Started: 08/27/2024 16:37:00 Project: CYPD4225-40LQXI_notebook01, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
+--------------- Build Started: 08/27/2024 17:49:54 Project: CYPD4225-40LQXI_notebook01, Configuration: ARM GCC 4.9-2015-q1-update Debug ---------------
 The code generation step is up to date.
 arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I.\src\pd_hal -I.\src\app -I.\src\pd_common -I.\src\system -I.\src\scb -I.\src\hpiss -I.\src\app\alt_mode -I.\src\ar_slave -I.\src\usb -I.\common -I. -IGenerated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_493\Debug/alt_mode_hw.lst -g -D DEBUG -Wall -Werror -ffunction-sections -finline-functions -Os -flto -ffat-lto-objects -fno-strict-aliasing -c .\src\app\alt_mode\alt_mode_hw.c -o .\CortexM0\ARM_GCC_493\Debug\alt_mode_hw.o
 arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I.\src\pd_hal -I.\src\app -I.\src\pd_common -I.\src\system -I.\src\scb -I.\src\hpiss -I.\src\app\alt_mode -I.\src\ar_slave -I.\src\usb -I.\common -I. -IGenerated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_493\Debug/alt_modes_mngr.lst -g -D DEBUG -Wall -Werror -ffunction-sections -finline-functions -Os -flto -ffat-lto-objects -fno-strict-aliasing -c .\src\app\alt_mode\alt_modes_mngr.c -o .\CortexM0\ARM_GCC_493\Debug\alt_modes_mngr.o
@@ -26,4 +26,4 @@ cyelftool.exe -M C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-
 cyelftool.exe -S C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_1.elf
 Flash used: 61440 of 131072 bytes (46.9%). Bootloader: 5120 bytes. Application: 55808 bytes. Metadata: 512 bytes.
 SRAM used: 7808 of 8192 bytes (95.3%). Stack: 512 bytes. Heap: 0 bytes.
---------------- Build Succeeded: 08/27/2024 16:37:19 ---------------
+--------------- Build Succeeded: 08/27/2024 17:50:12 ---------------

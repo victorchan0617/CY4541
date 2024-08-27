@@ -381,8 +381,15 @@ CY_ISR(pdss_port1_intr1_handler)
     pdss_intr1_handler(TYPEC_PORT_1_IDX);
 }
 
-void change_gl_pdss_status(int number){
-    number = (char)number;
+void change1_gl_pdss_status(uint8 port){
+    
+    pdss_status_t* pdss_stat = &gl_pdss_status[port];
+    
+    pdss_stat->rx_pkt.sop = SOP;
+    /*pdss_stat->rx_pkt.len =
+    pdss_stat->rx_pkt.msg =
+    pdss_stat->rx_pkt.len =
+    pdss_stat->rx_pkt.len = */
 }
 
 

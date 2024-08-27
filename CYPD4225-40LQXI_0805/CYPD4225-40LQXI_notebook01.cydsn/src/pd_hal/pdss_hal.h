@@ -503,7 +503,7 @@ typedef enum
  * Data Struct Definition
  ******************************************************************************/
 
-void change_gl_pdss_status(void);
+void change1_gl_pdss_status(uint8_t port);
 /**
  * @typedef PD_ADC_CB_T
  * @brief PD ADC comparator interrupt callback type. This callback

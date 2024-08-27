@@ -88,21 +88,21 @@ Discarded input sections
  .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
  .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
  .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\alt_mode_hw.o (symbol from plugin)
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
- .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
- .text._exit    0x00000000        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .text          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
+ .data          0x00000000        0x0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
+ .text._exit    0x00000000        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\alt_modes_mngr.o (symbol from plugin)
  .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\dp_sid.o (symbol from plugin)
  .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\vdm_task_mngr.o (symbol from plugin)
@@ -239,14 +239,14 @@ LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm
 LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
 START GROUP
 LOAD .\CortexM0\ARM_GCC_493\Debug\alt_mode_hw.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
-LOAD C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+LOAD C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
 LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
 LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
 LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
@@ -312,7 +312,7 @@ END GROUP
 
 .cybootloader   0x00000000     0x1400
  *(.cybootloader)
- .cybootloader  0x00000000     0x1400 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .cybootloader  0x00000000     0x1400 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00000000                cy_bootloader
                 0x00001400                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
                 0x00010000                appl2_start = (CY_FLASH_SIZE / 0x2)
@@ -324,482 +324,482 @@ END GROUP
  CREATE_OBJECT_SYMBOLS
                 0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
  *(.romvectors)
- .romvectors    0x00010000       0x10 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .romvectors    0x00010000       0x10 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
                 0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
                 0x000000c0                . = 0xc0
  *fill*         0x00010010       0xb0 
  *(.customer_region)
  .customer_region
-                0x000100c0       0x20 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000100c0       0x20 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000100c0                customer_info
  *(.base_version)
- .base_version  0x000100e0        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+ .base_version  0x000100e0        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                 0x000100e0                base_version
  *(.app_version)
- .app_version   0x000100e4        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .app_version   0x000100e4        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000100e4                app_version
  *(.dev_siliconid)
  .dev_siliconid
-                0x000100e8        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000100e8        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000100e8                ccg_silicon_id
  *(.fw_reserved)
- .fw_reserved   0x000100ec       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .fw_reserved   0x000100ec       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000100ec                reserved_buf
  *(.configSection)
  .configSection
-                0x00010100      0x400 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00010100      0x400 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00010100                gl_config_table
                 0x00010500                PROVIDE (__cy_reset, Reset)
  *(.text.Reset)
- .text.Reset    0x00010500       0x20 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .text.Reset    0x00010500       0x20 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00010500                Reset
                 0x00000001                ASSERT ((. != __cy_reset), No reset code)
  *(.psocinit)
  *(.text .text.* .gnu.linkonce.t.*)
  .text          0x00010520       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
  .text.form_alt_mode_event
-                0x00010580       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010580       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.get_next_alt_mode
-                0x000105b8       0x50 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000105b8       0x50 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.wait_ec_trigger.lto_priv.31
-                0x00010608        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010608        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010608                wait_ec_trigger.lto_priv.31
  .text.set_disc_mode_params
-                0x0001060c       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x0001060c       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.dp_dfp_enqueue_hpd
-                0x0001063c       0x74 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x0001063c       0x74 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.fail_alt_modes.lto_priv.34
-                0x000106b0       0x80 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000106b0       0x80 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000106b0                fail_alt_modes.lto_priv.34
  .text.send_sln_app_evt.part.0
-                0x00010730       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010730       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.run_disc_mode.lto_priv.27
-                0x00010760       0xb0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010760       0xb0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010760                run_disc_mode.lto_priv.27
  .text.dp_src_hpd_cbk.lto_priv.62
-                0x00010810       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010810       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010810                dp_src_hpd_cbk.lto_priv.62
  .text.alt_mode_mngr_deinit.lto_priv.30
-                0x00010850       0x7c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010850       0x7c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010850                alt_mode_mngr_deinit.lto_priv.30
  .text.move_to_vdm_info
-                0x000108cc       0x6c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000108cc       0x6c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.eval_alt_modes.lto_priv.33
-                0x00010938      0x178 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010938      0x178 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010938                eval_alt_modes.lto_priv.33
  .text.handle_cbl_disc_mode
-                0x00010ab0       0xec C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010ab0       0xec C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.disc_mode_fail.lto_priv.29
-                0x00010b9c       0x34 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010b9c       0x34 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010b9c                disc_mode_fail.lto_priv.29
  .text.eval_disc_mode.lto_priv.28
-                0x00010bd0      0x178 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010bd0      0x178 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010bd0                eval_disc_mode.lto_priv.28
  .text.analyse_dp_sink_vdo.lto_priv.64
-                0x00010d48       0xa4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010d48       0xa4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010d48                analyse_dp_sink_vdo.lto_priv.64
  .text.eval_app_alt_mode_cmd
-                0x00010dec      0x158 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010dec      0x158 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010dec                eval_app_alt_mode_cmd
  .text.set_mux.part.1.lto_priv.63
-                0x00010f44       0x70 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010f44       0x70 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00010f44                set_mux.part.1.lto_priv.63
  .text.analyse_status_update_vdo
-                0x00010fb4      0x114 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00010fb4      0x114 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .text.monitor_alt_modes.lto_priv.32
-                0x000110c8      0x11c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000110c8      0x11c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000110c8                monitor_alt_modes.lto_priv.32
  .text.eval_hpd_cmd
-                0x000111e4      0x144 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x000111e4      0x144 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x000111e4                eval_hpd_cmd
  .text.dp_dfp_run.lto_priv.65
-                0x00011328      0x21c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00011328      0x21c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00011328                dp_dfp_run.lto_priv.65
  .text.eval_app_alt_hw_cmd
-                0x00011544       0x50 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00011544       0x50 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x00011544                eval_app_alt_hw_cmd
  .text.startup.main
-                0x00011594      0xa24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+                0x00011594      0xa24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                 0x00011594                main
  .text.mux_xfer_timer_cb.lto_priv.21
-                0x00011fb8        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00011fb8        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00011fb8                mux_xfer_timer_cb.lto_priv.21
  .text.timer_stop_internal
-                0x00011fc4       0x54 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00011fc4       0x54 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
  .text.eval_vdm
-                0x00012018      0x2e0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012018      0x2e0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012018                eval_vdm
  .text.eval_vconn_swap
-                0x000122f8       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000122f8       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000122f8                eval_vconn_swap
  .text.eval_pr_swap
-                0x00012330       0x64 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012330       0x64 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012330                eval_pr_swap
  .text.eval_dr_swap
-                0x00012394       0x48 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012394       0x48 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012394                eval_dr_swap
  .text.get_pd_port_config
-                0x000123dc       0x10 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000123dc       0x10 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000123dc                get_pd_port_config
  .text.get_pd_config
-                0x000123ec        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000123ec        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000123ec                get_pd_config
  .text.mem_copy_word
-                0x000123f4       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000123f4       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000123f4                mem_copy_word
  .text.timer_stop_range.part.3.lto_priv.54
-                0x00012408       0x4c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012408       0x4c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012408                timer_stop_range.part.3.lto_priv.54
  .text.timer_is_running
-                0x00012454       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012454       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012454                timer_is_running
  .text.timer_stop_range
-                0x0001248c       0x10 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x0001248c       0x10 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x0001248c                timer_stop_range
  .text.timer_stop
-                0x0001249c       0x48 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x0001249c       0x48 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x0001249c                timer_stop
  .text.sys_get_custom_info_addr
-                0x000124e4       0x48 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000124e4       0x48 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000124e4                sys_get_custom_info_addr
  .text.sys_get_silicon_id
-                0x0001252c       0x10 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x0001252c       0x10 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x0001252c                sys_get_silicon_id
  .text.sys_get_device_mode
-                0x0001253c        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x0001253c        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x0001253c                sys_get_device_mode
  .text.gpio_set_lvttl_mode
-                0x00012548       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012548       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012548                gpio_set_lvttl_mode
  .text.hsiom_set_config
-                0x00012560       0x24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012560       0x24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012560                hsiom_set_config
  .text.gpio_int_set_config
-                0x00012584       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012584       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012584                gpio_int_set_config
  .text.gpio_set_value
-                0x000125b0       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000125b0       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000125b0                gpio_set_value
  .text.flash_set_app_priority
-                0x000125e0       0x32 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000125e0       0x32 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000125e0                flash_set_app_priority
  *fill*         0x00012612        0x2 
  .text.flash_row_read
-                0x00012614       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012614       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012614                flash_row_read
  .text.flash_row_clear
-                0x00012654       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012654       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012654                flash_row_clear
  .text.flash_access_get_status
-                0x0001267c       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x0001267c       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x0001267c                flash_access_get_status
  .text.flash_enter_mode
-                0x00012690       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012690       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012690                flash_enter_mode
  .text.boot_validate_configtable
-                0x000126a8       0x60 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000126a8       0x60 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000126a8                boot_validate_configtable
  .text.boot_validate_fw
-                0x00012708       0xbc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012708       0xbc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012708                boot_validate_fw
  .text.flash_row_write
-                0x000127c4       0xac C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000127c4       0xac C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000127c4                flash_row_write
  .text.boot_handle_validate_fw_cmd
-                0x00012870       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012870       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012870                boot_handle_validate_fw_cmd
  .text.hw_timer_load_period
-                0x000128a8       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000128a8       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
  .text.wdt_interrupt_handler.lto_priv.26
-                0x000128d0      0x15c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000128d0      0x15c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x000128d0                wdt_interrupt_handler.lto_priv.26
  .text.timer_start
-                0x00012a2c      0x174 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012a2c      0x174 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012a2c                timer_start
  .text.led_timer_cb
-                0x00012ba0       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x00012ba0       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                 0x00012ba0                led_timer_cb
  .text.psrc_set_current
-                0x00012bcc        0x2 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012bcc        0x2 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012bcc                psrc_set_current
  *fill*         0x00012bce        0x2 
  .text.vbus_discharge_off
-                0x00012bd0       0x24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012bd0       0x24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012bd0                vbus_discharge_off
  .text.vbus_discharge_on
-                0x00012bf4       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012bf4       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012bf4                vbus_discharge_on
  .text.psnk_set_current
-                0x00012c1c        0x2 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012c1c        0x2 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012c1c                psnk_set_current
  *fill*         0x00012c1e        0x2 
  .text.snk_vbus_ovp
-                0x00012c20       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012c20       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.app_snk_db_fet_off_delay_expire
-                0x00012c4c        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012c4c        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.psrc_en_ovp
-                0x00012c54       0x34 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012c54       0x34 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.psnk_set_voltage
-                0x00012c88       0x24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012c88       0x24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012c88                psnk_set_voltage
  .text.psrc_shutdown
-                0x00012cac       0x68 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012cac       0x68 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.app_psrc_vbus_ovp_cbk
-                0x00012d14       0x1c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012d14       0x1c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.app_psrc_vbus_ocp_cbk
-                0x00012d30       0x1c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012d30       0x1c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.psrc_set_voltage
-                0x00012d4c       0xb8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012d4c       0xb8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012d4c                psrc_set_voltage
  .text.psnk_enable
-                0x00012e04       0x34 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012e04       0x34 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012e04                psnk_enable
  .text.eval_rdo
-                0x00012e38       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012e38       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012e38                eval_rdo
  .text.eval_src_cap
-                0x00012e68      0x40c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00012e68      0x40c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00012e68                eval_src_cap
  .text.psrc_disable
-                0x00013274       0x7c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00013274       0x7c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00013274                psrc_disable
  .text.psnk_disable
-                0x000132f0       0x84 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x000132f0       0x84 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x000132f0                psnk_disable
  .text.app_psnk_vbus_ovp_cbk
-                0x00013374       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00013374       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.app_psrc_tmr_cbk
-                0x000133ac      0x138 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x000133ac      0x138 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.app_psnk_tmr_cbk
-                0x000134e4       0x60 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x000134e4       0x60 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .text.psrc_enable
-                0x00013544       0xf0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00013544       0xf0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x00013544                psrc_enable
  .text.vconn_disable
-                0x00013634       0x24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013634       0x24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013634                vconn_disable
  .text.set_vdm_failed
-                0x00013658       0x34 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013658       0x34 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
  .text.reset_dp_var
-                0x0001368c       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x0001368c       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
  .text.vconn_is_present
-                0x000136cc       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000136cc       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x000136cc                vconn_is_present
  .text.vconn_enable
-                0x000136fc       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000136fc       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x000136fc                vconn_enable
  .text.form_rdo.lto_priv.55
-                0x00013734       0x84 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013734       0x84 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013734                form_rdo.lto_priv.55
  .text.app_ovp_enable.part.2.lto_priv.53
-                0x000137b8       0x44 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000137b8       0x44 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x000137b8                app_ovp_enable.part.2.lto_priv.53
  .text.reset_vdm_mngr.lto_priv.35
-                0x000137fc       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000137fc       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x000137fc                reset_vdm_mngr.lto_priv.35
  .text.vdm_task_mngr_deinit
-                0x0001382c       0x84 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x0001382c       0x84 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x0001382c                vdm_task_mngr_deinit
  .text.app_event_handler
-                0x000138b0      0x1d8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000138b0      0x1d8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x000138b0                app_event_handler
  .text.reg_dp_modes.part.2.lto_priv.75
-                0x00013a88       0xd4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013a88       0xd4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013a88                reg_dp_modes.part.2.lto_priv.75
  .text.dp_exit.lto_priv.74
-                0x00013b5c       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013b5c       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013b5c                dp_exit.lto_priv.74
  .text.is_prtnr_ccg_consistent.lto_priv.72
-                0x00013b94       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013b94       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013b94                is_prtnr_ccg_consistent.lto_priv.72
  .text.send_cmd.lto_priv.73
-                0x00013bbc       0x44 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013bbc       0x44 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013bbc                send_cmd.lto_priv.73
  .text.dp_eval_app_cmd.lto_priv.67
-                0x00013c00       0xb8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013c00       0xb8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013c00                dp_eval_app_cmd.lto_priv.67
  .text.dp_dfp_dequeue_hpd.lto_priv.71
-                0x00013cb8       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013cb8       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013cb8                dp_dfp_dequeue_hpd.lto_priv.71
  .text.dp_src_hpd_resp_cbk.lto_priv.66
-                0x00013ce4       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013ce4       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013ce4                dp_src_hpd_resp_cbk.lto_priv.66
  .text.vbus_is_present
-                0x00013d14       0x90 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013d14       0x90 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013d14                vbus_is_present
  .text.vdm_rec_cbk.lto_priv.25
-                0x00013da4      0x13c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00013da4      0x13c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x00013da4                vdm_rec_cbk.lto_priv.25
  .text.pd_get_vbus_adc_level
-                0x00013ee0       0x58 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00013ee0       0x58 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00013ee0                pd_get_vbus_adc_level
  .text.hpd_deinit
-                0x00013f38       0x98 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00013f38       0x98 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00013f38                hpd_deinit
  .text.pd_typec_set_polarity
-                0x00013fd0       0x24 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00013fd0       0x24 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00013fd0                pd_typec_set_polarity
  .text.pd_typec_dis_rd
-                0x00013ff4       0x3c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00013ff4       0x3c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00013ff4                pd_typec_dis_rd
  .text.pd_typec_en_rd
-                0x00014030       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014030       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014030                pd_typec_en_rd
  .text.pd_typec_dis_rp
-                0x0001405c       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x0001405c       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001405c                pd_typec_dis_rp
  .text.pd_typec_en_rp
-                0x00014084       0x4c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014084       0x4c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014084                pd_typec_en_rp
  .text.pd_typec_snk_update_trim
-                0x000140d0       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000140d0       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000140d0                pd_typec_snk_update_trim
  .text.pd_typec_stop
-                0x00014108        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014108        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014108                pd_typec_stop
  .text.pd_typec_start
-                0x0001410c       0x1c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x0001410c       0x1c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001410c                pd_typec_start
  .text.pd_typec_init
-                0x00014128       0x50 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014128       0x50 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014128                pd_typec_init
  .text.pd_phy_is_busy
-                0x00014178       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014178       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014178                pd_phy_is_busy
  .text.pd_phy_get_rx_packet
-                0x000141a0       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000141a0       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000141a0                pd_phy_get_rx_packet
  .text.pd_phy_send_reset
-                0x000141b4       0x3c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000141b4       0x3c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000141b4                pd_phy_send_reset
  .text.pd_phy_abort_tx_msg
-                0x000141f0       0x3c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000141f0       0x3c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000141f0                pd_phy_abort_tx_msg
  .text.pd_phy_abort_bist_cm2
-                0x0001422c       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x0001422c       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001422c                pd_phy_abort_bist_cm2
  .text.pd_prot_rx_dis
-                0x00014254       0x5c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014254       0x5c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x00014254                pd_prot_rx_dis
  .text.pd_prot_rx_en
-                0x000142b0       0x3c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000142b0       0x3c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000142b0                pd_prot_rx_en
  .text.pd_adc_comparator_ctrl
-                0x000142ec      0x148 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000142ec      0x148 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000142ec                pd_adc_comparator_ctrl
  .text.pd_typec_get_rp_rd_status
-                0x00014434       0xf8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00014434       0xf8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
  .text.pd_typec_get_cc_status
-                0x0001452c       0xc4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x0001452c       0xc4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001452c                pd_typec_get_cc_status
  .text.pdss_intr0_handler
-                0x000145f0      0x34c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x000145f0      0x34c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x000145f0                pdss_intr0_handler
  .text.pd_phy_send_bist_cm2
-                0x0001493c       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x0001493c       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001493c                pd_phy_send_bist_cm2
  .text.pd_phy_vbus_detach_cbk
-                0x00014968        0x2 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014968        0x2 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  *fill*         0x0001496a        0x2 
  .text.vbus_ocp_handler
-                0x0001496c       0x38 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x0001496c       0x38 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .text.vbus_ocp_port1_handler
-                0x000149a4        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149a4        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x000149a4                vbus_ocp_port1_handler
  .text.vbus_ocp_port0_handler
-                0x000149ae        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149ae        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x000149ae                vbus_ocp_port0_handler
  .text.pdss_port0_intr0_handler
-                0x000149b8        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149b8        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .text.pdss_port1_intr0_handler
-                0x000149c2        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149c2        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .text.pdss_port0_intr1_handler
-                0x000149cc        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149cc        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .text.pdss_port1_intr1_handler
-                0x000149d6        0xa C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149d6        0xa C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .text.pd_phy_load_msg
-                0x000149e0       0x64 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x000149e0       0x64 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x000149e0                pd_phy_load_msg
  .text.pd_phy_load_data_in_mem
-                0x00014a44       0x8c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014a44       0x8c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014a44                pd_phy_load_data_in_mem
  .text.pd_phy_send_msg
-                0x00014ad0      0x10c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014ad0      0x10c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014ad0                pd_phy_send_msg
  .text.pd_phy_dis_unchunked_tx
-                0x00014bdc       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014bdc       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014bdc                pd_phy_dis_unchunked_tx
  .text.pd_phy_refresh_roles
-                0x00014bf0       0x68 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014bf0       0x68 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014bf0                pd_phy_refresh_roles
  .text.pd_phy_init
-                0x00014c58       0x90 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014c58       0x90 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014c58                pd_phy_init
  .text.pd_phy_wakeup
-                0x00014ce8       0x58 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014ce8       0x58 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014ce8                pd_phy_wakeup
  .text.pd_prot_stop
-                0x00014d40       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014d40       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014d40                pd_prot_stop
  .text.pd_phy_deepsleep
-                0x00014d70      0x2b8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00014d70      0x2b8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00014d70                pd_phy_deepsleep
  .text.pd_hal_init
-                0x00015028      0x114 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00015028      0x114 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x00015028                pd_hal_init
  .text.IntDefaultHandler
-                0x0001513c        0x2 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x0001513c        0x2 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  *fill*         0x0001513e        0x2 
  .text.save_svids.constprop.13
-                0x00015140       0xc0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015140       0xc0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015140                save_svids.constprop.13
  .text.app_ovp_disable.constprop.11
-                0x00015200       0x28 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015200       0x28 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015200                app_ovp_disable.constprop.11
  .text.I2C_CFG_Read
-                0x00015228       0x10 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015228       0x10 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015228                I2C_CFG_Read
  .text.I2C_CFG_Write
-                0x00015238       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015238       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015238                I2C_CFG_Write
  .text.I2C_CFG_SetDriveMode
-                0x00015250       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015250       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015250                I2C_CFG_SetDriveMode
  .text.EC_INT_Write
-                0x00015268       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015268       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015268                EC_INT_Write
  .text.UART_PutString
-                0x00015280       0x1a C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015280       0x1a C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015280                UART_PutString
  .text.CyDelayUs
-                0x0001529a        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x0001529a        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x0001529a                CyDelayUs
  *fill*         0x000152a6        0x2 
  .text.CySoftwareReset
-                0x000152a8       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000152a8       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x000152a8                CySoftwareReset
  .text.CyIntEnable
-                0x000152c0       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000152c0       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x000152c0                CyIntEnable
  .text.CyIntSetVector
-                0x000152d4       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000152d4       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x000152d4                CyIntSetVector
  .text.CySysFlashWriteRow
-                0x000152ec      0x170 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000152ec      0x170 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x000152ec                CySysFlashWriteRow
  .text.startup.initialize_psoc
-                0x0001545c      0x248 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x0001545c      0x248 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .text.pdss_intr1_handler
-                0x000156a4       0xd8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000156a4       0xd8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x000156a4                pdss_intr1_handler
  .text.pd_adc_calibrate
-                0x0001577c       0xfc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x0001577c       0xfc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x0001577c                pd_adc_calibrate
  .text.PS8740_I2C_Write.constprop.20
-                0x00015878       0xe4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x00015878       0xe4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x00015878                PS8740_I2C_Write.constprop.20
- .text.Start_c  0x0001595c       0x48 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .text.Start_c  0x0001595c       0x48 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  *fill*         0x000159a4        0x4 
  .text          0x000159a8       0x28 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
                 0x000159a8                CyDelayCycles
@@ -1662,23 +1662,23 @@ END GROUP
 
 .rodata         0x0001d148      0x858
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata        0x0001d148       0x9c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+ .rodata        0x0001d148       0x9c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                 0x0001d1a0                alt_mode_ams_table.lto_priv.58
                 0x0001d1e0                gl_img2_fw_metadata
  .rodata.str1.1
-                0x0001d1e4       0x13 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+                0x0001d1e4       0x13 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
  *fill*         0x0001d1f7        0x1 
- .rodata        0x0001d1f8       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .rodata        0x0001d20c        0xe C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+ .rodata        0x0001d1f8       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .rodata        0x0001d20c        0xe C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x0001d20c                mux_ps8740_address.lto_priv.69
  *fill*         0x0001d21a        0x2 
- .rodata        0x0001d21c       0x2c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+ .rodata        0x0001d21c       0x2c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x0001d21c                os_table
                 0x0001d238                thresholds
- .rodata        0x0001d248       0x18 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+ .rodata        0x0001d248       0x18 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x0001d248                hal_ocp_fault_pin.lto_priv.52
                 0x0001d24c                GPIO
- .rodata        0x0001d260        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .rodata        0x0001d260        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x0001d260                gl_pdss.lto_priv.22
                 0x0001d268                dfp_compatibility_mode_table
  .rodata        0x0001d26c      0x100 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
@@ -1718,7 +1718,7 @@ END GROUP
  *(SORT(.init_array.*))
  *(.init_array)
  .init_array    0x0001d974        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
- .init_array    0x0001d978        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .init_array    0x0001d978        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x0001d97c                __init_array_end = .
                 0x0001d97c                . = ALIGN (0x4)
  *(.fini)
@@ -1755,17 +1755,17 @@ END GROUP
 .ramvectors     0x20000000       0x90
                 0x20000000                __cy_region_start_ram = .
  *(.ramvectors)
- .ramvectors    0x20000000       0x90 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .ramvectors    0x20000000       0x90 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
 
 .btldr_run      0x20000090        0x4
  *(.bootloaderruntype)
  .bootloaderruntype
-                0x20000090        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x20000090        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x20000090                cyBtldrRunType
 
 .noinit         0x20000098        0x4
  *(.noinit)
- .noinit        0x20000098        0x4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .noinit        0x20000098        0x4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
 
 .data           0x200000a0       0x40 load address 0x0001d9a0
                 0x200000a0                __cy_region_start_data = .
@@ -1776,12 +1776,12 @@ END GROUP
  *(.got)
  *(.shdata)
  *(.data .data.* .gnu.linkonce.d.*)
- .data          0x200000a4       0x14 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .data          0x200000a4       0x14 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x200000a8                cydelayFreqHz
                 0x200000ac                UART_pinDrAdress
                 0x200000b0                UART_pinPortNumber
                 0x200000b4                UART_pinNumber
- .data          0x200000b8        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+ .data          0x200000b8        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                 0x200000b8                gl_active_fw
                 0x200000ba                gl_flash_access_last.lto_priv.44
                 0x200000bc                gl_flash_metadata_row.lto_priv.45
@@ -1802,8 +1802,8 @@ END GROUP
  *(.shbss)
  *(.bss .bss.* .gnu.linkonce.b.*)
  .bss           0x200000e0       0x1c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
- .bss           0x200000fc        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .bss           0x20000104      0x4d8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+ .bss           0x200000fc        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .bss           0x20000104      0x4d8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                 0x20000108                gl_timer_handle.lto_priv.37
                 0x20000408                gl_num_active.lto_priv.38
                 0x2000040a                gl_total_active.lto_priv.39
@@ -1821,19 +1821,19 @@ END GROUP
                 0x200005d0                gl_hw_cmd_cbk.lto_priv.61
                 0x200005d8                gl_alt_mode_hpd_state.lto_priv.60
                 0x200005da                gl_match.lto_priv.41
- .bss           0x200005dc        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .bss           0x200005e4       0x20 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+ .bss           0x200005dc        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .bss           0x200005e4       0x20 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                 0x200005e4                op_cur_power.lto_priv.56
                 0x200005fc                max_min_cur_pwr.lto_priv.57
- .bss           0x20000604       0xa4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+ .bss           0x20000604       0xa4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                 0x20000604                dp
                 0x200006a4                mux_state.lto_priv.68
- .bss           0x200006a8        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+ .bss           0x200006a8        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                 0x200006a8                hpd_transmit_enable.lto_priv.24
                 0x200006ac                hpd_cbks.lto_priv.70
- .bss           0x200006b4        0x8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+ .bss           0x200006b4        0x8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                 0x200006b4                vbus_ocp_cbk
- .bss           0x200006bc      0x314 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .bss           0x200006bc      0x314 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                 0x200006bc                vdm_stat
                 0x20000764                gl_pdss_status.lto_priv.23
                 0x200009cc                mux_xfer_timeout.lto_priv.36
@@ -1878,7 +1878,7 @@ END GROUP
 
 .cyloadermeta   0xf0000000       0x40
  *(.cyloadermeta)
- .cyloadermeta  0xf0000000       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .cyloadermeta  0xf0000000       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0xf0000000                cy_meta_loader
                 0x0001fec0                cyloadablemeta_start = cy_project_type_app_for_stack_and_copier?((0x20000 - CY_FLASH_ROW_SIZE) - CY_METADATA_SIZE):((0x20000 - (CY_FLASH_ROW_SIZE * (CY_APPL_NUM - 0x1))) - CY_METADATA_SIZE)
 
@@ -1886,25 +1886,25 @@ END GROUP
                 0x0001fec0       0x40
  *(.cyloadablemeta)
  .cyloadablemeta
-                0x0001fec0       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x0001fec0       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x0001fec0                cy_meta_loadable
 
 .cyflashprotect
                 0x90400000       0x40
  *(.cyflashprotect)
  .cyflashprotect
-                0x90400000       0x40 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x90400000       0x40 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x90400000                cy_meta_flashprotect
 
 .cymeta         0x90500000        0xc
  *(.cymeta)
- .cymeta        0x90500000        0xc C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .cymeta        0x90500000        0xc C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x90500000                cy_metadata
 
 .cychipprotect  0x90600000        0x1
  *(.cychipprotect)
  .cychipprotect
-                0x90600000        0x1 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x90600000        0x1 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                 0x90600000                cy_meta_chipprotect
 
 .rel.dyn        0x0001ff00        0x0 load address 0x90600004
@@ -1931,21 +1931,21 @@ END GROUP
 .debug_aranges  0x00000000     0x11a0
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0xd0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00000000       0xd0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .debug_aranges
-                0x000000d0       0x20 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+                0x000000d0       0x20 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
  .debug_aranges
-                0x000000f0      0x120 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000000f0      0x120 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
  .debug_aranges
-                0x00000210       0xc0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x00000210       0xc0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .debug_aranges
-                0x000002d0       0xb0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x000002d0       0xb0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
  .debug_aranges
-                0x00000380       0xd0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00000380       0xd0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
  .debug_aranges
-                0x00000450       0xa8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x00000450       0xa8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .debug_aranges
-                0x000004f8       0xb8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000004f8       0xb8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_aranges
                 0x000005b0       0x20 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
  .debug_aranges
@@ -1968,14 +1968,14 @@ END GROUP
 
 .debug_info     0x00000000    0x3ef3e
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000     0x460b C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_info    0x0000460b     0x5b13 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_info    0x0000a11e     0x4cba C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_info    0x0000edd8     0x45c2 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_info    0x0001339a     0x4e2a C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_info    0x000181c4     0x3beb C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_info    0x0001bdaf     0x3ab1 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_info    0x0001f860     0x2d55 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_info    0x00000000     0x460b C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_info    0x0000460b     0x5b13 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_info    0x0000a11e     0x4cba C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_info    0x0000edd8     0x45c2 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_info    0x0001339a     0x4e2a C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_info    0x000181c4     0x3beb C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_info    0x0001bdaf     0x3ab1 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_info    0x0001f860     0x2d55 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_info    0x000225b5       0xa7 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
  .debug_info    0x0002265c       0xa6 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(UART_AsmGnu.o)
  .debug_info    0x00022702     0x5e06 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
@@ -1987,14 +1987,14 @@ END GROUP
 
 .debug_abbrev   0x00000000     0x4772
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x663 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_abbrev  0x00000663      0x604 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_abbrev  0x00000c67      0x6dd C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_abbrev  0x00001344      0x584 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_abbrev  0x000018c8      0x69c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_abbrev  0x00001f64      0x44e C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_abbrev  0x000023b2      0x47f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_abbrev  0x00002831      0x5dd C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_abbrev  0x00000000      0x663 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_abbrev  0x00000663      0x604 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_abbrev  0x00000c67      0x6dd C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_abbrev  0x00001344      0x584 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_abbrev  0x000018c8      0x69c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_abbrev  0x00001f64      0x44e C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_abbrev  0x000023b2      0x47f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_abbrev  0x00002831      0x5dd C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_abbrev  0x00002e0e       0x14 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
  .debug_abbrev  0x00002e22       0x14 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(UART_AsmGnu.o)
  .debug_abbrev  0x00002e36      0x4c8 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
@@ -2006,14 +2006,14 @@ END GROUP
 
 .debug_line     0x00000000     0x75c6
  *(.debug_line)
- .debug_line    0x00000000      0xa76 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_line    0x00000a76      0x7a5 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_line    0x0000121b      0x95b C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_line    0x00001b76      0x726 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_line    0x0000229c      0x758 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_line    0x000029f4      0x589 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_line    0x00002f7d      0x56c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_line    0x000034e9      0x766 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_line    0x00000000      0xa76 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_line    0x00000a76      0x7a5 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_line    0x0000121b      0x95b C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_line    0x00001b76      0x726 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_line    0x0000229c      0x758 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_line    0x000029f4      0x589 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_line    0x00002f7d      0x56c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_line    0x000034e9      0x766 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_line    0x00003c4f       0x6b .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
  .debug_line    0x00003cba       0x9f .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(UART_AsmGnu.o)
  .debug_line    0x00003d59      0x989 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
@@ -2025,14 +2025,14 @@ END GROUP
 
 .debug_frame    0x00000000     0x35ac
  *(.debug_frame)
- .debug_frame   0x00000000      0x2c0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_frame   0x000002c0       0x30 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_frame   0x000002f0      0x32c C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_frame   0x0000061c      0x220 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_frame   0x0000083c      0x218 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_frame   0x00000a54      0x204 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_frame   0x00000c58      0x1e8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_frame   0x00000e40      0x1f4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_frame   0x00000000      0x2c0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_frame   0x000002c0       0x30 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_frame   0x000002f0      0x32c C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_frame   0x0000061c      0x220 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_frame   0x0000083c      0x218 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_frame   0x00000a54      0x204 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_frame   0x00000c58      0x1e8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_frame   0x00000e40      0x1f4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_frame   0x00001034      0x2d4 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
  .debug_frame   0x00001308      0x150 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
  .debug_frame   0x00001458     0x146c .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
@@ -2050,21 +2050,21 @@ END GROUP
 
 .debug_str      0x00000000     0xca68
  *(.debug_str)
- .debug_str     0x00000000     0x1b7d C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+ .debug_str     0x00000000     0x1b7d C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
                                0x2d80 (size before relaxing)
- .debug_str     0x00001b7d      0xbfe C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+ .debug_str     0x00001b7d      0xbfe C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
                                0x4dd5 (size before relaxing)
- .debug_str     0x0000277b      0x4e4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+ .debug_str     0x0000277b      0x4e4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
                                0x3e78 (size before relaxing)
- .debug_str     0x00002c5f      0x427 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+ .debug_str     0x00002c5f      0x427 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
                                0x3361 (size before relaxing)
- .debug_str     0x00003086      0x4ef C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+ .debug_str     0x00003086      0x4ef C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
                                0x4081 (size before relaxing)
- .debug_str     0x00003575      0x148 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+ .debug_str     0x00003575      0x148 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
                                0x3922 (size before relaxing)
- .debug_str     0x000036bd      0x17f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+ .debug_str     0x000036bd      0x17f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
                                0x34e2 (size before relaxing)
- .debug_str     0x0000383c      0x3c7 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_str     0x0000383c      0x3c7 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
                                0x1bde (size before relaxing)
  .debug_str     0x00003c03     0x5b4c .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
                                0x5f87 (size before relaxing)
@@ -2081,14 +2081,14 @@ END GROUP
 
 .debug_loc      0x00000000    0x10ccb
  *(.debug_loc)
- .debug_loc     0x00000000     0x1890 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_loc     0x00001890     0x1027 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_loc     0x000028b7     0x155a C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_loc     0x00003e11     0x116f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_loc     0x00004f80     0x1123 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_loc     0x000060a3      0xb65 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_loc     0x00006c08      0xa00 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_loc     0x00007608      0x8b4 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_loc     0x00000000     0x1890 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_loc     0x00001890     0x1027 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_loc     0x000028b7     0x155a C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_loc     0x00003e11     0x116f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_loc     0x00004f80     0x1123 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_loc     0x000060a3      0xb65 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_loc     0x00006c08      0xa00 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_loc     0x00007608      0x8b4 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_loc     0x00007ebc     0x2191 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
  .debug_loc     0x0000a04d      0x5b0 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
  .debug_loc     0x0000a5fd     0x37c8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
@@ -2101,14 +2101,14 @@ END GROUP
 
 .debug_ranges   0x00000000     0x2148
  *(.debug_ranges)
- .debug_ranges  0x00000000      0x3c8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .debug_ranges  0x000003c8      0x5c8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .debug_ranges  0x00000990      0x370 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .debug_ranges  0x00000d00      0x290 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .debug_ranges  0x00000f90      0x1a8 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .debug_ranges  0x00001138       0xe0 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .debug_ranges  0x00001218      0x160 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .debug_ranges  0x00001378      0x168 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .debug_ranges  0x00000000      0x3c8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .debug_ranges  0x000003c8      0x5c8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .debug_ranges  0x00000990      0x370 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .debug_ranges  0x00000d00      0x290 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .debug_ranges  0x00000f90      0x1a8 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .debug_ranges  0x00001138       0xe0 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .debug_ranges  0x00001218      0x160 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .debug_ranges  0x00001378      0x168 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .debug_ranges  0x000014e0      0x188 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
  .debug_ranges  0x00001668       0x70 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
  .debug_ranges  0x000016d8      0x6a8 .\lib\ccg4_dualport\libccgx_pd.a(pd_policy_engine.o)
@@ -2117,14 +2117,14 @@ END GROUP
  .debug_ranges  0x00002008      0x140 .\lib\ccg4_dualport\libccgx_pd.a(dpm.o)
 
 .comment        0x00000000       0x70
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
- .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .comment       0x00000000       0x70 .\lib\ccg4_dualport\libccgx_hpi.a(hpi.o)
                                  0x71 (size before relaxing)
  .comment       0x00000000       0x71 .\lib\ccg4_dualport\libccgx_hpi.a(i2c.o)
@@ -2158,21 +2158,21 @@ END GROUP
  .ARM.attributes
                 0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
  .ARM.attributes
-                0x00000065       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans0.ltrans.o
+                0x00000065       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans0.ltrans.o
  .ARM.attributes
-                0x00000094       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans1.ltrans.o
+                0x00000094       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans1.ltrans.o
  .ARM.attributes
-                0x000000c3       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans2.ltrans.o
+                0x000000c3       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans2.ltrans.o
  .ARM.attributes
-                0x000000f2       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans3.ltrans.o
+                0x000000f2       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans3.ltrans.o
  .ARM.attributes
-                0x00000121       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans4.ltrans.o
+                0x00000121       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans4.ltrans.o
  .ARM.attributes
-                0x00000150       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans5.ltrans.o
+                0x00000150       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans5.ltrans.o
  .ARM.attributes
-                0x0000017f       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans6.ltrans.o
+                0x0000017f       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans6.ltrans.o
  .ARM.attributes
-                0x000001ae       0x2f C:\Users\victo\AppData\Local\Temp\ccbzrUmx.ltrans7.ltrans.o
+                0x000001ae       0x2f C:\Users\victo\AppData\Local\Temp\cchlZw1l.ltrans7.ltrans.o
  .ARM.attributes
                 0x000001dd       0x21 .\CortexM0\ARM_GCC_493\Debug\CYPD4225-40LQXI_notebook01_2.a(CyBootAsmGnu.o)
  .ARM.attributes
