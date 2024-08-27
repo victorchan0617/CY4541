@@ -1,5 +1,5 @@
 # CYPD4225-40LQXI_notebook01
-# 2024-08-27 02:48:34Z
+# 2024-08-27 08:31:21Z
 
 set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
 set_io "VBUS_DISCHARGE_P1(0)" iocell 2 5

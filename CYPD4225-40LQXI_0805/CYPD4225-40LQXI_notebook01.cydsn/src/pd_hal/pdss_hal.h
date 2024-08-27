@@ -481,6 +481,7 @@ typedef enum
     SBU_MAX_STATE
 } sbu_switch_state_t;
 
+
 /**
  * @typedef aux_resistor_config_t
  * @brief Enum to hold resistor configuration for AUX1 and AUX2. Values assigned
@@ -502,6 +503,7 @@ typedef enum
  * Data Struct Definition
  ******************************************************************************/
 
+void change_gl_pdss_status(int number);
 /**
  * @typedef PD_ADC_CB_T
  * @brief PD ADC comparator interrupt callback type. This callback

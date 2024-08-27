@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,14 +16,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   13              		.file	"HPD_Timer_PM.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.91bc9e60,"",%progbits
+  16              		.section	.gnu.lto_.profile.92f64cdc,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006U~\000\000\315\000="
   17      60606061 
   17      80004606 
   17      557E0000 
   17      CD003D
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.91bc9e60,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.92f64cdc,"",%progbits
   20 0000 789C6366 		.ascii	"x\234cf\300\016\004\2404\013\0203\00213\204\311\000"
   20      C00E04A0 
   20      340B1033 
@@ -32,7 +32,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   21 0012 0002B800 		.ascii	"\000\002\270\000 "
   21      20
   22              		.text
-  23              		.section	.gnu.lto_.inline.91bc9e60,"",%progbits
+  23              		.section	.gnu.lto_.inline.92f64cdc,"",%progbits
   24 0000 789C6366 		.ascii	"x\234cf\300\016\302\2404\013\003\0033\023#\003\023\220"
   24      C00EC2A0 
   24      340B0303 
@@ -50,7 +50,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   26      DC
   27 0038 05E7     		.ascii	"\005\347"
   28              		.text
-  29              		.section	.gnu.lto_.pureconst.91bc9e60,"",%progbits
+  29              		.section	.gnu.lto_.pureconst.92f64cdc,"",%progbits
   30 0000 789C6366 		.ascii	"x\234cf``\340d\200\000\026\006\006F)f\006\026\011\000"
   30      6060E064 
   30      80001606 
@@ -58,10 +58,10 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   30      06160900 
   31 0014 01C5004B 		.ascii	"\001\305\000K"
   32              		.text
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 2
 
 
-  33              		.section	.gnu.lto_HPD_Timer_SaveConfig.91bc9e60,"",%progbits
+  33              		.section	.gnu.lto_HPD_Timer_SaveConfig.92f64cdc,"",%progbits
   34 0000 789C6366 		.ascii	"x\234cf\300\004R@\\\012\304Z@\314\310\314\300\3104\341"
   34      C0045240 
   34      5C0AC45A 
@@ -109,7 +109,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   43 00ae 0C006375 		.ascii	"\014\000cu8]"
   43      385D
   44              		.text
-  45              		.section	.gnu.lto_HPD_Timer_Sleep.91bc9e60,"",%progbits
+  45              		.section	.gnu.lto_HPD_Timer_Sleep.92f64cdc,"",%progbits
   46 0000 789C7D91 		.ascii	"x\234}\221MH\025Q\030\206\277\367\234\231q\314\240h"
   46      4D481551 
   46      1886BFF7 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   47 0012 E9E26E8D 		.ascii	"\351\342n\215@\335\264i\321\252\2506\305\005\2036\027"
   47      40DDB469 
   47      D1AAA836 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 3
 
 
   47      C5058336 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   59      F9345B9B 
   59      F4ED12C9 
   59      74F8DDE5 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 4
 
 
   59      6A63
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   71      ED0F
   72 01c8 4E0685A3 		.ascii	"N\006\205\243\247\202c\371\216\256\323\205\316 \227"
   72      A78263F9 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 5
 
 
   72      8EAED385 
@@ -251,7 +251,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   74      5FBB6EE6 
   74      CA
   75              		.text
-  76              		.section	.gnu.lto_HPD_Timer_RestoreConfig.91bc9e60,"",%progbits
+  76              		.section	.gnu.lto_HPD_Timer_RestoreConfig.92f64cdc,"",%progbits
   77 0000 789C6366 		.ascii	"x\234cf\300\004R@\\\012\304Z@\314\310\314\300\3104\341"
   77      C0045240 
   77      5C0AC45A 
@@ -298,10 +298,10 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   85      6A517C80 
   86 00b1 833777   		.ascii	"\2037w"
   87              		.text
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 6
 
 
-  88              		.section	.gnu.lto_HPD_Timer_Wakeup.91bc9e60,"",%progbits
+  88              		.section	.gnu.lto_HPD_Timer_Wakeup.92f64cdc,"",%progbits
   89 0000 789C654F 		.ascii	"x\234eO=HBQ\024>\347\334\347\017\351\020M\322\340j\024"
   89      3D484251 
   89      143EE7DC 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  100      D47C1213 
  100      E3
  101 00ca B6AE968B 		.ascii	"\266\256\226\213\224\374\342\031\3564\211\232r\240@"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 7
 
 
  101      94FCE219 
@@ -403,7 +403,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  109      E00731C7 
  109      842F
  110              		.text
- 111              		.section	.gnu.lto_.symbol_nodes.91bc9e60,"",%progbits
+ 111              		.section	.gnu.lto_.symbol_nodes.92f64cdc,"",%progbits
  112 0000 789C55CA 		.ascii	"x\234U\312\301\011\2000\020\005\321\331\335$X\220\265"
  112      C1098030 
  112      1005D1D9 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  114      7213CC3B 
  114      482C6DC0 
  114      5DD63B43 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 8
 
 
  114      738587FC 
@@ -430,7 +430,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  116 004b CE75E406 		.ascii	"\316u\344\006\332!\035\243"
  116      DA211DA3 
  117              		.text
- 118              		.section	.gnu.lto_.refs.91bc9e60,"",%progbits
+ 118              		.section	.gnu.lto_.refs.92f64cdc,"",%progbits
  119 0000 789C6366 		.ascii	"x\234cf``\340c\200\000&FF&\026F&VF\026 \223\001\000"
  119      6060E063 
  119      80002646 
@@ -438,7 +438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  119      26564616 
  120 0018 026D002C 		.ascii	"\002m\000,"
  121              		.text
- 122              		.section	.gnu.lto_.decls.91bc9e60,"",%progbits
+ 122              		.section	.gnu.lto_.decls.92f64cdc,"",%progbits
  123 0000 789C8D94 		.ascii	"x\234\215\224\177L\024G\024\307\347\355p\013w\234@B"
  123      7F4C1447 
  123      14C7E7ED 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  130      B4
  131 008a 7EB44134 		.ascii	"~\264A4t'W\310\323\255K\233\327\031\240\315\375\273"
  131      742757C8 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 9
 
 
  131      D3AD4B9B 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  142      A0DB04E8 
  142      D6013D02 
  142      70A7
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 10
 
 
  143 0164 ADFBA64C 		.ascii	"\255\373\246L\367\013@\333\227]\253\262P\341=\177F\326"
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  154      7E4393C8 
  154      A01D89B1 
  154      9E1F
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 11
 
 
  155 0243 9A62688D 		.ascii	"\232bh\21588\364\370\203c\223\361\260=1\303\2139\302"
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  166      C68A482C 
  166      64D8D482 
  166      4DA9059B 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 12
 
 
  167 0317 C51DFFCE 		.ascii	"\305\035\377\316XR\232V0Q\373\272Jf\335C`\022\013}\025"
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  178      F9FDCE43 
  178      4AB93BCE 
  178      14
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 13
 
 
  179 03f0 E871B95F 		.ascii	"\350q\271_\376\377\204Y\037\023\023\345\335R\347\201"
@@ -742,7 +742,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  183      7666FF03 
  183      C5312B6C 
  184              		.text
- 185              		.section	.gnu.lto_.symtab.91bc9e60,"",%progbits
+ 185              		.section	.gnu.lto_.symtab.92f64cdc,"",%progbits
  186 0000 4850445F 		.ascii	"HPD_Timer_SaveConfig\000\000\000\000\000\000\000\000"
  186      54696D65 
  186      725F5361 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  192      65725F53 
  192      746F7000 
  193 009d 00000000 		.ascii	"\000\000\000\000\000\000\000\264\000\000\000HPD_Tim"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 14
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 14
 
 
  193      000000B4 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   15:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** * disclaimers, and limitations in the end user license agreement accompanying
   16:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** * the software package with which this file was provided.
   17:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** *******************************************************************************/
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 15
 
 
   18:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
   56:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** *
   57:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** *******************************************************************************/
   58:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** void HPD_Timer_Sleep(void)
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 16
 
 
   59:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** {
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  269              		.thumb_func
  270              		.type	HPD_Timer_RestoreConfig, %function
  271              	HPD_Timer_RestoreConfig:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 17
 
 
  272              	.LFB2:
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  109:.\Generated_Source\PSoC4/HPD_Timer_PM.c **** {
  289              		.loc 1 109 0
  290              		.cfi_startproc
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 18
 
 
  291 0000 08B5     		push	{r3, lr}
@@ -1070,34 +1070,34 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  330 000b 01       		.uleb128 0x1
  331 000c 3F000000 		.4byte	.LASF23
  332 0010 01       		.byte	0x1
- 333 0011 D1010000 		.4byte	.LASF24
- 334 0015 2A010000 		.4byte	.LASF25
+ 333 0011 6C010000 		.4byte	.LASF24
+ 334 0015 E6010000 		.4byte	.LASF25
  335 0019 00000000 		.4byte	.Ldebug_ranges0+0
  336 001d 00000000 		.4byte	0
  337 0021 00000000 		.4byte	.Ldebug_line0
  338 0025 02       		.uleb128 0x2
  339 0026 01       		.byte	0x1
  340 0027 06       		.byte	0x6
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 19
 
 
- 341 0028 2A020000 		.4byte	.LASF0
+ 341 0028 C5010000 		.4byte	.LASF0
  342 002c 02       		.uleb128 0x2
  343 002d 01       		.byte	0x1
  344 002e 08       		.byte	0x8
- 345 002f B5010000 		.4byte	.LASF1
+ 345 002f 50010000 		.4byte	.LASF1
  346 0033 02       		.uleb128 0x2
  347 0034 02       		.byte	0x2
  348 0035 05       		.byte	0x5
- 349 0036 5B020000 		.4byte	.LASF2
+ 349 0036 4D020000 		.4byte	.LASF2
  350 003a 02       		.uleb128 0x2
  351 003b 02       		.byte	0x2
  352 003c 07       		.byte	0x7
- 353 003d 17020000 		.4byte	.LASF3
+ 353 003d B2010000 		.4byte	.LASF3
  354 0041 02       		.uleb128 0x2
  355 0042 04       		.byte	0x4
  356 0043 05       		.byte	0x5
- 357 0044 C8010000 		.4byte	.LASF4
+ 357 0044 63010000 		.4byte	.LASF4
  358 0048 02       		.uleb128 0x2
  359 0049 04       		.byte	0x4
  360 004a 07       		.byte	0x7
@@ -1131,20 +1131,20 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  388 0083 02       		.uleb128 0x2
  389 0084 04       		.byte	0x4
  390 0085 04       		.byte	0x4
- 391 0086 8F010000 		.4byte	.LASF11
+ 391 0086 2A010000 		.4byte	.LASF11
  392 008a 02       		.uleb128 0x2
  393 008b 08       		.byte	0x8
  394 008c 04       		.byte	0x4
- 395 008d F9010000 		.4byte	.LASF12
+ 395 008d 94010000 		.4byte	.LASF12
  396 0091 02       		.uleb128 0x2
  397 0092 01       		.byte	0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 20
 
 
  398 0093 08       		.byte	0x8
- 399 0094 C3010000 		.4byte	.LASF13
+ 399 0094 5E010000 		.4byte	.LASF13
  400 0098 04       		.uleb128 0x4
- 401 0099 11020000 		.4byte	.LASF14
+ 401 0099 AC010000 		.4byte	.LASF14
  402 009d 02       		.byte	0x2
  403 009e 4402     		.2byte	0x244
  404 00a0 A4000000 		.4byte	0xa4
@@ -1153,7 +1153,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  407 00a9 02       		.uleb128 0x2
  408 00aa 04       		.byte	0x4
  409 00ab 07       		.byte	0x7
- 410 00ac 7D020000 		.4byte	.LASF15
+ 410 00ac 6F020000 		.4byte	.LASF15
  411 00b0 06       		.uleb128 0x6
  412 00b1 01       		.byte	0x1
  413 00b2 03       		.byte	0x3
@@ -1167,17 +1167,17 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  421 00c3 00       		.byte	0
  422 00c4 00       		.byte	0
  423 00c5 08       		.uleb128 0x8
- 424 00c6 86020000 		.4byte	.LASF16
+ 424 00c6 78020000 		.4byte	.LASF16
  425 00ca 03       		.byte	0x3
  426 00cb 24       		.byte	0x24
  427 00cc B0000000 		.4byte	0xb0
  428 00d0 09       		.uleb128 0x9
- 429 00d1 36020000 		.4byte	.LASF17
+ 429 00d1 D1010000 		.4byte	.LASF17
  430 00d5 01       		.byte	0x1
  431 00d6 26       		.byte	0x26
  432 00d7 01       		.byte	0x1
  433 00d8 09       		.uleb128 0x9
- 434 00d9 65020000 		.4byte	.LASF18
+ 434 00d9 57020000 		.4byte	.LASF18
  435 00dd 01       		.byte	0x1
  436 00de 58       		.byte	0x58
  437 00df 01       		.byte	0x1
@@ -1188,7 +1188,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  442 00ed 01       		.uleb128 0x1
  443 00ee 9C       		.byte	0x9c
  444 00ef 0B       		.uleb128 0xb
- 445 00f0 4B020000 		.4byte	.LASF19
+ 445 00f0 3D020000 		.4byte	.LASF19
  446 00f4 01       		.byte	0x1
  447 00f5 3A       		.byte	0x3a
  448 00f6 00000000 		.4byte	.LFB1
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  452 0100 0E010000 		.4byte	0x10e
  453 0104 0C       		.uleb128 0xc
  454 0105 18000000 		.4byte	.LVL0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 21
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 21
 
 
  455 0109 4D010000 		.4byte	0x14d
@@ -1210,7 +1210,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  461 011b 01       		.uleb128 0x1
  462 011c 9C       		.byte	0x9c
  463 011d 0B       		.uleb128 0xb
- 464 011e A4010000 		.4byte	.LASF20
+ 464 011e 3F010000 		.4byte	.LASF20
  465 0122 01       		.byte	0x1
  466 0123 6C       		.byte	0x6c
  467 0124 00000000 		.4byte	.LFB3
@@ -1223,7 +1223,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  474 0137 55010000 		.4byte	0x155
  475 013b 00       		.byte	0
  476 013c 0D       		.uleb128 0xd
- 477 013d 00020000 		.4byte	.LASF27
+ 477 013d 9B010000 		.4byte	.LASF27
  478 0141 01       		.byte	0x1
  479 0142 15       		.byte	0x15
  480 0143 C5000000 		.4byte	0xc5
@@ -1231,7 +1231,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  482 0148 03       		.byte	0x3
  483 0149 00000000 		.4byte	HPD_Timer_backup
  484 014d 0E       		.uleb128 0xe
- 485 014e 95010000 		.4byte	.LASF21
+ 485 014e 30010000 		.4byte	.LASF21
  486 0152 03       		.byte	0x3
  487 0153 3201     		.2byte	0x132
  488 0155 0E       		.uleb128 0xe
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  509 000e 01       		.uleb128 0x1
  510 000f 10       		.uleb128 0x10
  511 0010 17       		.uleb128 0x17
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 22
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 22
 
 
  512 0011 00       		.byte	0
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  566 0047 13       		.uleb128 0x13
  567 0048 00       		.byte	0
  568 0049 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 23
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 23
 
 
  569 004a 07       		.uleb128 0x7
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  623 0080 40       		.uleb128 0x40
  624 0081 18       		.uleb128 0x18
  625 0082 9742     		.uleb128 0x2117
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 24
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 24
 
 
  626 0084 19       		.uleb128 0x19
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  680 00bd 00       		.byte	0
  681 00be 3F       		.uleb128 0x3f
  682 00bf 19       		.uleb128 0x19
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 25
 
 
  683 00c0 03       		.uleb128 0x3
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  730      7400
  731              	.LASF10:
  732 000e 75696E74 		.ascii	"uint32\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 26
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 26
 
 
  732      333200
@@ -1553,109 +1553,107 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 1
  749      6720756E 
  749      7369676E 
  749      65642069 
- 750              	.LASF25:
- 751 012a 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
- 751      73657273 
- 751      5C766963 
- 751      746F5C4F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 27
+ 750              	.LASF11:
+ 751 012a 666C6F61 		.ascii	"float\000"
+ 751      7400
+ 752              	.LASF21:
+ 753 0130 4850445F 		.ascii	"HPD_Timer_Stop\000"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 27
 
 
- 751      6E654472 
- 752 0158 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
- 752      44343232 
- 752      352D3430 
- 752      4C515849 
- 752      5F303830 
- 753 0189 63796473 		.ascii	"cydsn\000"
- 753      6E00
- 754              	.LASF11:
- 755 018f 666C6F61 		.ascii	"float\000"
- 755      7400
- 756              	.LASF21:
- 757 0195 4850445F 		.ascii	"HPD_Timer_Stop\000"
- 757      54696D65 
- 757      725F5374 
- 757      6F7000
- 758              	.LASF20:
- 759 01a4 4850445F 		.ascii	"HPD_Timer_Wakeup\000"
- 759      54696D65 
- 759      725F5761 
- 759      6B657570 
+ 753      54696D65 
+ 753      725F5374 
+ 753      6F7000
+ 754              	.LASF20:
+ 755 013f 4850445F 		.ascii	"HPD_Timer_Wakeup\000"
+ 755      54696D65 
+ 755      725F5761 
+ 755      6B657570 
+ 755      00
+ 756              	.LASF1:
+ 757 0150 756E7369 		.ascii	"unsigned char\000"
+ 757      676E6564 
+ 757      20636861 
+ 757      7200
+ 758              	.LASF13:
+ 759 015e 63686172 		.ascii	"char\000"
  759      00
- 760              	.LASF1:
- 761 01b5 756E7369 		.ascii	"unsigned char\000"
- 761      676E6564 
- 761      20636861 
- 761      7200
- 762              	.LASF13:
- 763 01c3 63686172 		.ascii	"char\000"
- 763      00
- 764              	.LASF4:
- 765 01c8 6C6F6E67 		.ascii	"long int\000"
- 765      20696E74 
- 765      00
- 766              	.LASF24:
- 767 01d1 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\HPD_Timer_PM.c\000"
- 767      6E657261 
- 767      7465645F 
- 767      536F7572 
- 767      63655C50 
- 768              	.LASF12:
- 769 01f9 646F7562 		.ascii	"double\000"
- 769      6C6500
- 770              	.LASF27:
- 771 0200 4850445F 		.ascii	"HPD_Timer_backup\000"
- 771      54696D65 
- 771      725F6261 
- 771      636B7570 
- 771      00
- 772              	.LASF14:
- 773 0211 72656733 		.ascii	"reg32\000"
- 773      3200
- 774              	.LASF3:
- 775 0217 73686F72 		.ascii	"short unsigned int\000"
- 775      7420756E 
- 775      7369676E 
- 775      65642069 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfpOirV.s 			page 28
+ 760              	.LASF4:
+ 761 0163 6C6F6E67 		.ascii	"long int\000"
+ 761      20696E74 
+ 761      00
+ 762              	.LASF24:
+ 763 016c 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\HPD_Timer_PM.c\000"
+ 763      6E657261 
+ 763      7465645F 
+ 763      536F7572 
+ 763      63655C50 
+ 764              	.LASF12:
+ 765 0194 646F7562 		.ascii	"double\000"
+ 765      6C6500
+ 766              	.LASF27:
+ 767 019b 4850445F 		.ascii	"HPD_Timer_backup\000"
+ 767      54696D65 
+ 767      725F6261 
+ 767      636B7570 
+ 767      00
+ 768              	.LASF14:
+ 769 01ac 72656733 		.ascii	"reg32\000"
+ 769      3200
+ 770              	.LASF3:
+ 771 01b2 73686F72 		.ascii	"short unsigned int\000"
+ 771      7420756E 
+ 771      7369676E 
+ 771      65642069 
+ 771      6E7400
+ 772              	.LASF0:
+ 773 01c5 7369676E 		.ascii	"signed char\000"
+ 773      65642063 
+ 773      68617200 
+ 774              	.LASF17:
+ 775 01d1 4850445F 		.ascii	"HPD_Timer_SaveConfig\000"
+ 775      54696D65 
+ 775      725F5361 
+ 775      7665436F 
+ 775      6E666967 
+ 776              	.LASF25:
+ 777 01e6 433A5C76 		.ascii	"C:\\victor0617\\github_code\\CY4541\\CYPD4225-40LQX"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrXnjpM.s 			page 28
 
 
- 775      6E7400
- 776              	.LASF0:
- 777 022a 7369676E 		.ascii	"signed char\000"
- 777      65642063 
- 777      68617200 
- 778              	.LASF17:
- 779 0236 4850445F 		.ascii	"HPD_Timer_SaveConfig\000"
- 779      54696D65 
- 779      725F5361 
- 779      7665436F 
- 779      6E666967 
- 780              	.LASF19:
- 781 024b 4850445F 		.ascii	"HPD_Timer_Sleep\000"
- 781      54696D65 
- 781      725F536C 
- 781      65657000 
- 782              	.LASF2:
- 783 025b 73686F72 		.ascii	"short int\000"
- 783      7420696E 
- 783      7400
- 784              	.LASF18:
- 785 0265 4850445F 		.ascii	"HPD_Timer_RestoreConfig\000"
- 785      54696D65 
- 785      725F5265 
- 785      73746F72 
- 785      65436F6E 
- 786              	.LASF15:
- 787 027d 73697A65 		.ascii	"sizetype\000"
- 787      74797065 
- 787      00
- 788              	.LASF16:
- 789 0286 4850445F 		.ascii	"HPD_Timer_BACKUP_STRUCT\000"
- 789      54696D65 
- 789      725F4241 
- 789      434B5550 
- 789      5F535452 
- 790              		.comm	__gnu_lto_v1,1,1
- 791              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ 777      6963746F 
+ 777      72303631 
+ 777      375C6769 
+ 777      74687562 
+ 778 0215 495F3038 		.ascii	"I_0805\\CYPD4225-40LQXI_notebook01.cydsn\000"
+ 778      30355C43 
+ 778      59504434 
+ 778      3232352D 
+ 778      34304C51 
+ 779              	.LASF19:
+ 780 023d 4850445F 		.ascii	"HPD_Timer_Sleep\000"
+ 780      54696D65 
+ 780      725F536C 
+ 780      65657000 
+ 781              	.LASF2:
+ 782 024d 73686F72 		.ascii	"short int\000"
+ 782      7420696E 
+ 782      7400
+ 783              	.LASF18:
+ 784 0257 4850445F 		.ascii	"HPD_Timer_RestoreConfig\000"
+ 784      54696D65 
+ 784      725F5265 
+ 784      73746F72 
+ 784      65436F6E 
+ 785              	.LASF15:
+ 786 026f 73697A65 		.ascii	"sizetype\000"
+ 786      74797065 
+ 786      00
+ 787              	.LASF16:
+ 788 0278 4850445F 		.ascii	"HPD_Timer_BACKUP_STRUCT\000"
+ 788      54696D65 
+ 788      725F4241 
+ 788      434B5550 
+ 788      5F535452 
+ 789              		.comm	__gnu_lto_v1,1,1
+ 790              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
