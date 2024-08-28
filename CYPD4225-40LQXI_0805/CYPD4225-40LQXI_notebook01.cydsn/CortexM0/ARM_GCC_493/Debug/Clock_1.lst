@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,14 +16,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   13              		.file	"Clock_1.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.91bc8f55,"",%progbits
+  16              		.section	.gnu.lto_.profile.92f665fd,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\0069I\000\000\311\000@"
   17      60606061 
   17      80004606 
   17      39490000 
   17      C90040
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.91bc8f55,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.92f665fd,"",%progbits
   20 0000 789C6366 		.ascii	"x\234cf\300\016\304\2414+\003##c=#\003\003\023\023#"
   20      C00EC4A1 
   20      342B0323 
@@ -34,7 +34,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   21      50180016 
   21      5201B1
   22              		.text
-  23              		.section	.gnu.lto_.inline.91bc8f55,"",%progbits
+  23              		.section	.gnu.lto_.inline.92f665fd,"",%progbits
   24 0000 789C6D8B 		.ascii	"x\234m\213\273\025\2000\014\003eG\201\020\012FH\303"
   24      BB158030 
   24      0C036547 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   28      75BE901E 
   28      035D4CFE 
   28      141069A2 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 2
 
 
   28      9D
@@ -67,7 +67,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   29      094D830B 
   29      E7
   30              		.text
-  31              		.section	.gnu.lto_.pureconst.91bc8f55,"",%progbits
+  31              		.section	.gnu.lto_.pureconst.92f665fd,"",%progbits
   32 0000 789C6366 		.ascii	"x\234cf``\340f\200\000V\006)F)&)f)\026\006\000\003\374"
   32      6060E066 
   32      80005606 
@@ -75,7 +75,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   32      29662916 
   33 0018 0086     		.ascii	"\000\206"
   34              		.text
-  35              		.section	.gnu.lto_Clock_1_StartEx.91bc8f55,"",%progbits
+  35              		.section	.gnu.lto_Clock_1_StartEx.92f665fd,"",%progbits
   36 0000 789C6551 		.ascii	"x\234eQAKTQ\024>\337\275\357>\037\215A\264t\025\204"
   36      414B5451 
   36      143EDFBD 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   44      E4F78668 
   44      70875F2A 
   44      42E0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 3
 
 
   45 00a3 193A19B3 		.ascii	"\031:\031\263}\362=\274\250;@\374^+\034}\210\035\252"
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   56 0173 C432C7CA 		.ascii	"\3042\307\312a\342\322\354\\\336\010\321\363\010\257"
   56      61E2D2EC 
   56      5CDE08D1 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 4
 
 
   56      F308AF
@@ -211,7 +211,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   62      BAFB17EC 
   62      D4C8C4
   63              		.text
-  64              		.section	.gnu.lto_Clock_1_Stop.91bc8f55,"",%progbits
+  64              		.section	.gnu.lto_Clock_1_Stop.92f665fd,"",%progbits
   65 0000 789C6590 		.ascii	"x\234e\220=HBQ\024\307\317\271\367=\265t\210&q\215p"
   65      3D484251 
   65      14C7CFB9 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   69      E1FF18A7 
   70 005a 6920C020 		.ascii	"i \300 \355\350\003d\2052\200\025`\310\275\003g\372"
   70      EDE80364 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 5
 
 
   70      85328015 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   81      ADFF
   82 0130 CD3CA64C 		.ascii	"\315<\246L\022\274t\344N\217\362\304\034}\211\006xB"
   82      12BC74E4 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 6
 
 
   82      4E8FF2C4 
@@ -317,7 +317,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   85 016e BE017C0F 		.ascii	"\276\001|\017\216\216"
   85      8E8E
   86              		.text
-  87              		.section	.gnu.lto_Clock_1_SetFractionalDividerRegister.91bc8f55,"",%progbits
+  87              		.section	.gnu.lto_Clock_1_SetFractionalDividerRegister.92f665fd,"",%progbits
   88 0000 789C7552 		.ascii	"x\234uR]HSa\030\376\336\357\354\234\235\375\024\322"
   88      5D485361 
   88      18FEDEEF 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   96      D6E66638 
   96      631B5CCA 
   96      C013C8C3 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 7
 
 
   96      90
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  108 015c 68C018DF 		.ascii	"h\300\030\337E{\016\304\215lvc,6~\214\357\347\330\235"
  108      457B0EC4 
  108      8D6C7663 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 8
 
 
  108      2C367E8C 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  119      4F2D0B0C 
  120 0238 FFE43821 		.ascii	"\377\3448!\303\354\"\215\355w\003\375\324\200\035\203"
  120      C3EC228D 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 9
 
 
  120      ED7703FD 
@@ -512,7 +512,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  126      F0FA05
  127 02b0 1D2143E3 		.ascii	"\035!C\343"
  128              		.text
- 129              		.section	.gnu.lto_Clock_1_GetDividerRegister.91bc8f55,"",%progbits
+ 129              		.section	.gnu.lto_Clock_1_GetDividerRegister.92f665fd,"",%progbits
  130 0000 789C658E 		.ascii	"x\234e\216?HBQ\024\306\317w\336S\244\032\244\3215\302"
  130      3F484251 
  130      14C6CF77 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  134      C64134AC 
  134      3A34026F 
  134      9488
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 10
 
 
  135 005f 320106E4 		.ascii	"2\001\006\344@\2404#\215wn2\356k\337\336\300\033\267"
@@ -598,12 +598,12 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  146      9F4CCCC5 
  146      472209FA 
  147 0144 05793F7C 		.ascii	"\005y?|\342"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 11
 
 
  147      E2
  148              		.text
- 149              		.section	.gnu.lto_Clock_1_GetFractionalDividerRegister.91bc8f55,"",%progbits
+ 149              		.section	.gnu.lto_Clock_1_GetFractionalDividerRegister.92f665fd,"",%progbits
  150 0000 789C6366 		.ascii	"x\234cf\300\004R@<\001\210U\201\230\221\231\201\221"
  150      C0045240 
  150      3C018855 
@@ -658,10 +658,10 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  161 00c4 97CC0000 		.ascii	"\227\314\000\000\271\332B7"
  161      B9DA4237 
  162              		.text
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 12
 
 
- 163              		.section	.gnu.lto_.symbol_nodes.91bc8f55,"",%progbits
+ 163              		.section	.gnu.lto_.symbol_nodes.92f665fd,"",%progbits
  164 0000 789C55C7 		.ascii	"x\234U\3071\021\000 \014\004\301\313\207\002}\030z\013"
  164      31110020 
  164      0C04C1CB 
@@ -677,13 +677,13 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  166      056C4115 
  166      19
  167              		.text
- 168              		.section	.gnu.lto_.refs.91bc8f55,"",%progbits
+ 168              		.section	.gnu.lto_.refs.92f665fd,"",%progbits
  169 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
  169      60606064 
  169      80020000 
  169      3D0005
  170              		.text
- 171              		.section	.gnu.lto_.decls.91bc8f55,"",%progbits
+ 171              		.section	.gnu.lto_.decls.92f665fd,"",%progbits
  172 0000 789C8D54 		.ascii	"x\234\215T]L\034U\024\276g\356\376t\207-\364\211\232"
  172      5D4C1C55 
  172      14BE67EE 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  178      25E457F4 
  178      6D680524 
  178      BE709BF4 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 13
 
 
  178      A0F5A1
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  189      0F81CFC1 
  190 0151 05A7C145 		.ascii	"\005\247\301E\340\014db\202H\205/q\263\0137\221\252"
  190      E00C6462 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 14
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 14
 
 
  190      8248852F 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  202 0220 D1F501DC 		.ascii	"\321\365\001\334\034\324\273~m\244\266v\013}s\203\206"
  202      1CD4BB7E 
  202      6DA4B676 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 15
 
 
  202      0B7D7383 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  213      A1
  214 02f8 654E180A 		.ascii	"eN\030\012-\324\337V\324*\3667\037\032\216\200)\023"
  214      2DD4DF56 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 16
 
 
  214      D42AF637 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  226 03c9 F95F38FC 		.ascii	"\371_8\374DvQrL\221\221\230\355!\3168\306{P\020\346"
  226      44765172 
  226      4C919198 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 17
 
 
  226      ED21CE38 
@@ -979,7 +979,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  230 0413 03D81119 		.ascii	"\003\330\021\0317"
  230      37
  231              		.text
- 232              		.section	.gnu.lto_.symtab.91bc8f55,"",%progbits
+ 232              		.section	.gnu.lto_.symtab.92f665fd,"",%progbits
  233 0000 436C6F63 		.ascii	"Clock_1_StartEx\000\000\000\000\000\000\000\000\000"
  233      6B5F315F 
  233      53746172 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  240      76696465 
  240      72526567 
  240      69737465 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 18
 
 
  241 00c5 00000000 		.ascii	"\000\000\000\000\314\000\000\000"
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   24:.\Generated_Source\PSoC4/Clock_1.c **** /*******************************************************************************
   25:.\Generated_Source\PSoC4/Clock_1.c **** * Function Name: Clock_1_StartEx
   26:.\Generated_Source\PSoC4/Clock_1.c **** ********************************************************************************
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 19
 
 
   27:.\Generated_Source\PSoC4/Clock_1.c **** *
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  287              		.align	1
  288              		.global	Clock_1_Stop
  289              		.code	16
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 20
 
 
  290              		.thumb_func
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
   99:.\Generated_Source\PSoC4/Clock_1.c ****     /* Make sure any previous start command has finished. */
  100:.\Generated_Source\PSoC4/Clock_1.c ****     while((Clock_1_CMD_REG & Clock_1_CMD_ENABLE_MASK) != 0u)
  297              		.loc 1 100 0 discriminator 1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 21
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 21
 
 
  298 0000 034B     		ldr	r3, .L8
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  126:.\Generated_Source\PSoC4/Clock_1.c **** *  clkDivider:  Divider register value (0-65535). This value is NOT the
  127:.\Generated_Source\PSoC4/Clock_1.c **** *    divider; the clock hardware divides by clkDivider plus one. For example,
  128:.\Generated_Source\PSoC4/Clock_1.c **** *    to divide the clock by 2, this parameter should be set to 1.
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 22
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 22
 
 
  129:.\Generated_Source\PSoC4/Clock_1.c **** *  fracDivider:  Fractional Divider register value (0-31).
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  355 0012 0143     		orr	r1, r0
  145:.\Generated_Source\PSoC4/Clock_1.c ****         ((uint32)((uint32)clkDivider <<  Clock_1_DIV_INT_SHIFT) & Clock_1_DIV_INT_MASK) |
  356              		.loc 1 145 0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 23
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 23
 
 
  357 0014 1943     		orr	r1, r3
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  178:.\Generated_Source\PSoC4/Clock_1.c ****     return (uint16)((Clock_1_DIV_REG & Clock_1_DIV_INT_MASK)
  381              		.loc 1 178 0
  382 0000 024B     		ldr	r3, .L14
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 24
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 24
 
 
  179:.\Generated_Source\PSoC4/Clock_1.c ****         >> Clock_1_DIV_INT_SHIFT);
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  203:.\Generated_Source\PSoC4/Clock_1.c ****         >> Clock_1_DIV_FRAC_SHIFT);
  204:.\Generated_Source\PSoC4/Clock_1.c **** #else
  205:.\Generated_Source\PSoC4/Clock_1.c ****     return 0u;
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 25
 
 
  206:.\Generated_Source\PSoC4/Clock_1.c **** #endif /* Clock_1__FRAC_MASK */
@@ -1460,17 +1460,17 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  424 0006 00000000 		.4byte	.Ldebug_abbrev0
  425 000a 04       		.byte	0x4
  426 000b 01       		.uleb128 0x1
- 427 000c EC000000 		.4byte	.LASF25
+ 427 000c 43010000 		.4byte	.LASF25
  428 0010 01       		.byte	0x1
  429 0011 64000000 		.4byte	.LASF26
- 430 0015 A8010000 		.4byte	.LASF27
+ 430 0015 D5000000 		.4byte	.LASF27
  431 0019 00000000 		.4byte	.Ldebug_ranges0+0
  432 001d 00000000 		.4byte	0
  433 0021 00000000 		.4byte	.Ldebug_line0
  434 0025 02       		.uleb128 0x2
  435 0026 01       		.byte	0x1
  436 0027 06       		.byte	0x6
- 437 0028 83020000 		.4byte	.LASF0
+ 437 0028 75020000 		.4byte	.LASF0
  438 002c 02       		.uleb128 0x2
  439 002d 01       		.byte	0x1
  440 002e 08       		.byte	0x8
@@ -1478,7 +1478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  442 0033 02       		.uleb128 0x2
  443 0034 02       		.byte	0x2
  444 0035 05       		.byte	0x5
- 445 0036 45020000 		.4byte	.LASF2
+ 445 0036 37020000 		.4byte	.LASF2
  446 003a 02       		.uleb128 0x2
  447 003b 02       		.byte	0x2
  448 003c 07       		.byte	0x7
@@ -1486,7 +1486,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  450 0041 02       		.uleb128 0x2
  451 0042 04       		.byte	0x4
  452 0043 05       		.byte	0x5
- 453 0044 7A020000 		.4byte	.LASF4
+ 453 0044 6C020000 		.4byte	.LASF4
  454 0048 02       		.uleb128 0x2
  455 0049 04       		.byte	0x4
  456 004a 07       		.byte	0x7
@@ -1494,14 +1494,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  458 004f 02       		.uleb128 0x2
  459 0050 08       		.byte	0x8
  460 0051 05       		.byte	0x5
- 461 0052 32020000 		.4byte	.LASF6
+ 461 0052 24020000 		.4byte	.LASF6
  462 0056 02       		.uleb128 0x2
  463 0057 08       		.byte	0x8
  464 0058 07       		.byte	0x7
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 26
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 26
 
 
- 465 0059 D5000000 		.4byte	.LASF7
+ 465 0059 2C010000 		.4byte	.LASF7
  466 005d 03       		.uleb128 0x3
  467 005e 04       		.byte	0x4
  468 005f 05       		.byte	0x5
@@ -1511,7 +1511,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  472 0066 07       		.byte	0x7
  473 0067 C8000000 		.4byte	.LASF8
  474 006b 04       		.uleb128 0x4
- 475 006c 4F020000 		.4byte	.LASF9
+ 475 006c 41020000 		.4byte	.LASF9
  476 0070 02       		.byte	0x2
  477 0071 9801     		.2byte	0x198
  478 0073 2C000000 		.4byte	0x2c
@@ -1536,7 +1536,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  497 009d 02       		.uleb128 0x2
  498 009e 01       		.byte	0x1
  499 009f 08       		.byte	0x8
- 500 00a0 40020000 		.4byte	.LASF14
+ 500 00a0 32020000 		.4byte	.LASF14
  501 00a4 04       		.uleb128 0x4
  502 00a5 00000000 		.4byte	.LASF15
  503 00a9 02       		.byte	0x2
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  519 00cf 01       		.byte	0x1
  520 00d0 27       		.byte	0x27
  521 00d1 83000000 		.4byte	0x83
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 27
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 27
 
 
  522 00d5 00000000 		.4byte	.LLST0
@@ -1572,7 +1572,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  530 00e9 01       		.uleb128 0x1
  531 00ea 9C       		.byte	0x9c
  532 00eb 06       		.uleb128 0x6
- 533 00ec 55020000 		.4byte	.LASF17
+ 533 00ec 47020000 		.4byte	.LASF17
  534 00f0 01       		.byte	0x1
  535 00f1 86       		.byte	0x86
  536 00f2 00000000 		.4byte	.LFB2
@@ -1607,7 +1607,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  565 0139 51       		.byte	0x51
  566 013a 00       		.byte	0
  567 013b 0B       		.uleb128 0xb
- 568 013c 8F020000 		.4byte	.LASF23
+ 568 013c 81020000 		.4byte	.LASF23
  569 0140 01       		.byte	0x1
  570 0141 B0       		.byte	0xb0
  571 0142 77000000 		.4byte	0x77
@@ -1616,9 +1616,9 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  574 014e 01       		.uleb128 0x1
  575 014f 9C       		.byte	0x9c
  576 0150 0B       		.uleb128 0xb
- 577 0151 0D020000 		.4byte	.LASF24
+ 577 0151 FF010000 		.4byte	.LASF24
  578 0155 01       		.byte	0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 28
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 28
 
 
  579 0156 C6       		.byte	0xc6
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  633 002d 0E       		.uleb128 0xe
  634 002e 3A       		.uleb128 0x3a
  635 002f 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 29
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 29
 
 
  636 0030 3B       		.uleb128 0x3b
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  690 0067 2E       		.uleb128 0x2e
  691 0068 00       		.byte	0
  692 0069 3F       		.uleb128 0x3f
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 30
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 30
 
 
  693 006a 19       		.uleb128 0x19
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  747 00a1 03       		.uleb128 0x3
  748 00a2 0E       		.uleb128 0xe
  749 00a3 3A       		.uleb128 0x3a
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 31
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 31
 
 
  750 00a4 0B       		.uleb128 0xb
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  804 0051 20000000 		.4byte	.LFE2
  805 0055 0400     		.2byte	0x4
  806 0057 F3       		.byte	0xf3
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 32
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 32
 
 
  807 0058 01       		.uleb128 0x1
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  861              		.section	.debug_line,"",%progbits
  862              	.Ldebug_line0:
  863 0000 E2000000 		.section	.debug_str,"MS",%progbits,1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 33
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 33
 
 
  863      02005D00 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  887 0099 72656756 		.ascii	"regVal\000"
  887      616C00
  888              	.LASF18:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 34
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 34
 
 
  889 00a0 616C6967 		.ascii	"alignClkDiv\000"
@@ -2000,89 +2000,87 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 1
  897      676E6564 
  897      20696E74 
  897      00
- 898              	.LASF7:
- 899 00d5 6C6F6E67 		.ascii	"long long unsigned int\000"
- 899      206C6F6E 
- 899      6720756E 
- 899      7369676E 
- 899      65642069 
- 900              	.LASF25:
- 901 00ec 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
- 901      4320342E 
- 901      392E3320 
- 901      32303135 
- 901      30333033 
- 902 011f 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
- 902      20726576 
- 902      6973696F 
- 902      6E203232 
- 902      31323230 
- 903 0152 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
- 903      66756E63 
- 903      74696F6E 
- 903      2D736563 
- 903      74696F6E 
- 904 0185 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
- 904      6F2D6F62 
- 904      6A656374 
- 904      73202D66 
- 904      6E6F2D73 
- 905              	.LASF27:
- 906 01a8 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
- 906      73657273 
- 906      5C766963 
- 906      746F5C4F 
- 906      6E654472 
- 907 01d6 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
- 907      44343232 
- 907      352D3430 
- 907      4C515849 
- 907      5F303830 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccAf0OOl.s 			page 35
+ 898              	.LASF27:
+ 899 00d5 433A5C76 		.ascii	"C:\\victor0617\\github_code\\CY4541\\CYPD4225-40LQX"
+ 899      6963746F 
+ 899      72303631 
+ 899      375C6769 
+ 899      74687562 
+ 900 0104 495F3038 		.ascii	"I_0805\\CYPD4225-40LQXI_notebook01.cydsn\000"
+ 900      30355C43 
+ 900      59504434 
+ 900      3232352D 
+ 900      34304C51 
+ 901              	.LASF7:
+ 902 012c 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 902      206C6F6E 
+ 902      6720756E 
+ 902      7369676E 
+ 902      65642069 
+ 903              	.LASF25:
+ 904 0143 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 904      4320342E 
+ 904      392E3320 
+ 904      32303135 
+ 904      30333033 
+ 905 0176 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 905      20726576 
+ 905      6973696F 
+ 905      6E203232 
+ 905      31323230 
+ 906 01a9 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 906      66756E63 
+ 906      74696F6E 
+ 906      2D736563 
+ 906      74696F6E 
+ 907 01dc 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 907      6F2D6F62 
+ 907      6A656374 
+ 907      73202D66 
+ 907      6E6F2D73 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccFKnELh.s 			page 35
 
 
- 908 0207 63796473 		.ascii	"cydsn\000"
- 908      6E00
- 909              	.LASF24:
- 910 020d 436C6F63 		.ascii	"Clock_1_GetFractionalDividerRegister\000"
- 910      6B5F315F 
- 910      47657446 
- 910      72616374 
- 910      696F6E61 
- 911              	.LASF6:
- 912 0232 6C6F6E67 		.ascii	"long long int\000"
- 912      206C6F6E 
- 912      6720696E 
- 912      7400
- 913              	.LASF14:
- 914 0240 63686172 		.ascii	"char\000"
- 914      00
- 915              	.LASF2:
- 916 0245 73686F72 		.ascii	"short int\000"
- 916      7420696E 
- 916      7400
- 917              	.LASF9:
- 918 024f 75696E74 		.ascii	"uint8\000"
- 918      3800
- 919              	.LASF17:
- 920 0255 436C6F63 		.ascii	"Clock_1_SetFractionalDividerRegister\000"
- 920      6B5F315F 
- 920      53657446 
- 920      72616374 
- 920      696F6E61 
- 921              	.LASF4:
- 922 027a 6C6F6E67 		.ascii	"long int\000"
- 922      20696E74 
- 922      00
- 923              	.LASF0:
- 924 0283 7369676E 		.ascii	"signed char\000"
- 924      65642063 
- 924      68617200 
- 925              	.LASF23:
- 926 028f 436C6F63 		.ascii	"Clock_1_GetDividerRegister\000"
- 926      6B5F315F 
- 926      47657444 
- 926      69766964 
- 926      65725265 
- 927              		.comm	__gnu_lto_v1,1,1
- 928              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ 908              	.LASF24:
+ 909 01ff 436C6F63 		.ascii	"Clock_1_GetFractionalDividerRegister\000"
+ 909      6B5F315F 
+ 909      47657446 
+ 909      72616374 
+ 909      696F6E61 
+ 910              	.LASF6:
+ 911 0224 6C6F6E67 		.ascii	"long long int\000"
+ 911      206C6F6E 
+ 911      6720696E 
+ 911      7400
+ 912              	.LASF14:
+ 913 0232 63686172 		.ascii	"char\000"
+ 913      00
+ 914              	.LASF2:
+ 915 0237 73686F72 		.ascii	"short int\000"
+ 915      7420696E 
+ 915      7400
+ 916              	.LASF9:
+ 917 0241 75696E74 		.ascii	"uint8\000"
+ 917      3800
+ 918              	.LASF17:
+ 919 0247 436C6F63 		.ascii	"Clock_1_SetFractionalDividerRegister\000"
+ 919      6B5F315F 
+ 919      53657446 
+ 919      72616374 
+ 919      696F6E61 
+ 920              	.LASF4:
+ 921 026c 6C6F6E67 		.ascii	"long int\000"
+ 921      20696E74 
+ 921      00
+ 922              	.LASF0:
+ 923 0275 7369676E 		.ascii	"signed char\000"
+ 923      65642063 
+ 923      68617200 
+ 924              	.LASF23:
+ 925 0281 436C6F63 		.ascii	"Clock_1_GetDividerRegister\000"
+ 925      6B5F315F 
+ 925      47657444 
+ 925      69766964 
+ 925      65725265 
+ 926              		.comm	__gnu_lto_v1,1,1
+ 927              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

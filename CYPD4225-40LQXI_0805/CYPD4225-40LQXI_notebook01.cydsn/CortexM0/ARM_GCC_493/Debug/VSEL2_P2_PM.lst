@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,21 +16,21 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   13              		.file	"VSEL2_P2_PM.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.91bcbb5d,"",%progbits
+  16              		.section	.gnu.lto_.profile.92f67294,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006\0166\000\000\212\000\027"
   17      60606061 
   17      80004606 
   17      0E360000 
   17      8A0017
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.91bcbb5d,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.92f67294,"",%progbits
   20 0000 789C6366 		.ascii	"x\234cf\300\0168\2404\023\024\003\000\0018\000\020"
   20      C00E38A0 
   20      34131403 
   20      00013800 
   20      10
   21              		.text
-  22              		.section	.gnu.lto_.inline.91bcbb5d,"",%progbits
+  22              		.section	.gnu.lto_.inline.92f67294,"",%progbits
   23 0000 789C6366 		.ascii	"x\234cf\300\0164\2404\023\003\003+\013#\003\023\313"
   23      C00E34A0 
   23      34130303 
@@ -42,14 +42,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   24      00471603 
   24      5C
   25              		.text
-  26              		.section	.gnu.lto_.pureconst.91bcbb5d,"",%progbits
+  26              		.section	.gnu.lto_.pureconst.92f67294,"",%progbits
   27 0000 789C6366 		.ascii	"x\234cf```e\200\000&\006)&)\000\000\373\000A"
   27      60606065 
   27      80002606 
   27      29262900 
   27      00FB0041 
   28              		.text
-  29              		.section	.gnu.lto_VSEL2_P2_Sleep.91bcbb5d,"",%progbits
+  29              		.section	.gnu.lto_VSEL2_P2_Sleep.92f67294,"",%progbits
   30 0000 789C654F 		.ascii	"x\234eO=HBQ\024>\337yO\261\\\242\3219\220\006\035\242"
   30      3D484251 
   30      143EDF79 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   31 0016 A1A925A2 		.ascii	"\241\251%\242\245@\020\232\004\011{k\222\324(\276\027"
   31      A540109A 
   31      04097B6B 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 2
 
 
   31      92D428BE 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   43 00f1 C37A4BED 		.ascii	"\303zK\355\366\227N\357\2469+\275\007\305g*\224\013"
   43      F6974EEF 
   43      A6392BBD 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 3
 
 
   43      07C5672A 
@@ -145,7 +145,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   47      A9
   48 0153 80B6     		.ascii	"\200\266"
   49              		.text
-  50              		.section	.gnu.lto_VSEL2_P2_Wakeup.91bcbb5d,"",%progbits
+  50              		.section	.gnu.lto_VSEL2_P2_Wakeup.92f67294,"",%progbits
   51 0000 789C6366 		.ascii	"x\234cf\300\004R@l\315\310\300\240\011\244\031\231\031"
   51      C0045240 
   51      6CCDC8C0 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   56      3031
   57 0070 FC64020A 		.ascii	"\374d\002\012>\001*\000\331\362\224\211\011D3\337bl"
   57      3E012A00 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 4
 
 
   57      D9F29489 
@@ -238,14 +238,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   68      3689090B 
   68      76F5
   69 0147 318A0F00 		.ascii	"1\212\017\000\"_\275d\006\000\345g~V"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 5
 
 
   69      225FBD64 
   69      0600E567 
   69      7E56
   70              		.text
-  71              		.section	.gnu.lto_.symbol_nodes.91bcbb5d,"",%progbits
+  71              		.section	.gnu.lto_.symbol_nodes.92f67294,"",%progbits
   72 0000 789C6366 		.ascii	"x\234cf``\320d\200\002&\306z\006\206\011\347\030\030"
   72      6060D064 
   72      800226C6 
@@ -259,7 +259,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   74 0026 2CCC0000 		.ascii	",\314\000\000\310\"\011\240"
   74      C82209A0 
   75              		.text
-  76              		.section	.gnu.lto_.refs.91bcbb5d,"",%progbits
+  76              		.section	.gnu.lto_.refs.92f67294,"",%progbits
   77 0000 789C6366 		.ascii	"x\234cf``\340f\200\000F\006FF&F& \311\000\000\001l\000"
   77      6060E066 
   77      80004606 
@@ -267,7 +267,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   77      2620C900 
   78 0018 19       		.ascii	"\031"
   79              		.text
-  80              		.section	.gnu.lto_.decls.91bcbb5d,"",%progbits
+  80              		.section	.gnu.lto_.decls.92f67294,"",%progbits
   81 0000 789C8D53 		.ascii	"x\234\215SkHTA\024\236s\257\273\256\327\315\004\241"
   81      6B485441 
   81      149E73AF 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   86      E2410BE2 
   86      381947C8 
   86      1B5C8B
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 6
 
 
   87 0070 6826121D 		.ascii	"h&\022\035\002Z\033\232\023\015\320\206\310\257\203"
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   98      5B6E6712 
   98      5F0F041C 
   98      12BFA59E 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 7
 
 
   98      B913
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  110 0215 0503BF0C 		.ascii	"\005\003\277\014\013\240\370;h\326~\221\253_\377]}!"
  110      0BA0F83B 
  110      68D67E91 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 8
 
 
  110      AB5FFF5D 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  121      13
  122 02f1 93CB62B1 		.ascii	"\223\313b\261\336\230G&\340\017a\331\234\264\305\274"
  122      DE984726 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 9
 
 
  122      E00F61D9 
@@ -518,7 +518,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  129      FE04
  130 0382 3BBAB97C 		.ascii	";\272\271|"
  131              		.text
- 132              		.section	.gnu.lto_.symtab.91bcbb5d,"",%progbits
+ 132              		.section	.gnu.lto_.symtab.92f67294,"",%progbits
  133 0000 5653454C 		.ascii	"VSEL2_P2_Sleep\000\000\000\000\000\000\000\000\000\000"
  133      325F5032 
  133      5F536C65 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  138 0000 272D666E 		.ascii	"'-fno-trapv' '-mcpu=cortex-m0' '-mthumb' '-g' '-Os'"
  138      6F2D7472 
  138      61707627 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 10
 
 
  138      20272D6D 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
   31:.\Generated_Source\PSoC4/VSEL2_P2_PM.c **** * <b>Note</b> This function is available in PSoC 4 only.
   32:.\Generated_Source\PSoC4/VSEL2_P2_PM.c **** *
   33:.\Generated_Source\PSoC4/VSEL2_P2_PM.c **** * \return 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 11
 
 
   34:.\Generated_Source\PSoC4/VSEL2_P2_PM.c **** *  None 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  178              		.type	VSEL2_P2_Wakeup, %function
  179              	VSEL2_P2_Wakeup:
  180              	.LFB1:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 12
 
 
   62:.\Generated_Source\PSoC4/VSEL2_P2_PM.c **** 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  200              		.size	VSEL2_P2_Wakeup, .-VSEL2_P2_Wakeup
  201              		.bss
  202              		.align	2
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 13
 
 
  203              		.set	.LANCHOR0,. + 0
@@ -739,17 +739,17 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  216 0006 00000000 		.4byte	.Ldebug_abbrev0
  217 000a 04       		.byte	0x4
  218 000b 01       		.uleb128 0x1
- 219 000c D8000000 		.4byte	.LASF20
+ 219 000c 2F010000 		.4byte	.LASF20
  220 0010 01       		.byte	0x1
  221 0011 6F000000 		.4byte	.LASF21
- 222 0015 94010000 		.4byte	.LASF22
+ 222 0015 C1000000 		.4byte	.LASF22
  223 0019 00000000 		.4byte	.Ldebug_ranges0+0
  224 001d 00000000 		.4byte	0
  225 0021 00000000 		.4byte	.Ldebug_line0
  226 0025 02       		.uleb128 0x2
  227 0026 01       		.byte	0x1
  228 0027 06       		.byte	0x6
- 229 0028 30020000 		.4byte	.LASF0
+ 229 0028 22020000 		.4byte	.LASF0
  230 002c 02       		.uleb128 0x2
  231 002d 01       		.byte	0x1
  232 002e 08       		.byte	0x8
@@ -757,7 +757,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  234 0033 02       		.uleb128 0x2
  235 0034 02       		.byte	0x2
  236 0035 05       		.byte	0x5
- 237 0036 15020000 		.4byte	.LASF2
+ 237 0036 07020000 		.4byte	.LASF2
  238 003a 02       		.uleb128 0x2
  239 003b 02       		.byte	0x2
  240 003c 07       		.byte	0x7
@@ -765,7 +765,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  242 0041 02       		.uleb128 0x2
  243 0042 04       		.byte	0x4
  244 0043 05       		.byte	0x5
- 245 0044 27020000 		.4byte	.LASF4
+ 245 0044 19020000 		.4byte	.LASF4
  246 0048 02       		.uleb128 0x2
  247 0049 04       		.byte	0x4
  248 004a 07       		.byte	0x7
@@ -773,12 +773,12 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  250 004f 02       		.uleb128 0x2
  251 0050 08       		.byte	0x8
  252 0051 05       		.byte	0x5
- 253 0052 02020000 		.4byte	.LASF6
+ 253 0052 F4010000 		.4byte	.LASF6
  254 0056 02       		.uleb128 0x2
  255 0057 08       		.byte	0x8
  256 0058 07       		.byte	0x7
- 257 0059 C1000000 		.4byte	.LASF7
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 14
+ 257 0059 18010000 		.4byte	.LASF7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 14
 
 
  258 005d 03       		.uleb128 0x3
@@ -805,7 +805,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  279 0085 02       		.uleb128 0x2
  280 0086 01       		.byte	0x1
  281 0087 08       		.byte	0x8
- 282 0088 10020000 		.4byte	.LASF11
+ 282 0088 02020000 		.4byte	.LASF11
  283 008c 04       		.uleb128 0x4
  284 008d 00000000 		.4byte	.LASF13
  285 0091 02       		.byte	0x2
@@ -819,13 +819,13 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  293 00a0 21       		.byte	0x21
  294 00a1 CA000000 		.4byte	0xca
  295 00a5 07       		.uleb128 0x7
- 296 00a6 1F020000 		.4byte	.LASF14
+ 296 00a6 11020000 		.4byte	.LASF14
  297 00aa 03       		.byte	0x3
  298 00ab 23       		.byte	0x23
  299 00ac 6B000000 		.4byte	0x6b
  300 00b0 00       		.byte	0
  301 00b1 07       		.uleb128 0x7
- 302 00b2 F9010000 		.4byte	.LASF15
+ 302 00b2 EB010000 		.4byte	.LASF15
  303 00b6 03       		.byte	0x3
  304 00b7 24       		.byte	0x24
  305 00b8 6B000000 		.4byte	0x6b
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  312 00c8 08       		.byte	0x8
  313 00c9 00       		.byte	0
  314 00ca 08       		.uleb128 0x8
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 15
 
 
  315 00cb 23000000 		.4byte	.LASF17
@@ -846,7 +846,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  317 00d0 26       		.byte	0x26
  318 00d1 9D000000 		.4byte	0x9d
  319 00d5 09       		.uleb128 0x9
- 320 00d6 3C020000 		.4byte	.LASF18
+ 320 00d6 2E020000 		.4byte	.LASF18
  321 00da 01       		.byte	0x1
  322 00db 2C       		.byte	0x2c
  323 00dc 00000000 		.4byte	.LFB0
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  369 0017 0B       		.uleb128 0xb
  370 0018 3E       		.uleb128 0x3e
  371 0019 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 16
 
 
  372 001a 03       		.uleb128 0x3
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  426 0050 0B       		.uleb128 0xb
  427 0051 3B       		.uleb128 0x3b
  428 0052 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 17
 
 
  429 0053 49       		.uleb128 0x49
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  483 008a 18       		.uleb128 0x18
  484 008b 00       		.byte	0
  485 008c 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 18
 
 
  486 008d 00       		.byte	0
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  523      69676E65 
  523      6420696E 
  523      7400
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 19
 
 
  524              	.LASF3:
@@ -1114,80 +1114,78 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 1
  537      676E6564 
  537      20696E74 
  537      00
- 538              	.LASF7:
- 539 00c1 6C6F6E67 		.ascii	"long long unsigned int\000"
- 539      206C6F6E 
- 539      6720756E 
- 539      7369676E 
- 539      65642069 
- 540              	.LASF20:
- 541 00d8 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
- 541      4320342E 
- 541      392E3320 
- 541      32303135 
- 541      30333033 
- 542 010b 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
- 542      20726576 
- 542      6973696F 
- 542      6E203232 
- 542      31323230 
- 543 013e 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
- 543      66756E63 
- 543      74696F6E 
- 543      2D736563 
- 543      74696F6E 
- 544 0171 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
- 544      6F2D6F62 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccoyNzDg.s 			page 20
+ 538              	.LASF22:
+ 539 00c1 433A5C76 		.ascii	"C:\\victor0617\\github_code\\CY4541\\CYPD4225-40LQX"
+ 539      6963746F 
+ 539      72303631 
+ 539      375C6769 
+ 539      74687562 
+ 540 00f0 495F3038 		.ascii	"I_0805\\CYPD4225-40LQXI_notebook01.cydsn\000"
+ 540      30355C43 
+ 540      59504434 
+ 540      3232352D 
+ 540      34304C51 
+ 541              	.LASF7:
+ 542 0118 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 542      206C6F6E 
+ 542      6720756E 
+ 542      7369676E 
+ 542      65642069 
+ 543              	.LASF20:
+ 544 012f 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 544      4320342E 
+ 544      392E3320 
+ 544      32303135 
+ 544      30333033 
+ 545 0162 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccI8yQ59.s 			page 20
 
 
- 544      6A656374 
- 544      73202D66 
- 544      6E6F2D73 
- 545              	.LASF22:
- 546 0194 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
- 546      73657273 
- 546      5C766963 
- 546      746F5C4F 
- 546      6E654472 
- 547 01c2 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
- 547      44343232 
- 547      352D3430 
- 547      4C515849 
- 547      5F303830 
- 548 01f3 63796473 		.ascii	"cydsn\000"
- 548      6E00
- 549              	.LASF15:
- 550 01f9 73696F53 		.ascii	"sioState\000"
- 550      74617465 
- 550      00
- 551              	.LASF6:
- 552 0202 6C6F6E67 		.ascii	"long long int\000"
- 552      206C6F6E 
- 552      6720696E 
- 552      7400
- 553              	.LASF11:
- 554 0210 63686172 		.ascii	"char\000"
- 554      00
- 555              	.LASF2:
- 556 0215 73686F72 		.ascii	"short int\000"
- 556      7420696E 
- 556      7400
- 557              	.LASF14:
- 558 021f 70635374 		.ascii	"pcState\000"
- 558      61746500 
- 559              	.LASF4:
- 560 0227 6C6F6E67 		.ascii	"long int\000"
- 560      20696E74 
- 560      00
- 561              	.LASF0:
- 562 0230 7369676E 		.ascii	"signed char\000"
- 562      65642063 
- 562      68617200 
- 563              	.LASF18:
- 564 023c 5653454C 		.ascii	"VSEL2_P2_Sleep\000"
- 564      325F5032 
- 564      5F536C65 
- 564      657000
- 565              		.comm	__gnu_lto_v1,1,1
- 566              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ 545      20726576 
+ 545      6973696F 
+ 545      6E203232 
+ 545      31323230 
+ 546 0195 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 546      66756E63 
+ 546      74696F6E 
+ 546      2D736563 
+ 546      74696F6E 
+ 547 01c8 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 547      6F2D6F62 
+ 547      6A656374 
+ 547      73202D66 
+ 547      6E6F2D73 
+ 548              	.LASF15:
+ 549 01eb 73696F53 		.ascii	"sioState\000"
+ 549      74617465 
+ 549      00
+ 550              	.LASF6:
+ 551 01f4 6C6F6E67 		.ascii	"long long int\000"
+ 551      206C6F6E 
+ 551      6720696E 
+ 551      7400
+ 552              	.LASF11:
+ 553 0202 63686172 		.ascii	"char\000"
+ 553      00
+ 554              	.LASF2:
+ 555 0207 73686F72 		.ascii	"short int\000"
+ 555      7420696E 
+ 555      7400
+ 556              	.LASF14:
+ 557 0211 70635374 		.ascii	"pcState\000"
+ 557      61746500 
+ 558              	.LASF4:
+ 559 0219 6C6F6E67 		.ascii	"long int\000"
+ 559      20696E74 
+ 559      00
+ 560              	.LASF0:
+ 561 0222 7369676E 		.ascii	"signed char\000"
+ 561      65642063 
+ 561      68617200 
+ 562              	.LASF18:
+ 563 022e 5653454C 		.ascii	"VSEL2_P2_Sleep\000"
+ 563      325F5032 
+ 563      5F536C65 
+ 563      657000
+ 564              		.comm	__gnu_lto_v1,1,1
+ 565              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

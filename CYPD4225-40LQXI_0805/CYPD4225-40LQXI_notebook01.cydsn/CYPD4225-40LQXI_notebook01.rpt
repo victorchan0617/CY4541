@@ -1,25 +1,25 @@
-Loading plugins phase: Elapsed time ==> 0s.296ms
+Loading plugins phase: Elapsed time ==> 0s.343ms
 Initializing data phase: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="CyDsfit arguments...">
-cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -d CYPD4225-40LQXIT -s C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -d CYPD4225-40LQXIT -s C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
 <CYPRESSTAG name="Design elaboration results...">
 ADD: sdb.M0065: information: Analog terminal "VCONN_MON_P2.analog_0" on TopDesign is unconnected.
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2249)
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2037.1)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2249)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2037.1)
 
 ADD: sdb.M0065: information: Analog terminal "VCONN_MON_P1.analog_0" on TopDesign is unconnected.
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2248)
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2036.1)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2248)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2036.1)
 
 ADD: sdb.M0065: information: Analog terminal "VBUS_MON_P2.analog_0" on TopDesign is unconnected.
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2225)
- * C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2018.1)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_2225)
+ * C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\TopDesign\TopDesign.cysch (Shape_2018.1)
 
 </CYPRESSTAG>
-Elaboration phase: Elapsed time ==> 3s.483ms
+Elaboration phase: Elapsed time ==> 3s.766ms
 <CYPRESSTAG name="HDL generation results...">
 </CYPRESSTAG>
-HDL generation phase: Elapsed time ==> 0s.109ms
+HDL generation phase: Elapsed time ==> 0s.171ms
 <CYPRESSTAG name="Synthesis results...">
 
      | | | | | | |
@@ -37,23 +37,23 @@ HDL generation phase: Elapsed time ==> 0s.109ms
 ======================================================================
 Compiling:  CYPD4225-40LQXI_notebook01.v
 Program  :   C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
 ======================================================================
 
 ======================================================================
 Compiling:  CYPD4225-40LQXI_notebook01.v
 Program  :   C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
 ======================================================================
 
 ======================================================================
 Compiling:  CYPD4225-40LQXI_notebook01.v
 Program  :   vlogfe
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
 ======================================================================
 
 vlogfe V6.3 IR 41:  Verilog parser
-Tue Aug 27 10:48:34 2024
+Tue Aug 27 16:31:21 2024
 
 
 ======================================================================
@@ -63,7 +63,7 @@ Options  :    -yv2 -q10 CYPD4225-40LQXI_notebook01.v
 ======================================================================
 
 vpp V6.3 IR 41:  Verilog Pre-Processor
-Tue Aug 27 10:48:34 2024
+Tue Aug 27 16:31:21 2024
 
 Flattening file 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'
 Flattening file 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'
@@ -91,11 +91,11 @@ vlogfe:  No errors.
 ======================================================================
 Compiling:  CYPD4225-40LQXI_notebook01.v
 Program  :   tovif
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
 ======================================================================
 
 tovif V6.3 IR 41:  High-level synthesis
-Tue Aug 27 10:48:34 2024
+Tue Aug 27 16:31:21 2024
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -106,9 +106,9 @@ Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\c
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_cnst.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_genv.vif'.
-Linking 'C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.ctl'.
+Linking 'C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.ctl'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'.
-Linking 'C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.v'.
+Linking 'C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\or_v1_0\or_v1_0.v'.
 
@@ -118,11 +118,11 @@ tovif:  No errors.
 ======================================================================
 Compiling:  CYPD4225-40LQXI_notebook01.v
 Program  :   topld
-Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
+Options  :    -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 -verilog CYPD4225-40LQXI_notebook01.v
 ======================================================================
 
 topld V6.3 IR 41:  Synthesis and optimization
-Tue Aug 27 10:48:34 2024
+Tue Aug 27 16:31:21 2024
 
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\std.vhd'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\cypress.vhd'.
@@ -133,9 +133,9 @@ Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\c
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_cnst.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_mthv.vif'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\common\stdlogic\mod_genv.vif'.
-Linking 'C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.ctl'.
+Linking 'C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.ctl'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\ZeroTerminal\ZeroTerminal.v'.
-Linking 'C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.v'.
+Linking 'C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\codegentemp\CYPD4225-40LQXI_notebook01.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\or_v1_0\or_v1_0.v'.
 Linking 'C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\lib\lcpsoc3\stdlogic\cpsoc3.vif'.
@@ -285,13 +285,13 @@ topld:  No errors.
 
 CYPRESS_DIR    : C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp
 Warp Program   : C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\warp\bin/warp.exe
-Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya "-.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj" -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
+Warp Arguments : -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -dcpsoc3 CYPD4225-40LQXI_notebook01.v -verilog
 </CYPRESSTAG>
-Warp synthesis phase: Elapsed time ==> 0s.828ms
+Warp synthesis phase: Elapsed time ==> 0s.843ms
 <CYPRESSTAG name="Fitter results...">
 <CYPRESSTAG name="Fitter startup details...">
-cyp3fit: V3.3.0.9604, Family: PSoC3, Started at: Tuesday, 27 August 2024 10:48:34
-Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -d CYPD4225-40LQXIT CYPD4225-40LQXI_notebook01.v -verilog
+cyp3fit: V3.3.0.9604, Family: PSoC3, Started at: Tuesday, 27 August 2024 16:31:21
+Options: -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE -ya -.fftprj=C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\CYPD4225-40LQXI_notebook01.cyprj -d CYPD4225-40LQXIT CYPD4225-40LQXI_notebook01.v -verilog
 </CYPRESSTAG>
 <CYPRESSTAG name="Design parsing">
 Design parsing phase: Elapsed time ==> 0s.015ms
@@ -1256,8 +1256,8 @@ USB Power Delivery            :    0 :    2 :    2 :  0.00 %
 Serial Communication (SCB)    :    2 :    2 :    4 : 50.00 %
 Timer/Counter/PWM             :    1 :    3 :    4 : 25.00 %
 </CYPRESSTAG>
-Technology Mapping: Elapsed time ==> 0s.015ms
-Tech mapping phase: Elapsed time ==> 0s.031ms
+Technology Mapping: Elapsed time ==> 0s.031ms
+Tech mapping phase: Elapsed time ==> 0s.046ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Analog Placement">
 Analog Placement phase: Elapsed time ==> 0s.000ms
@@ -1292,10 +1292,10 @@ PLD Packing: Elapsed time ==> 0s.000ms
 Initial Partitioning Summary not displayed at this verbose level.</CYPRESSTAG>
 <CYPRESSTAG name="Final Partitioning Summary">
 Final Partitioning Summary not displayed at this verbose level.</CYPRESSTAG>
-Partitioning: Elapsed time ==> 0s.000ms
+Partitioning: Elapsed time ==> 0s.015ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Simulated Annealing">
-Annealing: Elapsed time ==> 0s.015ms
+Annealing: Elapsed time ==> 0s.000ms
 <CYPRESSTAG name="Simulated Annealing Results">
 The seed used for moves was 114161200.
 Inital cost was 3, final cost is 3 (0.00% improvement).</CYPRESSTAG>
@@ -2365,15 +2365,15 @@ Port | Pin | Fixed |      Type |       Drive Mode |                 Name | Conne
 </CYPRESSTAG>
 </CYPRESSTAG>
 Digital component placer commit/Report: Elapsed time ==> 0s.000ms
-Digital Placement phase: Elapsed time ==> 0s.421ms
+Digital Placement phase: Elapsed time ==> 0s.390ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Digital Routing">
 Info: pft.M0077: There is no timing information available for the selected device. Static timing checks will not be applied and digital routing will not be timing-driven. (App=cydsfit)
 Routing successful.
-Digital Routing phase: Elapsed time ==> 0s.296ms
+Digital Routing phase: Elapsed time ==> 0s.218ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream and API generation">
-Bitstream and API generation phase: Elapsed time ==> 0s.390ms
+Bitstream and API generation phase: Elapsed time ==> 0s.453ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Bitstream verification">
 Bitstream verification phase: Elapsed time ==> 0s.031ms
@@ -2386,11 +2386,11 @@ Static timing analysis phase: Elapsed time ==> 0s.000ms
 Data reporting phase: Elapsed time ==> 0s.000ms
 </CYPRESSTAG>
 <CYPRESSTAG name="Database update...">
-Design database save phase: Elapsed time ==> 0s.249ms
+Design database save phase: Elapsed time ==> 0s.218ms
 </CYPRESSTAG>
-cydsfit: Elapsed time ==> 1s.468ms
+cydsfit: Elapsed time ==> 1s.405ms
 </CYPRESSTAG>
-Fitter phase: Elapsed time ==> 1s.515ms
-API generation phase: Elapsed time ==> 3s.530ms
-Dependency generation phase: Elapsed time ==> 0s.015ms
+Fitter phase: Elapsed time ==> 1s.452ms
+API generation phase: Elapsed time ==> 4s.265ms
+Dependency generation phase: Elapsed time ==> 0s.093ms
 Cleanup phase: Elapsed time ==> 0s.015ms

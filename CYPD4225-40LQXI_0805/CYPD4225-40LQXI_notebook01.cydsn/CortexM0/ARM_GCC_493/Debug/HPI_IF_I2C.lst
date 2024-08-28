@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,14 +16,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   13              		.file	"HPI_IF_I2C.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.91bc9478,"",%progbits
+  16              		.section	.gnu.lto_.profile.92f66fe7,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\006+Y\000\001\005\000`"
   17      60606061 
   17      80004606 
   17      2B590001 
   17      050060
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.91bc9478,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.92f66fe7,"",%progbits
   20 0000 789C6366 		.ascii	"x\234cf\300\016b\2404\023\0103}db\274qb\272\351\013"
   20      C00E62A0 
   20      34130833 
@@ -47,7 +47,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   24      01EE7E18 
   24      55
   25              		.text
-  26              		.section	.gnu.lto_.inline.91bc9478,"",%progbits
+  26              		.section	.gnu.lto_.inline.92f66fe7,"",%progbits
   27 0000 789C6366 		.ascii	"x\234cf\300\016l\2414\023\003\203\2549#\003\223\312"
   27      C00E6CA1 
   27      34130383 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   28      4082CC3C 
   28      600928C5 
   28      C4CD
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 2
 
 
   29 0024 C0C0C8C0 		.ascii	"\300\300\310\300\316\300\302\014T\307t\201\037\256\214"
@@ -68,14 +68,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   30 0033 0100A8EE 		.ascii	"\001\000\250\356\004\251"
   30      04A9
   31              		.text
-  32              		.section	.gnu.lto_.pureconst.91bc9478,"",%progbits
+  32              		.section	.gnu.lto_.pureconst.92f66fe7,"",%progbits
   33 0000 789C6366 		.ascii	"x\234cf```e\200\000&\006)v)\000\001\005\000F"
   33      60606065 
   33      80002606 
   33      29762900 
   33      01050046 
   34              		.text
-  35              		.section	.gnu.lto_HPI_IF_I2CInit.91bc9478,"",%progbits
+  35              		.section	.gnu.lto_HPI_IF_I2CInit.92f66fe7,"",%progbits
   36 0000 789C75D5 		.ascii	"x\234u\325\313O\023A\030\000\360\371f\013m)\005\343"
   36      CB4F1341 
   36      1800F0F9 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   43      5D
   44 0095 88765A75 		.ascii	"\210vZuoL8\022\335\264\323\026\321\006\367 \021\350"
   44      6F4C3812 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 3
 
 
   44      DDB4D316 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   55      E1C7
   56 0168 029675A3 		.ascii	"\002\226u\243\025\207'\306h'$JZ~\014\3632\201\327@\353"
   56      158727C6 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 4
 
 
   56      6827244A 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   67      73395EC9 
   67      72BC66E5 
   68 0244 30567EE8 		.ascii	"0V~\350\213T<S_\307\304_^d(w\177_ZO6+]R\3516+\215+R"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 5
 
 
   68      8B543C53 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   79      4CFE9524 
   79      953E9BD2 
   79      9378D7FE 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 6
 
 
   79      9744
@@ -326,7 +326,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   84      457F0037 
   84      D6A876
   85              		.text
-  86              		.section	.gnu.lto_HPI_IF_I2CStop.91bc9478,"",%progbits
+  86              		.section	.gnu.lto_HPI_IF_I2CStop.92f66fe7,"",%progbits
   87 0000 789C6366 		.ascii	"x\234cf\300\004R@|\017\2105\200\230\221\231\201\221"
   87      C0045240 
   87      7C0F8835 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   92      66616660 
   92      78029403 
   93 0072 59F09489 		.ascii	"Y\360\224\211\011D3\337b<\364a\303\265%\254 \345@c\346"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 7
 
 
   93      094433DF 
@@ -402,7 +402,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  101 0109 F5921900 		.ascii	"\365\222\031\000y\375^\303"
  101      79FD5EC3 
  102              		.text
- 103              		.section	.gnu.lto_.symbol_nodes.91bc9478,"",%progbits
+ 103              		.section	.gnu.lto_.symbol_nodes.92f66fe7,"",%progbits
  104 0000 789C558B 		.ascii	"x\234U\2131\016\202@\024\005g\377\337\325]*o\340Q\037"
  104      310E8240 
  104      140567FF 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  106      18179098 
  106      1F9970
  107 0035 113FA71D 		.ascii	"\021?\247\0352\011\236&\3225\334*\263m,\276\261\211"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 8
 
 
  107      32099E26 
@@ -435,7 +435,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  109      EFFA7C00 
  109      3FFE2107 
  110              		.text
- 111              		.section	.gnu.lto_.refs.91bc9478,"",%progbits
+ 111              		.section	.gnu.lto_.refs.92f66fe7,"",%progbits
  112 0000 789C6366 		.ascii	"x\234cf``\220b\200\0006\006&F.F&AFf!F\026aFV\021F6Q"
  112      60609062 
  112      80003606 
@@ -445,7 +445,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  113      4606000B 
  113      FA00B5
  114              		.text
- 115              		.section	.gnu.lto_.decls.91bc9478,"",%progbits
+ 115              		.section	.gnu.lto_.decls.92f66fe7,"",%progbits
  116 0000 789C8D95 		.ascii	"x\234\215\225\177LSW\024\307\337\355\245\005\332\007"
  116      7F4C5357 
  116      14C7DFED 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  122      7BC51CC7 
  122      2D471C27 
  122      C1158CE5 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 9
 
 
  122      B8
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  133      B3B4
  134 0145 841BF1E8 		.ascii	"\204\033\361\350\034Z\303\311\037!\336\375`\272\034"
  134      1C5AC3C9 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 10
 
 
  134      1F21DEFD 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  145      27B13077 
  146 021d 7368CD4A 		.ascii	"sh\315J\364\026To\201\352\311zZ\000]\002K^\260D<\004"
  146      F416546F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 11
 
 
  146      81EAC97A 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  157      D444CD77 
  157      A74A5264 
  157      0F240375 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 12
 
 
  157      A92C7429 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  169 03c8 11EBC020 		.ascii	"\021\353\300 x\273\315:\020y_\336f=\030\242=(\236\015"
  169      78BBCD3A 
  169      10795FDE 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 13
 
 
  169      663D18A2 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  181 04a4 3A97B825 		.ascii	":\227\270%\303\230e\334\224e\\\227\236e\314\334\226"
  181      C39865DC 
  181      94655C97 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 14
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 14
 
 
  181      9E65CCDC 
@@ -836,9 +836,9 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  192      EBFE03A4 
  192      F7155C
  193              		.text
- 194              		.section	.gnu.lto_.symtab.91bc9478,"",%progbits
+ 194              		.section	.gnu.lto_.symtab.92f66fe7,"",%progbits
  195 0000 4850495F 		.ascii	"HPI_IF_I2CInit\000\000\000\000\000\000\000\000\000\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 15
 
 
  195      49465F49 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  206      00000000 
  206      0000
  207 00fc 00DA0000 		.ascii	"\000\332\000\000\000CyIntSetVector\000\000\002\000\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 16
 
 
  207      00437949 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
    4:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** *
    5:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** * Description:
    6:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** *  This file provides the source code to the API for the SCB Component in
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 17
 
 
    7:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** *  I2C mode.
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
   61:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     *
   62:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     * Return:
   63:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     *  None
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 18
 
 
   64:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     *
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  118:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****                                             HPI_IF_GET_CTRL_ADDR_ACCEPT(config->acceptAddr)     |
  119:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****                                             HPI_IF_GET_CTRL_EC_AM_MODE (locEnableWake);
  120:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 19
 
 
  121:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****             HPI_IF_I2C_CTRL_REG = HPI_IF_GET_I2C_CTRL_HIGH_PHASE_OVS(config->oversampleHigh) |
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  175:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****             HPI_IF_mstrRdBufIndex = 0u;
  176:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****             HPI_IF_mstrWrBufIndex = 0u;
  177:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****         }
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 20
 
 
  178:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     }
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  244              		.loc 1 215 0
  245 000c 1C49     		ldr	r1, .L2+12
  208:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 21
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 21
 
 
  246              		.loc 1 208 0
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  256:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****     }
  257              		.loc 1 256 0
  258              		@ sp needed
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 22
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 22
 
 
  212:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  240:.\Generated_Source\PSoC4/HPI_IF_I2C.c **** 
  299              		.loc 1 240 0
  300 004e 3C3A     		sub	r2, r2, #60
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 23
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 23
 
 
  235:.\Generated_Source\PSoC4/HPI_IF_I2C.c ****         HPI_IF_INTR_RX_MASK_REG     = HPI_IF_I2C_DEFAULT_INTR_RX_MASK;
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  345 00a8 480F0540 		.word	1074073416
  346 00ac 080F0540 		.word	1074073352
  347 00b0 C80F0540 		.word	1074073544
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 24
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 24
 
 
  348 00b4 880F0540 		.word	1074073480
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  380              		.cfi_endproc
  381              	.LFE1:
  382              		.size	HPI_IF_I2CStop, .-HPI_IF_I2CStop
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 25
 
 
  383              		.comm	HPI_IF_state,1,1
@@ -1454,17 +1454,17 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  393 0006 00000000 		.4byte	.Ldebug_abbrev0
  394 000a 04       		.byte	0x4
  395 000b 01       		.uleb128 0x1
- 396 000c DC000000 		.4byte	.LASF25
+ 396 000c 33010000 		.4byte	.LASF25
  397 0010 01       		.byte	0x1
- 398 0011 33020000 		.4byte	.LASF26
- 399 0015 A5010000 		.4byte	.LASF27
+ 398 0011 25020000 		.4byte	.LASF26
+ 399 0015 92000000 		.4byte	.LASF27
  400 0019 00000000 		.4byte	.Ldebug_ranges0+0
  401 001d 00000000 		.4byte	0
  402 0021 00000000 		.4byte	.Ldebug_line0
  403 0025 02       		.uleb128 0x2
  404 0026 01       		.byte	0x1
  405 0027 06       		.byte	0x6
- 406 0028 A1020000 		.4byte	.LASF0
+ 406 0028 93020000 		.4byte	.LASF0
  407 002c 02       		.uleb128 0x2
  408 002d 01       		.byte	0x1
  409 002e 08       		.byte	0x8
@@ -1472,7 +1472,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  411 0033 02       		.uleb128 0x2
  412 0034 02       		.byte	0x2
  413 0035 05       		.byte	0x5
- 414 0036 59020000 		.4byte	.LASF2
+ 414 0036 4B020000 		.4byte	.LASF2
  415 003a 02       		.uleb128 0x2
  416 003b 02       		.byte	0x2
  417 003c 07       		.byte	0x7
@@ -1480,7 +1480,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  419 0041 02       		.uleb128 0x2
  420 0042 04       		.byte	0x4
  421 0043 05       		.byte	0x5
- 422 0044 81020000 		.4byte	.LASF4
+ 422 0044 73020000 		.4byte	.LASF4
  423 0048 02       		.uleb128 0x2
  424 0049 04       		.byte	0x4
  425 004a 07       		.byte	0x7
@@ -1488,29 +1488,29 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  427 004f 02       		.uleb128 0x2
  428 0050 08       		.byte	0x8
  429 0051 05       		.byte	0x5
- 430 0052 13020000 		.4byte	.LASF6
+ 430 0052 05020000 		.4byte	.LASF6
  431 0056 02       		.uleb128 0x2
  432 0057 08       		.byte	0x8
  433 0058 07       		.byte	0x7
- 434 0059 C5000000 		.4byte	.LASF7
+ 434 0059 1C010000 		.4byte	.LASF7
  435 005d 03       		.uleb128 0x3
  436 005e 04       		.byte	0x4
  437 005f 05       		.byte	0x5
  438 0060 696E7400 		.ascii	"int\000"
  439 0064 02       		.uleb128 0x2
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 26
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 26
 
 
  440 0065 04       		.byte	0x4
  441 0066 07       		.byte	0x7
- 442 0067 A9000000 		.4byte	.LASF8
+ 442 0067 00010000 		.4byte	.LASF8
  443 006b 04       		.uleb128 0x4
  444 006c 5D000000 		.4byte	.LASF9
  445 0070 02       		.byte	0x2
  446 0071 9801     		.2byte	0x198
  447 0073 2C000000 		.4byte	0x2c
  448 0077 04       		.uleb128 0x4
- 449 0078 A2000000 		.4byte	.LASF10
+ 449 0078 F9000000 		.4byte	.LASF10
  450 007c 02       		.byte	0x2
  451 007d 9A01     		.2byte	0x19a
  452 007f 48000000 		.4byte	0x48
@@ -1525,7 +1525,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  461 0091 02       		.uleb128 0x2
  462 0092 01       		.byte	0x1
  463 0093 08       		.byte	0x8
- 464 0094 21020000 		.4byte	.LASF13
+ 464 0094 13020000 		.4byte	.LASF13
  465 0098 05       		.uleb128 0x5
  466 0099 6B000000 		.4byte	0x6b
  467 009d 04       		.uleb128 0x4
@@ -1536,7 +1536,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  472 00a9 05       		.uleb128 0x5
  473 00aa 77000000 		.4byte	0x77
  474 00ae 04       		.uleb128 0x4
- 475 00af 98010000 		.4byte	.LASF15
+ 475 00af EF010000 		.4byte	.LASF15
  476 00b3 02       		.byte	0x2
  477 00b4 5402     		.2byte	0x254
  478 00b6 BA000000 		.4byte	0xba
@@ -1547,9 +1547,9 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  483 00c1 02       		.uleb128 0x2
  484 00c2 04       		.byte	0x4
  485 00c3 07       		.byte	0x7
- 486 00c4 0A020000 		.4byte	.LASF16
+ 486 00c4 FC010000 		.4byte	.LASF16
  487 00c8 08       		.uleb128 0x8
- 488 00c9 B6000000 		.4byte	.LASF28
+ 488 00c9 0D010000 		.4byte	.LASF28
  489 00cd 01       		.byte	0x1
  490 00ce C4       		.byte	0xc4
  491 00cf 00000000 		.4byte	.LFB0
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  494 00d8 9C       		.byte	0x9c
  495 00d9 18010000 		.4byte	0x118
  496 00dd 09       		.uleb128 0x9
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 27
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 27
 
 
  497 00de 2C000000 		.4byte	.LVL0
@@ -1604,7 +1604,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  537 0128 01       		.uleb128 0x1
  538 0129 9C       		.byte	0x9c
  539 012a 0D       		.uleb128 0xd
- 540 012b 74020000 		.4byte	.LASF17
+ 540 012b 66020000 		.4byte	.LASF17
  541 012f 01       		.byte	0x1
  542 0130 1A       		.byte	0x1a
  543 0131 98000000 		.4byte	0x98
@@ -1612,13 +1612,13 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  545 0136 03       		.byte	0x3
  546 0137 00000000 		.4byte	HPI_IF_state
  547 013b 0E       		.uleb128 0xe
- 548 013c 92000000 		.4byte	.LASF18
+ 548 013c E9000000 		.4byte	.LASF18
  549 0140 03       		.byte	0x3
  550 0141 20       		.byte	0x20
  551 0142 98000000 		.4byte	0x98
  552 0146 0E       		.uleb128 0xe
  553 0147 7E000000 		.4byte	.LASF19
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 28
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 28
 
 
  554 014b 03       		.byte	0x3
@@ -1630,12 +1630,12 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  560 0157 2A       		.byte	0x2a
  561 0158 A9000000 		.4byte	0xa9
  562 015c 0E       		.uleb128 0xe
- 563 015d 8A020000 		.4byte	.LASF21
+ 563 015d 7C020000 		.4byte	.LASF21
  564 0161 03       		.byte	0x3
  565 0162 2C       		.byte	0x2c
  566 0163 98000000 		.4byte	0x98
  567 0167 0F       		.uleb128 0xf
- 568 0168 26020000 		.4byte	.LASF22
+ 568 0168 18020000 		.4byte	.LASF22
  569 016c 04       		.byte	0x4
  570 016d C3       		.byte	0xc3
  571 016e 78010000 		.4byte	0x178
@@ -1643,7 +1643,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  573 0173 6B000000 		.4byte	0x6b
  574 0177 00       		.byte	0
  575 0178 0F       		.uleb128 0xf
- 576 0179 63020000 		.4byte	.LASF23
+ 576 0179 55020000 		.4byte	.LASF23
  577 017d 04       		.byte	0x4
  578 017e BE       		.byte	0xbe
  579 017f 8E010000 		.4byte	0x18e
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  608 000a 0E       		.uleb128 0xe
  609 000b 55       		.uleb128 0x55
  610 000c 17       		.uleb128 0x17
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 29
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 29
 
 
  611 000d 11       		.uleb128 0x11
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  665 0043 13       		.uleb128 0x13
  666 0044 00       		.byte	0
  667 0045 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 30
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 30
 
 
  668 0046 07       		.uleb128 0x7
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  722 0084 01       		.byte	0x1
  723 0085 11       		.uleb128 0x11
  724 0086 01       		.uleb128 0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 31
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 31
 
 
  725 0087 31       		.uleb128 0x31
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  779 00be 13       		.uleb128 0x13
  780 00bf 3F       		.uleb128 0x3f
  781 00c0 19       		.uleb128 0x19
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 32
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 32
 
 
  782 00c1 3C       		.uleb128 0x3c
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  836 000a 04       		.byte	0x4
  837 000b 00       		.byte	0
  838 000c 0000     		.2byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 33
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 33
 
 
  839 000e 0000     		.2byte	0
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  870      7400
  871              	.LASF9:
  872 005d 75696E74 		.ascii	"uint8\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 34
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 34
 
 
  872      3800
@@ -1997,126 +1997,124 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 1
  878      6C577242 
  878      7566496E 
  878      64657800 
- 879              	.LASF18:
- 880 0092 4850495F 		.ascii	"HPI_IF_slStatus\000"
- 880      49465F73 
- 880      6C537461 
- 880      74757300 
- 881              	.LASF10:
- 882 00a2 75696E74 		.ascii	"uint32\000"
- 882      333200
- 883              	.LASF8:
- 884 00a9 756E7369 		.ascii	"unsigned int\000"
- 884      676E6564 
- 884      20696E74 
- 884      00
- 885              	.LASF28:
- 886 00b6 4850495F 		.ascii	"HPI_IF_I2CInit\000"
- 886      49465F49 
- 886      3243496E 
- 886      697400
- 887              	.LASF7:
- 888 00c5 6C6F6E67 		.ascii	"long long unsigned int\000"
- 888      206C6F6E 
- 888      6720756E 
- 888      7369676E 
- 888      65642069 
- 889              	.LASF25:
- 890 00dc 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
- 890      4320342E 
- 890      392E3320 
- 890      32303135 
- 890      30333033 
- 891 010f 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
- 891      20726576 
- 891      6973696F 
- 891      6E203232 
- 891      31323230 
- 892 0142 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
- 892      66756E63 
- 892      74696F6E 
- 892      2D736563 
- 892      74696F6E 
- 893 0175 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 35
+ 879              	.LASF27:
+ 880 0092 433A5C76 		.ascii	"C:\\victor0617\\github_code\\CY4541\\CYPD4225-40LQX"
+ 880      6963746F 
+ 880      72303631 
+ 880      375C6769 
+ 880      74687562 
+ 881 00c1 495F3038 		.ascii	"I_0805\\CYPD4225-40LQXI_notebook01.cydsn\000"
+ 881      30355C43 
+ 881      59504434 
+ 881      3232352D 
+ 881      34304C51 
+ 882              	.LASF18:
+ 883 00e9 4850495F 		.ascii	"HPI_IF_slStatus\000"
+ 883      49465F73 
+ 883      6C537461 
+ 883      74757300 
+ 884              	.LASF10:
+ 885 00f9 75696E74 		.ascii	"uint32\000"
+ 885      333200
+ 886              	.LASF8:
+ 887 0100 756E7369 		.ascii	"unsigned int\000"
+ 887      676E6564 
+ 887      20696E74 
+ 887      00
+ 888              	.LASF28:
+ 889 010d 4850495F 		.ascii	"HPI_IF_I2CInit\000"
+ 889      49465F49 
+ 889      3243496E 
+ 889      697400
+ 890              	.LASF7:
+ 891 011c 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 891      206C6F6E 
+ 891      6720756E 
+ 891      7369676E 
+ 891      65642069 
+ 892              	.LASF25:
+ 893 0133 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 893      4320342E 
+ 893      392E3320 
+ 893      32303135 
+ 893      30333033 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 35
 
 
- 893      6F2D6F62 
- 893      6A656374 
- 893      73202D66 
- 893      6E6F2D73 
- 894              	.LASF15:
- 895 0198 63796973 		.ascii	"cyisraddress\000"
- 895      72616464 
- 895      72657373 
- 895      00
- 896              	.LASF27:
- 897 01a5 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
- 897      73657273 
- 897      5C766963 
- 897      746F5C4F 
- 897      6E654472 
- 898 01d3 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
- 898      44343232 
- 898      352D3430 
- 898      4C515849 
- 898      5F303830 
- 899 0204 63796473 		.ascii	"cydsn\000"
- 899      6E00
- 900              	.LASF16:
- 901 020a 73697A65 		.ascii	"sizetype\000"
- 901      74797065 
- 901      00
- 902              	.LASF6:
- 903 0213 6C6F6E67 		.ascii	"long long int\000"
- 903      206C6F6E 
- 903      6720696E 
- 903      7400
- 904              	.LASF13:
- 905 0221 63686172 		.ascii	"char\000"
- 905      00
- 906              	.LASF22:
- 907 0226 4379496E 		.ascii	"CyIntDisable\000"
- 907      74446973 
- 907      61626C65 
- 907      00
- 908              	.LASF26:
- 909 0233 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\HPI_IF_I2C.c\000"
- 909      6E657261 
- 909      7465645F 
- 909      536F7572 
- 909      63655C50 
- 910              	.LASF2:
- 911 0259 73686F72 		.ascii	"short int\000"
- 911      7420696E 
- 911      7400
- 912              	.LASF23:
- 913 0263 4379496E 		.ascii	"CyIntSetPriority\000"
- 913      74536574 
- 913      5072696F 
- 913      72697479 
- 913      00
- 914              	.LASF17:
- 915 0274 4850495F 		.ascii	"HPI_IF_state\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccXXrNt3.s 			page 36
+ 894 0166 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 894      20726576 
+ 894      6973696F 
+ 894      6E203232 
+ 894      31323230 
+ 895 0199 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 895      66756E63 
+ 895      74696F6E 
+ 895      2D736563 
+ 895      74696F6E 
+ 896 01cc 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 896      6F2D6F62 
+ 896      6A656374 
+ 896      73202D66 
+ 896      6E6F2D73 
+ 897              	.LASF15:
+ 898 01ef 63796973 		.ascii	"cyisraddress\000"
+ 898      72616464 
+ 898      72657373 
+ 898      00
+ 899              	.LASF16:
+ 900 01fc 73697A65 		.ascii	"sizetype\000"
+ 900      74797065 
+ 900      00
+ 901              	.LASF6:
+ 902 0205 6C6F6E67 		.ascii	"long long int\000"
+ 902      206C6F6E 
+ 902      6720696E 
+ 902      7400
+ 903              	.LASF13:
+ 904 0213 63686172 		.ascii	"char\000"
+ 904      00
+ 905              	.LASF22:
+ 906 0218 4379496E 		.ascii	"CyIntDisable\000"
+ 906      74446973 
+ 906      61626C65 
+ 906      00
+ 907              	.LASF26:
+ 908 0225 2E5C4765 		.ascii	".\\Generated_Source\\PSoC4\\HPI_IF_I2C.c\000"
+ 908      6E657261 
+ 908      7465645F 
+ 908      536F7572 
+ 908      63655C50 
+ 909              	.LASF2:
+ 910 024b 73686F72 		.ascii	"short int\000"
+ 910      7420696E 
+ 910      7400
+ 911              	.LASF23:
+ 912 0255 4379496E 		.ascii	"CyIntSetPriority\000"
+ 912      74536574 
+ 912      5072696F 
+ 912      72697479 
+ 912      00
+ 913              	.LASF17:
+ 914 0266 4850495F 		.ascii	"HPI_IF_state\000"
+ 914      49465F73 
+ 914      74617465 
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccHL4BD5.s 			page 36
 
 
- 915      49465F73 
- 915      74617465 
- 915      00
- 916              	.LASF4:
- 917 0281 6C6F6E67 		.ascii	"long int\000"
- 917      20696E74 
- 917      00
- 918              	.LASF21:
- 919 028a 4850495F 		.ascii	"HPI_IF_slOverFlowCount\000"
- 919      49465F73 
- 919      6C4F7665 
- 919      72466C6F 
- 919      77436F75 
- 920              	.LASF0:
- 921 02a1 7369676E 		.ascii	"signed char\000"
- 921      65642063 
- 921      68617200 
- 922              		.comm	__gnu_lto_v1,1,1
- 923              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ 914      00
+ 915              	.LASF4:
+ 916 0273 6C6F6E67 		.ascii	"long int\000"
+ 916      20696E74 
+ 916      00
+ 917              	.LASF21:
+ 918 027c 4850495F 		.ascii	"HPI_IF_slOverFlowCount\000"
+ 918      49465F73 
+ 918      6C4F7665 
+ 918      72466C6F 
+ 918      77436F75 
+ 919              	.LASF0:
+ 920 0293 7369676E 		.ascii	"signed char\000"
+ 920      65642063 
+ 920      68617200 
+ 921              		.comm	__gnu_lto_v1,1,1
+ 922              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

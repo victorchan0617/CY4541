@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,14 +16,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   13              		.file	"MUX_CTRL_SCBCLK.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.91bca17f,"",%progbits
+  16              		.section	.gnu.lto_.profile.92f6502b,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```a\200\000F\0069I\000\000\311\000@"
   17      60606061 
   17      80004606 
   17      39490000 
   17      C90040
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.91bca17f,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.92f6502b,"",%progbits
   20 0000 789C6366 		.ascii	"x\234cf\300\016\304\2414+\003##c=#\003\003\023\023#"
   20      C00EC4A1 
   20      342B0323 
@@ -34,7 +34,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   21      50180016 
   21      5201B1
   22              		.text
-  23              		.section	.gnu.lto_.inline.91bca17f,"",%progbits
+  23              		.section	.gnu.lto_.inline.92f6502b,"",%progbits
   24 0000 789C6D8B 		.ascii	"x\234m\213\273\025\2000\014\003eG\201\020\012FH\303"
   24      BB158030 
   24      0C036547 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   28      75BE901E 
   28      035D4CFE 
   28      141069A2 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 2
 
 
   28      9D
@@ -67,7 +67,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   29      094D830B 
   29      E7
   30              		.text
-  31              		.section	.gnu.lto_.pureconst.91bca17f,"",%progbits
+  31              		.section	.gnu.lto_.pureconst.92f6502b,"",%progbits
   32 0000 789C6366 		.ascii	"x\234cf``\340f\200\000V\006)F)&)f)\026\006\000\003\374"
   32      6060E066 
   32      80005606 
@@ -75,7 +75,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   32      29662916 
   33 0018 0086     		.ascii	"\000\206"
   34              		.text
-  35              		.section	.gnu.lto_MUX_CTRL_SCBCLK_StartEx.91bca17f,"",%progbits
+  35              		.section	.gnu.lto_MUX_CTRL_SCBCLK_StartEx.92f6502b,"",%progbits
   36 0000 789C6551 		.ascii	"x\234eQMHTQ\024>\337\275\357\276y4\006\321*\\\265\021"
   36      4D485451 
   36      143EDFBD 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   44      BD119ADC 
   44      E197B0
   45 00a6 083C4727 		.ascii	"\010<G'c\226\367\266\243\2432\001\342\367\333\342N9"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 3
 
 
   45      6396F7B6 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   56      B696
   57 0176 AB7C5396 		.ascii	"\253|S\226\245v\205\303\304\247S\217\012\312\020=\217"
   57      A57685C3 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 4
 
 
   57      C4A7538F 
@@ -216,7 +216,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   64      056240CA 
   64      DB
   65              		.text
-  66              		.section	.gnu.lto_MUX_CTRL_SCBCLK_Stop.91bca17f,"",%progbits
+  66              		.section	.gnu.lto_MUX_CTRL_SCBCLK_Stop.92f6502b,"",%progbits
   67 0000 789C6590 		.ascii	"x\234e\220\275KBQ\030\306\337\367\334{UR(\232\304\177"
   67      BD4B4251 
   67      18C6DFF7 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   70      85C2
   71 004b DED36D30 		.ascii	"\336\323m0:p\276\336\363\274\317\363\343H\360\177\014"
   71      3A70BEDE 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 5
 
 
   71      F3BCCFF3 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   82      42BB1B01 
   82      E191E804 
   83 011f 41A700FD 		.ascii	"A\247\000\375\024\326\230,\360\010\253\321x)\271EW{"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 6
 
 
   83      14D6982C 
@@ -327,7 +327,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   88      25E01BF2 
   88      909062
   89              		.text
-  90              		.section	.gnu.lto_MUX_CTRL_SCBCLK_SetFractionalDividerRegister.91bca17f,"",%progbits
+  90              		.section	.gnu.lto_MUX_CTRL_SCBCLK_SetFractionalDividerRegister.92f6502b,"",%progbits
   91 0000 789C7552 		.ascii	"x\234uR]HSa\030\376\336\357lgg?\205te\273)\220!Q\330"
   91      5D485361 
   91      18FEDEEF 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   96      E00E0A03 
   96      5E3FC998 
   97 0072 5FE30074 		.ascii	"_\343\000t`\300\2528T\301g\036\347P\037\356l\264f\267"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 7
 
 
   97      60C0AA38 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  108      E4786075 
  108      C6AA
  109 0151 06D0CB0C 		.ascii	"\006\320\313\014\270\017Y\320\017Y\322Kx\000*0\306\327"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 8
 
 
  109      B80F59D0 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  120      A9F67AAD 
  120      280B82E0 
  120      B0CB4AA3 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 9
 
 
  120      6B29
@@ -520,7 +520,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  128      0B9AB747 
  128      DC
  129              		.text
- 130              		.section	.gnu.lto_MUX_CTRL_SCBCLK_GetDividerRegister.91bca17f,"",%progbits
+ 130              		.section	.gnu.lto_MUX_CTRL_SCBCLK_GetDividerRegister.92f6502b,"",%progbits
  131 0000 789C658E 		.ascii	"x\234e\216\275K\003A\020\305\347\355]B\210\026\3012"
  131      BD4B0341 
  131      10C5E7ED 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  133      B3B2B2
  134 0038 11AD4488 		.ascii	"\021\255D\210X\230@\304\023B\002\332\031.\250)$\356"
  134      589840C4 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 10
 
 
  134      134202DA 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  145      051F
  146 0110 27F80304 		.ascii	"'\370\003\004[\232+\3109K%;\350\271Ti$\007\370S\304"
  146      5B9A2BC8 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 11
 
 
  146      394B253B 
@@ -617,7 +617,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  149 014e D124FD02 		.ascii	"\321$\375\002<\306\177\325"
  149      3CC67FD5 
  150              		.text
- 151              		.section	.gnu.lto_MUX_CTRL_SCBCLK_GetFractionalDividerRegister.91bca17f,"",%progbits
+ 151              		.section	.gnu.lto_MUX_CTRL_SCBCLK_GetFractionalDividerRegister.92f6502b,"",%progbits
  152 0000 789C6366 		.ascii	"x\234cf\300\004R@<\001\210u\201\230\221\231\201\221"
  152      C0045240 
  152      3C018875 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  159      458E174C 
  159      3FC1
  160 0096 06AC6404 		.ascii	"\006\254d\004Y\360\204\211\021\244\020(\242\255\027"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 12
 
 
  160      59F08489 
@@ -678,7 +678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  163      00
  164 00d0 DDB3446A 		.ascii	"\335\263Dj"
  165              		.text
- 166              		.section	.gnu.lto_.symbol_nodes.91bca17f,"",%progbits
+ 166              		.section	.gnu.lto_.symbol_nodes.92f6502b,"",%progbits
  167 0000 789C55C7 		.ascii	"x\234U\3071\021\000 \014\004\301\313\207\002}\030z\013"
  167      31110020 
  167      0C04C1CB 
@@ -694,13 +694,13 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  169      056C4115 
  169      19
  170              		.text
- 171              		.section	.gnu.lto_.refs.91bca17f,"",%progbits
+ 171              		.section	.gnu.lto_.refs.92f6502b,"",%progbits
  172 0000 789C6366 		.ascii	"x\234cf```d\200\002\000\000=\000\005"
  172      60606064 
  172      80020000 
  172      3D0005
  173              		.text
- 174              		.section	.gnu.lto_.decls.91bca17f,"",%progbits
+ 174              		.section	.gnu.lto_.decls.92f6502b,"",%progbits
  175 0000 789C8D54 		.ascii	"x\234\215ToL[U\024\277\347\335\376\241o\265.\306\200"
  175      6F4C5B55 
  175      14BFE7DD 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  177      E6
  178 0036 9AB9CCAE 		.ascii	"\232\271\314\256B\250\030\034\0212q8V\005\013l\010e"
  178      42A8181C 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 13
 
 
  178      11327138 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  189      C2939026 
  189      683871F6 
  189      8819
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 14
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 14
 
 
  190 0119 3185B270 		.ascii	"1\205\262p\177\376h\245\313\"\\~\351\017cH\272\331\334"
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  201      E30A25B9 
  201      06
  202 01e9 0457FB9D 		.ascii	"\004W\373\235?\206-\364=\000}\343\035Z\343[o\304\373"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 15
 
 
  202      3F862DF4 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  213      9C1756CD 
  213      42E8C8D2 
  213      8244C735 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 16
 
 
  213      CA
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  225      ACA23FFC 
  225      DFB4D755 
  225      E7
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 17
 
 
  226 0392 D9546A2A 		.ascii	"\331Tj*{}\273\303I\012\313\224:\305]\355QvVU\324\357"
@@ -1002,7 +1002,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  234      02922326 
  234      D7
  235              		.text
- 236              		.section	.gnu.lto_.symtab.91bca17f,"",%progbits
+ 236              		.section	.gnu.lto_.symtab.92f6502b,"",%progbits
  237 0000 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_StartEx\000\000\000\000\000\000\000"
  237      4354524C 
  237      5F534342 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  239      00000000 
  239      00000000 
  239      00
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 18
 
 
  240 0047 B7000000 		.ascii	"\267\000\000\000MUX_CTRL_SCBCLK_SetFractionalDivide"
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  258              		.code	16
  259              		.thumb_func
  260              		.type	MUX_CTRL_SCBCLK_StartEx, %function
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 19
 
 
  261              	MUX_CTRL_SCBCLK_StartEx:
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   43:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     {
   44:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     }
   45:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 20
 
 
   46:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     /* Specify the target divider and it's alignment divider, and enable. */
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
   73:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     MUX_CTRL_SCBCLK_ENABLE_REG |= MUX_CTRL_SCBCLK__ENABLE_MASK;
   74:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c **** }
   75:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 21
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 21
 
 
   76:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c **** #endif /* CYREG_PERI_DIV_CMD */
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  312 000a 1A60     		str	r2, [r3]
  313              		.loc 1 115 0
  314 000c 7047     		bx	lr
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 22
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 22
 
 
  315              	.L9:
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  336              		.loc 1 142 0
  337 0002 0723     		mov	r3, #7
  135:.\Generated_Source\PSoC4/MUX_CTRL_SCBCLK.c ****     uint32 maskVal;
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 23
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 23
 
 
  338              		.loc 1 135 0
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  376              		.section	.text.MUX_CTRL_SCBCLK_GetDividerRegister,"ax",%progbits
  377              		.align	1
  378              		.global	MUX_CTRL_SCBCLK_GetDividerRegister
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 24
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 24
 
 
  379              		.code	16
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  408              		.code	16
  409              		.thumb_func
  410              		.type	MUX_CTRL_SCBCLK_GetFractionalDividerRegister, %function
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 25
 
 
  411              	MUX_CTRL_SCBCLK_GetFractionalDividerRegister:
@@ -1489,20 +1489,20 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  429 0006 00000000 		.4byte	.Ldebug_abbrev0
  430 000a 04       		.byte	0x4
  431 000b 01       		.uleb128 0x1
- 432 000c 3F010000 		.4byte	.LASF25
+ 432 000c 96010000 		.4byte	.LASF25
  433 0010 01       		.byte	0x1
  434 0011 0E000000 		.4byte	.LASF26
- 435 0015 FB010000 		.4byte	.LASF27
+ 435 0015 28010000 		.4byte	.LASF27
  436 0019 00000000 		.4byte	.Ldebug_ranges0+0
  437 001d 00000000 		.4byte	0
  438 0021 00000000 		.4byte	.Ldebug_line0
  439 0025 02       		.uleb128 0x2
  440 0026 01       		.byte	0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 26
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 26
 
 
  441 0027 06       		.byte	0x6
- 442 0028 CE020000 		.4byte	.LASF0
+ 442 0028 C0020000 		.4byte	.LASF0
  443 002c 02       		.uleb128 0x2
  444 002d 01       		.byte	0x1
  445 002e 08       		.byte	0x8
@@ -1510,7 +1510,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  447 0033 02       		.uleb128 0x2
  448 0034 02       		.byte	0x2
  449 0035 05       		.byte	0x5
- 450 0036 88020000 		.4byte	.LASF2
+ 450 0036 7A020000 		.4byte	.LASF2
  451 003a 02       		.uleb128 0x2
  452 003b 02       		.byte	0x2
  453 003c 07       		.byte	0x7
@@ -1518,7 +1518,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  455 0041 02       		.uleb128 0x2
  456 0042 04       		.byte	0x4
  457 0043 05       		.byte	0x5
- 458 0044 C5020000 		.4byte	.LASF4
+ 458 0044 B7020000 		.4byte	.LASF4
  459 0048 02       		.uleb128 0x2
  460 0049 04       		.byte	0x4
  461 004a 07       		.byte	0x7
@@ -1526,11 +1526,11 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  463 004f 02       		.uleb128 0x2
  464 0050 08       		.byte	0x8
  465 0051 05       		.byte	0x5
- 466 0052 60020000 		.4byte	.LASF6
+ 466 0052 52020000 		.4byte	.LASF6
  467 0056 02       		.uleb128 0x2
  468 0057 08       		.byte	0x8
  469 0058 07       		.byte	0x7
- 470 0059 28010000 		.4byte	.LASF7
+ 470 0059 7F010000 		.4byte	.LASF7
  471 005d 03       		.uleb128 0x3
  472 005e 04       		.byte	0x4
  473 005f 05       		.byte	0x5
@@ -1538,9 +1538,9 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  475 0064 02       		.uleb128 0x2
  476 0065 04       		.byte	0x4
  477 0066 07       		.byte	0x7
- 478 0067 EE000000 		.4byte	.LASF8
+ 478 0067 1B010000 		.4byte	.LASF8
  479 006b 04       		.uleb128 0x4
- 480 006c 92020000 		.4byte	.LASF9
+ 480 006c 84020000 		.4byte	.LASF9
  481 0070 02       		.byte	0x2
  482 0071 9801     		.2byte	0x198
  483 0073 2C000000 		.4byte	0x2c
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  495 0090 04       		.byte	0x4
  496 0091 04       		.byte	0x4
  497 0092 51000000 		.4byte	.LASF12
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 27
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 27
 
 
  498 0096 02       		.uleb128 0x2
@@ -1568,7 +1568,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  502 009d 02       		.uleb128 0x2
  503 009e 01       		.byte	0x1
  504 009f 08       		.byte	0x8
- 505 00a0 6E020000 		.4byte	.LASF14
+ 505 00a0 60020000 		.4byte	.LASF14
  506 00a4 04       		.uleb128 0x4
  507 00a5 00000000 		.4byte	.LASF15
  508 00a9 02       		.byte	0x2
@@ -1593,7 +1593,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  527 00d5 00000000 		.4byte	.LLST0
  528 00d9 00       		.byte	0
  529 00da 08       		.uleb128 0x8
- 530 00db 73020000 		.4byte	.LASF28
+ 530 00db 65020000 		.4byte	.LASF28
  531 00df 01       		.byte	0x1
  532 00e0 5F       		.byte	0x5f
  533 00e1 00000000 		.4byte	.LFB1
@@ -1601,7 +1601,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  535 00e9 01       		.uleb128 0x1
  536 00ea 9C       		.byte	0x9c
  537 00eb 06       		.uleb128 0x6
- 538 00ec 98020000 		.4byte	.LASF17
+ 538 00ec 8A020000 		.4byte	.LASF17
  539 00f0 01       		.byte	0x1
  540 00f1 86       		.byte	0x86
  541 00f2 00000000 		.4byte	.LFB2
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  552 010f 07       		.uleb128 0x7
  553 0110 D2000000 		.4byte	.LASF20
  554 0114 01       		.byte	0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 28
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 28
 
 
  555 0115 86       		.byte	0x86
@@ -1648,7 +1648,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  579 014e 01       		.uleb128 0x1
  580 014f 9C       		.byte	0x9c
  581 0150 0B       		.uleb128 0xb
- 582 0151 FB000000 		.4byte	.LASF24
+ 582 0151 EE000000 		.4byte	.LASF24
  583 0155 01       		.byte	0x1
  584 0156 C6       		.byte	0xc6
  585 0157 6B000000 		.4byte	0x6b
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  609 0010 17       		.uleb128 0x17
  610 0011 00       		.byte	0
  611 0012 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 29
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 29
 
 
  612 0013 02       		.uleb128 0x2
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  666 0049 19       		.uleb128 0x19
  667 004a 11       		.uleb128 0x11
  668 004b 01       		.uleb128 0x1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 30
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 30
 
 
  669 004c 12       		.uleb128 0x12
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  723 0084 0B       		.uleb128 0xb
  724 0085 3B       		.uleb128 0x3b
  725 0086 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 31
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 31
 
 
  726 0087 49       		.uleb128 0x49
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  780 000b 0C000000 		.4byte	.LVL1
  781 000f 1C000000 		.4byte	.LFE0
  782 0013 0400     		.2byte	0x4
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 32
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 32
 
 
  783 0015 F3       		.byte	0xf3
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  837 000b 00       		.byte	0
  838 000c 0000     		.2byte	0
  839 000e 0000     		.2byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 33
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 33
 
 
  840 0010 00000000 		.4byte	.LFB0
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  879              	.LASF1:
  880 0057 756E7369 		.ascii	"unsigned char\000"
  880      676E6564 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 34
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 34
 
 
  880      20636861 
@@ -2026,97 +2026,95 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 1
  899              	.LASF11:
  900 00e7 75696E74 		.ascii	"uint32\000"
  900      333200
- 901              	.LASF8:
- 902 00ee 756E7369 		.ascii	"unsigned int\000"
- 902      676E6564 
- 902      20696E74 
- 902      00
- 903              	.LASF24:
- 904 00fb 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_GetFractionalDividerRegister\000"
- 904      4354524C 
- 904      5F534342 
- 904      434C4B5F 
- 904      47657446 
- 905              	.LASF7:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 35
+ 901              	.LASF24:
+ 902 00ee 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_GetFractionalDividerRegister\000"
+ 902      4354524C 
+ 902      5F534342 
+ 902      434C4B5F 
+ 902      47657446 
+ 903              	.LASF8:
+ 904 011b 756E7369 		.ascii	"unsigned int\000"
+ 904      676E6564 
+ 904      20696E74 
+ 904      00
+ 905              	.LASF27:
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 35
 
 
- 906 0128 6C6F6E67 		.ascii	"long long unsigned int\000"
- 906      206C6F6E 
- 906      6720756E 
- 906      7369676E 
- 906      65642069 
- 907              	.LASF25:
- 908 013f 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
- 908      4320342E 
- 908      392E3320 
- 908      32303135 
- 908      30333033 
- 909 0172 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
- 909      20726576 
- 909      6973696F 
- 909      6E203232 
- 909      31323230 
- 910 01a5 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
- 910      66756E63 
- 910      74696F6E 
- 910      2D736563 
- 910      74696F6E 
- 911 01d8 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
- 911      6F2D6F62 
- 911      6A656374 
- 911      73202D66 
- 911      6E6F2D73 
- 912              	.LASF27:
- 913 01fb 433A5C55 		.ascii	"C:\\Users\\victo\\OneDrive\\Documents\\PSoC Creator"
- 913      73657273 
- 913      5C766963 
- 913      746F5C4F 
- 913      6E654472 
- 914 0229 5C435950 		.ascii	"\\CYPD4225-40LQXI_0805\\CYPD4225-40LQXI_notebook01."
- 914      44343232 
- 914      352D3430 
- 914      4C515849 
- 914      5F303830 
- 915 025a 63796473 		.ascii	"cydsn\000"
- 915      6E00
- 916              	.LASF6:
- 917 0260 6C6F6E67 		.ascii	"long long int\000"
- 917      206C6F6E 
- 917      6720696E 
- 917      7400
- 918              	.LASF14:
- 919 026e 63686172 		.ascii	"char\000"
- 919      00
- 920              	.LASF28:
- 921 0273 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_Stop\000"
- 921      4354524C 
- 921      5F534342 
- 921      434C4B5F 
- 921      53746F70 
- 922              	.LASF2:
- 923 0288 73686F72 		.ascii	"short int\000"
- 923      7420696E 
- 923      7400
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccrQDdDX.s 			page 36
+ 906 0128 433A5C76 		.ascii	"C:\\victor0617\\github_code\\CY4541\\CYPD4225-40LQX"
+ 906      6963746F 
+ 906      72303631 
+ 906      375C6769 
+ 906      74687562 
+ 907 0157 495F3038 		.ascii	"I_0805\\CYPD4225-40LQXI_notebook01.cydsn\000"
+ 907      30355C43 
+ 907      59504434 
+ 907      3232352D 
+ 907      34304C51 
+ 908              	.LASF7:
+ 909 017f 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 909      206C6F6E 
+ 909      6720756E 
+ 909      7369676E 
+ 909      65642069 
+ 910              	.LASF25:
+ 911 0196 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 911      4320342E 
+ 911      392E3320 
+ 911      32303135 
+ 911      30333033 
+ 912 01c9 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m0 -mthumb -g -O"
+ 912      20726576 
+ 912      6973696F 
+ 912      6E203232 
+ 912      31323230 
+ 913 01fc 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
+ 913      66756E63 
+ 913      74696F6E 
+ 913      2D736563 
+ 913      74696F6E 
+ 914 022f 742D6C74 		.ascii	"t-lto-objects -fno-strict-aliasing\000"
+ 914      6F2D6F62 
+ 914      6A656374 
+ 914      73202D66 
+ 914      6E6F2D73 
+ 915              	.LASF6:
+ 916 0252 6C6F6E67 		.ascii	"long long int\000"
+ 916      206C6F6E 
+ 916      6720696E 
+ 916      7400
+ 917              	.LASF14:
+ 918 0260 63686172 		.ascii	"char\000"
+ 918      00
+ 919              	.LASF28:
+ 920 0265 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_Stop\000"
+ 920      4354524C 
+ 920      5F534342 
+ 920      434C4B5F 
+ 920      53746F70 
+ 921              	.LASF2:
+ 922 027a 73686F72 		.ascii	"short int\000"
+ 922      7420696E 
+ 922      7400
+ 923              	.LASF9:
+ 924 0284 75696E74 		.ascii	"uint8\000"
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccfGpupM.s 			page 36
 
 
- 924              	.LASF9:
- 925 0292 75696E74 		.ascii	"uint8\000"
- 925      3800
- 926              	.LASF17:
- 927 0298 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_SetFractionalDividerRegister\000"
- 927      4354524C 
- 927      5F534342 
- 927      434C4B5F 
- 927      53657446 
- 928              	.LASF4:
- 929 02c5 6C6F6E67 		.ascii	"long int\000"
- 929      20696E74 
- 929      00
- 930              	.LASF0:
- 931 02ce 7369676E 		.ascii	"signed char\000"
- 931      65642063 
- 931      68617200 
- 932              		.comm	__gnu_lto_v1,1,1
- 933              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br
+ 924      3800
+ 925              	.LASF17:
+ 926 028a 4D55585F 		.ascii	"MUX_CTRL_SCBCLK_SetFractionalDividerRegister\000"
+ 926      4354524C 
+ 926      5F534342 
+ 926      434C4B5F 
+ 926      53657446 
+ 927              	.LASF4:
+ 928 02b7 6C6F6E67 		.ascii	"long int\000"
+ 928      20696E74 
+ 928      00
+ 929              	.LASF0:
+ 930 02c0 7369676E 		.ascii	"signed char\000"
+ 930      65642063 
+ 930      68617200 
+ 931              		.comm	__gnu_lto_v1,1,1
+ 932              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

@@ -25,7 +25,7 @@
       <Tool Name="postbuild" Command="" Options="" />
     </Toolchain>
   </Toolchains>
-  <Project Name="CYPD4225-40LQXI_notebook01" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" Version="5.40" Type="Bootloadable">
+  <Project Name="CYPD4225-40LQXI_notebook01" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" Version="5.40" Type="Bootloadable">
     <CMSIS_SVD_File>CYPD4225-40LQXI_notebook01.svd</CMSIS_SVD_File>
     <Datasheet />
     <LinkerFiles>
@@ -34,8 +34,8 @@
       <LinkerFile Toolchain="ARM IAR Generic">.\Generated_Source\PSoC4\Cm0Iar_1.icf</LinkerFile>
     </LinkerFiles>
     <Folders>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\app\alt_mode">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\app\alt_mode">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\app\alt_mode\alt_mode_hw.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\app\alt_mode\alt_modes_mngr.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\app\alt_mode\dp_sid.c</File>
@@ -46,8 +46,8 @@
           <File BuildType="BUILD" Toolchain="">.\src\app\alt_mode\vdm_task_mngr.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\app">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\app">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\app\app.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\app\pdo.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\app\psink.c</File>
@@ -63,8 +63,8 @@
           <File BuildType="BUILD" Toolchain="">.\src\app\billboard.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\system">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\system">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\system\boot.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\system\flash.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\system\gpio.c</File>
@@ -83,8 +83,8 @@
           <File BuildType="BUILD" Toolchain="">.\src\system\ccg4_regs.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\common">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\common">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\common\config.c</File>
           <File BuildType="BUILD" Toolchain="">.\common\datamux_ctrl.c</File>
           <File BuildType="BUILD" Toolchain="">.\common\main.c</File>
@@ -94,8 +94,8 @@
           <File BuildType="BUILD" Toolchain="">.\common\stack_params.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\pd_hal">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\pd_hal">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\pd_hal\hal_ccgx.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\pd_hal\pdss_hal.c</File>
           <File BuildType="BUILD" Toolchain="">.\src\pd_hal\hal_ccgx.h</File>
@@ -103,8 +103,8 @@
           <File BuildType="BUILD" Toolchain="">.\src\pd_hal\pdss_hal.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\pd_common">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\pd_common">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\pd_common\dpm.h</File>
           <File BuildType="BUILD" Toolchain="">.\src\pd_common\dpm_intern.h</File>
           <File BuildType="BUILD" Toolchain="">.\src\pd_common\pd.h</File>
@@ -113,24 +113,24 @@
           <File BuildType="BUILD" Toolchain="">.\src\pd_common\typec_manager.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\config.h</File>
           <File BuildType="BUILD" Toolchain="">.\cyapicallbacks.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\hpiss">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\hpiss">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\hpiss\hpi.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="BUILD" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\scb">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="BUILD" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\src\scb">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\src\scb\i2c.h</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Generated_Source\PSoC4">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="STRICT" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Generated_Source\PSoC4">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="">.\Generated_Source\PSoC4\cyfitter_cfg.h</File>
           <File BuildType="BUILD" Toolchain="">.\Generated_Source\PSoC4\cyfitter_cfg.c</File>
           <File BuildType="BUILD" Toolchain="">.\Generated_Source\PSoC4\cybootloader.icf</File>
@@ -323,56 +323,56 @@
           <File BuildType="BUILD" Toolchain="ARM IAR Generic">.\Generated_Source\PSoC4\UART_AsmIar.s</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_GCC_Generic">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="STRICT" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_GCC_Generic">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="ARM GCC Generic">.\Export\ARM_GCC_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_MDK_Generic">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="STRICT" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_MDK_Generic">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="ARM MDK Generic">.\Export\ARM_MDK_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
-      <Folder BuildType="STRICT" Path="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_IAR_Generic">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
+      <Folder BuildType="STRICT" Path="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn\Export\ARM_IAR_Generic">
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn">
           <File BuildType="BUILD" Toolchain="ARM IAR Generic">.\Export\ARM_IAR_Generic\CyComponentLibrary.a</File>
         </Files>
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\codegentemp">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\ARM_GCC_441">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\ARM_GCC_473">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\DP8051_Keil_952">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\DP8051">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM0">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM0p">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM3">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM4">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\CortexM7">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\Generated_Source\PSoC3">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
       <Folder BuildType="EXCLUDE" Path=".\Generated_Source\PSoC5">
-        <Files Root="C:\Users\victo\OneDrive\Documents\PSoC Creator\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
+        <Files Root="C:\victor0617\github_code\CY4541\CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01.cydsn" />
       </Folder>
     </Folders>
   </Project>

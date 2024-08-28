@@ -1,0 +1,9 @@
+diff a/CYPD4225-40LQXI_0805/CYPD4225-40LQXI_notebook01.cydsn/src/pd_hal/pdss_hal.h b/CYPD4225-40LQXI_0805/CYPD4225-40LQXI_notebook01.cydsn/src/pd_hal/pdss_hal.h	(rejected hunks)
+@@ -502,6 +502,7 @@
+  * Data Struct Definition
+  ******************************************************************************/
+ 
++void change_gl_pdss_status(void);
+ /**
+  * @typedef PD_ADC_CB_T
+  * @brief PD ADC comparator interrupt callback type. This callback
