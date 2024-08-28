@@ -339,6 +339,7 @@ int main()
     ccg_status_t cc;
     //uint32_t receivedChar;
     //char c ='0';
+    pd_packet_extd_t *Pk;
     
     UART_Start();
     
@@ -511,7 +512,12 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     dpm_update_src_cap_mask (1, 0x0C);
     dpm_pd_command (1, DPM_CMD_SRC_CAP_CHNG, NULL,NULL);
     
-    change1_gl_pdss_status(1);
+    change1_gl_pdss_status(0);
+    Pk = pd_phy_get_rx_packet(0);
+    if(Pk->sop == 100){
+        UART_PutChar('0');
+    }
+    
     //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
     //choose_status(cc);
     
@@ -519,8 +525,7 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     while(1)
     {
         
-        //c = (char)UART_UartGetChar();
-        UART_PutHexByte(0x2b);
+        //UART_PutHexByte(0x2b);
         
         /*if(Pin_SW_Read()==0 && first_time == 0){
             //dpm_update_src_cap(1, 4, SRC_PDO);
