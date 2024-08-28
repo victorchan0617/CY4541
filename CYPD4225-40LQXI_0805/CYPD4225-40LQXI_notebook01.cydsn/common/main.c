@@ -515,7 +515,7 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     change1_gl_pdss_status(0);
     Pk = pd_phy_get_rx_packet(0);
     if(Pk->sop == 100){
-        UART_PutChar('0');
+        UART_PutChar('1');
     }
     
     //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
