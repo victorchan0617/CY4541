@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -16,14 +16,14 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   13              		.file	"hal_ccgx.c"
   14              		.text
   15              	.Ltext0:
-  16              		.section	.gnu.lto_.profile.933e1530,"",%progbits
+  16              		.section	.gnu.lto_.profile.a1490784,"",%progbits
   17 0000 789C6366 		.ascii	"x\234cf```e\200\000F\206\373\214.\000\003m\001."
   17      60606065 
   17      80004686 
   17      FB8C2E00 
   17      036D012E 
   18              		.text
-  19              		.section	.gnu.lto_.jmpfuncs.933e1530,"",%progbits
+  19              		.section	.gnu.lto_.jmpfuncs.a1490784,"",%progbits
   20 0000 789C7590 		.ascii	"x\234u\220=\012\302@\020\205\347\315\372\023A\264\367"
   20      3D0AC240 
   20      1085E7CD 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   26      ADC5B2E3 
   26      D1B45BB7 
   26      6C1096
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 2
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 2
 
 
   27 0079 2E6F4B0E 		.ascii	".oK\016[\376\201\351y+\007s1\361L\216\375GMa\246IXg"
@@ -85,7 +85,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   31      BD01B1E5 
   31      4E63
   32              		.text
-  33              		.section	.gnu.lto_.inline.933e1530,"",%progbits
+  33              		.section	.gnu.lto_.inline.a1490784,"",%progbits
   34 0000 789C754E 		.ascii	"x\234uN;\016\3020\014}v\322\022 \210\212\011\2614\027"
   34      3B0EC230 
   34      0C7D76D2 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   40      781F41A3 
   40      4ADBB46C 
   40      9B
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 3
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 3
 
 
   41 0076 B2806D97 		.ascii	"\262\200m\227\222\035A\017;p]!\207+\210\324\311\342"
@@ -136,7 +136,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   43      61F0022E 
   43      C71B67
   44              		.text
-  45              		.section	.gnu.lto_.pureconst.933e1530,"",%progbits
+  45              		.section	.gnu.lto_.pureconst.a1490784,"",%progbits
   46 0000 789C6366 		.ascii	"x\234cf``\020d\200\000\016\006)F\011&\011f\0116\011"
   46      60601064 
   46      80000E06 
@@ -146,7 +146,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   47      4E060009 
   47      3300D3
   48              		.text
-  49              		.section	.gnu.lto_system_init.933e1530,"",%progbits
+  49              		.section	.gnu.lto_system_init.a1490784,"",%progbits
   50 0000 789C9D95 		.ascii	"x\234\235\225\315O\023A\030\306\347\235mK?\240 \027"
   50      CD4F1341 
   50      18C6E79D 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   55      BDBD84B8 
   56 0073 CC1480FF 		.ascii	"\314\024\200\377\020 G)\034\205q:A\301+\373*l\331\327"
   56      10204729 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 4
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 4
 
 
   56      1C85713A 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   67      F1317B6E 
   67      3D73BBE4 
   68 014b 752A35C1 		.ascii	"u*5\301\035\330\000\015 &\005w!\027#\202\027n\034O\347"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 5
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 5
 
 
   68      1DD8000D 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   79      6E91F2C6 
   79      345EBC7A 
   79      7D3A6AD1 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 6
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 6
 
 
   80 0228 3C479017 		.ascii	"<G\220\027\032H@\200\324\004\207\203\222\0001\020x\211"
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   91      F4626EA4 
   92 02f5 24DD7837 		.ascii	"$\335x7\357Fpi7\336kb\372\351\367/9\375\017:\3300P-"
   92      EF467069 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 7
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 7
 
 
   92      37DE6B62 
@@ -399,7 +399,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  100      FF0166E8 
  100      87E3
  101              		.text
- 102              		.section	.gnu.lto_vbus_ocp_port0_handler.933e1530,"",%progbits
+ 102              		.section	.gnu.lto_vbus_ocp_port0_handler.a1490784,"",%progbits
  103 0000 789C6366 		.ascii	"x\234cf\300\004R@\274\025J32302M8\307\300\320\310\301"
  103      C0045240 
  103      BC154A33 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  106      13C418C6 
  106      E58CEA0C 
  106      40351F
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 8
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 8
 
 
  107 004a 5BFE5EE7 		.ascii	"[\376^\347fk\001\252\021\200\3101\256`dc\004\322\353"
@@ -460,7 +460,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  114      660000A8 
  114      4E4ABE
  115              		.text
- 116              		.section	.gnu.lto_vbus_ocp_port1_handler.933e1530,"",%progbits
+ 116              		.section	.gnu.lto_vbus_ocp_port1_handler.a1490784,"",%progbits
  117 0000 789C6366 		.ascii	"x\234cf\300\004R@\274\025J32302M8\307\300\320\310\301"
  117      C0045240 
  117      BC154A33 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  120 003b 8981E133 		.ascii	"\211\201\3413\023\304\030\306\345\214\352\014@5\037"
  120      13C418C6 
  120      E58CEA0C 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 9
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 9
 
 
  120      40351F
@@ -521,7 +521,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  128      660000B0 
  128      494A8A
  129              		.text
- 130              		.section	.gnu.lto_system_vbus_ocp_en.933e1530,"",%progbits
+ 130              		.section	.gnu.lto_system_vbus_ocp_en.a1490784,"",%progbits
  131 0000 789C6551 		.ascii	"x\234eQOH\024Q\030\177\277\367f\307qWq\011\002\231:"
  131      4F481451 
  131      187FBFF7 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  133      1052FE29 
  133      775B2BFF 
  134 003d DA210F9A 		.ascii	"\332!\017\232\230\225\022\376#4\224 2\205e\220\325\276"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 10
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 10
 
 
  134      989512FE 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  145      C45872DC 
  145      F498B12E 
  145      F3B8230D 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 11
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 11
 
 
  146 0114 C4F7130D 		.ascii	"\304\367\023\015\201\004\212\031\275\031\315\314\005"
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  158 01e3 E9D01FD3 		.ascii	"\351\320\037\323\371\215\346)\203L\203\216\014`8\313"
  158      F98DE629 
  158      834C838E 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 12
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 12
 
 
  158      0C6038CB 
@@ -693,7 +693,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  164      C26F4D2B 
  165 0267 47       		.ascii	"G"
  166              		.text
- 167              		.section	.gnu.lto_system_vbus_ocp_dis.933e1530,"",%progbits
+ 167              		.section	.gnu.lto_system_vbus_ocp_dis.a1490784,"",%progbits
  168 0000 789C6590 		.ascii	"x\234e\220\273KcA\024\306\347;\367\232\\#\242X\205l"
  168      BB4B6341 
  168      14C6E73B 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  172      FC1843BD 
  172      FF7CBCBC 
  172      A4D447
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 13
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 13
 
 
  173 005e DE6128D0 		.ascii	"\336a(\320\340\256R\021\213\0009(\2500!\214k\272'\354"
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  184 0125 58951510 		.ascii	"X\225\025\020&N\300\257NQ$\243D7\261\377%A<(.\021\256"
  184      264EC0AF 
  184      4E5124A3 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 14
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 14
 
 
  184      4437B1FF 
@@ -818,7 +818,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  191      0900
  192 01b9 C3C5F6   		.ascii	"\303\305\366"
  193              		.text
- 194              		.section	.gnu.lto_vbus_ocp_handler.933e1530,"",%progbits
+ 194              		.section	.gnu.lto_vbus_ocp_handler.a1490784,"",%progbits
  195 0000 789C6552 		.ascii	"x\234eR[KTQ\024^\337\332g\316\234qF\223\036\312\014"
  195      5B4B5451 
  195      145EDFDA 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  198      6E6476F1 
  198      0E1A1921 
  198      D908C3A1 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 15
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 15
 
 
  198      86
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  210      56DABAF6 
  211 011c 230A86D4 		.ascii	"#\012\206\324\022ze\223\311:\262\265B\362\011\020\315"
  211      127A6593 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 16
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 16
 
 
  211      C93AB2B5 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  222      A59F4E
  223 01ef 74BFCBA5 		.ascii	"t\277\313\245x\264\316\332\260X\363\2245\254q\255v-"
  223      78B4CEDA 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 17
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 17
 
 
  223      B058F394 
@@ -991,7 +991,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  229 025d 7F003329 		.ascii	"\177\0003)\027\304"
  229      17C4
  230              		.text
- 231              		.section	.gnu.lto_system_disconnect_ovp_trip.933e1530,"",%progbits
+ 231              		.section	.gnu.lto_system_disconnect_ovp_trip.a1490784,"",%progbits
  232 0000 789C6366 		.ascii	"x\234cf\300\004R@\274\026\210\345\201\230\221\231\201"
  232      C0045240 
  232      BC1688E5 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  236      7D675BFB 
  236      090ED5C5 
  237 005d 0D0D4D07 		.ascii	"\015\015M\007n\256kp`\374\0114s\005#3P\007\243\216\024"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 18
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 18
 
 
  237      6EAE6B70 
@@ -1055,7 +1055,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  243      000BF646 
  243      59
  244              		.text
- 245              		.section	.gnu.lto_system_connect_ovp_trip.933e1530,"",%progbits
+ 245              		.section	.gnu.lto_system_connect_ovp_trip.a1490784,"",%progbits
  246 0000 789C6366 		.ascii	"x\234cf\300\004R@\274\026\210\345\201\230\221\231\201"
  246      C0045240 
  246      BC1688E5 
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  249      2E67
  250 0047 54072AB9 		.ascii	"T\007*\271\373}{\017/\2634#\003\220}g[\373\011\016\325"
  250      FB7D7B0F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 19
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 19
 
 
  250      2FB33423 
@@ -1120,7 +1120,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  257      04005501 
  258 00db 08       		.ascii	"\010"
  259              		.text
- 260              		.section	.gnu.lto_.symbol_nodes.933e1530,"",%progbits
+ 260              		.section	.gnu.lto_.symbol_nodes.a1490784,"",%progbits
  261 0000 789C55CD 		.ascii	"x\234U\315\315N\302@\024\005\34033m\207\277R]\262\""
  261      CD4EC240 
  261      1405E033 
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  264 0034 9B932FE7 		.ascii	"\233\223/\347\346^\003`\245\340G\337P\343\365\013 \261"
  264      E65E0360 
  264      A5E047DF 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 20
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 20
 
 
  264      50E3F50B 
@@ -1181,7 +1181,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  272      6304FC02 
  272      72066987 
  273              		.text
- 274              		.section	.gnu.lto_.refs.933e1530,"",%progbits
+ 274              		.section	.gnu.lto_.refs.a1490784,"",%progbits
  275 0000 789C25C5 		.ascii	"x\234%\305\261\015\300 \020\004\301\375\375\003$\022"
  275      B10DC020 
  275      1004C1FD 
@@ -1195,10 +1195,10 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  277      C9E4010D 
  277      4C008F
  278              		.text
- 279              		.section	.gnu.lto_.decls.933e1530,"",%progbits
+ 279              		.section	.gnu.lto_.decls.a1490784,"",%progbits
  280 0000 789CBD5A 		.ascii	"x\234\275ZyT\224W\226\347\253WlE\001&&\321\341\3149"
  280      79549457 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 21
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 21
 
 
  280      96E7AB57 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  291      42F903C8 
  291      57E0FB8F 
  291      32E2DB00 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 22
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 22
 
 
  291      CF
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  303 01af 6E98B257 		.ascii	"n\230\262W\320\350\304\305\322S\246#2\341\015\005\252"
  303      D0E8C4C5 
  303      D253A623 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 23
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 23
 
 
  303      32E10D05 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  314      93057ADA 
  315 028f C59290FA 		.ascii	"\305\222\220\372p\023\364$\347\342\355\353\245\335\012"
  315      7013F424 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 24
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 24
 
 
  315      E7E2EDEB 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  326      17B3AE5E 
  326      BD67C534 
  327 0369 3BDF5874 		.ascii	";\337XtG\201\272\3270\206\210\226\020\031\313%]E\304"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 25
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 25
 
 
  327      4781BAD7 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  338      CE968B67 
  338      1206AA04 
  339 044b 164DBA4B 		.ascii	"\026M\272K\205\017\272hH\330\341p\014(\034\265f\231"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 26
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 26
 
 
  339      850FBA68 
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  350      BC7C6731 
  350      D88C799B 
  350      A1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 27
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 27
 
 
  351 0522 EEA1A7FF 		.ascii	"\356\241\247\377$\315\242O\270\030\032\234\351\305\340"
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  362      3B87
  363 05ed 3A31AE51 		.ascii	":1\256Q\300\307\000?Gx\331\303\270\333h\377\020\360"
  363      C0C7003F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 28
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 28
 
 
  363      4778D9C3 
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  375      63BBD7
  376 06bd 016F00FC 		.ascii	"\001o\000\374\002\341\376\352\350F\364s\015\360z\300"
  376      02E1FEEA 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 29
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 29
 
 
  376      E846F473 
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  388      D367C932 
  388      68291A9B 
  388      7C3E67C5 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 30
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 30
 
 
  389 079f 48783251 		.ascii	"Hx2Q\335m\311\032H\310\256\355\270b\305\372H\270Z\237"
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  400      288E88BE 
  400      CB588812 
  401 0872 8584ACDC 		.ascii	"\205\204\254\3342\031K#a\"WSG[\212%\027\353\352b\037"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 31
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 31
 
 
  401      32194B23 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  412      E362314C 
  412      209C4770 
  412      DA660EE4 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 32
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 32
 
 
  412      56E16231 
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  424 0a24 8AF873F1 		.ascii	"\212\370s\361PRZ\336\210\375{S\304_\020\036\221\320"
  424      50525ADE 
  424      88FD7B53 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 33
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 33
 
 
  424      C45F101E 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  435      E65A0C
  436 0af7 7811E081 		.ascii	"x\021\340\201\204\247\226u\004\343t,\024\3613\204G\\"
  436      84A79675 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 34
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 34
 
 
  436      04E3742C 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  448      40C197FF 
  448      C8C5032C 
  448      8D18E5
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 35
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 35
 
 
  449 0bd5 DD2AF594 		.ascii	"\335*\365\224m\211U\017dO\371\237\035}'\330C}N=\260"
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  459      EBA4AD53 
  460 0ca4 BCC70B7B 		.ascii	"\274\307\013{\203\023H\005\002\027V\011\000\237\225"
  460      83134805 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 36
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 36
 
 
  460      02175609 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  471      508C
  472 0d79 0EAA665B 		.ascii	"\016\252f[\303-\330\0209\230Ny\276h\005\016\246\262"
  472      C32DD810 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 37
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 37
 
 
  472      39984E79 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  483      7B71F343 
  483      2F9D8EE1 
  483      F6AB
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 38
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 38
 
 
  484 0e60 C13760F0 		.ascii	"\3017`\360\327\245\340\013\002\313\263\224\354\032\005"
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  495      9AA8CE16 
  495      25F3
  496 0f43 DD48BF57 		.ascii	"\335H\277W\203<f\254\210BC\306\012\005\250!\364iQ\350"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 39
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 39
 
 
  496      833C66AC 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  508      6A96B374 
  508      22BE
  509 1012 18FB785A 		.ascii	"\030\373xZx;^=\240\201\035\361\345\316\020\265\372\202"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 40
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 40
 
 
  509      783B5E3D 
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  520      18D665CC 
  520      1A
  521 10ea 29BAB2B6 		.ascii	")\272\262\266\2341ct?\200\367*\013Wc\003\351\305\342"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 41
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 41
 
 
  521      9C316374 
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  532      BB7913BD 
  532      7A51F9C8 
  533 11c6 E19738F2 		.ascii	"\341\2278\362\014@\236\376\022\317\360\023\236izQ\031"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 42
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 42
 
 
  533      0C409EFE 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  544      E9257B60 
  544      E6851932 
  544      C709973F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 43
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 43
 
 
  544      D3522537 
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  555      6EAF197B 
  555      BB7E9BF0 
  556 137f B6AB2546 		.ascii	"\266\253%F\226\322\252\014\341\033\341~#Y.p\313t\360"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 44
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 44
 
 
  556      96D2AA0C 
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  567      73137745 
  567      8EBFFBF8 
  567      37FF
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 45
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 45
 
 
  568 1454 5DE47DA7 		.ascii	"]\344}\247\315D\333\370\212\216q\271h\\\216\306\005"
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  578      AEBD2EE0 
  579 151d 74F4988B 		.ascii	"t\364\230\213\253\373\301\357\234\1778x\310\365\350"
  579      ABFBC1EF 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 46
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 46
 
 
  579      9C7F3878 
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  591      4E8F8F9D 
  591      1E1F3B
  592 15f4 3D3E767A 		.ascii	"=>vz|\354\365\370\330\353\361\261\327\343c\257\307\307"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 47
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 47
 
 
  592      7CECF5F8 
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  603      7BBFB1D2 
  603      56
  604 16c2 7DB34BDB 		.ascii	"}\263K\333r\3376\325\216];\267a0{\277>\240\257\262]"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 48
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 48
 
 
  604      72DF36D5 
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  616 178e 6F7BB6A0 		.ascii	"o{\266\240v>|\304\321\325\200\275\303\032\373m\222\275"
  616      763E7CC4 
  616      D1D580BD 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 49
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 49
 
 
  616      C31AFB6D 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  628      B9FE7878 
  628      9BD93187 
  628      237F
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 50
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 50
 
 
  629 186c 5339B81F 		.ascii	"S9\270\037!\331\326\234\253?\\\005\354\024\034\260\375"
@@ -2955,7 +2955,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  631      1F420674 
  631      F4
  632              		.text
- 633              		.section	.gnu.lto_.symtab.933e1530,"",%progbits
+ 633              		.section	.gnu.lto_.symtab.a1490784,"",%progbits
  634 0000 73797374 		.ascii	"system_init\000\000\000\000\000\000\000\000\000\000"
  634      656D5F69 
  634      6E697400 
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  642      5F646973 
  642      00000000 
  642      00000000 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 51
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 51
 
 
  642      000000
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  653      00
  654 01aa CE010000 		.ascii	"\316\001\000\000hsiom_set_config\000\000\002\000\000"
  654      6873696F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 52
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 52
 
 
  654      6D5F7365 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  674              		.type	system_init, %function
  675              	system_init:
  676              	.LFB36:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 53
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 53
 
 
  677              		.file 1 ".\\src\\pd_hal\\hal_ccgx.c"
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
   54:.\src\pd_hal/hal_ccgx.c **** #endif  /* CCG3 */  
   55:.\src\pd_hal/hal_ccgx.c **** 
   56:.\src\pd_hal/hal_ccgx.c **** #define PDSS_PORT1_PCLK_RX_IDX			(11u)
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 54
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 54
 
 
   57:.\src\pd_hal/hal_ccgx.c **** #define PDSS_PORT1_PCLK_TX_IDX			(12u)
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  111:.\src\pd_hal/hal_ccgx.c ****     /* 50, */  0x0D, 20, /* 30,  1.5   */
  112:.\src\pd_hal/hal_ccgx.c ****     /* 51, */  0x0D, 23, /* 30,  1.53  */
  113:.\src\pd_hal/hal_ccgx.c ****     /* 52, */  0x0D, 26, /* 30,  1.56  */
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 55
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 55
 
 
  114:.\src\pd_hal/hal_ccgx.c ****     /* 53, */  0x0D, 29, /* 30,  1.59  */
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  168:.\src\pd_hal/hal_ccgx.c ****     101, 0x04, 21, /* 15,  1.515 */
  169:.\src\pd_hal/hal_ccgx.c ****     102, 0x04, 23, /* 15,  1.53  */
  170:.\src\pd_hal/hal_ccgx.c ****     103, 0x04, 24, /* 15,  1.545 */
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 56
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 56
 
 
  171:.\src\pd_hal/hal_ccgx.c ****     104, 0x04, 26, /* 15,  1.56  */
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  225:.\src\pd_hal/hal_ccgx.c ****     158, 0x00, 28, /* 10,  1.58  */
  226:.\src\pd_hal/hal_ccgx.c ****     159, 0x00, 29, /* 10,  1.59  */
  227:.\src\pd_hal/hal_ccgx.c ****     160, 0x00, 30, /* 10,  1.6   */
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 57
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 57
 
 
  228:.\src\pd_hal/hal_ccgx.c ****     161, 0x00, 31, /* 10,  1.61  */
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  282:.\src\pd_hal/hal_ccgx.c **** CY_ISR(vbus_ocp_port1_handler)
  283:.\src\pd_hal/hal_ccgx.c **** {
  284:.\src\pd_hal/hal_ccgx.c ****     vbus_ocp_handler(TYPEC_PORT_1_IDX);
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 58
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 58
 
 
  285:.\src\pd_hal/hal_ccgx.c **** }
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  323:.\src\pd_hal/hal_ccgx.c ****     hsiom_set_config(APP_VBUS_MON_PORT_PIN_P1, APP_VBUS_MON_AMUX_INPUT_P1);
  324:.\src\pd_hal/hal_ccgx.c **** #endif /* VBUS_MON_INTERNAL */
  325:.\src\pd_hal/hal_ccgx.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 59
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 59
 
 
  326:.\src\pd_hal/hal_ccgx.c **** #ifdef CCG4
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  352:.\src\pd_hal/hal_ccgx.c **** #if VBUS_OCP_ENABLE
  353:.\src\pd_hal/hal_ccgx.c ****     uint8_t intr_no;
  354:.\src\pd_hal/hal_ccgx.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 60
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 60
 
 
  355:.\src\pd_hal/hal_ccgx.c ****     /* Port 0 */
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  373:.\src\pd_hal/hal_ccgx.c ****     system_connect_ovp_trip(TYPEC_PORT_0_IDX);
  374:.\src\pd_hal/hal_ccgx.c ****     system_connect_ovp_trip(TYPEC_PORT_1_IDX);
  375:.\src\pd_hal/hal_ccgx.c **** #endif /* CCG4 */
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 61
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 61
 
 
  376:.\src\pd_hal/hal_ccgx.c **** #endif /* NO_OF_TYPEC_PORTS */
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  787 000e 0221     		mov	r1, #2
  788 0010 185C     		ldrb	r0, [r3, r0]
  789              	.LVL11:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 62
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 62
 
 
  790 0012 FFF7FEFF 		bl	gpio_int_set_config
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  817              	.LVL13:
  418:.\src\pd_hal/hal_ccgx.c **** #ifdef CCG3
  419:.\src\pd_hal/hal_ccgx.c ****     pd_internal_vbus_ocp_dis(CCG3_SRC_FET);
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 63
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 63
 
 
  420:.\src\pd_hal/hal_ccgx.c **** #endif /* CCG3 */
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  860              	.LFB39:
  429:.\src\pd_hal/hal_ccgx.c **** 
  430:.\src\pd_hal/hal_ccgx.c **** #endif /* VBUS_OCP_ENABLE */ 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 64
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 64
 
 
  431:.\src\pd_hal/hal_ccgx.c **** 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  898              	.LVL21:
  899              	.L13:
  447:.\src\pd_hal/hal_ccgx.c ****     }
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 65
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 65
 
 
  448:.\src\pd_hal/hal_ccgx.c **** #endif /* CCG4 */
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  941              		.type	vbus_ocp_port1_handler, %function
  942              	vbus_ocp_port1_handler:
  943              	.LFB35:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 66
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 66
 
 
  283:.\src\pd_hal/hal_ccgx.c ****     vbus_ocp_handler(TYPEC_PORT_1_IDX);
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  482:.\src\pd_hal/hal_ccgx.c ****         /* Drive GPIO, Actual comparator HW output is opposite of  pd_adc_get_comparator_status() r
  483:.\src\pd_hal/hal_ccgx.c ****         gpio_set_value (APP_VBUS_OVP_TRIP_PORT_PIN_P2, (pd_adc_get_comparator_status (port, APP_OVP
  484:.\src\pd_hal/hal_ccgx.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 67
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 67
 
 
  485:.\src\pd_hal/hal_ccgx.c ****         /* Set HSIOM Configuration. */
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  522:.\src\pd_hal/hal_ccgx.c **** #endif /* ((VBUS_OVP_ENABLE != 0) && (VBUS_OVP_TRIP_ENABLE != 0)) */
  523:.\src\pd_hal/hal_ccgx.c **** #endif /* CCG4*/
  524:.\src\pd_hal/hal_ccgx.c **** 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 68
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 68
 
 
  525:.\src\pd_hal/hal_ccgx.c **** }
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1041 0041 36070000 		.4byte	.LASF2
  1042 0045 02       		.uleb128 0x2
  1043 0046 02       		.byte	0x2
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 69
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 69
 
 
  1044 0047 07       		.byte	0x7
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1098 00b1 02       		.uleb128 0x2
  1099 00b2 01       		.byte	0x1
  1100 00b3 08       		.byte	0x8
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 70
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 70
 
 
  1101 00b4 F8080000 		.4byte	.LASF16
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1155 0122 9C010000 		.4byte	0x19c
  1156 0126 0001     		.2byte	0x100
  1157 0128 0D       		.uleb128 0xd
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 71
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 71
 
 
  1158 0129 DA050000 		.4byte	.LASF24
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1212 01a1 0E       		.uleb128 0xe
  1213 01a2 8C000000 		.4byte	0x8c
  1214 01a6 B1010000 		.4byte	0x1b1
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 72
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 72
 
 
  1215 01aa 0F       		.uleb128 0xf
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1269 0222 07       		.byte	0x7
  1270 0223 60       		.byte	0x60
  1271 0224 21030000 		.4byte	0x321
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 73
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 73
 
 
  1272 0228 11       		.uleb128 0x11
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1326 0294 11       		.uleb128 0x11
  1327 0295 15040000 		.4byte	.LASF49
  1328 0299 22       		.sleb128 34
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 74
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 74
 
 
  1329 029a 11       		.uleb128 0x11
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1383 030b 11       		.uleb128 0x11
  1384 030c AE070000 		.4byte	.LASF68
  1385 0310 C500     		.sleb128 69
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 75
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 75
 
 
  1386 0312 11       		.uleb128 0x11
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1440 0380 09       		.sleb128 9
  1441 0381 11       		.uleb128 0x11
  1442 0382 C8030000 		.4byte	.LASF84
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 76
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 76
 
 
  1443 0386 0A       		.sleb128 10
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1497 03f2 0D       		.sleb128 13
  1498 03f3 11       		.uleb128 0x11
  1499 03f4 21020000 		.4byte	.LASF103
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 77
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 77
 
 
  1500 03f8 0E       		.sleb128 14
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1554 0464 0F       		.sleb128 15
  1555 0465 00       		.byte	0
  1556 0466 05       		.uleb128 0x5
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 78
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 78
 
 
  1557 0467 51080000 		.4byte	.LASF77
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1611 04db 02       		.uleb128 0x2
  1612 04dc 74       		.byte	0x74
  1613 04dd 00       		.sleb128 0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 79
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 79
 
 
  1614 04de 00       		.byte	0
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1668 053b 00       		.byte	0
  1669 053c 17       		.uleb128 0x17
  1670 053d 4C000000 		.4byte	.LVL6
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 80
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 80
 
 
  1671 0541 89070000 		.4byte	0x789
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1725 05a6 20000000 		.4byte	.LLST1
  1726 05aa 1C       		.uleb128 0x1c
  1727 05ab 63757200 		.ascii	"cur\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 81
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 81
 
 
  1728 05af 01       		.byte	0x1
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1782 061f 01       		.byte	0x1
  1783 0620 00       		.byte	0
  1784 0621 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 82
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 82
 
 
  1785 0622 15       		.uleb128 0x15
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1839 068e 06010000 		.4byte	.LASF128
  1840 0692 01       		.byte	0x1
  1841 0693 1301     		.2byte	0x113
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 83
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 83
 
 
  1842 0695 00000000 		.4byte	.LFB34
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1896 0707 02000000 		.4byte	.LFE41-.LFB41
  1897 070b 01       		.uleb128 0x1
  1898 070c 9C       		.byte	0x9c
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 84
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 84
 
 
  1899 070d 19070000 		.4byte	0x719
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  1953 0784 97000000 		.4byte	0x97
  1954 0788 00       		.byte	0
  1955 0789 27       		.uleb128 0x27
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 85
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 85
 
 
  1956 078a A9040000 		.4byte	.LASF138
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2010 0805 00       		.byte	0
  2011              		.section	.debug_abbrev,"",%progbits
  2012              	.Ldebug_abbrev0:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 86
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 86
 
 
  2013 0000 01       		.uleb128 0x1
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2067 0036 05       		.uleb128 0x5
  2068 0037 16       		.uleb128 0x16
  2069 0038 00       		.byte	0
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 87
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 87
 
 
  2070 0039 03       		.uleb128 0x3
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2124 006f 3A       		.uleb128 0x3a
  2125 0070 0B       		.uleb128 0xb
  2126 0071 3B       		.uleb128 0x3b
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 88
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 88
 
 
  2127 0072 0B       		.uleb128 0xb
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2181 00a8 04       		.uleb128 0x4
  2182 00a9 01       		.byte	0x1
  2183 00aa 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 89
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 89
 
 
  2184 00ab 0B       		.uleb128 0xb
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2238 00e1 00       		.byte	0
  2239 00e2 03       		.uleb128 0x3
  2240 00e3 0E       		.uleb128 0xe
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 90
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 90
 
 
  2241 00e4 3A       		.uleb128 0x3a
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2295 011d 13       		.uleb128 0x13
  2296 011e 01       		.uleb128 0x1
  2297 011f 13       		.uleb128 0x13
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 91
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 91
 
 
  2298 0120 00       		.byte	0
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2352 015c 3B       		.uleb128 0x3b
  2353 015d 05       		.uleb128 0x5
  2354 015e 49       		.uleb128 0x49
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 92
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 92
 
 
  2355 015f 13       		.uleb128 0x13
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2409 0197 13       		.uleb128 0x13
  2410 0198 02       		.uleb128 0x2
  2411 0199 18       		.uleb128 0x18
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 93
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 93
 
 
  2412 019a 00       		.byte	0
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2466 01d1 0E       		.uleb128 0xe
  2467 01d2 3A       		.uleb128 0x3a
  2468 01d3 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 94
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 94
 
 
  2469 01d4 3B       		.uleb128 0x3b
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2523 020a 0E       		.uleb128 0xe
  2524 020b 3A       		.uleb128 0x3a
  2525 020c 0B       		.uleb128 0xb
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 95
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 95
 
 
  2526 020d 3B       		.uleb128 0x3b
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2580 0000 22000000 		.4byte	.LVL0
  2581 0004 3E000000 		.4byte	.LVL4
  2582 0008 0200     		.2byte	0x2
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 96
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 96
 
 
  2583 000a 31       		.byte	0x31
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2637 008b 0100     		.2byte	0x1
  2638 008d 50       		.byte	0x50
  2639 008e 0A000000 		.4byte	.LVL14
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 97
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 97
 
 
  2640 0092 24000000 		.4byte	.LFE38
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2694 0054 00000000 		.4byte	0
  2695              		.section	.debug_ranges,"",%progbits
  2696              	.Ldebug_ranges0:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 98
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 98
 
 
  2697 0000 00000000 		.4byte	.LFB36
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2729 005a 76627573 		.ascii	"vbus_ocp_port1_handler\000"
  2729      5F6F6370 
  2729      5F706F72 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 99
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 99
 
 
  2729      74315F68 
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2749      74305F68 
  2749      616E646C 
  2750              	.LASF71:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 100
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 100
 
 
  2751 011d 6770696F 		.ascii	"gpio_port_pin_t\000"
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2769      3500
  2770              	.LASF61:
  2771 01c5 4750494F 		.ascii	"GPIO_PORT_3_PIN_6\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 101
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 101
 
 
  2771      5F504F52 
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2792      6973696F 
  2792      6E203232 
  2792      31323230 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 102
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 102
 
 
  2793 02b5 73202D66 		.ascii	"s -ffunction-sections -finline-functions -flto -ffa"
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2812 0397 4750494F 		.ascii	"GPIO_PORT_0_PIN_5\000"
  2812      5F504F52 
  2812      545F305F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 103
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 103
 
 
  2812      50494E5F 
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2830      3400
  2831              	.LASF52:
  2832 044b 4750494F 		.ascii	"GPIO_PORT_2_PIN_5\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 104
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 104
 
 
  2832      5F504F52 
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2852      4342315F 
  2852      55415254 
  2853              	.LASF78:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 105
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 105
 
 
  2854 0504 4853494F 		.ascii	"HSIOM_MODE_GPIO\000"
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2875      4D5F4D4F 
  2875      44455F53 
  2875      5253535F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 106
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 106
 
 
  2875      4558545F 
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2895      44455F50 
  2895      315F4144 
  2895      43305F43 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 107
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 107
 
 
  2896              	.LASF131:
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2916              	.LASF63:
  2917 0754 4750494F 		.ascii	"GPIO_PORT_4_PIN_0\000"
  2917      5F504F52 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 108
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 108
 
 
  2917      545F345F 
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2935      4342325F 
  2935      55415254 
  2936              	.LASF89:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 109
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 109
 
 
  2937 080d 4853494F 		.ascii	"HSIOM_MODE_SCB3_UART_RTS\000"
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2955      305F5357 
  2955      4150545F 
  2956              	.LASF114:
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 110
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 110
 
 
  2957 08df 4853494F 		.ascii	"HSIOM_MODE_P0_SWAPT_OUT1\000"
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2979      5F504F52 
  2979      545F315F 
  2979      50494E5F 
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 111
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 111
 
 
  2979      3000
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 1
  2997      43315F43 
  2998              	.LASF72:
  2999 0a4d 4750494F 		.ascii	"GPIO_INTR_DISABLE\000"
-ARM GAS  C:\Users\victo\AppData\Local\Temp\ccpFBrn1.s 			page 112
+ARM GAS  C:\Users\victo\AppData\Local\Temp\ccRBc4pD.s 			page 112
 
 
  2999      5F494E54 

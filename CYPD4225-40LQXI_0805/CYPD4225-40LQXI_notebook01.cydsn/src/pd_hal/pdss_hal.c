@@ -381,16 +381,26 @@ CY_ISR(pdss_port1_intr1_handler)
     pdss_intr1_handler(TYPEC_PORT_1_IDX);
 }
 
-void change1_gl_pdss_status(uint8 port){
+void change1_gl_pdss_status(uint8_t port){
     
     pdss_status_t* pdss_stat = &gl_pdss_status[port];
     
-    pdss_stat->rx_pkt.sop = 100;
+    pdss_stat->rx_pkt.sop = SOP_PRIME;
     /*pdss_stat->rx_pkt.len =
     pdss_stat->rx_pkt.msg =
     pdss_stat->rx_pkt.len =
     pdss_stat->rx_pkt.len = */
 }
+
+/*ccg_status_t test_init(uint8_t port){
+    ccg_status_t cc;
+    pdss_status_t* pdss_statt = &gl_pdss_status[port];
+
+    cc = pd_phy_init(port,pd_phy_cbk_t);
+    
+    return cc;
+}*/
+
 
 
 ccg_status_t pd_hal_init(uint8_t port)

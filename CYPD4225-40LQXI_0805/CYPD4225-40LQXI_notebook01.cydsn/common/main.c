@@ -61,6 +61,7 @@
 #include <pdss_hal.h>
 #include <pd_protocol.h>
 #include <pd_policy_engine.h>
+#include <pd.h>
 
 #if AR_SLAVE_IF_ENABLE
 #include <ar_slave.h>
@@ -330,6 +331,34 @@ void choose_status(ccg_status_t ccg){
     }
 }
 
+    
+void my_pd_phy_callback(uint8_t port, pd_phy_evt_t event) {
+    if(port == 0){
+        UART_PutString("000");
+    }
+    else if(port == 1){
+        UART_PutString("111");
+    }
+    if(event == PD_PHY_EVT_TX_MSG_COLLISION)
+    {
+        UART_PutString("ok_phy_event");
+    }
+    UART_PutString("------------------");
+}
+
+void my_pd_callback(uint8_t port,uint32_t event){
+    if(port == 0){
+        UART_PutString("000");
+    }
+    else if(port == 1){
+        UART_PutString("111");
+    }
+    if(event == PD_PHY_EVT_TX_MSG_COLLISION)
+    {
+        UART_PutString("ok_prot_event");
+    }
+    UART_PutString("++++++++++++++++++");
+}
 
 int main()
 {
@@ -340,7 +369,9 @@ int main()
     //uint32_t receivedChar;
     //char c ='0';
     pd_packet_extd_t *Pk;
-    
+    //pd_cbk_t cbk;
+    //pd_do_t *tst;
+    //pd_phy_cbk_t *TTT;
     UART_Start();
     
 #if CCG_HPI_ENABLE
@@ -452,7 +483,10 @@ int main()
     for(port = PORT_START_IDX ; port < NO_OF_TYPEC_PORTS; port++)
     {   
         pe_init(port);
-        cc = pd_phy_init(port,NULL);
+        cc = pd_prot_init(port,my_pd_callback);
+        choose_status(cc);
+        UART_PutChar(' ');
+        cc = pd_phy_init(port,my_pd_phy_callback);
         choose_status(cc);
         UART_PutCRLF();
         dpm_init(port, app_get_callback_ptr(port));
@@ -512,10 +546,16 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     dpm_update_src_cap_mask (1, 0x0C);
     dpm_pd_command (1, DPM_CMD_SRC_CAP_CHNG, NULL,NULL);
     
+    
+    //cc = pd_prot_send_data_msg(0,SOP_PRIME,DATA_MSG_SRC_CAP,4,tst);
+    //pd_phy_cbk_t  my_callback_ptr;
+    //my_callback_ptr = my_pd_phy_callback;
+    
+    
     change1_gl_pdss_status(0);
-    Pk = pd_phy_get_rx_packet(0);
-    if(Pk->sop == 100){
-        UART_PutChar('1');
+    Pk = pd_prot_get_rx_packet(0);
+    if(Pk->sop == SOP){
+        UART_PutChar('2');
     }
     
     //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
