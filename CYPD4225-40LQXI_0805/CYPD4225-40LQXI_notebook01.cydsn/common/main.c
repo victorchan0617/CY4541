@@ -341,7 +341,10 @@ void my_pd_phy_callback(uint8_t port, pd_phy_evt_t event) {
     }
     if(event == PD_PHY_EVT_TX_MSG_COLLISION)
     {
-        UART_PutString("ok_phy_event");
+        UART_PutString("oPD_PHY_EVT_TX_MSG_COLLISION_event");
+    }
+    else{
+        UART_PutString("other_event");
     }
     UART_PutString("------------------");
 }
@@ -521,6 +524,8 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
         if ((hpi_get_port_enable () & (1 << port)) != 0)
 #endif /* CCG_HPI_ENABLE */
         {
+            pe_start(port);
+            pd_prot_start(port);
             dpm_start(port);
         }
     }
@@ -553,13 +558,18 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     
     
     change1_gl_pdss_status(0);
+    
+    
     Pk = pd_prot_get_rx_packet(0);
     if(Pk->sop == SOP){
-        UART_PutChar('2');
+        UART_PutString("yes");
+    }
+    else{
+        UART_PutString("no");
     }
     
-    //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
-    //choose_status(cc);
+    cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
+    choose_status(cc);
     
     //uint8 first = Pin_SW_Read();
     while(1)
