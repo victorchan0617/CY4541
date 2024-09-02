@@ -504,6 +504,7 @@ typedef enum
 ******************************************************************************/
 
 //ccg_status_t test_init(uint8_t port);
+void test_cbk(uint8_t port);
 void change1_gl_pdss_status(uint8_t port);
 /**
  * @typedef PD_ADC_CB_T

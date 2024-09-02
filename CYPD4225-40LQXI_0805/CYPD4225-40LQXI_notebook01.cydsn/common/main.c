@@ -335,18 +335,23 @@ void choose_status(ccg_status_t ccg){
 void my_pd_phy_callback(uint8_t port, pd_phy_evt_t event) {
     if(port == 0){
         UART_PutString("000");
+        UART_PutCRLF();
     }
     else if(port == 1){
         UART_PutString("111");
+        UART_PutCRLF();
     }
     if(event == PD_PHY_EVT_TX_MSG_COLLISION)
     {
         UART_PutString("oPD_PHY_EVT_TX_MSG_COLLISION_event");
+        UART_PutCRLF();
     }
     else{
         UART_PutString("other_event");
+        UART_PutCRLF();
     }
     UART_PutString("------------------");
+    UART_PutCRLF();
 }
 
 void my_pd_callback(uint8_t port,uint32_t event){
@@ -485,16 +490,21 @@ int main()
     /* Initialize the Device Policy Manager for each PD port on the device. */
     for(port = PORT_START_IDX ; port < NO_OF_TYPEC_PORTS; port++)
     {   
+       
+        
         pe_init(port);
         cc = pd_prot_init(port,my_pd_callback);
         choose_status(cc);
+        
         UART_PutChar(' ');
         cc = pd_phy_init(port,my_pd_phy_callback);
         choose_status(cc);
+ 
         UART_PutCRLF();
+        test_cbk(port);
+        
         dpm_init(port, app_get_callback_ptr(port));
     }
-    
     
 #if CCG_HPI_ENABLE
 
@@ -557,10 +567,10 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     //my_callback_ptr = my_pd_phy_callback;
     
     
-    change1_gl_pdss_status(0);
+    change1_gl_pdss_status(1);
     
     
-    Pk = pd_prot_get_rx_packet(0);
+    Pk = pd_prot_get_rx_packet(1);
     if(Pk->sop == SOP){
         UART_PutString("yes");
     }
@@ -568,8 +578,9 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
         UART_PutString("no");
     }
     
-    cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_GOOD_CRC);
-    choose_status(cc);
+    
+    
+    //pd_phy_send_msg(0);
     
     //uint8 first = Pin_SW_Read();
     while(1)
