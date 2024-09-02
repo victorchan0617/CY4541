@@ -40,12 +40,6 @@
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART\UART_AsmRv.s</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\psource.h</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\swap.h</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\vdm.h</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss\hpi.h</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm.h</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm_intern.h</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd.h</v>
@@ -87,6 +81,12 @@
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\datamux_ctrl.c</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\main.c</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\boot.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\flash.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\gpio.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\system.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\timer.c</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\utils.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
