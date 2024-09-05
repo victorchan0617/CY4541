@@ -374,9 +374,12 @@ int main()
     uint8_t  port;
     pd_do_t SRC_PDO[4];
     ccg_status_t cc;
+    pd_do_t dobj[3];
+    uint32_t buf[3];
+    
     //uint32_t receivedChar;
     //char c ='0';
-    pd_packet_extd_t *Pk;
+    //pd_packet_extd_t *Pk;
     //pd_cbk_t cbk;
     //pd_do_t *tst;
     //pd_phy_cbk_t *TTT;
@@ -501,11 +504,12 @@ int main()
         choose_status(cc);
  
         UART_PutCRLF();
-        test_cbk(port);
+        
         
         dpm_init(port, app_get_callback_ptr(port));
+        
     }
-    
+        test_cbk(0);
 #if CCG_HPI_ENABLE
 
     /* Send a reset complete event to the EC. */
@@ -566,26 +570,48 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
     //pd_phy_cbk_t  my_callback_ptr;
     //my_callback_ptr = my_pd_phy_callback;
     
+    //pd_prot_send_ctrl_msg(1,)
+    //change1_gl_pdss_status(1);
     
-    change1_gl_pdss_status(1);
     
-    
-    Pk = pd_prot_get_rx_packet(1);
+    /*Pk = pd_prot_get_rx_packet(1);
     if(Pk->sop == SOP){
         UART_PutString("yes");
     }
     else{
         UART_PutString("no");
-    }
+    }*/
     
+    dobj[0].fixed_src.max_current = 300; // 3.0 A
+    dobj[0].fixed_src.voltage = 100;    // 5.0 V
+    dobj[0].fixed_src.supply_type = 0;  // Fixed Supply
+
+    dobj[1].fixed_src.max_current = 300; // 3.0 A
+    dobj[1].fixed_src.voltage = 180;    // 9.0 V
+    dobj[1].fixed_src.supply_type = 0;  // Fixed Supply
     
+    dobj[2].fixed_src.max_current = 300; // 3.0 A
+    dobj[2].fixed_src.voltage = 300;    // 15 V
+    dobj[2].fixed_src.supply_type = 0;  // Fixed Supply
     
+    cc = pd_prot_send_data_msg(1,SOP_PRIME,DATA_MSG_SRC_CAP,3,dobj);
+    
+    buf[0] = 0x12345678;
+    buf[1] = 0xabcdef12;
+    buf[2] = 0x98765432;
+    
+    pd_phy_load_msg(1,SOP_DPRIME,3,3,0x0181,true,buf);
+    pd_phy_send_msg(1);
+    
+    //cc = pd_prot_send_ctrl_msg(1,SOP,CTRL_MSG_FR_SWAP);
+    //pd_phy_load_msg(1,SOP_P_DEBUG,3,0,385,true,NULL);
+    //pd_phy_send_msg(1);
+    //cc = pd_prot_send_ctrl_msg(1,SOP_DPRIME,CTRL_MSG_PING);
     //pd_phy_send_msg(0);
     
     //uint8 first = Pin_SW_Read();
     while(1)
     {
-        
         //UART_PutHexByte(0x2b);
         
         /*if(Pin_SW_Read()==0 && first_time == 0){
@@ -606,7 +632,7 @@ hpi_task 應定期從韌體應用程式的主任務循環呼叫。*/
         /* Handle the device policy tasks for each PD port. */
         for(port = PORT_START_IDX ; port < NO_OF_TYPEC_PORTS; port++)
         {
-            pe_fsm(port);
+            //pe_fsm(port);
             /*此功能會執行指定連接埠的裝置管理員工作。*/
             dpm_task(port);
             app_task(port);

@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_hal\pdss_hal.h">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd.h">
 <ExpandedNodeIds>
 <v>CYPD4225-40LQXI_0805</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
@@ -40,6 +40,24 @@
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Generated_Source\PSoC4\UART\UART_AsmRv.s</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CYPD4225-40LQXI_notebook01.cydwr</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode\alt_mode_hw.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode\alt_modes_mngr.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode\dp_sid.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\alt_mode\vdm_task_mngr.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\app.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\billboard.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\pdo.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\psink.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\psource.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\swap.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\app\vdm.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\hpiss\hpi.h</v>
+<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm.h</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\dpm_intern.h</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Header Files\pd_common\pd.h</v>
@@ -69,24 +87,6 @@
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\app.c</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\pdo.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\psink.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\psource.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\swap.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\app\vdm.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal\hal_ccgx.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\pd_hal\pdss_hal.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\config.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\datamux_ctrl.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\solution\main.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\boot.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\flash.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\gpio.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\system.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\timer.c</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\Source Files\system\utils.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">

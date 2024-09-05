@@ -385,7 +385,7 @@ void change1_gl_pdss_status(uint8_t port){
     
     pdss_status_t* pdss_stat = &gl_pdss_status[port];
     
-    pdss_stat->rx_pkt.sop = SOP_PRIME;
+    pdss_stat->rx_pkt.sop = SOP_DP_DEBUG;
     /*pdss_stat->rx_pkt.len =
     pdss_stat->rx_pkt.msg =
     pdss_stat->rx_pkt.len =
@@ -393,7 +393,7 @@ void change1_gl_pdss_status(uint8_t port){
 }
 
 void test_cbk(uint8_t port){
-    
+ 
     gl_pdss_status[port].pd_phy_cbk(port,PD_PHY_EVT_TX_MSG_COLLISION);
     UART_PutString("==========");
     UART_PutCRLF();
