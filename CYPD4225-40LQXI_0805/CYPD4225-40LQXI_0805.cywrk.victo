@@ -222,51 +222,6 @@
 <VisibleNodeIds>
 <v>CYPD4225-40LQXI_0805</v>
 <v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_mode_hw.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\alt_modes_mngr.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\app.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\boot.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Bootloadable_1.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\config.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cybootloader.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\datamux_ctrl.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\dp_sid.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\EC_INT_PM.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\flash.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\gpio.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hal_ccgx.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\hpd_isr.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_P2_PM.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPD_Timer_PM.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_BOOT.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_BOOT.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_INT.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_I2C_SLAVE.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_PM.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCB_IRQ.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_SCBCLK.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_scl_PM.lst</v>
-<v>CYPD4225-40LQXI_0805\CYPD4225-40LQXI_notebook01\CortexM0\ARM_GCC_493\Debug\Listing Files\HPI_IF_sda.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>

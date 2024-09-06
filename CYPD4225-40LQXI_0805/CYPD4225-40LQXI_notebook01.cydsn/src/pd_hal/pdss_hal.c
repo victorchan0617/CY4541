@@ -385,7 +385,7 @@ void change1_gl_pdss_status(uint8_t port){
     
     pdss_status_t* pdss_stat = &gl_pdss_status[port];
     
-    pdss_stat->rx_pkt.sop = SOP_DP_DEBUG;
+    pdss_stat->rx_pkt.sop = SOP_PRIME;
     /*pdss_stat->rx_pkt.len =
     pdss_stat->rx_pkt.msg =
     pdss_stat->rx_pkt.len =
